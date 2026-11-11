@@ -4,7 +4,7 @@
 # usage: PATCHED=<패치된 파일 폴더> PRISTINE=<원본 폴더> scripts/build_installer.sh
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-TOOLS="$ROOT/../tools-l10n-ko/tools/build/installer"
+TOOLS="$ROOT/../../tools-l10n-ko/tools/build/installer"
 PATCHED="${PATCHED:-$ROOT/out}"
 PRISTINE="${PRISTINE:-$ROOT/backup}"
 NAME="$(python3 "$TOOLS/exe_name.py" "$ROOT/installer/config.template.json" "$ROOT")"  # {게임명}_{버전}_{yymmdd}_{커밋}
