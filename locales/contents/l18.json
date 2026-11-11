@@ -1,0 +1,944 @@
+[
+ {
+  "table": "Knives - String",
+  "id": "6907799527466",
+  "en": "A thin, flexible knife designed specifically for filleting fish. Its narrow blade allows for precise cuts along bones and skin, making it one of the most practical tools for preparing a catch.",
+  "ko": "생선 필렛을 뜨기 위해 만들어진 얇고 유연한 칼이다. 좁은 칼날 덕분에 뼈와 껍질을 따라 정교하게 잘라낼 수 있어, 잡은 물고기를 손질할 때 가장 실용적인 도구 중 하나로 꼽힌다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527470",
+  "en": "A heavy, single-edged blade commonly used throughout the Philippines as both a tool and a weapon. Known as a bolo, its wide, forward-weighted blade makes it effective for clearing brush, harvesting crops, and opening coconuts. While designed for farm work, blades like this were also famously carried by Filipino fighters known as bolomen.",
+  "ko": "필리핀 전역에서 도구이자 무기로 널리 쓰인 묵직한 외날 칼이다. 볼로라고 불리는 이 칼은 넓고 앞쪽에 무게가 실린 칼날 덕분에 덤불을 베어내고, 작물을 수확하고, 코코넛을 여는 데 효과적이다. 농사일용으로 만들어진 칼이지만, 이런 칼은 볼로맨으로 알려진 필리핀 전사들이 즐겨 사용한 것으로도 유명하다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907803721728",
+  "en": "A wooden sword lined with razor-sharp obsidian blades used by several Mesoamerican civilizations, including the Aztec and Maya. Known as a macuahuitl, the weapon dates back to around 1000 AD and became a standard close-combat weapon across much of Central Mexico. The obsidian blades were set into the wooden paddle with natural adhesives such as bitumen, creating edges sharp enough to rival modern steel razors.",
+  "ko": "아즈텍과 마야를 비롯한 여러 메소아메리카 문명에서 사용한, 날카로운 흑요석 칼날을 나무 몸체에 끼운 목검이다. 마쿠아우이틀이라 불리는 이 무기는 서기 1000년경까지 거슬러 올라가며, 멕시코 중부 대부분 지역에서 표준 근접 무기로 자리 잡았다. 흑요석 칼날은 비투멘 같은 천연 접착제로 나무 패들에 고정되었는데, 그 날은 현대의 강철 면도날에 맞먹을 만큼 날카로웠다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "1402242962808832",
+  "en": "A Knife the players shouldn't see, unless we changed our minds and you're seeing it now.",
+  "ko": "플레이어가 보면 안 되는 칼이다. 물론 마음이 바뀌어서 지금 이걸 보고 있다면 이야기가 다르지만."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253813",
+  "en": "Chase down the wrong fish.",
+  "ko": "엉뚱한 물고기를 쫓아가 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253805",
+  "en": "Uncover every clue tied to ClearWake's research.",
+  "ko": "클리어웨이크의 연구와 얽힌 단서를 모두 찾아내세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253803",
+  "en": "Find all mentions of the strange blue-veined stone.",
+  "ko": "푸른 핏줄이 도는 이상한 돌에 관한 언급을 모두 찾으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253801",
+  "en": "Find all information about the Del Mar family.",
+  "ko": "델 마르 가문에 관한 정보를 모두 찾으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253799",
+  "en": "Obtain the pirate treasure in the Outer Banks.",
+  "ko": "아우터뱅크스에서 해적의 보물을 손에 넣으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253797",
+  "en": "Enter the space station at Point Nemo",
+  "ko": "포인트 네모의 우주 정거장에 들어가세요"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253795",
+  "en": "Enter the temple in Huatulco.",
+  "ko": "우아툴코의 신전에 들어가세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253791",
+  "en": "Find the secret fish in the space station.",
+  "ko": "우주 정거장에 숨은 물고기를 찾으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253775",
+  "en": "Prepare a species of fish 30 times.",
+  "ko": "같은 어종의 물고기를 30번 손질하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253771",
+  "en": "Click on the highlighted parts.",
+  "ko": "표시된 부분을 클릭하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253809",
+  "en": "Find the jar of dirt.",
+  "ko": "흙이 담긴 항아리를 찾으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253793",
+  "en": "Unlock the throne room in Loch Ness.",
+  "ko": "네스호의 왕좌실을 해금하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253787",
+  "en": "Play for more than 2 hours.",
+  "ko": "2시간 넘게 플레이하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253785",
+  "en": "Prepare all variants of the Scrawled Filefish.",
+  "ko": "낙서파일피시의 모든 변종을 손질하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253779",
+  "en": "Discard 20 fish at the preparation station.",
+  "ko": "손질대에서 물고기 20마리를 버리세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253777",
+  "en": "Spend 5 minutes preparing a fish perfectly.",
+  "ko": "물고기 한 마리를 완벽하게 손질하는 데 5분을 쏟으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253773",
+  "en": "Prepare a fish in under 5 seconds.",
+  "ko": "물고기 한 마리를 5초 안에 손질하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253769",
+  "en": "Strike the barnacles quickly to damage them.",
+  "ko": "따개비는 빠르게 내리쳐야 피해를 입힐 수 있습니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253767",
+  "en": "Parasites hide if you go too fast! ",
+  "ko": "너무 빠르게 움직이면 기생충이 숨습니다! "
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253765",
+  "en": "Move slowly over the scales to remove them.",
+  "ko": "비늘 위를 천천히 움직여 비늘을 벗겨내세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253763",
+  "en": "Move the sponge over the algae to clean it!",
+  "ko": "스펀지를 조류 위로 움직여 닦아내세요!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253761",
+  "en": "Get all the data to be found in every level.",
+  "ko": "모든 지역에 숨은 데이터를 전부 모으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253759",
+  "en": "Find and feed every customer variant in the game.",
+  "ko": "게임 속 모든 손님 변종을 찾아 먹이세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253757",
+  "en": "Get every character cosmetic in the game.",
+  "ko": "게임 속 모든 캐릭터 꾸미기 아이템을 모으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253755",
+  "en": "Get every decal in the game.",
+  "ko": "게임 속 모든 데칼을 모으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253753",
+  "en": "Collect every boat in the game.",
+  "ko": "게임 속 모든 보트를 모으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253751",
+  "en": "Obtain every bait in the game.",
+  "ko": "게임 속 모든 미끼를 얻으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253749",
+  "en": "Get every shop upgrade in the game.",
+  "ko": "게임 속 모든 상점 업그레이드를 해금하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253783",
+  "en": "Prepare all variants of the Arctic Char.",
+  "ko": "북극숯송어의 모든 변종을 손질하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253747",
+  "en": "Scale every fish in the game perfectly.",
+  "ko": "게임 속 모든 물고기의 비늘을 완벽하게 손질하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253745",
+  "en": "Caught every fish in the game.",
+  "ko": "게임 속 모든 물고기를 잡았습니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253743",
+  "en": "Got a tip from every customer in the game.",
+  "ko": "게임 속 모든 손님에게서 팁을 받았습니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253741",
+  "en": "Fed every customer in the game.",
+  "ko": "게임 속 모든 손님에게 먹이를 주었습니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253739",
+  "en": "New cosmetics and baits available to purchase in the shop! Check it out!",
+  "ko": "상점에서 새 꾸미기 아이템과 미끼를 구매할 수 있습니다! 확인해 보세요!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253733",
+  "en": "First shop purchase, many more to come!",
+  "ko": "첫 상점 구매입니다. 앞으로 훨씬 많아질 예정이죠!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253731",
+  "en": "Explore the effects of your new bait!",
+  "ko": "새 미끼의 효과를 시험해 보세요!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253729",
+  "en": "Setting sail on a new beauty!",
+  "ko": "새로 마련한 멋진 배로 출항합니다!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253727",
+  "en": "Fed a customer their disliked fish, check more in the CARP Manual.",
+  "ko": "손님에게 비선호 어종을 먹였습니다. 자세한 내용은 CARP 설명서에서 확인하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253725",
+  "en": "Fed a customer their liked fish, check more in the CARP Manual.",
+  "ko": "손님에게 선호 어종을 먹였습니다. 자세한 내용은 CARP 설명서에서 확인하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253723",
+  "en": "A well earned reward for good service.",
+  "ko": "좋은 서비스에 대한 정당한 보상입니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253721",
+  "en": "Your first perfectly prepped fish!",
+  "ko": "첫 완벽 손질 물고기입니다!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253719",
+  "en": "You caught your first fish! Go prep it at the prep station.",
+  "ko": "첫 물고기를 잡았습니다! 손질대에서 손질해 보세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253715",
+  "en": "Open your notebook and decorate your boat with new decals",
+  "ko": "수첩을 열어 새 데칼로 보트를 꾸며 보세요"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253713",
+  "en": "You found a secret message. View it in your almanac.",
+  "ko": "비밀 메시지를 발견했습니다. 도감에서 확인하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253711",
+  "en": "A new type of boat can be selected from your notebook",
+  "ko": "수첩에서 새 종류의 보트를 선택할 수 있습니다"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253709",
+  "en": "Go to your bait bucket to try the new bait",
+  "ko": "미끼통으로 가서 새 미끼를 써 보세요"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253707",
+  "en": "You discovered a new research artifact. View it in your treasures.",
+  "ko": "새 연구 유물을 발견했습니다. 보물에서 확인하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253705",
+  "en": "Open your notebook and change up your style",
+  "ko": "수첩을 열어 스타일을 바꿔 보세요"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253701",
+  "en": "Level has been thoroughly explored.",
+  "ko": "지역을 구석구석 탐험했습니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253699",
+  "en": "Check the GPS to explore new part of the ocean",
+  "ko": "GPS를 확인해 새로운 바다로 나아가세요"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619012",
+  "en": "Catch 20 fish in one dive.",
+  "ko": "한 번의 잠수에서 물고기 20마리를 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619014",
+  "en": "Blow up 3 sea mines in one dive.",
+  "ko": "한 번의 잠수에서 기뢰 3개를 터뜨리세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619018",
+  "en": "Catch all Ocean Sunfish variants.",
+  "ko": "개복치의 모든 변종을 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619020",
+  "en": "Catch all Spotted Parrotfish variants.",
+  "ko": "점박이앵무고기의 모든 변종을 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619026",
+  "en": "Catch all Arctic Char variants.",
+  "ko": "북극숯송어의 모든 변종을 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619028",
+  "en": "Catch all King Angelfish variants.",
+  "ko": "킹엔젤피시의 모든 변종을 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619038",
+  "en": "Catch all Scrawled filefish variants. ",
+  "ko": "낙서파일피시의 모든 변종을 잡으세요. "
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619040",
+  "en": "Catch the fish that should be in a tank.",
+  "ko": "수조에 있어야 할 물고기를 잡으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "52667045475508224",
+  "en": "Discard 18 fish at once.",
+  "ko": "물고기 18마리를 한꺼번에 버리세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "52667045475508226",
+  "en": "Catch all secret fish in the game.",
+  "ko": "게임 속 모든 숨은 물고기를 잡으세요."
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890306",
+  "en": "Slowly move the knife over the fish (left to right)",
+  "ko": "칼을 물고기 위로 천천히 움직이세요 (왼쪽에서 오른쪽)"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890307",
+  "en": "Strike barnacles quickly and repeatedly",
+  "ko": "따개비를 빠르게 연속으로 내리치세요"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890308",
+  "en": "Parasites will hide if you move too fast",
+  "ko": "너무 빠르게 움직이면 기생충이 숨습니다"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890310",
+  "en": "The progress that has been made scaling this fish will be\nreset, are you sure you want to leave?",
+  "ko": "지금까지 이 물고기의 비늘을 손질한 진행 상황이\n초기화됩니다. 정말 나가시겠습니까?"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890334",
+  "en": "Return to boat after this",
+  "ko": "이 작업을 마치면 보트로 돌아갑니다"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084611",
+  "en": "Strike barnacles quickly and repeatedly",
+  "ko": "따개비를 빠르게 연속으로 내리치세요"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084612",
+  "en": "Parasites will hide if you move too fast.",
+  "ko": "너무 빠르게 움직이면 기생충이 숨습니다."
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084613",
+  "en": "Slowly move the knife over the fish (left to right).",
+  "ko": "칼을 물고기 위로 천천히 움직이세요 (왼쪽에서 오른쪽)."
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084614",
+  "en": "Click on fish head to finish.",
+  "ko": "물고기 머리를 클릭하면 완료됩니다."
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077685",
+  "en": "Are you sure you want to reset to the default outfit?",
+  "ko": "복장을 기본으로 초기화하시겠습니까?"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077691",
+  "en": "Reseting your save will clear all progress including, upgrades unlocked, customers fed, and underwater passages unlocked.\n\nYou will still retain special collectibles and cosmetics you have caught.",
+  "ko": "세이브를 초기화하면 해금한 업그레이드, 먹이를 준 손님, 개방한 수중 통로를 비롯한 모든 진행 상황이 사라집니다.\n\n이미 획득한 특별 수집품과 꾸미기 아이템은 그대로 남습니다."
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077693",
+  "en": "Are you sure you want to reset all settings? ",
+  "ko": "모든 설정을 초기화하시겠습니까? "
+ },
+ {
+  "table": "Setting - String",
+  "id": "36970128691159040",
+  "en": "Are you sure you want to reset these settings?",
+  "ko": "이 설정들을 초기화하시겠습니까?"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718865317888",
+  "en": "Use your keyboard or joystick to steer the hook left and right.",
+  "ko": "키보드나 조이스틱으로 후크를 좌우로 조종하세요."
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718894678016",
+  "en": "Use your mouse or joystick direction to steer the hook",
+  "ko": "마우스나 조이스틱 방향으로 후크를 조종하세요"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8706741591986177",
+  "en": "Capture fish with your hook. Some may take more than one hit to catch. Keep an eye out for low health ones! ",
+  "ko": "후크로 물고기를 잡으세요. 한 번에 잡히지 않는 물고기도 있습니다. 체력이 얼마 남지 않은 물고기를 눈여겨보세요! "
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8706741591986178",
+  "en": "Reel it in or Reel again!",
+  "ko": "감아 올리거나 다시 감으세요!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8706741591986179",
+  "en": "Act quickly underwater to get your catch before you hit the end of your spool. Filling up your bag can also send you right back up!",
+  "ko": "수중에서는 스풀이 끝까지 풀리기 전에 서둘러 물고기를 낚아야 합니다. 가방이 가득 차도 곧바로 수면으로 올라가게 됩니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8999904974065664",
+  "en": "Legendary fish have special abilities that change up how you approach them. Learn their patterns to better your catch. ",
+  "ko": "전설 어종은 접근 방식을 바꿔 놓는 특별한 능력을 지녔습니다. 패턴을 익혀 조과를 더 챙겨 보세요. "
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8999904974065666",
+  "en": "Legendary fish regenerate health everytime your reel comes back up, keep that in mind.",
+  "ko": "전설 어종은 릴이 다시 올라올 때마다 체력을 회복합니다. 이 점은 기억해 두세요."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311922683904",
+  "en": "Let's get down to fishiness",
+  "ko": "이제 본격적으로 물고기와 친해질 시간입니다"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311922683905",
+  "en": "Keep your knife steady and hold it down to the fish to get the job done. Beware though! Moving too fast will damage the scales. ",
+  "ko": "칼을 물고기에 대고 누른 채 일정하게 움직이면 손질이 끝납니다. 다만 조심하세요! 너무 빠르게 움직이면 비늘이 상합니다. "
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655424",
+  "en": "Your one chop stop on chopping!",
+  "ko": "잘라내기는 여기서 한 번에!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655425",
+  "en": "Hitting the highlighted areas will cut the parts of the fish off, sometimes they can take a couple of hits so the damage indicator can help you out!",
+  "ko": "표시된 부위를 치면 물고기의 해당 부분이 잘려 나갑니다. 여러 번 때려야 잘리는 부위도 있으니 피해 표시기가 도움이 될 겁니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655428",
+  "en": "Barnacles are tough. They can be hit from any direction but require a certain amount of speed to get damage onto them!",
+  "ko": "따개비는 단단합니다. 어느 방향에서든 때릴 수 있지만, 피해를 입히려면 일정 속도 이상으로 휘둘러야 합니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655431",
+  "en": "Parasites can be slippery! They hide if they feel something fast nearby so calm your knife and root them out.",
+  "ko": "기생충은 미끄럽습니다! 근처에서 빠른 움직임을 느끼면 숨어 버리니, 칼을 차분히 움직여 찾아내세요."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655434",
+  "en": "Customers can have preferences, giving them a fish they enjoy will fill up more of their bar than usual. Feeding them only their favourites can earn you something special, so give it a try!",
+  "ko": "손님에게는 선호하는 어종이 있습니다. 좋아하는 물고기를 주면 평소보다 게이지가 더 많이 채워집니다. 좋아하는 것만 골라 먹이면 특별한 것을 받을 수 있으니 한번 시도해 보세요!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655436",
+  "en": "Customers also have fish that they dislike! These fish are reduced in value when given to the customer. Try and avoid feeding it to customers if you want to earn their favour.",
+  "ko": "손님에게는 싫어하는 물고기도 있습니다! 이런 물고기를 주면 가치가 떨어집니다. 손님의 마음을 얻고 싶다면 되도록 먹이지 마세요."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655438",
+  "en": "The right fish for the right job",
+  "ko": "일에는 알맞은 물고기가 있다"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655439",
+  "en": "You can choose what fish you want to provide to the customer here. Providing you useful information to suit their needs.",
+  "ko": "여기서 손님에게 줄 물고기를 직접 고를 수 있습니다. 손님의 요구에 맞춘 유용한 정보도 함께 보여 줍니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655442",
+  "en": "Every new knife brings its owns strengths to the table! Some offer bonus damage to specific scale types. Others offer high speed or a blade that can cut from any side!",
+  "ko": "새 칼마다 저마다의 강점이 있습니다! 특정 비늘 유형에 추가 피해를 주는 칼도 있고, 속도가 빠르거나 어느 방향에서든 자를 수 있는 칼날을 가진 칼도 있습니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13542817238958080",
+  "en": "Customize to your heart's content",
+  "ko": "마음껏 꾸며 보세요"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13542817238958081",
+  "en": "You can customize your boat in various ways! Be that, changing it’s name, adding decals or swapping to another boat.The customization for a specific boat stays saved.",
+  "ko": "보트는 여러 방식으로 꾸밀 수 있습니다! 이름을 바꾸거나 데칼을 붙이거나 다른 보트로 갈아타는 것도 가능합니다. 보트별 꾸미기 설정은 그대로 저장됩니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13542817238958083",
+  "en": "Decals are paintables or objects that you can attach onto your boat to give it some personality! You can edit your decal color for paintables only.",
+  "ko": "데칼은 보트에 붙여 개성을 더할 수 있는 페인팅이나 오브젝트입니다. 페인팅에 한해 데칼 색상을 바꿀 수 있습니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13810514929467392",
+  "en": "Different speeds for different needs.",
+  "ko": "필요마다 속도도 다릅니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13810514975604736",
+  "en": "There's different speeds associated with each knife for cutting scales, being able to hit barnacles and for parasites to notice your knife!",
+  "ko": "칼마다 비늘을 자르는 속도, 따개비를 때리는 속도, 기생충이 칼을 알아채는 속도가 각각 다릅니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "18380464272785408",
+  "en": "Don't be phased! Here's phases.",
+  "ko": "단계라고 겁먹지 마세요! 단계별로 알려드립니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "18380464272785409",
+  "en": "Preparing fishes is distributed into phases, each phase has you do different prep activities. The phase you’re currently on can be skipped but can lead to losing out on making a fish more valuable!",
+  "ko": "물고기 손질은 여러 단계로 나뉘고, 단계마다 서로 다른 작업을 하게 됩니다. 지금 있는 단계는 건너뛸 수 있지만, 그러면 물고기를 더 값지게 만들 기회를 놓칠 수 있습니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "18380464276979713",
+  "en": "You can swap between your caught fish tray and your prepped fish trays when you're not feeding. You can also discard fishes here, either separately or all at once.",
+  "ko": "먹이를 주지 않을 때는 잡은 물고기 트레이와 손질한 물고기 트레이를 서로 전환할 수 있습니다. 여기서 물고기를 하나씩 버리거나 한꺼번에 버릴 수도 있습니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "19595471673180160",
+  "en": "Time to clean the green!",
+  "ko": "이제 초록을 닦아낼 시간입니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "19595471673180161",
+  "en": "Algae can be cleaned from any direction and at any speed, with the special sponge provided.",
+  "ko": "조류는 제공된 특수 스펀지로 어느 방향에서든, 어느 속도로든 닦아낼 수 있습니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "20688754432360449",
+  "en": "Baits allow you to access powerful effects to supplement your gameplay. Each of them has a type that categorizes them and any two bait can be equipped at once.",
+  "ko": "미끼는 게임플레이를 보조하는 강력한 효과를 쓸 수 있게 해 줍니다. 미끼마다 분류되는 종류가 있고, 어떤 미끼든 두 개까지 동시에 장착할 수 있습니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "20759397532688385",
+  "en": "Baits allow you to access powerful effects to supplement your gameplay. Each of them has a type that categorizes them and any two bait can be equipped at once.",
+  "ko": "미끼는 게임플레이를 보조하는 강력한 효과를 쓸 수 있게 해 줍니다. 미끼마다 분류되는 종류가 있고, 어떤 미끼든 두 개까지 동시에 장착할 수 있습니다."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318025",
+  "en": "Going fast is better here!",
+  "ko": "여기서는 빠르게 가는 게 좋습니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318026",
+  "en": "Take your time or they'll hide!",
+  "ko": "천천히 하세요, 그러지 않으면 숨어 버립니다!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738692",
+  "en": "The Loch Ness is famous for cryptozoological spottings of the \"Loch Ness Monster\".",
+  "ko": "네스호는 “네스호 괴물”에 관한 미확인동물학적 목격담으로 유명하다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738720",
+  "en": "Today's a good day for fishing!",
+  "ko": "오늘은 낚시하기 좋은 날입니다!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738721",
+  "en": "Fish, Scale, Feed, Upgrade, Repeat!",
+  "ko": "낚시, 비늘질, 먹이 주기, 업그레이드, 그리고 반복!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738722",
+  "en": "Bigger and better fish spawn the deeper you go!",
+  "ko": "깊이 내려갈수록 더 크고 좋은 물고기가 나타납니다!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738723",
+  "en": "Many secrets can be found underwater...",
+  "ko": "물속에는 수많은 비밀이 숨어 있습니다..."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738724",
+  "en": "Feeding customers will give you money to purchase upgrades with!",
+  "ko": "손님에게 먹이를 주면 업그레이드를 사는 데 쓸 돈을 받습니다!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738725",
+  "en": "Swiping the knife too fast may damage regular fish scales!",
+  "ko": "칼을 너무 빠르게 휘두르면 일반 물고기의 비늘이 상할 수 있습니다!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738726",
+  "en": "Barnacles can be removed by swiping the knife quickly.",
+  "ko": "따개비는 칼을 빠르게 휘둘러 떼어낼 수 있습니다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738727",
+  "en": "Parasites briefly hide if the knife is swung too fast.",
+  "ko": "칼을 너무 빠르게 휘두르면 기생충이 잠시 숨습니다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738728",
+  "en": "Upgrading your knife lets you scale fish faster.",
+  "ko": "칼을 업그레이드하면 물고기의 비늘을 더 빠르게 손질할 수 있습니다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738690",
+  "en": "A deep freshwater loch shrouded in legend and mystery.",
+  "ko": "전설과 수수께끼에 싸인 깊은 담수호다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3569178488332288",
+  "en": "Loch Ness is one of the largest and deepest freshwater lakes in the United Kingdom. Its dark waters and steep shores have made it the center of countless sightings and speculation for centuries. Beneath the surface, visibility is low and the depths remain largely unexplored, leaving much of the loch unknown.",
+  "ko": "네스호는 영국에서 가장 크고 깊은 담수호 중 하나다. 어두운 물빛과 가파른 기슭 덕분에 수 세기 동안 수많은 목격담과 추측이 이어져 왔다. 수면 아래는 시야가 흐리고 심층은 대부분 탐사되지 않은 채 남아 있어, 호수의 상당 부분은 아직 알려지지 않았다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738693",
+  "en": "The waters of Loch Ness are dark due to high peat content washed in from surrounding land.",
+  "ko": "네스호의 물이 어두운 것은 주변 육지에서 씻겨 들어온 토탄이 많기 때문이다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738694",
+  "en": "Loch Ness reaches a maximum depth of 2300 metres.",
+  "ko": "네스호의 최대 수심은 2300미터에 이른다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738695",
+  "en": "Sightings of the Loch Ness Monster date back to the 6th century.",
+  "ko": "네스호 괴물 목격담은 6세기까지 거슬러 올라간다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738698",
+  "en": "Shallow coastal waters shaped by storms, currents, and shipwrecks.",
+  "ko": "폭풍과 해류, 난파선이 만들어 낸 얕은 연안 해역이다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3569178505109504",
+  "en": "The Outer Banks are a chain of barrier islands along the coast of North Carolina. These shifting sands form a constantly changing coastline where ocean currents, storms, and tides reshape the land. The surrounding waters are shallow and unpredictable, creating one of the most hazardous shipping regions in the world.",
+  "ko": "아우터뱅크스는 노스캐롤라이나 해안을 따라 이어진 사주 열도다. 끊임없이 움직이는 모래가 해안선을 계속 바꾸고, 해류와 폭풍과 조수가 땅의 모습을 다시 만든다. 주변 바다는 얕고 예측하기 어려워 세계에서 가장 위험한 항해 구역 중 하나로 꼽힌다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738700",
+  "en": "These shallow waters are known as \"the Graveyard of the Atlantic\" due to frequent shipwrecks.",
+  "ko": "이 얕은 바다는 잦은 난파로 “대서양의 무덤”이라 불린다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738701",
+  "en": "Strong currents and shifting sandbars make navigation difficult.",
+  "ko": "거센 해류와 움직이는 모래톱 때문에 항해가 어렵다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738702",
+  "en": "Brackish water creates a mix of freshwater and saltwater species.",
+  "ko": "기수 지역이라 민물 어종과 바닷물 어종이 함께 서식한다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738703",
+  "en": "Some wrecks were never officially recorded. Not everything lost here was meant to be found.",
+  "ko": "공식 기록에 남지 않은 난파선도 있다. 이곳에서 잃어버린 것 모두가 발견되기를 바랐던 것은 아니다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3569178505109505",
+  "en": "Hundreds of shipwrecks lie buried beneath the sands and shallow waters.",
+  "ko": "수백 척의 난파선이 모래와 얕은 바다 아래에 묻혀 있다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738706",
+  "en": "The most remote point in the ocean, far from any land.",
+  "ko": "어떤 육지에서도 멀리 떨어진, 바다에서 가장 외딴 지점이다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3569178505109506",
+  "en": "Point Nemo is the oceanic pole of inaccessibility, located farther from land than any other place on Earth. The surrounding waters are vast, deep, and largely untouched by human activity. With minimal shipping traffic and almost no nearby landmass, this region is one of the most isolated environments on the planet.",
+  "ko": "포인트 네모는 해양 무접근 극점으로, 지구상 그 어느 곳보다 육지에서 멀리 떨어져 있다. 주변 바다는 광활하고 깊으며 인간의 손이 거의 닿지 않았다. 선박 통행이 거의 없고 가까운 육지도 없어, 이곳은 지구에서 가장 고립된 환경 중 하나다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738708",
+  "en": "Point Nemo is farther from land than astronauts are from Earth.",
+  "ko": "포인트 네모는 육지에서 떨어진 거리가 우주비행사가 지구에서 떨어진 거리보다 멀다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738709",
+  "en": "Point Nemo was used as a spacecraft graveyard for decommissioned spacecraft.",
+  "ko": "포인트 네모는 퇴역한 우주선을 버리는 우주선 묘지로 쓰였다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738710",
+  "en": "Point Nemo has a max depth of 4,000 metres.",
+  "ko": "포인트 네모의 최대 수심은 4,000미터다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738711",
+  "en": "The nearest land is over 2,600 kilometres away in any direction.",
+  "ko": "가장 가까운 육지도 어느 방향으로든 2,600킬로미터 이상 떨어져 있다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3569178505109507",
+  "en": "Radio signals and interference behave differently this far from civilization.",
+  "ko": "문명에서 이렇게 멀리 떨어진 곳에서는 전파 신호와 잡음이 다르게 나타난다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738714",
+  "en": "Warm coastal waters rich with marine life and hidden ecosystems.",
+  "ko": "해양 생물과 숨은 생태계가 풍부한 따뜻한 연안 해역이다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3569178505109508",
+  "en": "Huatulco lies along Mexico's Pacific coast, where warm waters support vibrant reefs and diverse marine species. The region is known for its calm bays, clear visibility, and thriving ecosystems. Beneath the surface, rocky formations and coral habitats create a complex underwater environment.",
+  "ko": "우아툴코는 멕시코 태평양 연안에 자리 잡고 있으며, 따뜻한 바다가 화려한 산호초와 다양한 해양 생물을 키워 낸다. 잔잔한 만과 맑은 시야, 왕성한 생태계로 알려진 지역이다. 수면 아래에서는 암반 지형과 산호 서식지가 복잡한 수중 환경을 이룬다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738716",
+  "en": "Huatulco is known for its clear waters and vibrant reef ecosystems.",
+  "ko": "우아툴코는 맑은 바다와 화려한 산호초 생태계로 유명하다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738717",
+  "en": "Huatulco is made up of nine bays and dozens of small beaches.",
+  "ko": "우아툴코는 아홉 개의 만과 수십 개의 작은 해변으로 이루어져 있다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738718",
+  "en": "Coral reefs in the area support a wide variety of marine species.",
+  "ko": "이 지역의 산호초는 다양한 해양 생물종을 지탱한다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738719",
+  "en": "Some reef formations extend deeper than they first appear.",
+  "ko": "겉보기보다 훨씬 깊게 뻗어 있는 산호초 지형도 있다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705448980480",
+  "en": "The loch is approximately 36 kilometres long and 1.5 kilometres wide.",
+  "ko": "이 호수는 길이 약 36킬로미터, 너비 1.5킬로미터다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174784",
+  "en": "The loch is one of many interconnected bodies of water in Scotland.",
+  "ko": "이 호수는 스코틀랜드에서 서로 연결된 여러 수역 중 하나다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174785",
+  "en": "Review your findings in the almanac.",
+  "ko": "도감에서 조사 결과를 다시 확인해 보세요."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174786",
+  "en": "Review your almanac for newly recorded data.",
+  "ko": "도감에서 새로 기록된 데이터를 확인해 보세요."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3580801802297344",
+  "en": "Testing Level Load Msg 1",
+  "ko": "레벨 로드 메시지 테스트 1"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3580801802297345",
+  "en": "Testing Level Load Msg 2",
+  "ko": "레벨 로드 메시지 테스트 2"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174791",
+  "en": "The deeper you go, the stranger things get.",
+  "ko": "더 깊이 내려갈수록 더 기묘한 것들이 나타난다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174792",
+  "en": "Not everything in the water is just a fish.",
+  "ko": "물속에 있는 것이 모두 물고기인 것은 아니다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "14398834229633024",
+  "en": "Many bottled messages contain hints about what happened at each location.",
+  "ko": "유리병에 담긴 편지에는 각 장소에서 무슨 일이 있었는지 알려 주는 단서가 많이 들어 있다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "14398834229633025",
+  "en": "Try to find artifacts hidden underwater.",
+  "ko": "물속에 숨겨진 유물을 찾아보세요."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "14398834229633026",
+  "en": "Not everything you find is just debris. Some of it has a story.",
+  "ko": "발견하는 것이 모두 그냥 잔해는 아니다. 어떤 것에는 사연이 담겨 있다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "14398834229633027",
+  "en": "Artifacts don't end up here by accident.",
+  "ko": "유물이 우연히 이곳에 남겨진 것은 아니다."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "14398834229633028",
+  "en": "Search the underwater environment carefully. Interesting artifacts can be found.",
+  "ko": "수중 환경을 꼼꼼히 살펴보세요. 흥미로운 유물을 찾을 수 있습니다."
+ }
+]

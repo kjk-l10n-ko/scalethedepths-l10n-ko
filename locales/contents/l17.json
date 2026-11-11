@@ -1,0 +1,536 @@
+[
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478441",
+  "en": "You can keep fishing if you want, or revisit some of the previous locations. I'm still looking for another location that might have some promising data. I'll keep you posted.",
+  "ko": "계속 낚시를 하셔도 되고, 이전 장소들을 다시 둘러보셔도 됩니다. 저는 아직 유망한 데이터가 있을 만한 다른 장소를 찾고 있는 중이에요. 소식이 생기면 알려드릴게요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478442",
+  "en": "Wow! That's some incredible information you found. I'm not even sure what to make of all that yet.",
+  "ko": "와! 정말 놀라운 정보를 찾아내셨네요. 아직 저도 이걸 어떻게 해석해야 할지 감이 안 잡혀요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478443",
+  "en": "I wouldn't have guessed life sprang up so suddenly out here all those years ago. I suppose you could say we krakened that mystery.",
+  "ko": "그 옛날 이곳에서 생명이 그렇게 갑자기 나타났을 거라고는 상상도 못 했어요. 이번 수수께끼도 우리가 크라켄을 낚아채듯 시원하게 풀어낸 셈이죠."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478444",
+  "en": "I've added some of my initial impressions of the site to your almanac. Take a look when you have the time.",
+  "ko": "이 현장에 대한 제 첫인상을 도감에 몇 가지 추가해 두었어요. 시간 되실 때 한번 보세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478445",
+  "en": "I've got another promising location lined up for you. The coordinates are already loaded into your GPS.",
+  "ko": "유망한 장소를 하나 더 마련해 두었어요. 좌표는 이미 GPS에 입력해 놓았습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478446",
+  "en": "I'm still deciding on the next location, so that's all for now. Feel free to check out some of the previous locations, or stay here and keep exploring.",
+  "ko": "다음 장소는 아직 고르는 중이라 오늘은 여기까지예요. 이전 장소들을 둘러보셔도 좋고, 여기 남아서 계속 탐험하셔도 됩니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478447",
+  "en": "Welcome to Huatulco, on Mexico's Pacific coast. Beautiful place, but you're not here for the beaches.",
+  "ko": "멕시코 태평양 연안의 우아툴코에 오신 것을 환영합니다. 아름다운 곳이지만, 해변을 즐기러 오신 건 아니죠."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478448",
+  "en": "These waters are warm, clear, and full of life. Coral reefs, tropical fish, and plenty of things we probably haven't documented yet.",
+  "ko": "이 바다는 따뜻하고 맑으며 생명으로 가득합니다. 산호초, 열대어, 그리고 아마 우리가 아직 기록하지 못한 것들도 잔뜩 있겠죠."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478449",
+  "en": "These aren't lake fish anymore. We're in the ocean now. You'll need to adjust some of your gear if you want to catch anything.",
+  "ko": "이제 호수 물고기가 아닙니다. 우리는 지금 바다에 있어요. 뭔가 잡으려면 장비 몇 가지는 손봐야 할 겁니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478450",
+  "en": "Wait… did you see that? That massive feathered serpent rising out of the water? I was expecting unusual marine life, but that was something else entirely. I think you may have just met a god. Fascinating.",
+  "ko": "잠깐… 방금 보셨어요? 물 밖으로 솟아오르던 그 거대한 깃털 달린 뱀 말이에요. 별난 해양 생물쯤은 예상했지만, 그건 차원이 다른 존재였어요. 방금 신을 한 분 만나신 것 같네요. 정말 흥미롭습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478451",
+  "en": "You've already met some very interesting customers. I'll be busy reviewing these observations for quite a while.",
+  "ko": "벌써 아주 흥미로운 손님들을 만나셨네요. 저는 당분간 이 관측 기록들을 검토하느라 바쁠 것 같아요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478452",
+  "en": "I've added the coordinates for the next location to your GPS. There's still plenty to discover in these waters if you want to keep exploring, or you can head to the next site whenever you're ready.",
+  "ko": "다음 장소의 좌표를 GPS에 추가해 두었습니다. 계속 탐험하실 거라면 이 바다에는 아직 발견할 게 많아요. 아니면 준비되셨을 때 다음 지점으로 향하셔도 됩니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478453",
+  "en": "Looks like you've gathered just about everything these waters have to offer. That's an impressive amount of data.",
+  "ko": "이 바다가 줄 수 있는 건 거의 다 모으신 것 같네요. 정말 인상적인 데이터 양입니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478454",
+  "en": "I've added my notes on the more interesting discoveries to your almanac. You should take a look when you have a moment.",
+  "ko": "더 흥미로운 발견들에 대한 제 기록을 도감에 추가해 두었어요. 잠깐 시간 되실 때 확인해 보세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478455",
+  "en": "The coordinates for the next survey location are already loaded into your GPS. You can stay here and keep exploring, or move on whenever you're ready.",
+  "ko": "다음 조사 지점의 좌표는 이미 GPS에 입력되어 있습니다. 여기 남아 계속 탐험하셔도 되고, 준비되면 다음으로 넘어가셔도 됩니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436673",
+  "en": "I'll be monitoring your progress and reviewing the data as it comes in. If you need help, I'll send more information to your manual when anything new comes up.",
+  "ko": "저는 계속 진행 상황을 지켜보며 들어오는 데이터를 검토할게요. 도움이 필요하시면 새로운 내용이 생길 때마다 설명서로 정보를 보내드리겠습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436677",
+  "en": "Looks like you found some bait. Each one has a unique effect. Some make fishing easier, while others change how you fish entirely.",
+  "ko": "미끼를 찾으셨나 보네요. 미끼마다 고유한 효과가 있습니다. 어떤 건 낚시를 쉽게 만들어 주고, 어떤 건 낚시 방식 자체를 완전히 바꿔 놓죠."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436678",
+  "en": "You can head over to the bait bucket to equip it, and see what it does.",
+  "ko": "미끼 양동이로 가서 장착하고, 어떤 효과인지 확인해 보세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436679",
+  "en": "I've set you up with a new knife and a new hook. They should give you a fighting chance with these fish.",
+  "ko": "새 칼과 새 낚싯바늘을 준비해 두었습니다. 이 물고기들을 상대로 해볼 만할 거예요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436680",
+  "en": "After everything we've already seen, I'm hoping to find even more out here. Plenty to explore and plenty of valuable data to collect. Don't let me down.",
+  "ko": "지금까지 본 것들을 생각하면, 이곳에서 더 많은 걸 찾길 기대하고 있어요. 탐험할 것도, 수집할 값진 데이터도 얼마든지 있습니다. 실망시키지 마세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436681",
+  "en": "I've got a new knife and hook for you to start with.",
+  "ko": "시작하실 수 있게 새 칼과 낚싯바늘을 준비했어요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436682",
+  "en": "You're quite the expert at this job by now, so I'll leave you to it. I'm looking forward to seeing what you manage to uncover out there.",
+  "ko": "이제 이 일에 꽤 전문가가 되셨으니, 뒤는 맡기겠습니다. 그곳에서 무엇을 밝혀내실지 기대할게요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436683",
+  "en": "But.... I appreciate all the good work you've been doing so far. I've sent you something as a reward for your efforts.",
+  "ko": "그래도… 지금까지 해주신 좋은 작업들 고맙게 생각해요. 그 노력에 대한 보상으로 뭔가 하나 보내드렸습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436684",
+  "en": "I've set you up with a new knife and a new hook to get started. Start small and work your way up to the bigger fish.",
+  "ko": "시작하실 수 있게 새 칼과 낚싯바늘을 준비해 두었습니다. 작은 것부터 시작해서 더 큰 물고기로 나아가세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436685",
+  "en": "This region has a lot of history and myths. After what we saw in Loch Ness, I'm not so quick to dismiss those stories anymore. So keep your sensors on and your line in the water.",
+  "ko": "이 지역에는 역사와 신화가 아주 많아요. 네스호에서 본 것을 겪고 나니, 이제 그런 이야기들을 그냥 무시할 수 없게 됐습니다. 그러니 센서는 켜 두시고, 낚싯줄은 물속에 넣어 두세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964690272256",
+  "en": "I've added some notes to your manual.",
+  "ko": "설명서에 몇 가지 기록을 추가해 두었습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964711243776",
+  "en": "I'll keep your manual updated. Worth checking in on it if you need any help.",
+  "ko": "설명서는 계속 최신으로 업데이트해 드릴게요. 도움이 필요하면 한번쯤 확인해 볼 만합니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438080",
+  "en": "If you need any help, be sure to check the manual.",
+  "ko": "도움이 필요하시면 꼭 설명서를 확인해 보세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438081",
+  "en": "If anything feels unclear, your manual should have the answers.",
+  "ko": "뭔가 헷갈리는 게 있다면 설명서에 답이 있을 겁니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438082",
+  "en": "It's all in your manual if you want a quick refresher.",
+  "ko": "빠르게 복습하고 싶다면 설명서에 다 나와 있어요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438083",
+  "en": "Your manual's been updated. Have a look when it suits you.",
+  "ko": "설명서를 업데이트했습니다. 편하실 때 한번 보세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438084",
+  "en": "You're starting to get good at this. Keep it up.",
+  "ko": "이제 좀 능숙해지고 계시네요. 계속 그렇게 해주세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438085",
+  "en": "Looks like you've got a rhythm going.",
+  "ko": "이제 리듬이 잡히신 것 같네요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438086",
+  "en": "You're handling this better than most would.",
+  "ko": "대부분보다 훨씬 잘 해내고 계세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438087",
+  "en": "We're getting closer to something. I can feel it.",
+  "ko": "우리가 뭔가에 가까워지고 있어요. 느낌이 옵니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438088",
+  "en": "Keep going. This data matters more than you think.",
+  "ko": "계속하세요. 이 데이터는 생각보다 훨씬 중요합니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438089",
+  "en": "I wish I could be out there doing this myself.",
+  "ko": "저도 직접 그곳에 나가서 하고 싶네요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438090",
+  "en": "You're doing fine. Reminds me of when I first got sent out like this.",
+  "ko": "잘하고 계세요. 저도 처음 이런 임무를 받았을 때가 떠오르네요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438091",
+  "en": "Feels strange being on this side of it now.",
+  "ko": "이제 반대쪽에서 보니 기분이 묘하네요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438092",
+  "en": "You're picking this up faster than I did.",
+  "ko": "저보다 훨씬 빨리 익히시네요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438093",
+  "en": "That fish looks great, but no one will pay for it until you clean it up. Let's head to the prep station.",
+  "ko": "좋은 물고기네요. 하지만 손질하기 전엔 아무도 돈을 내지 않아요. 손질대로 가시죠."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438094",
+  "en": "Some fish have algae growing on them. Move your knife over it to scrape it off. Some fish are cleaner than others.",
+  "ko": "어떤 물고기에는 조류가 붙어 있습니다. 칼을 대고 문질러 긁어내세요. 물고기마다 깨끗한 정도가 다릅니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438095",
+  "en": "This fish needs to be scaled. Move your knife carefully to remove the scales. If you move too fast, you might damage the fish, and damaged fish won't fill customers up as much.",
+  "ko": "이 물고기는 비늘을 벗겨야 합니다. 칼을 천천히 움직여 비늘을 제거하세요. 너무 빠르게 움직이면 물고기가 상할 수 있고, 상한 물고기는 손님을 그만큼 배부르게 하지 못합니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438096",
+  "en": "Some fish have barnacles growing on them. Customers don't like those. Move your knife quickly to break them off. Barnacles hold on tight.",
+  "ko": "어떤 물고기에는 따개비가 붙어 있습니다. 손님들은 그런 걸 싫어하죠. 칼을 빠르게 움직여 떼어내세요. 따개비는 아주 질기게 달라붙어 있습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438097",
+  "en": "Some fish carry parasites. You'll need to remove them before serving the fish. Time your cuts carefully. If you move too fast, they'll hide.",
+  "ko": "어떤 물고기에는 기생충이 붙어 있어요. 손님에게 내기 전에 떼어내야 합니다. 칼질 타이밍을 잘 맞추세요. 너무 빠르게 움직이면 기생충이 숨어버립니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438098",
+  "en": "Before serving the fish, you'll need to remove the head and any unwanted parts. Customers won't eat fish that hasn't been properly prepared.",
+  "ko": "물고기를 내기 전에는 머리와 필요 없는 부분을 제거해야 합니다. 제대로 손질되지 않은 물고기는 손님들이 먹지 않아요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438099",
+  "en": "That knife works for now, but it's not very efficient. Earn enough money, and you'll be able to buy better knives that make preparing fish much easier.",
+  "ko": "그 칼도 당장은 쓸 만하지만, 그리 효율적이지는 않아요. 돈을 충분히 모으면 물고기 손질을 훨씬 쉽게 해주는 더 좋은 칼을 살 수 있습니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "5672964715438100",
+  "en": "All of that gives me useful data to analyze, and earns you money for better gear and other items from the shop.",
+  "ko": "그 모든 게 제게는 분석할 유용한 데이터가 되고, 당신에게는 더 좋은 장비와 상점의 다른 물품을 살 돈을 벌어다 줍니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835895709696",
+  "en": "Wow... that thing was massive. Looks like it can recover its health when you reel your hook in. You might need to land it in one cast.",
+  "ko": "와… 정말 거대했어요. 낚싯바늘을 감아들일 때마다 체력을 회복하는 모양이네요. 한 번의 캐스팅으로 끝내야 할지도 모릅니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835920875520",
+  "en": "Took another go, but you pulled it in. Great catch.",
+  "ko": "한 번 더 시도했지만 결국 끌어올리셨네요. 멋진 포획입니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835920875521",
+  "en": "Wow... that thing's massive, and you got it in one go? Very Impressive.",
+  "ko": "와… 그렇게 거대한데 한 번에 잡아내셨다고요? 정말 대단합니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835920875522",
+  "en": "Looks like it was holding an interesting artifact. That's a nice find. Now you should be able to buy something if you head to the shop.",
+  "ko": "흥미로운 유물을 품고 있었나 보네요. 좋은 발견입니다. 이제 상점에 가면 뭔가 살 수 있을 겁니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069824",
+  "en": "Looks like you found something interesting. These waters are full of old relics and lost records.",
+  "ko": "흥미로운 걸 찾으신 모양이네요. 이 바다에는 오래된 유물과 잃어버린 기록이 가득합니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069825",
+  "en": "You can take a closer look at it in your treasure collection.",
+  "ko": "보물 컬렉션에서 자세히 살펴볼 수 있어요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069826",
+  "en": "That's exactly the kind of data I'm looking for. Keep an eye out for more artifacts or messages to add to your almanac.",
+  "ko": "바로 제가 찾던 그런 데이터입니다. 도감에 추가할 유물이나 메시지를 더 찾아보세요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069827",
+  "en": "An incredible specimen. A serpent capable of producing that much electricity… that's something special.",
+  "ko": "정말 놀라운 표본이에요. 그만한 전기를 만들어내는 뱀이라니… 특별한 존재입니다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069828",
+  "en": "That thing looks like it crawled out of another age. Nice catch, you're getting the hang of this.",
+  "ko": "다른 시대에서 기어 나온 것처럼 보이네요. 잘 잡으셨어요, 이제 요령이 붙으셨군요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069829",
+  "en": "That's one freaky worm… those pincers alone are something else. I've never seen anything like it before. I wonder where it came from.",
+  "ko": "정말 기괴한 벌레네요… 집게발만 봐도 만만치 않아요. 이런 건 처음 봅니다. 대체 어디서 온 걸까요."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "17385835925069830",
+  "en": "That was a big one. Doesn't look like any fish I've seen… especially the way it changes color. Nice work.",
+  "ko": "꽤 큰 녀석이었어요. 제가 본 어떤 물고기와도 닮지 않았죠… 특히 색이 변하는 방식이라니. 잘하셨어요."
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199104",
+  "en": "Press any Key to Continue",
+  "ko": "아무 키나 눌러 계속"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199107",
+  "en": "Welcome to Scale the Depths…",
+  "ko": "‘심연을 벗기다’에 오신 것을 환영합니다…"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199108",
+  "en": "Explore Mysterious depths that contain treasures and creatures beyond your imagination!",
+  "ko": "상상 이상의 보물과 생명체가 숨 쉬는 신비한 심해를 탐험하세요!"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199110",
+  "en": "Find a wide variety of fish underwater!",
+  "ko": "물속에서 온갖 다양한 물고기를 찾아내세요!"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199112",
+  "en": "Scale them carefully to perfection!",
+  "ko": "완벽해질 때까지 정성껏 비늘을 벗기세요!"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199114",
+  "en": "Feed customers bursting with personality!",
+  "ko": "개성 넘치는 손님들을 배불리 먹이세요!"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199115",
+  "en": "Feed the right fish, upgrade your gear, and unlock rarer, stranger customers until you meet the mythical guest at the end.",
+  "ko": "손님에게 맞는 물고기를 먹이고, 장비를 업그레이드하고, 더 희귀하고 별난 손님들을 해금해 나가다 보면 마지막에는 신화 속 손님을 만나게 됩니다."
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199116",
+  "en": "Let us know your thoughts and stay tuna-ed for more updates on Steam and our site!\nWebsite",
+  "ko": "여러분의 의견을 들려주시고, 스팀과 저희 사이트에서 참치처럼 신선한 업데이트 소식을 기다려 주세요!\n웹사이트"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199117",
+  "en": "New levels, baits, customization, and a more surprises await in the full release!",
+  "ko": "정식 출시에서는 새로운 장소와 미끼, 꾸미기 요소, 그리고 더 많은 깜짝 놀랄 것들이 기다립니다!"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527424",
+  "en": "A simple table knife designed primarily for spreading butter, jam, and other soft foods. It is serrated just enough to technically cut something. An impressively blunt instrument and without a doubt one of the worst tools imaginable for scaling fish.",
+  "ko": "버터나 잼, 그 밖의 부드러운 음식을 바르는 데 주로 쓰이는 평범한 식탁용 칼이다. 아주 얕은 톱니가 있어서 엄밀히 말하면 무언가는 자를 수 있다. 인상적일 만큼 무딘 도구이며, 물고기 비늘을 벗기는 데 쓸 수 있는 도구 중 단연 최악에 가깝다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527426",
+  "en": "A simple table knife for spreading butter. Looks a little different from the regular butter knife, but it's not.",
+  "ko": "버터를 바르는 평범한 식탁용 칼이다. 일반 버터 나이프와는 조금 달라 보이지만, 사실 다를 게 없다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527428",
+  "en": "A simple table knife for spreading butter and looking wealthy. Unfortunately, it's still just a butter knife.",
+  "ko": "버터를 바르고 부유해 보이기 위한 평범한 식탁용 칼이다. 안타깝게도 여전히 그냥 버터 나이프일 뿐이다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527430",
+  "en": "A narrow, flexible blade designed for removing bones from meat, poultry, and fish. While not intended for scaling fish, it performs the task a little better than a butter knife. The blade is a little worn from regular use, but still sharp enough to get the job done. ",
+  "ko": "고기와 가금류, 생선에서 뼈를 발라내기 위해 만들어진 가늘고 유연한 칼날이다. 물고기 비늘을 벗기려고 만든 물건은 아니지만, 버터 나이프보다는 그 일을 조금 더 잘 해낸다. 자주 쓰느라 칼날이 조금 닳았지만, 제 몫을 해내기에는 여전히 충분히 날카롭다. "
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527432",
+  "en": "A traditional single-edged blade used by Germanic tribes during the Early Middle Ages, serving as a small sword or fighting knife. The name seax comes from an old Germanic word meaning knife and is also where the name Saxons may have originated. \n\nSeaxes were commonly carried by Saxons and other northern European peoples for everyday tasks ranging from preparing food to fighting in battle. Compared to modern kitchen knives, it may seem a little crude, but it is still far more effective than a butter knife.",
+  "ko": "중세 초기 게르만 부족들이 사용한 전통적인 외날 칼날로, 작은 검 또는 전투용 칼 역할을 했다. 색스라는 이름은 '칼'을 뜻하는 고대 게르만어에서 왔으며, 색슨족의 이름도 여기서 비롯되었을 가능성이 있다. \n\n색스는 색슨족을 비롯한 북유럽 민족들이 음식 준비부터 전투까지 일상의 온갖 일에 지니고 다녔다. 현대 주방칼에 비하면 다소 투박해 보이지만, 버터 나이프보다는 훨씬 효과적이다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527434",
+  "en": "A long, slender dagger historically carried by sailors and Scottish Highlanders for close combat and everyday utility work. The dirk became a symbol of honour in Highland culture, and important oaths were sometimes sworn upon the steel itself. Compared to modern kitchen knives, it's a little dramatic, but it will certainly handle a fish.",
+  "ko": "역사적으로 선원들과 스코틀랜드 하이랜더들이 근접 전투와 일상 잡무에 지니고 다녔던 길고 가느다란 단검이다. 더크는 하이랜드 문화에서 명예의 상징이 되었고, 중요한 맹세는 때때로 그 강철 위에서 이루어지기도 했다. 현대 주방칼에 비하면 다소 극적이지만, 물고기 하나쯤은 확실히 감당해 낸다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527436",
+  "en": "A curved, single-edged sword from ancient Iberia, known for its forward-heavy blade and powerful chopping ability. Weapons like this were used by Iberian warriors long before the Roman Empire spread across the region. It was designed for battle, not cooking, which makes using it to scale fish somewhat excessive, but certainly effective.",
+  "ko": "고대 이베리아의 곡선 외날 검으로, 앞쪽으로 무게가 쏠린 칼날과 강력한 베기 성능으로 유명하다. 이런 무기는 로마 제국이 이 지역으로 퍼져 나가기 훨씬 전부터 이베리아 전사들이 사용했다. 요리가 아니라 전투를 위해 만들어진 물건이라, 비늘을 벗기는 데 쓰기에는 다소 과하지만 확실히 효과적이다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527438",
+  "en": "A massive two-handed sword used by European mercenaries, famous for its long reach and sweeping attacks. Weapons like this were carried by Landsknecht soldiers during the 16th century to break enemy formations. It was never intended for cooking, cleaning, or preparing fish, but it will certainly get the job done.",
+  "ko": "유럽 용병들이 사용한 거대한 양손검으로, 긴 사거리와 휘두르는 공격으로 유명하다. 이런 무기는 16세기 란츠크네히트 병사들이 적 진형을 무너뜨리기 위해 지니고 다녔다. 요리나 정리, 물고기 손질을 위해 만들어진 물건은 결코 아니지만, 일을 해내기는 확실히 해낸다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527440",
+  "en": "A short, curved knife designed for field dressing and skinning animals. The blade shape allows hunters to open the hide and remove internal organs with clean, controlled cuts, helping prevent damage to the meat.",
+  "ko": "야외에서 동물의 배를 갈라 가죽을 벗기기 위해 만들어진 짧고 굽은 칼이다. 이런 칼날 모양 덕분에 사냥꾼은 깔끔하고 절제된 칼질로 가죽을 열고 내장을 꺼낼 수 있어, 고기가 상하는 걸 막을 수 있다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527442",
+  "en": "A large fixed-blade knife with a distinctive clipped point, popularized in early 19th-century America. The design became famous after frontiersman James Bowie used a large knife during the violent Sandbar Fight of 1827 on the Mississippi River. Bowie and his knife became widely known afterward, and he later died at the Battle of the Alamo. Since then, the term \"Bowie knife\" has come to describe a wide range of large fighting and hunting knives.",
+  "ko": "독특한 클립 포인트가 있는 대형 고정날 칼로, 19세기 초 미국에서 널리 퍼졌다. 이 디자인은 1827년 미시시피강에서 벌어진 격렬한 샌드바 싸움에서 개척자 제임스 보위가 대형 칼을 사용하면서 유명해졌다. 이후 보위와 그의 칼은 널리 알려졌고, 그는 훗날 알라모 전투에서 전사했다. 그때부터 '보위 나이프'라는 말은 온갖 대형 전투용 및 사냥용 칼을 가리키게 되었다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527444",
+  "en": "This traditional Spanish folding knife was once carried for everyday utility and self-defence. The name navaja comes from the Latin word for razor, reflecting its early connection to straight razors used for shaving. Larger versions of these knives were sometimes called santólios, a nickname referring to the holy oil given during last rites, suggesting that encountering one in a fight rarely ended well. It also works for cutting up fish.",
+  "ko": "이 전통적인 스페인 접이식 칼은 예전에 일상 잡무와 호신용으로 지니고 다녔다. 나바하라는 이름은 면도칼을 뜻하는 라틴어에서 왔으며, 면도에 쓰던 직선 면도날과의 초기 연관성을 보여준다. 이 칼의 대형 버전은 산톨리오라고 불리기도 했는데, 이는 임종 의식에서 주는 성유를 가리키는 별명으로, 싸움에서 이걸 마주친 사람의 최후가 대체로 좋지 않았음을 시사한다. 물고기를 토막 내는 데도 쓸 만하다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527446",
+  "en": "A broad, heavy blade originating from Central America, widely used as a tool for clearing vegetation, harvesting crops, and cutting through dense jungle. Known as a machete, it became the everyday working knife of farmers and labourers across tropical regions. \n\nThough primarily a tool, machetes were sometimes pressed into service during conflicts, such as the defence of Havana during the Seven Years' War in 1762, when local militias were armed with them. The name may share roots with machaera, the ancient term for curved swords like the falcata.",
+  "ko": "중앙아메리카에서 비롯된 넓고 묵직한 칼날로, 식생을 정리하고 농작물을 수확하며 울창한 정글을 헤쳐 나가는 도구로 널리 쓰였다. 마체테라 불리는 이 칼은 열대 지역 농부와 노동자들의 일상 작업용 칼이 되었다. \n\n주로 도구였지만, 마체테는 분쟁 중에 무기로 동원되기도 했다. 1762년 7년 전쟁 당시 아바나 방어전에서 지역 민병대가 마체테로 무장한 것이 그 예다. 이 이름은 팔카타 같은 곡선 검을 가리키던 고대 명칭인 마카이라와 어원을 공유하는지도 모른다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527448",
+  "en": "A short, curved sword widely used by sailors as a naval weapon during the Age of Sail. Known as a cutlass, its sturdy blade was strong enough to cut heavy ropes and canvas while remaining short enough for close combat aboard crowded ships. \n\nThe weapon later became closely associated with pirates, who favoured it for boarding actions and intimidation. Tools of a similar design were also used for everyday work in tropical regions, eventually influencing blades such as the machete.",
+  "ko": "범선 시대에 선원들이 해상 무기로 널리 사용한 짧고 굽은 검이다. 커틀러스라 불리는 이 검은 튼튼한 칼날 덕에 두꺼운 밧줄과 돛을 베어낼 수 있으면서도, 붐비는 배 위에서 근접전을 벌이기에 충분할 만큼 짧았다. \n\n이 무기는 이후 해적들과 깊이 연관되었는데, 해적들은 배에 올라타는 전투와 위협용으로 즐겨 사용했다. 비슷한 형태의 도구는 열대 지역의 일상 작업에도 쓰였고, 훗날 마체테 같은 칼날에 영향을 주었다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527450",
+  "en": "A curved, single-edged sword closely associated with cavalry units. Early forms of this weapon appeared as far back as the sixth century CE among Chinese cavalry, eventually spreading across the Eurasian steppes. \n\nThe sabre became widespread in Western Europe during the Thirty Years' War in the 1600s and later saw extensive use during the Napoleonic Wars of the 19th century. Its curved blade made it especially effective for slashing attacks from horseback. The weapon remained in military service into the early 20th century, with mounted units carrying it during the First World War and even into the early stages of the Second World War.",
+  "ko": "기병 부대와 밀접하게 연관된 곡선 외날 검이다. 이 무기의 초기 형태는 서기 6세기경 중국 기병들 사이에서 나타났으며, 이후 유라시아 초원 전역으로 퍼졌다. \n\n세이버는 1600년대 30년 전쟁 당시 서유럽에서 널리 퍼졌고, 이후 19세기 나폴레옹 전쟁에서 광범위하게 사용되었다. 곡선 칼날 덕분에 말 위에서 베는 공격에 특히 효과적이었다. 이 무기는 20세기 초까지 군에서 쓰였으며, 기마 부대는 제1차 세계 대전과 제2차 세계 대전 초기까지도 이를 지니고 다녔다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527452",
+  "en": "A corrosion-resistant knife carried by divers as a safety tool during underwater dives. These compact blades are designed for cutting fishing lines, ropes, and netting that may become tangled around a diver. Most modern dive knives are made from stainless steel or titanium and feature blunt tips for safer use in tight spaces.",
+  "ko": "잠수부들이 수중 잠수 중 안전 도구로 지니고 다니는 부식 방지 칼이다. 이 아담한 칼날은 잠수부에게 엉킬 수 있는 낚싯줄과 밧줄, 그물을 자르기 위해 만들어졌다. 대부분의 현대 잠수용 칼은 스테인리스강이나 티타늄으로 만들어지며, 좁은 공간에서 더 안전하게 쓰도록 끝이 무딘 형태다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527454",
+  "en": "A long, extremely sharp Japanese kitchen knife designed for slicing raw fish into clean, precise cuts. Its thin blade allows chefs to cut delicate seafood with minimal damage to the flesh, making it ideal for preparing sashimi and sushi.",
+  "ko": "날생선을 깔끔하고 정교하게 썰기 위해 만들어진 길고 매우 날카로운 일본식 주방칼이다. 얇은 칼날 덕분에 요리사는 연한 해산물을 살점 손상 없이 썰어낼 수 있어, 사시미와 초밥을 만들기에 더없이 알맞다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527456",
+  "en": "A distinctive dagger from Southeast Asia known for its wavy blade and deep cultural significance. Called a kris, the weapon emerged around the 14th century in the Javanese kingdom of Majapahit, though earlier dagger forms appear in regional art centuries before. \n\nOver time, the Kris spread throughout the Indonesian archipelago and neighbouring cultures, including the Malay Peninsula, the Philippines, and parts of Thailand. Many blades were forged from layered metals that created intricate patterns along the steel, and kris were often worn daily as both a weapon and a ceremonial symbol.",
+  "ko": "물결 모양 칼날과 깊은 문화적 의미로 유명한 동남아시아의 독특한 단검이다. 크리스라 불리는 이 무기는 14세기경 자바의 마자파힛 왕국에서 등장했지만, 그보다 수백 년 앞선 지역 예술품에도 초기 형태의 단검이 나타난다. \n\n시간이 흐르며 크리스는 인도네시아 군도와 주변 문화권, 즉 말레이 반도와 필리핀, 태국 일부 지역으로 퍼져 나갔다. 많은 칼날은 여러 겹의 금속을 단조해 강철 표면에 정교한 무늬를 새겼으며, 크리스는 무기이자 의식의 상징으로서 일상에서 늘 지니고 다니는 물건이었다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527458",
+  "en": "A single-edged Greek blade with a forward-curving shape that concentrates weight near the tip, giving it chopping power similar to an axe. Known as a kopis, it was used in Ancient Greece both as a heavy knife and as a cavalry weapon. It was especially favoured by mounted soldiers, as the curved blade delivered powerful slashing cuts from horseback. The kopis is closely related to the Iberian falcata, which shares a similar forward-curving blade and chopping design.",
+  "ko": "끝부분에 무게가 집중되도록 앞으로 굽은 외날 그리스 칼날로, 도끼에 버금가는 베기 위력을 지녔다. 코피스라 불리는 이 칼은 고대 그리스에서 묵직한 칼이자 기병 무기로 쓰였다. 곡선 칼날이 말 위에서 강력한 베기를 만들어냈기에 기마병들이 특히 즐겨 사용했다. 코피스는 비슷한 앞굽이 칼날과 베기 구조를 지닌 이베리아의 팔카타와 가까운 친척이다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527460",
+  "en": "A curved, single-edged Japanese sword traditionally wielded by samurai. The katana features a long grip designed for two hands and was worn sheathed with the blade facing upward, preserving the sharpness of the blade and allowing for a quick draw. In Japan, the weapon is more precisely called an uchigatana, meaning \"striking sword.\" \n\nDuring Japan's feudal era, it served as a close-combat weapon and later became one of the most recognizable symbols of samurai culture and craftsmanship. Katanas were also exchanged as gifts between daimyo and samurai, reflecting their importance as both weapons and symbols of honour.",
+  "ko": "전통적으로 사무라이가 사용한 곡선 외날 일본도다. 카타나는 두 손으로 잡도록 긴 손잡이를 갖추었고, 칼날이 위로 향하게 칼집에 넣어 차서 날을 보존하면서도 빠르게 뽑아낼 수 있었다. 일본에서는 이 무기를 더 정확히는 '우치가타나', 즉 '베는 칼'이라고 부른다. \n\n봉건 시대에는 근접 전투 무기로 쓰였고, 훗날 사무라이 문화와 장인 정신을 대표하는 가장 알아보기 쉬운 상징 중 하나가 되었다. 카타나는 다이묘와 사무라이 사이에서 선물로 주고받기도 했는데, 이는 무기이자 명예의 상징으로서의 중요성을 보여준다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527462",
+  "en": "A massive sword said to be capable of cutting down both horse and rider in a single strike. Known as a zanbato, or \"horse-slaying sword,\" its enormous size makes it almost impossible for anyone to wield, leaving its use to be mythologized and those who wield it to become legends.",
+  "ko": "단 한 번의 일격으로 말과 기수를 함께 베어 넘길 수 있다고 전해지는 거대한 검이다. 잔바토, 즉 '말을 베는 검'이라 불리는 이 무기는 크기가 워낙 거대해 누구도 다루기 거의 불가능했고, 그 쓰임은 신화가 되었으며 그것을 휘두른 이들은 전설이 되었다."
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527464",
+  "en": "A ceremonial flint or obsidian knife used by the Aztecs in both ritual and warfare. Known as a tecpatl, these blades were central to Aztec mythology and religious ceremonies, and their shape appears in many carvings. While primarily associated with ritual sacrifice, the razor-sharp volcanic glass blade would have made it a formidable weapon as well.",
+  "ko": "아즈텍인들이 의식과 전쟁 양쪽에 사용한 의례용 부싯돌 또는 흑요석 칼이다. 테크파틀이라 불리는 이 칼날은 아즈텍 신화와 종교 의식의 핵심이었고, 그 형태는 여러 조각에 나타난다. 주로 제물 의식과 연관되지만, 면도날처럼 날카로운 화산 유리 칼날은 무기로서도 충분히 위협적이었을 것이다."
+ }
+]

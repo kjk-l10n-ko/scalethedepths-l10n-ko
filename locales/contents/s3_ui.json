@@ -1,0 +1,3128 @@
+[
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143680",
+  "en": "Loch Ness Survey Findings",
+  "ko": "네스호 조사 결과"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143686",
+  "en": "Outer Banks Survey Findings",
+  "ko": "아우터뱅크스 조사 결과"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143692",
+  "en": "Point Nemo Survey Findings",
+  "ko": "포인트 네모 조사 결과"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143698",
+  "en": "Huatulco Survey Findings",
+  "ko": "우아툴코 조사 결과"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "85634961408",
+  "en": "Fish",
+  "ko": "물고기"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "85731430400",
+  "en": "Customers",
+  "ko": "손님"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "85731430401",
+  "en": "Messages",
+  "ko": "메시지"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "85731430402",
+  "en": "Artifacts",
+  "ko": "유물"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "85731430403",
+  "en": "Knives",
+  "ko": "칼"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "790646495236096",
+  "en": "???",
+  "ko": "???"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "790646532984832",
+  "en": "Log records unavailable...",
+  "ko": "기록을 불러올 수 없습니다..."
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "2993385371455488",
+  "en": "Open Message",
+  "ko": "메시지 열기"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "6170416946077696",
+  "en": "Common Names",
+  "ko": "통칭"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "9514469481766912",
+  "en": "Data",
+  "ko": "데이터"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "9514469511127040",
+  "en": "Hunger",
+  "ko": "허기"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "9514469511127041",
+  "en": "Pay",
+  "ko": "지불"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "9514469511127042",
+  "en": "Tip",
+  "ko": "팁"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "9514469511127043",
+  "en": "Size",
+  "ko": "크기"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "11669204703895552",
+  "en": "View Artifact",
+  "ko": "유물 보기"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "11669204733255680",
+  "en": "Liked Fish",
+  "ko": "선호 어종"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "11669204733255681",
+  "en": "Disliked Fish",
+  "ko": "비선호 어종"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "11669204733255682",
+  "en": "Species",
+  "ko": "종"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "11669204733255683",
+  "en": "Variants Found",
+  "ko": "발견한 변종"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "43178629666955264",
+  "en": "Barnacle hit speed",
+  "ko": "따개비 타격 속도"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "43178629708898304",
+  "en": "Parasite hide speed",
+  "ko": "기생충 은신 속도"
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "43178629708898305",
+  "en": "Records ",
+  "ko": "기록 "
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "43178629708898306",
+  "en": "Taxonomy ",
+  "ko": "분류 "
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "43178629708898307",
+  "en": "Achievements ",
+  "ko": "업적 "
+ },
+ {
+  "table": "Almanac UI - String",
+  "id": "43178629708898308",
+  "en": "Species Facts",
+  "ko": "어종 정보"
+ },
+ {
+  "table": "Bait UI",
+  "id": "4075881264832516",
+  "en": "Replace",
+  "ko": "교체"
+ },
+ {
+  "table": "Bait UI",
+  "id": "4075881264832513",
+  "en": "Ability",
+  "ko": "능력"
+ },
+ {
+  "table": "Bait UI",
+  "id": "4075881264832512",
+  "en": "Type",
+  "ko": "종류"
+ },
+ {
+  "table": "Bait UI",
+  "id": "4075881264832515",
+  "en": "Unequip All",
+  "ko": "모두 해제"
+ },
+ {
+  "table": "Bait UI",
+  "id": "4075881264832514",
+  "en": "Unequip",
+  "ko": "해제"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635648",
+  "en": "Pause",
+  "ko": "일시정지"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635649",
+  "en": "Cosmetics",
+  "ko": "꾸미기"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635650",
+  "en": "Discard All Fish",
+  "ko": "모든 물고기 버리기"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635651",
+  "en": "Next Up",
+  "ko": "다음 순서"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635652",
+  "en": "Quit",
+  "ko": "나가기"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635654",
+  "en": "Yes",
+  "ko": "예"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635655",
+  "en": "No",
+  "ko": "아니요"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635656",
+  "en": "Quit Game",
+  "ko": "게임 종료"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635658",
+  "en": "Yes",
+  "ko": "예"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635659",
+  "en": "No",
+  "ko": "아니요"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635660",
+  "en": "Value:",
+  "ko": "가치:"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635662",
+  "en": "Value",
+  "ko": "가치"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "25781023404838912",
+  "en": "Location Select",
+  "ko": "장소 선택"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "25781023455170560",
+  "en": "Almanac",
+  "ko": "도감"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "25781023455170561",
+  "en": "CARP Manual",
+  "ko": "CARP 설명서"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "31937688588111872",
+  "en": "View Collectibles",
+  "ko": "수집품 보기"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "32698247670652928",
+  "en": "Ask Preferences",
+  "ko": "선호도 물어보기"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "32698247708401664",
+  "en": "Treasures",
+  "ko": "보물"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "33321782512443392",
+  "en": "New",
+  "ko": "신규"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "38658536771239936",
+  "en": "Toggle Repellent",
+  "ko": "기피제 켜기/끄기"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473437",
+  "en": "Expedition Briefing",
+  "ko": "탐사 브리핑"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473443",
+  "en": "Research Log 1",
+  "ko": "연구 일지 1"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473446",
+  "en": "First Impressions",
+  "ko": "첫인상"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473449",
+  "en": "Research Log 2",
+  "ko": "연구 일지 2"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473452",
+  "en": "Initial Observations",
+  "ko": "초기 관찰"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473455",
+  "en": "Research Log 3",
+  "ko": "연구 일지 3"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473434",
+  "en": "Turn of Fortune",
+  "ko": "행운의 전환"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473431",
+  "en": "Roanoke Island",
+  "ko": "로어노크 섬"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473410",
+  "en": "Escape from Havana",
+  "ko": "아바나 탈출"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279134",
+  "en": "Spanish Ship Log II",
+  "ko": "스페인 선박 일지 II"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279128",
+  "en": "Spanish Ship Log I",
+  "ko": "스페인 선박 일지 I"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279125",
+  "en": "Field Report",
+  "ko": "현장 보고서"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279122",
+  "en": "Unknown Signal",
+  "ko": "미확인 신호"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279110",
+  "en": "Urquhart Castle ",
+  "ko": "어커트 성 "
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279104",
+  "en": "The Water Beast",
+  "ko": "물의 괴수"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882357",
+  "en": "Unexpected Entity",
+  "ko": "예상치 못한 존재"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882360",
+  "en": "Research Log 4",
+  "ko": "연구 일지 4"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882363",
+  "en": "Material Analysis",
+  "ko": "재질 분석"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882366",
+  "en": "Research Log 5",
+  "ko": "연구 일지 5"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882369",
+  "en": "Emergency Record",
+  "ko": "긴급 기록"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882372",
+  "en": "Fallen Star",
+  "ko": "떨어진 별"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882375",
+  "en": "Fallen Star",
+  "ko": "떨어진 별"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882378",
+  "en": "The Fifth Sun",
+  "ko": "다섯 번째 태양"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882381",
+  "en": "Prophecy",
+  "ko": "예언"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882384",
+  "en": "Conquest",
+  "ko": "정복"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882387",
+  "en": "New Spain's Conquest",
+  "ko": "누에바 에스파냐의 정복"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "10086929495220224",
+  "en": "Spanish Ship Log III",
+  "ko": "스페인 선박 일지 III"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "10086929503608834",
+  "en": "The Narrow Banks",
+  "ko": "좁은 모래톱"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "10086929503608837",
+  "en": "Incident Report",
+  "ko": "사건 보고서"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "10086929503608840",
+  "en": "Official Statement: Dale Hargrove",
+  "ko": "공식 성명: 데일 하그로브"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "10086929503608843",
+  "en": "Recovery Operation",
+  "ko": "회수 작전"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "10086929503608846",
+  "en": "Operation Report",
+  "ko": "작전 보고서"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "13744810711048192",
+  "en": "Civilian Complaint",
+  "ko": "민원"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "13744810723631106",
+  "en": "Civilian Complaint",
+  "ko": "민원"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "13744810727825408",
+  "en": "Fortune Favours the Bold",
+  "ko": "행운은 용감한 자의 것"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "13744810727825411",
+  "en": "Blighted Fortune",
+  "ko": "저주받은 행운"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "102822305792",
+  "en": "Bot",
+  "ko": "로봇"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "102847471616",
+  "en": "Boat",
+  "ko": "보트"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12133387178336256",
+  "en": "Reset",
+  "ko": "초기화"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12133387224473600",
+  "en": "Hat",
+  "ko": "모자"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12133387228667904",
+  "en": "Head",
+  "ko": "머리"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12133387228667905",
+  "en": "Body",
+  "ko": "몸통"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12133387228667906",
+  "en": "Change Colour",
+  "ko": "색상 변경"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102222782464",
+  "en": "Boat",
+  "ko": "보트"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725504",
+  "en": "Decals",
+  "ko": "데칼"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725505",
+  "en": "Rename",
+  "ko": "이름 변경"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725506",
+  "en": "Add",
+  "ko": "추가"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725507",
+  "en": "Clear",
+  "ko": "지우기"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725508",
+  "en": "Clone",
+  "ko": "복제"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725509",
+  "en": "Flip",
+  "ko": "뒤집기"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725510",
+  "en": "Remove",
+  "ko": "제거"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725511",
+  "en": "Swap Colour",
+  "ko": "색상 교체"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12224102264725512",
+  "en": "Move / Rotate",
+  "ko": "이동 / 회전"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12438340967063552",
+  "en": "Left/Right",
+  "ko": "좌/우"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12438341004812288",
+  "en": "Up/Down",
+  "ko": "위/아래"
+ },
+ {
+  "table": "Cosmetic UI - String",
+  "id": "12438341004812289",
+  "en": "Rotate",
+  "ko": "회전"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100507049984",
+  "en": "Programming",
+  "ko": "프로그래밍"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410112",
+  "en": "Co-Lead Programmer",
+  "ko": "공동 수석 프로그래머"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410113",
+  "en": "Programmer",
+  "ko": "프로그래머"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410114",
+  "en": "Art",
+  "ko": "아트"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410115",
+  "en": "Lead Artist",
+  "ko": "수석 아티스트"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410116",
+  "en": "2D Art Generalist",
+  "ko": "2D 아트 제너럴리스트"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410117",
+  "en": "Artist Intern",
+  "ko": "아티스트 인턴"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410118",
+  "en": "Sound",
+  "ko": "사운드"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410119",
+  "en": "Lead Sound Designer",
+  "ko": "수석 사운드 디자이너"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410120",
+  "en": "Supporting Sound Designer",
+  "ko": "사운드 디자이너"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410121",
+  "en": "Music",
+  "ko": "음악"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410122",
+  "en": "Lead Composer ",
+  "ko": "수석 작곡가 "
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410123",
+  "en": "Supporting Composer",
+  "ko": "작곡가"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410124",
+  "en": "Narrative and Writing",
+  "ko": "내러티브 및 각본"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100536410125",
+  "en": "Lead Narrative Designer",
+  "ko": "수석 내러티브 디자이너"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604416",
+  "en": "Game Design",
+  "ko": "게임 디자인"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604417",
+  "en": "Lead Game Designer",
+  "ko": "수석 게임 디자이너"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604418",
+  "en": "Game Design Support",
+  "ko": "게임 디자인 지원"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604419",
+  "en": "Quality Assurance",
+  "ko": "품질 보증"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604420",
+  "en": "Game Testing and QA",
+  "ko": "게임 테스트 및 QA"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604421",
+  "en": "Producers",
+  "ko": "프로듀서"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604422",
+  "en": "Executive Producer",
+  "ko": "총괄 프로듀서"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604423",
+  "en": "Publishing",
+  "ko": "퍼블리싱"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604424",
+  "en": "Special Thanks",
+  "ko": "특별 감사"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604425",
+  "en": "Writer",
+  "ko": "작가"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604426",
+  "en": "Story",
+  "ko": "스토리"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604427",
+  "en": "Story and Writing",
+  "ko": "스토리 및 각본"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604428",
+  "en": "Editing",
+  "ko": "교정"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604429",
+  "en": "Additional Writing",
+  "ko": "추가 각본"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604430",
+  "en": "Worldbuilding",
+  "ko": "세계관"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604431",
+  "en": "Dialogue",
+  "ko": "대사"
+ },
+ {
+  "table": "Credits - String",
+  "id": "100540604432",
+  "en": "Systems Programming",
+  "ko": "시스템 프로그래밍"
+ },
+ {
+  "table": "Credits - String",
+  "id": "2155339997765632",
+  "en": "Localization",
+  "ko": "현지화"
+ },
+ {
+  "table": "Credits - String",
+  "id": "2155340027125760",
+  "en": "Credits",
+  "ko": "크레딧"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660063436800",
+  "en": "Money",
+  "ko": "돈"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660067631104",
+  "en": "Inventory",
+  "ko": "인벤토리"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660067631105",
+  "en": "Feeding",
+  "ko": "먹이 주기"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660067631106",
+  "en": "Fishing",
+  "ko": "낚시"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660067631107",
+  "en": "Equipment",
+  "ko": "장비"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660067631108",
+  "en": "Save Data",
+  "ko": "세이브 데이터"
+ },
+ {
+  "table": "Dev Tools",
+  "id": "1660067631109",
+  "en": "Misc",
+  "ko": "기타"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229568",
+  "en": "Unknown Size",
+  "ko": "크기 미상"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229569",
+  "en": "Miniscule",
+  "ko": "극소"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229570",
+  "en": "Tiny",
+  "ko": "아주 작음"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229571",
+  "en": "Small",
+  "ko": "작음"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229572",
+  "en": "Below Average",
+  "ko": "평균 이하"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229573",
+  "en": "Average",
+  "ko": "평균"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229574",
+  "en": "Above Average",
+  "ko": "평균 이상"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229575",
+  "en": "Big",
+  "ko": "큰 편"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229576",
+  "en": "Large",
+  "ko": "큼"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229577",
+  "en": "Very Large",
+  "ko": "아주 큼"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229578",
+  "en": "Huge",
+  "ko": "거대"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229579",
+  "en": "Massive",
+  "ko": "엄청 거대"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229580",
+  "en": "Colossal",
+  "ko": "초거대"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229581",
+  "en": "Stupidly Big",
+  "ko": "말도 안 되게 큼"
+ },
+ {
+  "table": "Fish Sizes - String",
+  "id": "6808021229582",
+  "en": "Comically Big",
+  "ko": "웃길 만큼 큼"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478403",
+  "en": "Why, fishing of course!",
+  "ko": "왜, 당연히 낚시죠!"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4275377937436672",
+  "en": "???",
+  "ko": "???"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4366840230694912",
+  "en": "Handler",
+  "ko": "핸들러"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "4366840230694913",
+  "en": "Dolos",
+  "ko": "돌로스"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710900047872",
+  "en": "Move",
+  "ko": "이동"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242176",
+  "en": "Interact",
+  "ko": "상호작용"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242177",
+  "en": "Go Fishing",
+  "ko": "낚시 시작"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242178",
+  "en": "Coming Soon",
+  "ko": "출시 예정"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242180",
+  "en": "Shop",
+  "ko": "상점"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242181",
+  "en": "Feed",
+  "ko": "먹이 주기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242182",
+  "en": "Retract",
+  "ko": "회수"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242183",
+  "en": "Feed",
+  "ko": "먹이 주기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242184",
+  "en": "Next Fish",
+  "ko": "다음 물고기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242185",
+  "en": "Select",
+  "ko": "선택"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242186",
+  "en": "Expand",
+  "ko": "펼치기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242187",
+  "en": "Collapse",
+  "ko": "접기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242188",
+  "en": "Exit",
+  "ko": "나가기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242189",
+  "en": "Hold Q",
+  "ko": "Q 길게"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242190",
+  "en": "A & D",
+  "ko": "A & D"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242191",
+  "en": "Hold L- Mouse",
+  "ko": "왼쪽 마우스 길게"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242192",
+  "en": "Feeding Bag Empty",
+  "ko": "먹이 주머니 비었음"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242193",
+  "en": "Fish Bag Full",
+  "ko": "물고기 주머니 가득 참"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242194",
+  "en": "Fish Bag Empty",
+  "ko": "물고기 주머니 비었음"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "13792710904242195",
+  "en": "Prepared inventory full",
+  "ko": "준비 인벤토리 가득 참"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "22740819365584896",
+  "en": "Discard",
+  "ko": "버리기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "22740816924499968",
+  "en": "Discard",
+  "ko": "버리기"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "22740815095783424",
+  "en": "Swap",
+  "ko": "교체"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "24703097728131072",
+  "en": "Pick Baits",
+  "ko": "미끼 선택"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "24703104325771264",
+  "en": "No Baits Available",
+  "ko": "사용 가능한 미끼 없음"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "24703683710148608",
+  "en": "Closed",
+  "ko": "닫힘"
+ },
+ {
+  "table": "Input Actions - String",
+  "id": "34548550682533888",
+  "en": "Prepare",
+  "ko": "손질"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199105",
+  "en": "Next",
+  "ko": "다음"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199106",
+  "en": "Previous",
+  "ko": "이전"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199109",
+  "en": "Fish",
+  "ko": "물고기"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199111",
+  "en": "Scale",
+  "ko": "비늘 손질"
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199113",
+  "en": "Feed ",
+  "ko": "먹이 주기 "
+ },
+ {
+  "table": "Intro Slides - String",
+  "id": "14864852945199118",
+  "en": "More To Come",
+  "ko": "더 많은 콘텐츠"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253812",
+  "en": "False Lead",
+  "ko": "잘못된 단서"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253811",
+  "en": "Find the placeholder fish.",
+  "ko": "플레이스홀더 물고기를 찾으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253810",
+  "en": "Ship It Anyway",
+  "ko": "일단 출시"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253804",
+  "en": "Clear Plan",
+  "ko": "명확한 계획"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253802",
+  "en": "Blue Veins",
+  "ko": "푸른 핏줄"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253800",
+  "en": "Family Ties",
+  "ko": "가족의 인연"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253798",
+  "en": "Hidden Treasure",
+  "ko": "숨겨진 보물"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253796",
+  "en": "Out of This World",
+  "ko": "세상 밖의 것"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253794",
+  "en": "No Stone Unturned",
+  "ko": "빈틈없는 탐색"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253790",
+  "en": "Secret Catch",
+  "ko": "비밀 포획"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253774",
+  "en": "You Again?",
+  "ko": "또 너야?"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253770",
+  "en": "Chopping",
+  "ko": "잘라내기"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253808",
+  "en": "Dust to Dust",
+  "ko": "흙으로 돌아가라"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253807",
+  "en": "",
+  "ko": ""
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253806",
+  "en": "Dead Reckoning",
+  "ko": "추측 항법"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253792",
+  "en": "Loched and Loaded",
+  "ko": "네스호 장전 완료"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253789",
+  "en": "Catch all legendary fish.",
+  "ko": "전설의 물고기를 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253788",
+  "en": "The Legends Were True",
+  "ko": "전설은 사실이었다"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253786",
+  "en": "No Refunds",
+  "ko": "환불 불가"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253784",
+  "en": "Written Off",
+  "ko": "감가 상각"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253782",
+  "en": "Prep the Rainbow",
+  "ko": "무지개 손질"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253781",
+  "en": "Prepare all Pufferfish variants.",
+  "ko": "복어 변종을 모두 손질하세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253780",
+  "en": "Puffy",
+  "ko": "뽀글이"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253778",
+  "en": "Catch and Release",
+  "ko": "포획 후 방류"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253776",
+  "en": "Patience Makes Perfect",
+  "ko": "인내가 완성을 만든다"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253772",
+  "en": "Speed Machine",
+  "ko": "스피드 머신"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253768",
+  "en": "Barnacles",
+  "ko": "따개비"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253766",
+  "en": "Parasites",
+  "ko": "기생충"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253764",
+  "en": "Scales",
+  "ko": "비늘"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253762",
+  "en": "Algae",
+  "ko": "조류"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253760",
+  "en": "Elite Explorer",
+  "ko": "엘리트 탐험가"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253758",
+  "en": "Elusive Customer Entertainer",
+  "ko": "까다로운 손님 감동시키기"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253756",
+  "en": "Fashion Icon",
+  "ko": "패션 아이콘"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253754",
+  "en": "Decal Delighter",
+  "ko": "데칼 마니아"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253752",
+  "en": "Boat Collector",
+  "ko": "보트 수집가"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253750",
+  "en": "Master of Bait",
+  "ko": "미끼의 달인"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253748",
+  "en": "Deep Pockets",
+  "ko": "두둑한 주머니"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253746",
+  "en": "Prep Expert",
+  "ko": "손질 전문가"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253744",
+  "en": "True Fisherbot",
+  "ko": "진정한 낚시 로봇"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253742",
+  "en": "5 Star Service",
+  "ko": "5성급 서비스"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253740",
+  "en": "Customer Connoisseur",
+  "ko": "손님 감정가"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253738",
+  "en": "New Shop Items",
+  "ko": "새 상점 아이템"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253737",
+  "en": "New Customer:\n{CustomerName}",
+  "ko": "새 손님:\n{CustomerName}"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253736",
+  "en": "New Customer Fed!",
+  "ko": "새 손님에게 먹이를 줬습니다!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253735",
+  "en": "New Species:\n{FishName}",
+  "ko": "새 어종:\n{FishName}"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253734",
+  "en": "New Species Caught",
+  "ko": "새 어종 포획"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253732",
+  "en": "Time to spend!",
+  "ko": "돈을 쓸 시간!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253730",
+  "en": "A Bait and Switch",
+  "ko": "미끼 바꿔치기"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253728",
+  "en": "New Boat! New You!",
+  "ko": "새 보트! 새 시작!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253726",
+  "en": "That's a stinker...",
+  "ko": "이건 좀 냄새나네..."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253724",
+  "en": "A Favorite Found!",
+  "ko": "선호 어종 발견!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253722",
+  "en": "Tip Obtained!",
+  "ko": "팁 획득!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253720",
+  "en": "Perfection!",
+  "ko": "완벽!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253718",
+  "en": "First Catch!",
+  "ko": "첫 포획!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253717",
+  "en": "Entry for {TutorialTitle} added.",
+  "ko": "{TutorialTitle} 항목이 추가되었습니다."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253716",
+  "en": "New CARP Entry ",
+  "ko": "새 CARP 항목 "
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253714",
+  "en": "Boat Decal Found",
+  "ko": "보트 데칼 발견"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253712",
+  "en": "Bottled Message Discovered",
+  "ko": "병 속 편지 발견"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253710",
+  "en": "Boat Blueprint Found",
+  "ko": "보트 설계도 발견"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253708",
+  "en": "Bait Found",
+  "ko": "미끼 발견"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253706",
+  "en": "Artifact Discovered",
+  "ko": "유물 발견"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253704",
+  "en": "Cosmetic Collected",
+  "ko": "꾸미기 아이템 획득"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253703",
+  "en": "Quite the impressive catch! ",
+  "ko": "정말 대단한 포획입니다! "
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253702",
+  "en": "{LevelName} Legendary Fish Caught!",
+  "ko": "{LevelName} 전설의 물고기 포획!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253700",
+  "en": "{LevelName}  All Data Obtained!",
+  "ko": "{LevelName}  모든 데이터 획득!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253698",
+  "en": "New Level Available!",
+  "ko": "새 지역 개방!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253697",
+  "en": "Another satified customer",
+  "ko": "또 한 명의 만족한 손님"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "15659414756253696",
+  "en": "{LevelName} Legendary Customer Satified",
+  "ko": "{LevelName} 전설의 손님 만족"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734098870272",
+  "en": "Crowning Achievement",
+  "ko": "최고의 업적"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619008",
+  "en": "Finish the main game!",
+  "ko": "메인 게임을 완료하세요!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619009",
+  "en": "Captain's Choice",
+  "ko": "선장의 선택"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619010",
+  "en": "Name your boat",
+  "ko": "보트 이름 짓기"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619011",
+  "en": "Fishing Frenzy ",
+  "ko": "낚시 광란 "
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619013",
+  "en": "Explosive Expedition",
+  "ko": "폭발적인 탐사"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619015",
+  "en": "Lost and Found",
+  "ko": "분실물 센터"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619016",
+  "en": "Find all artifacts.",
+  "ko": "모든 유물을 찾으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619017",
+  "en": "Ya Bit!",
+  "ko": "물었지!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619019",
+  "en": "Full Lifecycle",
+  "ko": "전 생애 주기"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619021",
+  "en": "Social Butterflyfish",
+  "ko": "사교적인 나비고기"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619022",
+  "en": "Catch all butterflyfish variants.",
+  "ko": "나비고기 변종을 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619023",
+  "en": "Puff Piece",
+  "ko": "복어 특집"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619024",
+  "en": "Catch all Pufferfish variants.",
+  "ko": "복어 변종을 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619025",
+  "en": "Charred to Perfection",
+  "ko": "완벽하게 구워진"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619027",
+  "en": "Long Live the King",
+  "ko": "왕이여 영원하라"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619029",
+  "en": "Holy Crappie",
+  "ko": "이런, 크래피!"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619030",
+  "en": "Catch all Crappie variants.",
+  "ko": "크래피 변종을 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619031",
+  "en": "Snap Decision",
+  "ko": "즉석 판단"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619032",
+  "en": "Catch all Snapper variants.",
+  "ko": "도미 변종을 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619033",
+  "en": "Reef Recorder",
+  "ko": "산호초 기록자"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619034",
+  "en": "Catch all Cornetfish variants.",
+  "ko": "대나무고기 변종을 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619035",
+  "en": "Point Taken",
+  "ko": "요점 인정"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619036",
+  "en": "Catch all Stickleback variants.",
+  "ko": "큰가시고기 변종을 모두 낚으세요."
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619037",
+  "en": "Written Off",
+  "ko": "감가 상각"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "37489734136619039",
+  "en": "Go Fish",
+  "ko": "고 피시"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "52667045420982272",
+  "en": "Catch and Release",
+  "ko": "포획 후 방류"
+ },
+ {
+  "table": "Notifications - String",
+  "id": "52667045475508225",
+  "en": "Fish Detective",
+  "ko": "물고기 탐정"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890304",
+  "en": "Leave",
+  "ko": "나가기"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890305",
+  "en": "Discard",
+  "ko": "버리기"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890309",
+  "en": "Done Scaling?",
+  "ko": "비늘 손질을 마칠까요?"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890311",
+  "en": "Yes",
+  "ko": "예"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890312",
+  "en": "No",
+  "ko": "아니요"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890313",
+  "en": "Next Item",
+  "ko": "다음 아이템"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890314",
+  "en": "Next",
+  "ko": "다음"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890332",
+  "en": "Complete!",
+  "ko": "완료!"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890333",
+  "en": "Perfect!",
+  "ko": "완벽!"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898529890335",
+  "en": "fish",
+  "ko": "물고기"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084608",
+  "en": "item",
+  "ko": "아이템"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084609",
+  "en": "Collect",
+  "ko": "수집"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "11277898534084610",
+  "en": "Click to Open Message",
+  "ko": "클릭하여 메시지 열기"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "32029861865316352",
+  "en": "Skip Phase",
+  "ko": "단계 건너뛰기"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "32842298474618880",
+  "en": "Swap Knife",
+  "ko": "칼 교체"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "32842298508173312",
+  "en": "Interact",
+  "ko": "상호작용"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "32842298508173313",
+  "en": "Camera Pan",
+  "ko": "카메라 이동"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "34554404462911488",
+  "en": "Boost",
+  "ko": "부스트"
+ },
+ {
+  "table": "Prep Area - String",
+  "id": "34554404496465920",
+  "en": "Speed Up",
+  "ko": "빠르게"
+ },
+ {
+  "table": "Setting - String",
+  "id": "6020309227397120",
+  "en": "Reset {\"\"} Setting",
+  "ko": "{\"\"} 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077632",
+  "en": "Paused",
+  "ko": "일시정지됨"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077633",
+  "en": "Resume",
+  "ko": "계속하기"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077634",
+  "en": "Settings",
+  "ko": "설정"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077635",
+  "en": "Quit To Title",
+  "ko": "타이틀로 나가기"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077636",
+  "en": "Audio",
+  "ko": "오디오"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077637",
+  "en": "Master Audio",
+  "ko": "마스터 오디오"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077638",
+  "en": "SFX Audio",
+  "ko": "효과음"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077639",
+  "en": "Music Audio",
+  "ko": "음악"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077640",
+  "en": "Ambience Audio",
+  "ko": "환경음"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077641",
+  "en": "Reset Audio Settings",
+  "ko": "오디오 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077642",
+  "en": "Reset All Settings",
+  "ko": "모든 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077643",
+  "en": "Gameplay",
+  "ko": "게임플레이"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077644",
+  "en": "Language",
+  "ko": "언어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077645",
+  "en": "Tutorial Prompts",
+  "ko": "튜토리얼 안내"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077646",
+  "en": "Yes",
+  "ko": "예"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077647",
+  "en": "No",
+  "ko": "아니요"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077648",
+  "en": "Control Scheme",
+  "ko": "조작 방식"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077649",
+  "en": "Default",
+  "ko": "기본"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077650",
+  "en": "Classic",
+  "ko": "클래식"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077651",
+  "en": "Reset Gameplay Settings",
+  "ko": "게임플레이 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077652",
+  "en": "Controls",
+  "ko": "조작"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077653",
+  "en": "Performance",
+  "ko": "성능"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077654",
+  "en": "Fish Render Distance",
+  "ko": "물고기 표시 거리"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077655",
+  "en": "Low",
+  "ko": "낮음"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077656",
+  "en": "Medium",
+  "ko": "보통"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077657",
+  "en": "High",
+  "ko": "높음"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077658",
+  "en": "Performance Level",
+  "ko": "성능 수준"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077659",
+  "en": "Custom",
+  "ko": "사용자 설정"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077660",
+  "en": "Particles",
+  "ko": "파티클"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077661",
+  "en": "Reset Performace Settings",
+  "ko": "성능 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077662",
+  "en": "Video",
+  "ko": "화면"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077663",
+  "en": "Resolution",
+  "ko": "해상도"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077664",
+  "en": "Fullscreen",
+  "ko": "전체 화면"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077665",
+  "en": "Window Mode",
+  "ko": "창 모드"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077666",
+  "en": "Window Borderless",
+  "ko": "테두리 없는 창"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077667",
+  "en": "Windowed",
+  "ko": "창 모드"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077668",
+  "en": "Vsync",
+  "ko": "수직 동기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077669",
+  "en": "Brightness",
+  "ko": "밝기"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077670",
+  "en": "Cursor Size",
+  "ko": "커서 크기"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077671",
+  "en": "Small",
+  "ko": "작음"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077672",
+  "en": "Regular",
+  "ko": "보통"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077673",
+  "en": "Large",
+  "ko": "큼"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077674",
+  "en": "Reset Video Settings",
+  "ko": "화면 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077675",
+  "en": "Color Blind Mode",
+  "ko": "색약 모드"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077676",
+  "en": "Off",
+  "ko": "끔"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077677",
+  "en": "Red-Blind",
+  "ko": "적색약"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077678",
+  "en": "Green-Blind",
+  "ko": "녹색약"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077679",
+  "en": "Blue-Blind",
+  "ko": "청색약"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077680",
+  "en": "Text Size",
+  "ko": "텍스트 크기"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077681",
+  "en": "Controller Rumble",
+  "ko": "컨트롤러 진동"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077682",
+  "en": "Reset Accessibility Settings",
+  "ko": "접근성 설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077683",
+  "en": "Reset Level Save Data",
+  "ko": "레벨 저장 데이터 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077684",
+  "en": "Reset",
+  "ko": "초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077686",
+  "en": "Save Settings",
+  "ko": "설정 저장"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077687",
+  "en": "Chinese ",
+  "ko": "중국어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077688",
+  "en": "English",
+  "ko": "영어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077689",
+  "en": "Uncapped",
+  "ko": "제한 없음"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077690",
+  "en": "On",
+  "ko": "켬"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077692",
+  "en": "Frame Rate",
+  "ko": "프레임 레이트"
+ },
+ {
+  "table": "Setting - String",
+  "id": "17038211179077694",
+  "en": "Invert Controls",
+  "ko": "조작 반전"
+ },
+ {
+  "table": "Setting - String",
+  "id": "18098846260256768",
+  "en": "Reset All Controls",
+  "ko": "모든 조작 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "18102712271888384",
+  "en": "Accessibility",
+  "ko": "접근성"
+ },
+ {
+  "table": "Setting - String",
+  "id": "18885211872813056",
+  "en": "Uncapped ",
+  "ko": "제한 없음 "
+ },
+ {
+  "table": "Setting - String",
+  "id": "18885211117838336",
+  "en": "144",
+  "ko": "144"
+ },
+ {
+  "table": "Setting - String",
+  "id": "18885203719086080",
+  "en": "60",
+  "ko": "60"
+ },
+ {
+  "table": "Setting - String",
+  "id": "18885199038242816",
+  "en": "30",
+  "ko": "30"
+ },
+ {
+  "table": "Setting - String",
+  "id": "35924962144411648",
+  "en": "Polish",
+  "ko": "폴란드어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "35924951264387072",
+  "en": "French",
+  "ko": "프랑스어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "35924940770238464",
+  "en": "Japanese",
+  "ko": "한국어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "35924931098173440",
+  "en": "German",
+  "ko": "독일어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "35924917244387328",
+  "en": "Spanish",
+  "ko": "스페인어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "36970128720519168",
+  "en": "Reset Settings",
+  "ko": "설정 초기화"
+ },
+ {
+  "table": "Setting - String",
+  "id": "37790093098868736",
+  "en": "Russian",
+  "ko": "러시아어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066624",
+  "en": "Max Frame Rate",
+  "ko": "최대 프레임 레이트"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066625",
+  "en": "120",
+  "ko": "120"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066626",
+  "en": "Knife Engage Mode",
+  "ko": "칼 사용 방식"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066627",
+  "en": "Knife Scaling Mode",
+  "ko": "칼 손질 방식"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066628",
+  "en": "Hold",
+  "ko": "길게 누르기"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066629",
+  "en": "Toggle",
+  "ko": "전환"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066630",
+  "en": "Fish Detail",
+  "ko": "물고기 디테일"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066631",
+  "en": "Screen Shake",
+  "ko": "화면 흔들림"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066632",
+  "en": "Reduced Motion",
+  "ko": "모션 감소"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066633",
+  "en": "Aspect",
+  "ko": "화면비"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066634",
+  "en": "Aspect Ratio",
+  "ko": "화면 비율"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066635",
+  "en": "Default",
+  "ko": "기본"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066636",
+  "en": "16:9",
+  "ko": "16:9"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066637",
+  "en": "16:10",
+  "ko": "16:10"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066638",
+  "en": "3:2",
+  "ko": "3:2"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066639",
+  "en": "4:3",
+  "ko": "4:3"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066640",
+  "en": "21:9",
+  "ko": "21:9"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066641",
+  "en": "32:9",
+  "ko": "32:9"
+ },
+ {
+  "table": "Setting - String",
+  "id": "40314718903066642",
+  "en": "9:16",
+  "ko": "9:16"
+ },
+ {
+  "table": "Setting - String",
+  "id": "49921711372492800",
+  "en": "Alternate Parasites",
+  "ko": "기생충 대체 표현"
+ },
+ {
+  "table": "Setting - String",
+  "id": "49921711385075712",
+  "en": "Censor Parasites",
+  "ko": "기생충 검열"
+ },
+ {
+  "table": "Setting - String",
+  "id": "58804841911148544",
+  "en": "Turkish",
+  "ko": "터키어"
+ },
+ {
+  "table": "Setting - String",
+  "id": "59002410629062656",
+  "en": "Regular",
+  "ko": "보통"
+ },
+ {
+  "table": "Setting - String",
+  "id": "59002410671005696",
+  "en": "Large",
+  "ko": "큼"
+ },
+ {
+  "table": "Setting - String",
+  "id": "59002410671005697",
+  "en": "Extra Large",
+  "ko": "아주 큼"
+ },
+ {
+  "table": "Setting - String",
+  "id": "59002410671005698",
+  "en": "Default Profile",
+  "ko": "기본 프로필"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "121931554816",
+  "en": "The Global Collection",
+  "ko": "글로벌 컬렉션"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "121969303552",
+  "en": "{LevelName} Collection",
+  "ko": "{LevelName} 컬렉션"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "121969303553",
+  "en": "The Global Collection",
+  "ko": "글로벌 컬렉션"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "121969303554",
+  "en": "{LevelName} Collection",
+  "ko": "{LevelName} 컬렉션"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "121977692160",
+  "en": "Sale",
+  "ko": "할인"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "121977692161",
+  "en": "Sold",
+  "ko": "판매됨"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "10838516686848",
+  "en": "Equipped",
+  "ko": "장착됨"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "10838558629888",
+  "en": "Enter",
+  "ko": "들어가기"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "54479016681472",
+  "en": "Shop",
+  "ko": "상점"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "4277408974622720",
+  "en": "Equip",
+  "ko": "장착"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "4448773321117696",
+  "en": "Inventory",
+  "ko": "인벤토리"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "4448773371449344",
+  "en": "Cancel",
+  "ko": "취소"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "4451434774777856",
+  "en": "Local Gear",
+  "ko": "지역 장비"
+ },
+ {
+  "table": "Shop UI - String",
+  "id": "4451434774777857",
+  "en": "Global Gear",
+  "ko": "글로벌 장비"
+ },
+ {
+  "table": "Title Screen -  String",
+  "id": "178500132864",
+  "en": "Play",
+  "ko": "플레이"
+ },
+ {
+  "table": "Title Screen -  String",
+  "id": "182031736832",
+  "en": "About",
+  "ko": "정보"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8646097123528704",
+  "en": "C.A.R.P. Manual",
+  "ko": "C.A.R.P. 설명서"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8706741558431744",
+  "en": "Fishing",
+  "ko": "낚시"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8706741591986176",
+  "en": "Fish On!",
+  "ko": "입질이다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8999904932122624",
+  "en": "Legendary fish incoming!",
+  "ko": "전설의 물고기가 온다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "8999904974065665",
+  "en": "Resting Strong",
+  "ko": "든든한 휴식"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "9000399314735104",
+  "en": "Legendary Catches",
+  "ko": "전설의 포획"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "9135645007925248",
+  "en": "???",
+  "ko": "???"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311905906688",
+  "en": "Scaling",
+  "ko": "비늘 손질"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311922683908",
+  "en": "Chopping",
+  "ko": "잘라내기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655426",
+  "en": "Barnacles",
+  "ko": "따개비"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655427",
+  "en": "Barnacles make an appearance",
+  "ko": "따개비가 나타났습니다"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655429",
+  "en": "Parasites",
+  "ko": "기생충"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655430",
+  "en": "It's pest control time!",
+  "ko": "해충 퇴치 시간입니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655432",
+  "en": "Liked & Disliked Fish",
+  "ko": "선호 및 비선호 어종"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655433",
+  "en": "Hone your service!",
+  "ko": "서비스를 갈고닦으세요!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655435",
+  "en": "Picky eaters.",
+  "ko": "입맛이 까다롭죠."
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655437",
+  "en": "Prep & Caught Trays",
+  "ko": "손질 및 포획 트레이"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655440",
+  "en": "Bonus Knife Info",
+  "ko": "추가 칼 정보"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13533311943655441",
+  "en": "Knife to know info!",
+  "ko": "알면 좋은 칼 정보!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13542817197015040",
+  "en": "Boat Customization",
+  "ko": "보트 꾸미기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "13542817238958082",
+  "en": "Decals, decals, decals!",
+  "ko": "데칼, 데칼, 데칼!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "17057143806873600",
+  "en": "Close",
+  "ko": "닫기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "18380464222453760",
+  "en": "Prep Phases",
+  "ko": "손질 단계"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "18380464276979712",
+  "en": "Which Tray, Your Way",
+  "ko": "원하는 트레이, 마음대로"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "19595471580905472",
+  "en": "Algae",
+  "ko": "조류"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "20688754356862976",
+  "en": "Bait",
+  "ko": "미끼"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "20688754432360448",
+  "en": "Don't Wait! Here's Bait!",
+  "ko": "기다리지 마세요! 미끼입니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "20759397499133952",
+  "en": "Bait",
+  "ko": "미끼"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "20759397532688384",
+  "en": "Don't Wait! Here's Bait!",
+  "ko": "기다리지 마세요! 미끼입니다!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959809957888",
+  "en": "Low health fish",
+  "ko": "체력이 낮은 물고기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318016",
+  "en": "Reel Time",
+  "ko": "릴 감기 시간"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318017",
+  "en": "Bag Size",
+  "ko": "주머니 크기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318018",
+  "en": "Scaled",
+  "ko": "손질됨"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318019",
+  "en": "Damaged",
+  "ko": "손상됨"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318020",
+  "en": "Untouched",
+  "ko": "손대지 않음"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318021",
+  "en": "Skip Phase Button",
+  "ko": "단계 건너뛰기 버튼"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318022",
+  "en": "Progress Bar",
+  "ko": "진행 바"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318023",
+  "en": "Phase Indicator",
+  "ko": "단계 표시기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318024",
+  "en": "Cut highlighted parts",
+  "ko": "표시된 부분을 잘라내세요"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318027",
+  "en": "Clean off the algae!",
+  "ko": "조류를 닦아내세요!"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318028",
+  "en": "Fish feeding value",
+  "ko": "물고기 먹이 가치"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318029",
+  "en": "Expand Tray",
+  "ko": "트레이 펼치기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318030",
+  "en": "Swap Tray",
+  "ko": "트레이 교체"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318031",
+  "en": "Discard All Fish",
+  "ko": "모든 물고기 버리기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318032",
+  "en": "Discard Specific Fish",
+  "ko": "특정 물고기 버리기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318033",
+  "en": "Double-sided blade",
+  "ko": "양날 칼날"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318034",
+  "en": "High scaling speed",
+  "ko": "빠른 손질 속도"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318035",
+  "en": "Bonus barnacle damage",
+  "ko": "따개비 추가 피해"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318036",
+  "en": "Copy",
+  "ko": "복사"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318037",
+  "en": "Flip",
+  "ko": "뒤집기"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318038",
+  "en": "Delete",
+  "ko": "삭제"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318039",
+  "en": "Move or rotate decal",
+  "ko": "데칼 이동 또는 회전"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318040",
+  "en": "Paint Decal",
+  "ko": "데칼 색칠"
+ },
+ {
+  "table": "Tutorial Text - String",
+  "id": "23283959839318041",
+  "en": "Artifact Decal",
+  "ko": "유물 데칼"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222557102080",
+  "en": "PROGRESS",
+  "ko": "진행도"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222603239424",
+  "en": "Customers:",
+  "ko": "손님:"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433728",
+  "en": "Records",
+  "ko": "기록"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433729",
+  "en": "Money:",
+  "ko": "소지금:"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433730",
+  "en": "Treasures:",
+  "ko": "보물:"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433731",
+  "en": "Exploration:",
+  "ko": "탐험:"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433732",
+  "en": "Max Depth",
+  "ko": "최대 수심"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433733",
+  "en": "Level Locked",
+  "ko": "잠긴 지역"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433734",
+  "en": "Start",
+  "ko": "시작"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433735",
+  "en": "Continue",
+  "ko": "계속"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433736",
+  "en": "Reset",
+  "ko": "초기화"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433737",
+  "en": "Yes",
+  "ko": "예"
+ },
+ {
+  "table": "World Select UI",
+  "id": "222607433738",
+  "en": "No",
+  "ko": "아니요"
+ },
+ {
+  "table": "World Select UI",
+  "id": "3593129156608",
+  "en": "FEESH GPS",
+  "ko": "FEESH GPS"
+ },
+ {
+  "table": "World Select UI",
+  "id": "317832666537984",
+  "en": "NEW",
+  "ko": "신규"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738688",
+  "en": "Loch Ness",
+  "ko": "네스호"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738689",
+  "en": "Scotland,\nUnited Kingdom",
+  "ko": "영국,\n스코틀랜드"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738696",
+  "en": "Outer Banks",
+  "ko": "아우터뱅크스"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738697",
+  "en": "North Carolina, USA",
+  "ko": "미국, 노스캐롤라이나"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738704",
+  "en": "Point Nemo",
+  "ko": "포인트 네모"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738705",
+  "en": "Pacific Ocean",
+  "ko": "태평양"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738712",
+  "en": "Huatulco",
+  "ko": "우아툴코"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738713",
+  "en": "Oaxaca, Mexico",
+  "ko": "멕시코, 오아하카"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "6669210738729",
+  "en": "Chop Chop!",
+  "ko": "서두르세요!"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174787",
+  "en": "Synchronizing GPS coordinates.",
+  "ko": "GPS 좌표 동기화 중."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174788",
+  "en": "Establishing satellite link.",
+  "ko": "위성 연결 설정 중."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174789",
+  "en": "Updating navigation grid.",
+  "ko": "항법 격자 갱신 중."
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3579705453174790",
+  "en": "Global Positioning System (GPS)",
+  "ko": "지구 위치 확인 시스템 (GPS)"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3580272015564800",
+  "en": "Fish Preparation",
+  "ko": "물고기 손질"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3580272015564801",
+  "en": "Title Screen",
+  "ko": "타이틀 화면"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3581031067148288",
+  "en": "Level Select",
+  "ko": "지역 선택"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "3581031067148289",
+  "en": "Testing Void",
+  "ko": "테스트 공간"
+ },
+ {
+  "table": "Worlds - String",
+  "id": "14398834212855808",
+  "en": "View Collectibles",
+  "ko": "수집품 보기"
+ }
+]

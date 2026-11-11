@@ -1,0 +1,3062 @@
+[
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954368",
+  "en": "Sputnik 1",
+  "ko": "스푸트니크 1호"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954371",
+  "en": "Nessie Plush",
+  "ko": "네시 인형"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954374",
+  "en": "English Shield ",
+  "ko": "잉글랜드 방패"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954377",
+  "en": "Pictish Stone",
+  "ko": "픽트족 석판"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148672",
+  "en": "Field Camera",
+  "ko": "현장 카메라"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148675",
+  "en": "Bio-Specimen Containment Unit ",
+  "ko": "생물 표본 보관 용기"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148678",
+  "en": "Sonar Receiver",
+  "ko": "소나 수신기"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148681",
+  "en": "Rusty Compass",
+  "ko": "녹슨 나침반"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148684",
+  "en": "Spanish Doubloon",
+  "ko": "스페인 금화"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148687",
+  "en": "Jar of Dirt",
+  "ko": "흙 단지"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148690",
+  "en": "Rat King Plush",
+  "ko": "쥐왕 인형"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148693",
+  "en": "Canned Bread",
+  "ko": "통조림 빵"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148696",
+  "en": "Asteroid Fragment",
+  "ko": "소행성 조각"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148699",
+  "en": "Submersible Controller",
+  "ko": "잠수정 조종기"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148702",
+  "en": "Sextant",
+  "ko": "육분의"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148705",
+  "en": "Loaded Support Sphere",
+  "ko": "충전된 보조 구체"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148708",
+  "en": "Toy Submarine",
+  "ko": "장난감 잠수함"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148711",
+  "en": "Deep-Sea Drone",
+  "ko": "심해 드론"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148714",
+  "en": "Canadarm2",
+  "ko": "캐나다암 2"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148717",
+  "en": "Aztec Sun Stone",
+  "ko": "아즈텍 태양의 돌"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148720",
+  "en": "Coffee Cup",
+  "ko": "커피 컵"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148723",
+  "en": "Rubber Ball",
+  "ko": "고무공"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679369342976",
+  "en": "Obsidian Arrowhead",
+  "ko": "흑요석 화살촉"
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679369342979",
+  "en": "Quetzalcóatl Statue",
+  "ko": "케찰코아틀 석상"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453674676224",
+  "en": "Puzzle",
+  "ko": "퍼즐"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453691453440",
+  "en": "Shop",
+  "ko": "상점"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453691453441",
+  "en": "Explore",
+  "ko": "탐험"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453691453442",
+  "en": "Visual",
+  "ko": "시각"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647744",
+  "en": "Active",
+  "ko": "활성"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647745",
+  "en": "Inactive",
+  "ko": "비활성"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647746",
+  "en": "Banana Peel",
+  "ko": "바나나 껍질"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647748",
+  "en": "Rubber Glove",
+  "ko": "고무장갑"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647752",
+  "en": "Spring",
+  "ko": "용수철"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647754",
+  "en": "Compass",
+  "ko": "나침반"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507312231702528",
+  "en": "Bouncy Hook",
+  "ko": "탱탱 후크"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647760",
+  "en": "Magnet",
+  "ko": "자석"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647762",
+  "en": "Recycler",
+  "ko": "재활용기"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647764",
+  "en": "Pesticide",
+  "ko": "살충제"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647768",
+  "en": "Favourite Fish Finder",
+  "ko": "애용하는 어군 탐지기"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647772",
+  "en": "Pouch",
+  "ko": "파우치"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647774",
+  "en": "Pressure Shot",
+  "ko": "압력탄"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507089753235456",
+  "en": "Old Camera",
+  "ko": "낡은 카메라"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507089765818368",
+  "en": "Cotton Ball",
+  "ko": "솜뭉치"
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507089765818370",
+  "en": "Barrel Buster",
+  "ko": "통 분쇄기"
+ },
+ {
+  "table": "Baits - String",
+  "id": "14094939267784704",
+  "en": "Chisel",
+  "ko": "끌"
+ },
+ {
+  "table": "Baits - String",
+  "id": "14094939280367616",
+  "en": "Bubble Wrap",
+  "ko": "뽁뽁이"
+ },
+ {
+  "table": "Baits - String",
+  "id": "19366391950426112",
+  "en": "Scaling",
+  "ko": "비늘질"
+ },
+ {
+  "table": "Baits - String",
+  "id": "19366392059478016",
+  "en": "Hazard",
+  "ko": "위험"
+ },
+ {
+  "table": "Baits - String",
+  "id": "19366392059478017",
+  "en": "Combat",
+  "ko": "전투"
+ },
+ {
+  "table": "Baits - String",
+  "id": "19366392080449536",
+  "en": "Sewing Needle",
+  "ko": "바늘"
+ },
+ {
+  "table": "Baits - String",
+  "id": "20005434753105920",
+  "en": "Shark Tooth",
+  "ko": "상어 이빨"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17611494089809920",
+  "en": "Viking Longship",
+  "ko": "바이킹 랑스킵"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17612281985622016",
+  "en": "Human Mask",
+  "ko": "인간 가면"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17612517307047936",
+  "en": "A Human face?",
+  "ko": "인간의 얼굴?"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17612533622890496",
+  "en": "Pig Tails",
+  "ko": "양갈래 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17613011240869888",
+  "en": "Plate Armor Set",
+  "ko": "판금 갑옷 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17613072737755136",
+  "en": "Plate Armor Set",
+  "ko": "판금 갑옷 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17648732089606144",
+  "en": "Top Hat",
+  "ko": "실크햇"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17648889032073216",
+  "en": "Tourist Hat",
+  "ko": "관광객 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17649802970914816",
+  "en": "Cat Onesie",
+  "ko": "고양이 잠옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17649949851246592",
+  "en": "Cowboy",
+  "ko": "카우보이"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650027894661120",
+  "en": "Headphones",
+  "ko": "헤드폰"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650114536398848",
+  "en": "Pirate Bandana",
+  "ko": "해적 반다나"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650583740604416",
+  "en": "Astronaut Set",
+  "ko": "우주비행사 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650652955009024",
+  "en": "Diving Helmet",
+  "ko": "잠수 헬멧"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650753463115776",
+  "en": "Diving Suit",
+  "ko": "잠수복"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650856148066304",
+  "en": "Ducky Tube",
+  "ko": "오리 튜브"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17650955003617280",
+  "en": "Fedora",
+  "ko": "페도라"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17651021466558464",
+  "en": "Flower",
+  "ko": "꽃"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "17651087354880000",
+  "en": "RetroTV",
+  "ko": "복고풍 TV"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383832797184",
+  "en": "Knights Armor",
+  "ko": "기사 갑옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545920",
+  "en": "Knights Armor",
+  "ko": "기사 갑옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545921",
+  "en": "Knights Helm",
+  "ko": "기사 투구"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545922",
+  "en": "Knights Helm",
+  "ko": "기사 투구"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545923",
+  "en": "Top Hat",
+  "ko": "실크햇"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545924",
+  "en": "Tourist Hat",
+  "ko": "관광객 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545925",
+  "en": "Tourist Shirt",
+  "ko": "관광객 셔츠"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545926",
+  "en": "Captain Set",
+  "ko": "선장 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545927",
+  "en": "Captain Set",
+  "ko": "선장 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545928",
+  "en": "Pirate Captain Hat",
+  "ko": "해적 선장 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545929",
+  "en": "Pirate Captain Hat",
+  "ko": "해적 선장 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545930",
+  "en": "Pirate Captain Clothes",
+  "ko": "해적 선장 옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545931",
+  "en": "Pirate Captain Clothes",
+  "ko": "해적 선장 옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545932",
+  "en": "Cat Ears",
+  "ko": "고양이 귀"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545933",
+  "en": "Cat Ears",
+  "ko": "고양이 귀"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545934",
+  "en": "Cat Onesie",
+  "ko": "고양이 잠옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545935",
+  "en": "Cowboy",
+  "ko": "카우보이"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545936",
+  "en": "Headphones",
+  "ko": "헤드폰"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545937",
+  "en": "Pirate Bandana",
+  "ko": "해적 반다나"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545938",
+  "en": "Astronaut Set",
+  "ko": "우주비행사 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545939",
+  "en": "Astronaut Suit",
+  "ko": "우주복"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545940",
+  "en": "Astronaut Suit",
+  "ko": "우주복"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545941",
+  "en": "Astronaut Helmet",
+  "ko": "우주 헬멧"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545942",
+  "en": "Astronaut Helmet",
+  "ko": "우주 헬멧"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545943",
+  "en": "Diving Helmet",
+  "ko": "잠수 헬멧"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545944",
+  "en": "Diving Suit",
+  "ko": "잠수복"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545945",
+  "en": "Ducky Tube",
+  "ko": "오리 튜브"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545946",
+  "en": "Fedora",
+  "ko": "페도라"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545947",
+  "en": "Flower",
+  "ko": "꽃"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26515383870545948",
+  "en": "RetroTV",
+  "ko": "복고풍 TV"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314880",
+  "en": "Knight Head",
+  "ko": "기사 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314881",
+  "en": "Knight Head",
+  "ko": "기사 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314882",
+  "en": "Pirate Captain Head",
+  "ko": "해적 선장 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314883",
+  "en": "Pirate Captain Head",
+  "ko": "해적 선장 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314884",
+  "en": "Astronaut Head",
+  "ko": "우주비행사 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314885",
+  "en": "Astronaut Head",
+  "ko": "우주비행사 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314886",
+  "en": "Aztec Hat",
+  "ko": "아즈텍 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314887",
+  "en": "Aztec Hat",
+  "ko": "아즈텍 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314888",
+  "en": "Aztec Head",
+  "ko": "아즈텍 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314889",
+  "en": "Aztec Head",
+  "ko": "아즈텍 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314890",
+  "en": "Aztec Body",
+  "ko": "아즈텍 몸"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314891",
+  "en": "Aztec Body",
+  "ko": "아즈텍 몸"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314892",
+  "en": "Chicken Hat",
+  "ko": "닭 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314893",
+  "en": "Chicken Hat",
+  "ko": "닭 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314894",
+  "en": "Chicken Suit",
+  "ko": "닭 옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314895",
+  "en": "Chicken Suit",
+  "ko": "닭 옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314902",
+  "en": "Mariachi Hat",
+  "ko": "마리아치 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314904",
+  "en": "Mariachi Head",
+  "ko": "마리아치 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26528162824314906",
+  "en": "Mariachi Body",
+  "ko": "마리아치 몸"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26529983009644547",
+  "en": "Mariachi Hat",
+  "ko": "마리아치 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26529983009644548",
+  "en": "Mariachi Head",
+  "ko": "마리아치 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26529983009644549",
+  "en": "Mariachi Body",
+  "ko": "마리아치 몸"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608698023936",
+  "en": "Fisher Cap",
+  "ko": "어부 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608698023937",
+  "en": "Fisher Cap",
+  "ko": "어부 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608698023938",
+  "en": "Robot Head",
+  "ko": "로봇 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608698023939",
+  "en": "Robot Head",
+  "ko": "로봇 머리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608698023940",
+  "en": "Fishing Clothes",
+  "ko": "낚시복"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608698023941",
+  "en": "Fishing Clothes",
+  "ko": "낚시복"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608702218240",
+  "en": "Pirate Shirt",
+  "ko": "해적 셔츠"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26546608702218241",
+  "en": "Pirate Shirt",
+  "ko": "해적 셔츠"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26549406709833728",
+  "en": "Space Soldier Helmet",
+  "ko": "우주 병사 헬멧"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26549406709833729",
+  "en": "Space Soldier Helmet",
+  "ko": "우주 병사 헬멧"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26549406709833730",
+  "en": "Space Soldier Armor",
+  "ko": "우주 병사 갑옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26549406709833731",
+  "en": "Space Soldier Armor",
+  "ko": "우주 병사 갑옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26550427947360256",
+  "en": "Tourist Shirt",
+  "ko": "관광객 셔츠"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26550427947360257",
+  "en": "Tartan Tam",
+  "ko": "타탄 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26550427947360258",
+  "en": "Tartan Tam",
+  "ko": "타탄 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26550427947360259",
+  "en": "Kilt",
+  "ko": "킬트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26550427947360260",
+  "en": "Kilt",
+  "ko": "킬트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777664",
+  "en": "None",
+  "ko": "없음"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777665",
+  "en": "None",
+  "ko": "없음"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777666",
+  "en": "Jester",
+  "ko": "광대"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777667",
+  "en": "Jester",
+  "ko": "광대"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777668",
+  "en": "Santa Hat",
+  "ko": "산타 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777669",
+  "en": "Santa Hat",
+  "ko": "산타 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777670",
+  "en": "Traffic Cone",
+  "ko": "라바콘"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777671",
+  "en": "Traffic Cone",
+  "ko": "라바콘"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777672",
+  "en": "Straw Hat",
+  "ko": "밀짚모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136193777673",
+  "en": "Straw Hat",
+  "ko": "밀짚모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136197971968",
+  "en": "Sombrero",
+  "ko": "솜브레로"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26556136197971969",
+  "en": "Sombrero",
+  "ko": "솜브레로"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068645265408",
+  "en": "Old Rusty Fishing Boat",
+  "ko": "낡고 녹슨 낚싯배"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068687208449",
+  "en": "Cleaned Fishing Boat",
+  "ko": "깨끗해진 낚싯배"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068687208451",
+  "en": "Pirate Ship",
+  "ko": "해적선"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068687208453",
+  "en": "Space Ship",
+  "ko": "우주선"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402753",
+  "en": "Buoy",
+  "ko": "부표"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402754",
+  "en": "This is an Buoy.",
+  "ko": "이것은 부표입니다."
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402755",
+  "en": "Circle",
+  "ko": "원"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402756",
+  "en": "Paint Circle Decal",
+  "ko": "원 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402759",
+  "en": "Fish",
+  "ko": "물고기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402760",
+  "en": "Paint Fish Decal.",
+  "ko": "물고기 데칼 칠하기."
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402761",
+  "en": "Glass Gecko",
+  "ko": "유리 도마뱀"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402762",
+  "en": "Paint Glass Gecko Decal",
+  "ko": "유리 도마뱀 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402763",
+  "en": "Jellyfish",
+  "ko": "해파리"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402764",
+  "en": "Paint Jellyfish Decal",
+  "ko": "해파리 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402765",
+  "en": "Nessie Stamp",
+  "ko": "네시 스탬프"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402766",
+  "en": "Paint Nessie Stamp Decal",
+  "ko": "네시 스탬프 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402771",
+  "en": "Skull",
+  "ko": "해골"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402772",
+  "en": "This is a Skull.",
+  "ko": "이것은 해골입니다."
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402773",
+  "en": "Square",
+  "ko": "사각형"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402774",
+  "en": "Paint Square Decal",
+  "ko": "사각형 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402775",
+  "en": "Squid",
+  "ko": "오징어"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402776",
+  "en": "Paint Squid Decal",
+  "ko": "오징어 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402777",
+  "en": "Star",
+  "ko": "별"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402778",
+  "en": "Paint Star Decal",
+  "ko": "별 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402779",
+  "en": "Triangle",
+  "ko": "삼각형"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402780",
+  "en": "Paint Triangle Decal",
+  "ko": "삼각형 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402781",
+  "en": "Wave",
+  "ko": "파도"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26756068691402782",
+  "en": "Paint Wave Decal",
+  "ko": "파도 데칼 칠하기"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26911695891849216",
+  "en": "Aztec Set",
+  "ko": "아즈텍 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "26911695937986560",
+  "en": "Aztec Set",
+  "ko": "아즈텍 세트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27524892048572416",
+  "en": "Dancing Dress",
+  "ko": "댄스 드레스"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27524892119875584",
+  "en": "Dancing Dress",
+  "ko": "댄스 드레스"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27524892119875585",
+  "en": "Flower Dress",
+  "ko": "꽃 드레스"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27524892119875586",
+  "en": "Flower Dress",
+  "ko": "꽃 드레스"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27524892119875587",
+  "en": "Poncho",
+  "ko": "판초"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27524892119875588",
+  "en": "Poncho",
+  "ko": "판초"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "27980354036514816",
+  "en": "Treasure from your collection",
+  "ko": "컬렉션 속 보물"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "30828643701608448",
+  "en": "Diving Boat",
+  "ko": "잠수 보트"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947903045632",
+  "en": "Hoodie Dress",
+  "ko": "후드 드레스"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571584",
+  "en": "Witch Hat ",
+  "ko": "마녀 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571585",
+  "en": "Squid Hat",
+  "ko": "오징어 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571586",
+  "en": "Squid Outfit",
+  "ko": "오징어 옷"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571587",
+  "en": "Sick Shades",
+  "ko": "멋진 선글라스"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571588",
+  "en": "Bandit Mask",
+  "ko": "도적 가면"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571589",
+  "en": "Cloak",
+  "ko": "망토"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571590",
+  "en": "Night Vision Goggles",
+  "ko": "야간 투시경"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571591",
+  "en": "Gecko Mask",
+  "ko": "도마뱀 가면"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571592",
+  "en": "Tall Hat",
+  "ko": "긴 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571593",
+  "en": "Very Tall Hat",
+  "ko": "아주 긴 모자"
+ },
+ {
+  "table": "Cosmetics - String",
+  "id": "69620947957571594",
+  "en": "Fish Fear Me Hat",
+  "ko": "물고기가 나를 두려워하는 모자"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475200",
+  "en": "Great Cormorant",
+  "ko": "민물가마우지"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475201",
+  "en": "Cormorant",
+  "ko": "가마우지"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475205",
+  "en": "Osprey",
+  "ko": "물수리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475207",
+  "en": "Grey Heron",
+  "ko": "왜가리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475208",
+  "en": "Heron",
+  "ko": "왜가리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475210",
+  "en": "Grey Seal",
+  "ko": "회색물범"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475211",
+  "en": "Seal",
+  "ko": "물범"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475213",
+  "en": "Selkie",
+  "ko": "셀키"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835527475215",
+  "en": "Kelpie",
+  "ko": "켈피"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669505",
+  "en": "Nessie",
+  "ko": "네시"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669509",
+  "en": "Loggerhead Sea Turtle",
+  "ko": "붉은바다거북"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669510",
+  "en": "Loggerhead",
+  "ko": "붉은바다거북"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669511",
+  "en": "Turtle",
+  "ko": "거북"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669513",
+  "en": "Cottonmouth",
+  "ko": "코튼마우스"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669515",
+  "en": "Great Blue Heron",
+  "ko": "큰푸른왜가리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669517",
+  "en": "Bald Eagle",
+  "ko": "흰머리수리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669519",
+  "en": "Spotted Eagle Ray",
+  "ko": "점박이매가오리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669520",
+  "en": "Stingrey",
+  "ko": "가오리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669522",
+  "en": "Bunyip",
+  "ko": "버니프"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669526",
+  "en": "Uktena",
+  "ko": "우크테나"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669528",
+  "en": "Hawksbill Sea Turtle",
+  "ko": "대모"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669530",
+  "en": "Seagull",
+  "ko": "갈매기"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669531",
+  "en": "Western Gull",
+  "ko": "서부갈매기"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669533",
+  "en": "Great White Pelican",
+  "ko": "큰흰펠리컨"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669534",
+  "en": "Pelican",
+  "ko": "펠리컨"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669536",
+  "en": "Bottlenose Dolphin",
+  "ko": "큰돌고래"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669538",
+  "en": "Giant Pacific Octopus",
+  "ko": "대왕문어"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669540",
+  "en": "Great White Shark",
+  "ko": "백상아리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669542",
+  "en": "Mermaid",
+  "ko": "인어"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669544",
+  "en": "Orca",
+  "ko": "범고래"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669546",
+  "en": "Kraken",
+  "ko": "크라켄"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669548",
+  "en": "Axolotl",
+  "ko": "우파루파"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669550",
+  "en": "White-Nosed Coati",
+  "ko": "흰코코아티"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669551",
+  "en": "Coati",
+  "ko": "코아티"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669553",
+  "en": "Brown Pelican",
+  "ko": "갈색펠리컨"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669555",
+  "en": "Magnificent Frigatebird",
+  "ko": "아메리카군함조"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669557",
+  "en": "Atotolin",
+  "ko": "아토톨린"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669559",
+  "en": "Chupacabra",
+  "ko": "추파카브라"
+ },
+ {
+  "table": "Customers - String",
+  "id": "6835531669563",
+  "en": "Quetzalcōātl",
+  "ko": "케찰코아틀"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358551793664",
+  "en": "GOT ANY FISH?",
+  "ko": "물고기 있어?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153792",
+  "en": "me hungry…",
+  "ko": "나 배고파…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153794",
+  "en": "just what me needed!",
+  "ko": "딱 필요한 거였어!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153795",
+  "en": "so fulllll….",
+  "ko": "배불러어어어…."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153796",
+  "en": "THANKS, BOAT PERSON!",
+  "ko": "고마워, 배 타는 인간!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153799",
+  "en": "me no like waiting…",
+  "ko": "나 기다리는 거 싫어…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153800",
+  "en": "SKAWK",
+  "ko": "끼에액!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153802",
+  "en": "GWAGABL",
+  "ko": "꾸왁꾸왁!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153803",
+  "en": "this fish no good….",
+  "ko": "이 물고기 별로야…."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153805",
+  "en": "Whatcha got?",
+  "ko": "뭐 가져왔어?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153806",
+  "en": "Justtttttt what I needed!",
+  "ko": "딱딱딱 필요한 거야!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153807",
+  "en": "That hits the spot!",
+  "ko": "딱 좋아!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153811",
+  "en": "Food! food! food!",
+  "ko": "밥! 밥! 밥!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153813",
+  "en": "ehhhh…",
+  "ko": "에에에…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153818",
+  "en": "Perfect.",
+  "ko": "완벽해."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153819",
+  "en": "Can you read minds?",
+  "ko": "내 마음을 읽는 거야?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153820",
+  "en": "Farewell.",
+  "ko": "잘 가라."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153824",
+  "en": "Waiting.",
+  "ko": "기다린다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153825",
+  "en": "Not to my taste.",
+  "ko": "내 취향은 아니다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153826",
+  "en": "Too fancy for me.",
+  "ko": "나한테는 너무 고급이야."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153827",
+  "en": "…",
+  "ko": "…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153828",
+  "en": "Well met, fellow!",
+  "ko": "반갑네, 친구여!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153857",
+  "en": "I loveeee this!",
+  "ko": "이거 정말 좋아아아!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153864",
+  "en": "Seems you guessed wrong..",
+  "ko": "잘못 짚은 모양이군.."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348096",
+  "en": "Food. Now.",
+  "ko": "밥. 당장."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348097",
+  "en": "Don't keep me waiting.",
+  "ko": "기다리게 하지 마라."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348098",
+  "en": "So goo- this works.",
+  "ko": "나쁘지 않- 이거 괜찮군."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348099",
+  "en": "Exactly what I wanted.",
+  "ko": "정확히 내가 원한 것이다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348101",
+  "en": "Wait until I return.",
+  "ko": "내가 돌아올 때까지 기다려라."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348102",
+  "en": "The time is neigh.",
+  "ko": "히힝, 때가 되었군."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348103",
+  "en": "Don't keep me waiting.",
+  "ko": "기다리게 하지 마라."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348109",
+  "en": "Try again.",
+  "ko": "다시 해봐."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348110",
+  "en": "My name ness.",
+  "ko": "내 이름은 네스."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348112",
+  "en": "Can we be friends?",
+  "ko": "우리 친구 할래?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348115",
+  "en": "See you later, friend.",
+  "ko": "나중에 봐, 친구."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348121",
+  "en": "Did you feed me…something?",
+  "ko": "나한테…뭐 먹인 거야?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348124",
+  "en": "Food, you have?",
+  "ko": "밥, 있어?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348126",
+  "en": "Perfect, this meal is.",
+  "ko": "완벽하다, 이 식사는."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348129",
+  "en": "Not bird, but useful.",
+  "ko": "새는 아니지만, 쓸모는 있다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348130",
+  "en": "Not bird, but smart.",
+  "ko": "새는 아니지만, 똑똑하다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348131",
+  "en": "Peaceful, the water is.",
+  "ko": "평화롭다, 물은."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348132",
+  "en": "Hunger, weakness it creates.",
+  "ko": "배고픔은 약함을 만든다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348133",
+  "en": "Black spots, add flavor.",
+  "ko": "검은 점이 맛을 더하지."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348134",
+  "en": "Too big, ack-",
+  "ko": "너무 크다, 윽-"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348135",
+  "en": "Not prefer, this.",
+  "ko": "별로다, 이건."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348136",
+  "en": "failure, grow from it.",
+  "ko": "실패, 그것에서 성장한다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348137",
+  "en": "Hello… there…",
+  "ko": "안녕… 거기…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348138",
+  "en": "I… have… arrived…",
+  "ko": "나는… 도착… 했다…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348143",
+  "en": "Thanks… for… the… patience…",
+  "ko": "기다려… 줘서… 고마워…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348148",
+  "en": "Hmmm…. not… great….",
+  "ko": "흠…. 별로… 군…."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348150",
+  "en": "A… bit… lacking…",
+  "ko": "조금… 부족… 하군…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348151",
+  "en": "I ssssmelll something good…",
+  "ko": "좋은 냄새가 나는군…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358585348156",
+  "en": "Quite the worthwhile sssupper.",
+  "ko": "꽤 값진 저녁식사로군."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542403",
+  "en": "Jussst try again…",
+  "ko": "그냥 다시 해봐…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542410",
+  "en": "The mission calls!",
+  "ko": "임무가 부른다!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542418",
+  "en": "Sup.",
+  "ko": "안녕."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542419",
+  "en": "Got some grub, pal?",
+  "ko": "먹을 거 있어, 친구?"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542420",
+  "en": "Mmm…good stuff.",
+  "ko": "음… 좋은데."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542422",
+  "en": "See ya.",
+  "ko": "나중에 봐."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542424",
+  "en": "Good grub. Thanks.",
+  "ko": "맛있었어. 고마워."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542427",
+  "en": "Just chillin.",
+  "ko": "그냥 쉬는 중."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542429",
+  "en": "Um…still not my thing.",
+  "ko": "음… 여전히 내 취향은 아니야."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542430",
+  "en": "Too slippery and smooth.",
+  "ko": "너무 미끄럽고 매끈해."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358589542431",
+  "en": "Bummer.",
+  "ko": "아쉽네."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736705",
+  "en": "I'm getting quite hungryyy.",
+  "ko": "나 꽤 배고파아아."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736719",
+  "en": "Mazacoatl",
+  "ko": "마사코아틀"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736720",
+  "en": "Fear me. Serve me.",
+  "ko": "나를 두려워하라. 나를 섬겨라."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736722",
+  "en": "Now this…is real food.",
+  "ko": "이제야… 진짜 음식이군."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736733",
+  "en": "HUNGRY! FOOD! GIVE!",
+  "ko": "배고파! 밥! 내놔!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736734",
+  "en": "I SMELL FISHIES! GIMME!!",
+  "ko": "물고기 냄새가 나! 줘!!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736735",
+  "en": "MINE! MINE! MINE!",
+  "ko": "내 거! 내 거! 내 거!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358593736744",
+  "en": "SCARY! BIG! DANGEROUS!",
+  "ko": "무서워! 커! 위험해!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931008",
+  "en": "Tough, terrible and tasteless.",
+  "ko": "질기고, 형편없고, 맛도 없어."
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931013",
+  "en": "Now THIS is fin-tastic!",
+  "ko": "이게 바로 환상어적이야!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109431992320",
+  "en": "marine avian",
+  "ko": "바다새"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109436186625",
+  "en": "Eurasian Otter",
+  "ko": "유라시아수달"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109436186627",
+  "en": "semi-aquatic mammalian",
+  "ko": "반수생 포유류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109436186630",
+  "en": "Perfection deserves a reward.",
+  "ko": "완벽에는 보상이 따른다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109436186631",
+  "en": "wading avian",
+  "ko": "섭금류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109440380929",
+  "en": "marine mammalian",
+  "ko": "해양 포유류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153842",
+  "en": "I smelled yummy fishies!",
+  "ko": "맛있는 물고기 냄새가 났어!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153843",
+  "en": "That seal-ed the deal!",
+  "ko": "이걸로 물범 끝!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358581153846",
+  "en": "Lets play next time!",
+  "ko": "다음에 같이 놀자!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109440380932",
+  "en": "amphibious humanoid entity",
+  "ko": "양서류 인간형 존재"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109440380934",
+  "en": "equine aquatic entity",
+  "ko": "수생 말형 존재"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109440380936",
+  "en": "aquatic megafauna",
+  "ko": "대형 수생동물"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109440380938",
+  "en": "Belted Kingfisher",
+  "ko": "아메리카호반새"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109440380940",
+  "en": "predatory avian",
+  "ko": "맹금류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575232",
+  "en": "marine reptilian",
+  "ko": "해양 파충류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575233",
+  "en": "Never…been…served…so…well, have….this….",
+  "ko": "이렇게… 잘… 대접받은… 적이… 없었네…. 이걸… 받아…."
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575234",
+  "en": "semi-aquatic reptilian",
+  "ko": "반수생 파충류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575236",
+  "en": "wading avian",
+  "ko": "섭금류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575252",
+  "en": "predatory avian",
+  "ko": "맹금류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575254",
+  "en": "cartilaginous marine",
+  "ko": "연골어류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575256",
+  "en": "amphibious swamp megafauna",
+  "ko": "늪지대 대형 양서류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575258",
+  "en": "Alligator",
+  "ko": "악어"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109444575259",
+  "en": "American Alligator ",
+  "ko": "아메리카악어"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769536",
+  "en": "horned serpent megafauna",
+  "ko": "뿔 달린 대형 뱀"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769538",
+  "en": "marine reptilian",
+  "ko": "해양 파충류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769554",
+  "en": "marine avian",
+  "ko": "바다새"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769556",
+  "en": "marine avian",
+  "ko": "바다새"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769558",
+  "en": "marine mammalian",
+  "ko": "해양 포유류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769560",
+  "en": "cephalopod marine",
+  "ko": "해양 두족류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109448769562",
+  "en": "predatory marine",
+  "ko": "해양 포식자"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963840",
+  "en": "aquatic humanoid",
+  "ko": "수생 인간형"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963842",
+  "en": "Killer Whale",
+  "ko": "범고래"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963843",
+  "en": "marine mammalian",
+  "ko": "해양 포유류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963845",
+  "en": "cephalopod megafauna",
+  "ko": "대형 두족류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963847",
+  "en": "aquatic amphibian",
+  "ko": "수생 양서류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963848",
+  "en": "terrestrial mammalian",
+  "ko": "육상 포유류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963849",
+  "en": "marine avian",
+  "ko": "바다새"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963863",
+  "en": "marine avian",
+  "ko": "바다새"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963864",
+  "en": "aquatic avian megafauna",
+  "ko": "대형 수생 조류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109452963865",
+  "en": "canine-class predator",
+  "ko": "개과 포식자"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109457158144",
+  "en": "Cipactli",
+  "ko": "시팍틀리"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109457158146",
+  "en": "primordial reptilian megafauna",
+  "ko": "태고의 대형 파충류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "2195109457158147",
+  "en": "feathered serpent megafauna",
+  "ko": "깃털 달린 대형 뱀"
+ },
+ {
+  "table": "Customers - String",
+  "id": "3667836630196224",
+  "en": "Otter",
+  "ko": "수달"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931072",
+  "en": "Hi! Hi! HI!",
+  "ko": "안녕! 안녕! 안녕!!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931073",
+  "en": "Mmmm! just perfect!",
+  "ko": "음~! 완벽해!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931081",
+  "en": "that fish too large…",
+  "ko": "그 물고기 너무 커…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931082",
+  "en": "no! no! no!",
+  "ko": "안 돼! 안 돼! 안 돼!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931107",
+  "en": "What a dull meal! ",
+  "ko": "정말 시시한 식사야!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "1515358597931109",
+  "en": "This is unacceptable matey!",
+  "ko": "이건 용납 못 해, 친구!"
+ },
+ {
+  "table": "Customers - String",
+  "id": "3676362790395904",
+  "en": "semi-aquatic reptilian",
+  "ko": "반수생 파충류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "3675777533992960",
+  "en": "predatory avian",
+  "ko": "맹금류"
+ },
+ {
+  "table": "Customers - String",
+  "id": "5917808408477696",
+  "en": "Hunger. Hunger. Hunger.",
+  "ko": "배고픔. 배고픔. 배고픔."
+ },
+ {
+  "table": "Customers - String",
+  "id": "5917808408477697",
+  "en": "So much hunger...",
+  "ko": "너무나 큰 배고픔..."
+ },
+ {
+  "table": "Customers - String",
+  "id": "5917808408477699",
+  "en": "My Hunger persists….",
+  "ko": "나의 배고픔은 계속된다…."
+ },
+ {
+  "table": "Customers - String",
+  "id": "5917808408477700",
+  "en": "I still hunger…",
+  "ko": "나는 여전히 배고프다…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "5917808408477701",
+  "en": "Hungry….ever hungry.",
+  "ko": "배고프다…. 영원히 배고프다."
+ },
+ {
+  "table": "Customers - String",
+  "id": "5917808408477702",
+  "en": "Consume…I need to consume…",
+  "ko": "삼켜야… 삼켜야 한다…"
+ },
+ {
+  "table": "Customers - String",
+  "id": "23281404879036416",
+  "en": "Uncommon",
+  "ko": "고급"
+ },
+ {
+  "table": "Customers - String",
+  "id": "23281404916785152",
+  "en": "Rare",
+  "ko": "희귀"
+ },
+ {
+  "table": "Customers - String",
+  "id": "23281404916785153",
+  "en": "Mythical",
+  "ko": "신화"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933297754112",
+  "en": "Loch Ness Equipment",
+  "ko": "네스호 장비"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933297754113",
+  "en": "Shop",
+  "ko": "상점"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933297754114",
+  "en": "Equipment",
+  "ko": "장비"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933297754115",
+  "en": "Cosmetic ",
+  "ko": "외형"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933297754116",
+  "en": "Bait ",
+  "ko": "미끼"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894659",
+  "en": "Basic Bucket",
+  "ko": "기본 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948423",
+  "en": "Next",
+  "ko": "다음"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894674",
+  "en": "Fish Cooler",
+  "ko": "생선 아이스박스"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894673",
+  "en": "Plain Fish Cooler ",
+  "ko": "평범한 생선 아이스박스"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894672",
+  "en": "Reinforced Iron Crate",
+  "ko": "강화 철 상자"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894671",
+  "en": "Iron Crate",
+  "ko": "철 상자"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894670",
+  "en": "Old Iron Crate",
+  "ko": "낡은 철 상자"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894669",
+  "en": "Reinforced Plastic Crate",
+  "ko": "강화 플라스틱 상자"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894668",
+  "en": "Plastic Crate",
+  "ko": "플라스틱 상자"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894667",
+  "en": "Dirty Plastic Crate",
+  "ko": "더러운 플라스틱 상자"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894666",
+  "en": "Iron Bucket",
+  "ko": "철 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894665",
+  "en": "Rusty Iron Bucket",
+  "ko": "녹슨 철 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894664",
+  "en": "Reinforced Wooden Bucket",
+  "ko": "강화 나무 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894663",
+  "en": "Wooden Bucket",
+  "ko": "나무 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894662",
+  "en": "Shiny Toy Bucket",
+  "ko": "반짝이는 장난감 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894661",
+  "en": "Toy Bucket ",
+  "ko": "장난감 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28543572349894660",
+  "en": "Dirty Toy Bucket",
+  "ko": "더러운 장난감 양동이"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948441",
+  "en": "Equipped",
+  "ko": "장착됨"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948442",
+  "en": "Level 1",
+  "ko": "레벨 1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948443",
+  "en": "Level 2",
+  "ko": "레벨 2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948444",
+  "en": "Level 3",
+  "ko": "레벨 3"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948445",
+  "en": "Level 4",
+  "ko": "레벨 4"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948446",
+  "en": "Level 5",
+  "ko": "레벨 5"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948447",
+  "en": "Level 6",
+  "ko": "레벨 6"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948448",
+  "en": "Level 7",
+  "ko": "레벨 7"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948449",
+  "en": "Level 8",
+  "ko": "레벨 8"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948450",
+  "en": "Level 9",
+  "ko": "레벨 9"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948451",
+  "en": "Level 10",
+  "ko": "레벨 10"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948452",
+  "en": "Level 11",
+  "ko": "레벨 11"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948453",
+  "en": "Level 12",
+  "ko": "레벨 12"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948454",
+  "en": "Level 13",
+  "ko": "레벨 13"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948455",
+  "en": "Level 14",
+  "ko": "레벨 14"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "11349933301948456",
+  "en": "Level 15",
+  "ko": "레벨 15"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23074377620639744",
+  "en": "Dive Time",
+  "ko": "잠수 시간"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23074377717108736",
+  "en": "Speed",
+  "ko": "속도"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23074377717108737",
+  "en": "Damage",
+  "ko": "공격력"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23074377717108738",
+  "en": "Sharpness",
+  "ko": "날카로움"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23074377717108739",
+  "en": "Strength",
+  "ko": "힘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23074377717108740",
+  "en": "Size",
+  "ko": "크기"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23770920401096704",
+  "en": "All Global Upgrades Unlocked!",
+  "ko": "모든 전역 업그레이드 해금!"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "23770920438845440",
+  "en": "All Local Upgrades Unlocked!",
+  "ko": "모든 지역 업그레이드 해금!"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478081",
+  "en": "Wood Rod V1",
+  "ko": "나무 낚싯대 V1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478082",
+  "en": "Wood Rod V2",
+  "ko": "나무 낚싯대 V2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478083",
+  "en": "Wood Rod V3",
+  "ko": "나무 낚싯대 V3"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478084",
+  "en": "Wood Rod V4",
+  "ko": "나무 낚싯대 V4"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478085",
+  "en": "Wood Rod V5",
+  "ko": "나무 낚싯대 V5"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478086",
+  "en": "Toy Rod V1",
+  "ko": "장난감 낚싯대 V1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478087",
+  "en": "Toy Rod V2",
+  "ko": "장난감 낚싯대 V2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478088",
+  "en": "Toy Rod V3",
+  "ko": "장난감 낚싯대 V3"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478089",
+  "en": "Toy Rod V4",
+  "ko": "장난감 낚싯대 V4"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478090",
+  "en": "Toy Rod V5",
+  "ko": "장난감 낚싯대 V5"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478091",
+  "en": "Swamp Rod V1",
+  "ko": "늪지 낚싯대 V1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478092",
+  "en": "Swamp Rod V2",
+  "ko": "늪지 낚싯대 V2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478093",
+  "en": "Swamp Rod V3",
+  "ko": "늪지 낚싯대 V3"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478094",
+  "en": "Swamp Rod V4",
+  "ko": "늪지 낚싯대 V4"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478095",
+  "en": "Swamp Rod V5",
+  "ko": "늪지 낚싯대 V5"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478096",
+  "en": "Swamp Rod V6",
+  "ko": "늪지 낚싯대 V6"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478097",
+  "en": "Industrial Rod V1",
+  "ko": "산업용 낚싯대 V1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478098",
+  "en": "Industrial Rod V2",
+  "ko": "산업용 낚싯대 V2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478099",
+  "en": "Industrial Rod V3",
+  "ko": "산업용 낚싯대 V3"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478100",
+  "en": "Industrial Rod V4",
+  "ko": "산업용 낚싯대 V4"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478101",
+  "en": "Industrial Rod V5",
+  "ko": "산업용 낚싯대 V5"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062530478102",
+  "en": "Industrial Rod V6",
+  "ko": "산업용 낚싯대 V6"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866690",
+  "en": "Normal Lure",
+  "ko": "일반 루어"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866691",
+  "en": "Fisherman's Hook",
+  "ko": "어부의 낚싯바늘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866692",
+  "en": "Bronze Fisherman's Hook",
+  "ko": "청동 어부의 낚싯바늘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866693",
+  "en": "Anchovy Lure",
+  "ko": "멸치 루어"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866694",
+  "en": "Char Lure",
+  "ko": "곤들매기 루어"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866695",
+  "en": "Crab Lure",
+  "ko": "게 루어"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866696",
+  "en": "Treble Hook",
+  "ko": "세 갈고리 낚싯바늘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866697",
+  "en": "Golden Treble Hook",
+  "ko": "황금 세 갈고리 낚싯바늘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866698",
+  "en": "Mossy Treble Hook",
+  "ko": "이끼 낀 세 갈고리 낚싯바늘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866699",
+  "en": "Octo Treble Hook",
+  "ko": "문어 세 갈고리 낚싯바늘"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866700",
+  "en": "Plastic Spear",
+  "ko": "플라스틱 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866701",
+  "en": "Striped Plastic Spear",
+  "ko": "줄무늬 플라스틱 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866702",
+  "en": "Pincer Plastic Spear",
+  "ko": "집게 플라스틱 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866703",
+  "en": "Shining Plastic Spear",
+  "ko": "빛나는 플라스틱 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866704",
+  "en": "Wooden Spear",
+  "ko": "나무 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866705",
+  "en": "Bamboo Spear",
+  "ko": "대나무 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866706",
+  "en": "Spiked Wooden Spear",
+  "ko": "가시 나무 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866707",
+  "en": "Conquerer Wooden Spear",
+  "ko": "정복자의 나무 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866708",
+  "en": "Lionfishing Spear",
+  "ko": "쏠배감펭 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866709",
+  "en": "Copper Lionfishing Spear",
+  "ko": "구리 쏠배감펭 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866710",
+  "en": "Nautical Lionfishing Spear",
+  "ko": "항해 쏠배감펭 창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866711",
+  "en": "Harpoon",
+  "ko": "작살"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866712",
+  "en": "Golden Harpoon",
+  "ko": "황금 작살"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28542062538866713",
+  "en": "Trident",
+  "ko": "삼지창"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342668",
+  "en": "Repellent Spray V2",
+  "ko": "퇴치 스프레이 V2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342667",
+  "en": "Repellent Spray V1",
+  "ko": "퇴치 스프레이 V1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342666",
+  "en": "Repellent Canister V4",
+  "ko": "퇴치 캔 V4"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342665",
+  "en": "Repellent Canister V3",
+  "ko": "퇴치 캔 V3"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342664",
+  "en": "Repellent Canister V2",
+  "ko": "퇴치 캔 V2"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342663",
+  "en": "Repellent Canister V1",
+  "ko": "퇴치 캔 V1"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "28545772262342662",
+  "en": "No Repellent",
+  "ko": "퇴치제 없음"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529024",
+  "en": "Bi-directional",
+  "ko": "양방향"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529025",
+  "en": "Right",
+  "ko": "오른쪽"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529026",
+  "en": "Left",
+  "ko": "왼쪽"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529032",
+  "en": "Turning Speed",
+  "ko": "회전 속도"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529033",
+  "en": "Cut Directions",
+  "ko": "절단 방향"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529034",
+  "en": "Bonus Damage",
+  "ko": "추가 공격력"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "32094415110529035",
+  "en": "Cut Speed",
+  "ko": "절단 속도"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "36965888233037826",
+  "en": "Fancy Fish Cooler",
+  "ko": "고급 생선 아이스박스"
+ },
+ {
+  "table": "Equipment - String",
+  "id": "53108986541498370",
+  "en": "Fancy Fish Cooler",
+  "ko": "고급 생선 아이스박스"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907795333120",
+  "en": "Butter Knife",
+  "ko": "버터 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527425",
+  "en": "Bronze Butter Knife",
+  "ko": "청동 버터 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527427",
+  "en": "Gold Butter Knife",
+  "ko": "황금 버터 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527429",
+  "en": "Boning Knife",
+  "ko": "발골 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527431",
+  "en": "Seax",
+  "ko": "색스"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527433",
+  "en": "Dirk",
+  "ko": "더크"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527435",
+  "en": "Falcata",
+  "ko": "팔카타"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527437",
+  "en": "Zweihander",
+  "ko": "츠바이헨더"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527439",
+  "en": "Gut Knife",
+  "ko": "거트 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527441",
+  "en": "Bowie Knife",
+  "ko": "보위 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527443",
+  "en": "Navaja Roja",
+  "ko": "나바하 로하"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527445",
+  "en": "Machete",
+  "ko": "마체테"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527447",
+  "en": "Cutlass",
+  "ko": "커틀러스"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527449",
+  "en": "Calvary Saber",
+  "ko": "기병 세이버"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527451",
+  "en": "Diver's Knife",
+  "ko": "잠수부 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527453",
+  "en": "Sashimi Knife",
+  "ko": "사시미 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527455",
+  "en": "Kris Knife",
+  "ko": "크리스 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527457",
+  "en": "Kopis",
+  "ko": "코피스"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527459",
+  "en": "Katana",
+  "ko": "카타나"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527461",
+  "en": "Zanbato",
+  "ko": "잔바토"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527463",
+  "en": "Tecpatl",
+  "ko": "테크파틀"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527465",
+  "en": "Fillet Knife",
+  "ko": "필렛 나이프"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527467",
+  "en": "Navaja Blanco",
+  "ko": "나바하 블랑코"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527469",
+  "en": "Bolo",
+  "ko": "볼로"
+ },
+ {
+  "table": "Knives - String",
+  "id": "6907799527471",
+  "en": "Macuahuitl",
+  "ko": "마쿠아우이틀"
+ },
+ {
+  "table": "Knives - String",
+  "id": "1402242950225920",
+  "en": "Dev Knife",
+  "ko": "개발자 칼"
+ },
+ {
+  "table": "Knives - String",
+  "id": "25746709890981888",
+  "en": "N/A",
+  "ko": "없음"
+ }
+]

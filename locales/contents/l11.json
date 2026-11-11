@@ -1,0 +1,746 @@
+[
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257219",
+  "en": "The Japanese spider crab is a massive deep-sea crustacean known for its extraordinary leg span and surprisingly gentle nature. Found along the Pacific seafloor of Japan, it blends into rocky habitats using natural camouflage while scavenging and hunting for food. Its long legs and spindly shape make it one of the largest arthropods on Earth.",
+  "ko": "일본거미게는 다리 폭이 유난히 넓고 의외로 온순한 성격으로 알려진 거대한 심해 갑각류다. 일본 태평양 연안의 해저에 서식하며, 천연 위장술로 바위 지형에 몸을 녹여 숨어 다니면서 먹이를 주워 먹거나 사냥한다. 길쭉하고 가느다란 다리 덕분에 지구에서 가장 큰 절지동물 가운데 하나로 꼽힌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257220",
+  "en": "Japanese spider crabs live on the seafloor along Japan's Pacific coast, in sandy and rocky habitats.",
+  "ko": "일본거미게는 일본 태평양 연안의 해저, 모래와 바위가 섞인 지형에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257221",
+  "en": "They can reach a leg span of up to 3.7 m, the greatest leg span of any arthropod.",
+  "ko": "다리 폭은 최대 3.7 m까지 자라는데, 이는 모든 절지동물 가운데 가장 넓은 다리 폭이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257222",
+  "en": "They can weigh up to about 19 kg.",
+  "ko": "몸무게는 약 19 kg까지 나간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257223",
+  "en": "Japanese spider crabs can live for 50–100 years.",
+  "ko": "일본거미게는 50–100년을 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257224",
+  "en": "They are omnivores, feeding on algae, small animals, and scavenged dead fish.",
+  "ko": "잡식성으로, 조류와 작은 동물, 죽어서 가라앉은 물고기 등을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257225",
+  "en": "They can use their claws to pry open shells and reach buried prey.",
+  "ko": "집게발로 조개껍데기를 벌려 모래 속에 숨은 먹이를 꺼내기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257226",
+  "en": "Japanese spider crabs have ten legs, including two long clawed legs used for feeding and defence.",
+  "ko": "일본거미게는 다리가 열 개인데, 그중 두 개는 먹이를 먹거나 방어할 때 쓰는 긴 집게다리다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257227",
+  "en": "Males have much longer claws than females.",
+  "ko": "수컷의 집게발은 암컷보다 훨씬 길다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257228",
+  "en": "They use their rough, bumpy shell to blend into the seafloor.",
+  "ko": "울퉁불퉁 거친 껍데기를 이용해 해저 바닥에 몸을 녹인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257229",
+  "en": "They can attach sponges and other organisms to their shell for camouflage.",
+  "ko": "위장을 위해 해면과 다른 생물을 껍데기에 붙여 두기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257230",
+  "en": "Octopuses are among the few predators that hunt them, especially when these crabs are moulting.",
+  "ko": "문어는 이 게를 사냥하는 몇 안 되는 천적 가운데 하나로, 특히 탈피 중일 때 노린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257231",
+  "en": "Females can carry up to 1.5 million eggs at a time.",
+  "ko": "암컷은 한 번에 150만 개까지 알을 품을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257232",
+  "en": "Their body stops growing after maturity, but their legs continue to lengthen.",
+  "ko": "성체가 되면 몸통은 자라지 않지만 다리는 계속 길어진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257233",
+  "en": "Despite their size, they are generally gentle and not aggressive.",
+  "ko": "덩치에 비해 대체로 온순하며 공격적이지 않다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154183569408",
+  "en": "This fact is currently unavailable.",
+  "ko": "이 정보는 현재 제공되지 않습니다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257251",
+  "en": "One of the few fish capable of maintaining a body temperature above the surrounding water, this species can hunt in cold depths.",
+  "ko": "주변 바닷물보다 높은 체온을 유지할 수 있는 몇 안 되는 어류 중 하나로, 차가운 심해에서도 사냥을 할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257252",
+  "en": "Bigeye Pacific opah are found in warm and temperate oceans, including the Gulf of Mexico, the Indian Ocean, the western Pacific, and waters off Chile.",
+  "ko": "큰눈달고기는 멕시코만, 인도양, 서태평양, 칠레 연안을 비롯한 온대와 열대 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257253",
+  "en": "Bigeye Pacific opah can grow up to about 185 cm long and weigh up to around 89 kg.",
+  "ko": "큰눈달고기는 몸길이 약 185 cm, 몸무게 약 89 kg까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257265",
+  "en": "Tuna are fast-swimming, open-ocean fish found in warm and temperate seas around the world. They have sleek, streamlined bodies built for speed and are among the most powerful long-distance swimmers in the ocean. Tuna are active predators that must swim constantly to survive, feeding on fish, squid, and other marine animals.",
+  "ko": "다랑어는 전 세계 온대와 열대 바다에 사는, 빠르게 헤엄치는 외해성 어류다. 속도를 위해 유선형으로 매끈하게 다듬어진 몸을 지녔으며, 바다에서 가장 강력한 장거리 유영자 가운데 하나다. 다랑어는 살아남기 위해 끊임없이 헤엄쳐야 하는 활동적인 포식자로, 물고기와 오징어, 그 밖의 바다 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257266",
+  "en": "Tuna can keep parts of their bodies warmer than the surrounding water, helping them swim powerfully in colder depths.",
+  "ko": "다랑어는 몸의 일부를 주변 바닷물보다 따뜻하게 유지할 수 있어, 더 차가운 심해에서도 힘차게 헤엄칠 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257267",
+  "en": "Tuna use a specialized network of blood vessels to retain heat in their muscles, eyes, and brain.",
+  "ko": "다랑어는 특수한 혈관망을 이용해 근육과 눈, 뇌의 열을 붙잡아 둔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257268",
+  "en": "Tuna have streamlined bodies and are among the fastest open-ocean fish, reaching speeds of up to 75 km/h.",
+  "ko": "다랑어는 유선형 몸을 지녔으며, 최고 시속 75 km에 이르는 가장 빠른 외해성 어류 가운데 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257270",
+  "en": "The yellowfin tuna is found in tropical and subtropical waters around the world. Recognized by its streamlined body and long bright-yellow fins, it often travels in large, fast-moving schools near the upper layers of the ocean.",
+  "ko": "황다랑어는 전 세계 열대와 아열대 바다에 서식한다. 유선형 몸과 길고 선명한 노란 지느러미로 알아보며, 대개 바다 위쪽 수층에서 크고 빠른 무리를 지어 이동한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257271",
+  "en": "Yellowfin tuna are found in warm tropical and subtropical oceans around the world.",
+  "ko": "황다랑어는 전 세계의 따뜻한 열대와 아열대 바다에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257272",
+  "en": "Yellowfin tuna commonly grow to over 2 m in length and can weigh more than 180 kg.",
+  "ko": "황다랑어는 보통 2 m가 넘게 자라고, 몸무게는 180 kg을 넘기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257273",
+  "en": "Yellowfin tuna are among the larger tuna species, though they are smaller than the massive bluefin tuna.",
+  "ko": "황다랑어는 다랑어 가운데 큰 종에 속하지만, 거대한 참다랑어보다는 작다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257275",
+  "en": "Ocean sunfish, or molas, are a family of large, open-ocean fish known for their unusual, flattened bodies and slow, drifting movement. Despite their awkward appearance, they are highly specialized swimmers adapted to life in the open ocean.",
+  "ko": "개복치, 즉 몰라는 납작하고 독특한 몸매에 느릿느릿 표류하듯 움직이는 것으로 알려진 대형 외해성 어류 과에 속한다. 어색해 보이는 생김새와 달리, 외해에서 살아가도록 고도로 특화된 헤엄꾼이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257276",
+  "en": "They belong to the Molidae family, which includes five different species of ocean sunfish.",
+  "ko": "이들은 개복치 다섯 종이 속한 개복치과(Molidae)에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257277",
+  "en": "They have the fewest vertebrae of any fish.",
+  "ko": "모든 어류 가운데 척추뼈 수가 가장 적다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257278",
+  "en": "They swim by flapping their dorsal and anal fins in unison, similar to the motion of wings.",
+  "ko": "날개를 퍼덕이듯 등지느러미와 뒷지느러미를 함께 움직여 헤엄친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257280",
+  "en": "The common ocean sunfish is the most familiar member of the Molidae family and one of the largest bony fish in the world. Found in temperate and tropical oceans, it is often seen basking near the surface between deep dives.",
+  "ko": "보통개복치는 개복치과에서 가장 익숙한 종이며 세계에서 가장 큰 경골어류 가운데 하나다. 온대와 열대 바다에 서식하며, 깊은 잠수와 잠수 사이에 수면 근처에서 일광욕하듯 떠 있는 모습이 자주 목격된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257281",
+  "en": "It is one of the largest bony fish in the world and can exceed 1,000 kg in weight.",
+  "ko": "세계에서 가장 큰 경골어류 가운데 하나로, 몸무게가 1,000 kg을 넘을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257282",
+  "en": "Sunfish fry resemble spiky pufferfish more than they resemble adult molas.",
+  "ko": "개복치 치어는 성체 몰라보다 뾰족뾰족한 복어를 더 닮았다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257283",
+  "en": "Ocean sunfish share many traits with other Tetraodontiformes, including pufferfish, porcupinefish, and filefish.",
+  "ko": "개복치는 복어와 가시복, 파일피시를 비롯한 다른 복어목 어류와 많은 특징을 공유한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257285",
+  "en": "Oarfish are long, ribbon-shaped fish that live in deep, open-ocean waters around the world. They are known for their silvery bodies, red fins, and unusual swimming style, using waves of the dorsal fin to move through the water. Because oarfish are rarely seen alive, they have inspired sea serpent legends and remain poorly understood.",
+  "ko": "산갈치는 전 세계 깊은 외해에 사는 길쭉한 리본 모양 어류다. 은빛 몸과 붉은 지느러미, 등지느러미의 물결을 이용해 물속을 이동하는 독특한 유영 방식으로 알려져 있다. 살아 있는 모습을 좀처럼 볼 수 없어 바다뱀 전설의 근원이 되었고, 아직 제대로 알려지지 않은 어류로 남아 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257286",
+  "en": "Oarfish are long, ribbon-shaped fish that live in deep midwater zones far from shore.",
+  "ko": "산갈치는 해안에서 멀리 떨어진 깊은 중층수대에 사는 길쭉한 리본 모양 어류다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257287",
+  "en": "Oarfish are rarely seen alive because they spend most of their lives in deep offshore waters.",
+  "ko": "산갈치는 일생의 대부분을 깊은 외해에서 보내기 때문에 살아 있는 모습을 거의 볼 수 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257288",
+  "en": "Oarfish swim by rippling their long dorsal fin while keeping their bodies mostly straight.",
+  "ko": "산갈치는 몸을 대체로 곧게 편 채 긴 등지느러미를 물결처럼 흔들어 헤엄친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257290",
+  "en": "The giant oarfish is the longest bony fish in the world, with confirmed individuals reaching several metres in length. Recognized by its silver-blue body, dark spots, and bright crimson fins, it is one of the most striking fish of the deep ocean. Unlike most fish, much of its vital anatomy is concentrated near the head, with the rest of the body extending in a long ribbon behind it.",
+  "ko": "큰산갈치는 세계에서 가장 긴 경골어류로, 확인된 개체는 길이가 몇 미터에 이른다. 은푸른 몸과 검은 반점, 선명한 진홍색 지느러미가 특징이며, 심해에서 가장 눈에 띄는 어류 가운데 하나다. 대부분의 어류와 달리 중요한 몸 구조가 머리 쪽에 몰려 있고, 나머지 몸은 그 뒤로 긴 리본처럼 뻗어 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257291",
+  "en": "Giant oarfish are found worldwide, but many sightings come from the Atlantic, Mediterranean, and eastern Pacific.",
+  "ko": "큰산갈치는 전 세계에 분포하지만, 목격담은 대서양과 지중해, 동태평양에서 많이 나온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257292",
+  "en": "The giant oarfish is the longest bony fish in the world.",
+  "ko": "큰산갈치는 세계에서 가장 긴 경골어류다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257293",
+  "en": "Giant oarfish commonly reach several metres in length, with some confirmed individuals reaching around 8 m.",
+  "ko": "큰산갈치는 보통 몇 미터까지 자라며, 확인된 개체 가운데에는 약 8 m에 이른 것도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257295",
+  "en": "Fangtooths are small but fearsome-looking deep-sea fish known for their oversized teeth and dark, compressed bodies. This group includes two known species: the common fangtooth and the shorthorn fangtooth. They live in deep ocean waters around the world, where food can be scarce and every hunting chance matters. Despite their intimidating appearance, fangtooths are tiny compared to many ocean predators and are harmless to humans.",
+  "ko": "이빨고기는 커다란 이빨과 검고 납작한 몸으로 알려진, 작지만 무시무시하게 생긴 심해 어류다. 이 무리에는 보통이빨고기와 짧은뿔이빨고기 두 종이 알려져 있다. 전 세계 깊은 바다에 살며, 먹이가 귀한 곳이라 사냥할 기회 하나하나가 중요하다. 무서운 생김새와 달리 많은 바다 포식자에 비하면 아주 작고, 사람에게는 해가 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257296",
+  "en": "Relative to body size, fangtooths have the largest teeth of any fish in the ocean.",
+  "ko": "몸 크기에 견줘 보면 이빨고기는 바다에서 가장 큰 이빨을 가진 어류다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257297",
+  "en": "Fangtooths include two known species: the common fangtooth and the shorthorn fangtooth.",
+  "ko": "이빨고기류에는 보통이빨고기와 짧은뿔이빨고기 두 종이 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257298",
+  "en": "Fangtooths belong to a small, unusual fish family with no close living relatives.",
+  "ko": "이빨고기류는 가까운 살아 있는 친척이 없는, 작고 특이한 어류 과에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257300",
+  "en": "The common fangtooth is the larger of the two fangtooth species and is found in tropical and temperate oceans worldwide. Adults live in deep water, while juveniles are often found closer to the surface and look very different from mature fish. In the darkness, adults rely on tiny eyes and a strong sense of touch to detect movement and vibrations as they hunt fish, squid, and crustaceans.",
+  "ko": "보통이빨고기는 이빨고기 두 종 가운데 큰 쪽으로, 전 세계 열대와 온대 바다에 서식한다. 성체는 깊은 물에 살고, 치어는 수면 가까이에서 자주 발견되며 성체와 아주 다르게 생겼다. 어둠 속에서 성체는 작은 눈과 뛰어난 촉각으로 움직임과 진동을 감지하며 물고기와 오징어, 갑각류를 사냥한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257301",
+  "en": "The fangtooth is found in deep tropical and temperate oceans worldwide.",
+  "ko": "이빨고기는 전 세계의 깊은 열대와 온대 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257302",
+  "en": "Adult fangtooths are usually found between about 500 and 5,000 m deep.",
+  "ko": "성체 이빨고기는 보통 수심 약 500–5,000 m 사이에 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257303",
+  "en": "The common fangtooth grows to about 16–18 cm long.",
+  "ko": "보통이빨고기는 약 16–18 cm까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257315",
+  "en": "The Pacific blackdragon is found in deep Pacific waters, often hundreds to thousands of metres below the surface. Known for its ultra-black skin, it absorbs nearly all incoming light, making it difficult to see in the darkness.",
+  "ko": "태평양흑룡은 태평양 깊은 물, 흔히 수면 아래 수백에서 수천 미터 지점에 서식한다. 들어오는 빛을 거의 모두 흡수하는 초흑색 피부로 알려져 있어, 어둠 속에서는 모습을 알아보기 어렵다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257316",
+  "en": "Pacific blackdragons live in deep water, often between about 500 and 2,000 m below the surface.",
+  "ko": "태평양흑룡은 깊은 물, 흔히 수면 아래 약 500–2,000 m 지점에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257317",
+  "en": "Female Pacific blackdragons can grow to about 61 cm long, while males reach only about 8 cm.",
+  "ko": "암컷 태평양흑룡은 약 61 cm까지 자라지만, 수컷은 약 8 cm에 그친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257318",
+  "en": "Pacific blackdragons have ultra-black skin that absorbs up to 99.95% of incoming light.",
+  "ko": "태평양흑룡은 들어오는 빛의 최대 99.95%를 흡수하는 초흑색 피부를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257320",
+  "en": "The black dragonfish is found in southern subtropical and temperate oceans. It is especially notable for the near-invisible light it produces, which it can see and use while hunting in the deep sea.",
+  "ko": "흑룡고기는 남반구의 아열대와 온대 바다에 서식한다. 거의 보이지 않는 빛을 내는 것으로 특히 유명한데, 심해에서 사냥할 때 그 빛을 보고 이용할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257321",
+  "en": "Black dragonfish females can grow up to about 40 cm long, while males reach only about 4 cm.",
+  "ko": "흑룡고기 암컷은 약 40 cm까지 자라지만, 수컷은 약 4 cm에 그친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257322",
+  "en": "Black dragonfish live in southern subtropical and temperate oceans.",
+  "ko": "흑룡고기는 남반구의 아열대와 온대 바다에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257323",
+  "en": "Female black dragonfish live below 500 m during the day and may migrate toward shallower waters at night.",
+  "ko": "흑룡고기 암컷은 낮에는 수심 500 m 아래에 있다가 밤이 되면 얕은 물로 이동하기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257335",
+  "en": "Butterflyfish are colourful reef fish found in warm oceans around the world. They come in many shapes, patterns, and sizes, often with bright bodies, bold bands, and eye-like markings that confuse predators. Many species live closely with coral reefs, where they feed, defend territories, and communicate with other butterflyfish.",
+  "ko": "나비고기는 전 세계 따뜻한 바다의 산호초에 사는 화려한 어류다. 모양과 무늬, 크기가 다양하며, 대개 밝은 몸에 굵은 줄무늬나 눈처럼 생긴 무늬를 지녀 포식자를 헷갈리게 만든다. 많은 종이 산호초와 밀접하게 살며, 그곳에서 먹이를 먹고 영역을 지키고 다른 나비고기와 소통한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257336",
+  "en": "Butterflyfish include around 129 recognized species found mostly around ocean reefs.",
+  "ko": "나비고기에는 주로 바다 산호초 주변에 사는 약 129종이 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257337",
+  "en": "They belong to a colourful group of reef fish with many different patterns, shapes, and sizes.",
+  "ko": "이들은 다양한 무늬와 모양, 크기를 지닌 화려한 산호초 어류 무리에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257338",
+  "en": "Many butterflyfish species form long-lasting monogamous pairs and swim together.",
+  "ko": "많은 나비고기 종이 오래가는 일부일처 짝을 이뤄 함께 헤엄친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257340",
+  "en": "The three-banded butterflyfish is a small reef fish with a shimmering silvery-white body and three distinct dark vertical bands. Unlike many shallow-water butterflyfish, it is often found in deeper reef habitats. It is one of the more distinctive butterflyfish found in the eastern Pacific.",
+  "ko": "세줄나비고기는 은백색으로 반짝이는 몸에 뚜렷한 검은 세로줄 세 개가 있는 작은 산호초 어류다. 많은 얕은 물 나비고기와 달리 더 깊은 산호초 서식지에서 자주 발견된다. 동태평양에서 볼 수 있는, 특히 개성 뚜렷한 나비고기 가운데 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257341",
+  "en": "These butterflyfish have a shimmering silvery-white body with three dark vertical bands.",
+  "ko": "이 나비고기는 은백색으로 반짝이는 몸에 검은 세로줄 세 개가 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257342",
+  "en": "They can grow up to about 14.5 cm long.",
+  "ko": "약 14.5 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257343",
+  "en": "These fish are often found deeper than many other butterflyfish species.",
+  "ko": "이 물고기는 다른 나비고기보다 더 깊은 곳에서 자주 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257345",
+  "en": "The barber butterflyfish is a silvery-yellow reef fish with a dark mask-like marking around the eyes and snout. It is the only member of its genus and is known for visiting cleaning stations, where it removes parasites and dead skin from larger marine animals. This unusual cleaning behaviour makes it stand out from many other butterflyfish.",
+  "ko": "이발사나비고기는 눈과 주둥이 주변에 가면처럼 검은 무늬가 있는 은빛 도는 노란 산호초 어류다. 자기 속에 속한 유일한 종이며, 큰 바다 동물에게서 기생충과 죽은 피부를 떼어 주는 청소장을 찾아다니는 것으로 알려져 있다. 이런 독특한 청소 행동이 다른 나비고기와 구별되는 점이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257346",
+  "en": "They are unique butterflyfish as the only member of their genus.",
+  "ko": "자기 속에 속한 유일한 종인 독특한 나비고기다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257347",
+  "en": "They can grow up to about 20 cm long.",
+  "ko": "약 20 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257348",
+  "en": "These butterflyfish have a silvery-yellow body with a dark mask-like marking around the eyes.",
+  "ko": "이 나비고기는 눈 주변에 가면처럼 검은 무늬가 있는 은빛 도는 노란 몸을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257350",
+  "en": "Damselfish are small to medium reef fish found mostly in marine environments. They are active, colourful fish that live around reefs and rocky habitats, feeding on algae, plankton, and small crustaceans. Many damselfish are highly territorial and will aggressively defend feeding areas, nests, or shelter from other fish.",
+  "ko": "자리돔은 주로 바다 환경에 사는 작거나 중간 크기의 산호초 어류다. 산호초와 바위 지형 주변에 살며 조류와 플랑크톤, 작은 갑각류를 먹는 활동적이고 화려한 물고기다. 많은 자리돔이 영역성이 강해 먹이 구역과 둥지, 은신처를 다른 물고기로부터 공격적으로 지킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257351",
+  "en": "Damselfish feed on algae, plankton, small crustaceans, and other tiny marine animals.",
+  "ko": "자리돔은 조류와 플랑크톤, 작은 갑각류와 그 밖의 자잘한 바다 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257352",
+  "en": "Highly territorial and known to chase away other fish that come too close.",
+  "ko": "영역성이 매우 강해 너무 가까이 오는 다른 물고기를 쫓아낸다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257353",
+  "en": "Some damselfish are known to chase away divers that approach their territory.",
+  "ko": "일부 자리돔은 자기 영역에 접근하는 잠수부까지 쫓아내는 것으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257355",
+  "en": "The giant damselfish is a large, territorial damselfish found around rocky reefs. Adults are dark and bold, while juveniles look very different, with bright white spots across the body.",
+  "ko": "큰자리돔은 바위 산호초 주변에 사는 크고 영역성이 강한 자리돔이다. 성체는 어둡고 대담한 빛깔을 띠지만, 치어는 몸 가득 밝은 흰 반점이 찍혀 있어 아주 다르게 생겼다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257356",
+  "en": "They are found in rocky reef habitats.",
+  "ko": "바위 산호초 서식지에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257357",
+  "en": "One of the larger damselfish species.",
+  "ko": "자리돔 가운데 큰 편에 속하는 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257358",
+  "en": "Males guard and aerate the eggs after spawning.",
+  "ko": "수컷은 산란 뒤 알을 지키고 산소를 공급한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257375",
+  "en": "The Cortez sea chub is a coastal reef fish found in the eastern Pacific. It is commonly seen in small schools around coral and rocky reefs, where it feeds mainly on attached algae. Known for coming very close to shore, it may even nibble at the feet of beachgoers in shallow water.",
+  "ko": "코르테즈바다황어는 동태평양에 사는 연안 산호초 어류다. 산호초와 바위 초 주변에서 작은 무리를 지어 흔히 볼 수 있으며, 주로 붙어 사는 조류를 먹는다. 아주 얕은 물에서 해안 가까이 다가오는 것으로 유명하며, 심지어 해변 나들이객의 발을 콕콕 쪼아 대기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257376",
+  "en": "Often comes very close to shore in shallow coastal waters.",
+  "ko": "얕은 연안 바다에서 해안 가까이 자주 다가온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257377",
+  "en": "Generally harmless, but known to nibble at the feet of beachgoers.",
+  "ko": "대체로 해가 없지만, 해변 나들이객의 발을 쪼아 대는 것으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257378",
+  "en": "They can grow up to about 50 cm long.",
+  "ko": "약 50 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257380",
+  "en": "Surgeonfish are reef fish known for the sharp, scalpel-like plates near their tails. Found in warm shallow reefs, they often swim in schools and graze on algae using small mouths and specialized teeth. Their name comes from the dangerous tail spines that can injure predators or careless handlers.",
+  "ko": "양쥐돔은 꼬리 근처의 날카로운 칼날 같은 판으로 알려진 산호초 어류다. 따뜻하고 얕은 산호초에 살며, 무리를 지어 헤엄치고 작은 입과 특수한 이빨로 조류를 뜯어 먹는다. 이름은 포식자나 부주의한 사람에게 상처를 입힐 수 있는 위험한 꼬리 가시에서 비롯되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257381",
+  "en": "The family name Acanthuridae means \"spine tail,\" referring to the sharp spines near the tail.",
+  "ko": "양쥐돔과(Acanthuridae)라는 과명은 꼬리 근처의 날카로운 가시를 가리키는 '가시 꼬리'라는 뜻이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257382",
+  "en": "Named for the sharp, scalpel-like plates near the base of the tail.",
+  "ko": "꼬리 밑동의 날카로운 칼날 같은 판에서 이름을 얻었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257383",
+  "en": "The tail plates are dangerously sharp and can cause serious cuts.",
+  "ko": "꼬리의 판은 위험할 만큼 날카로워 심한 상처를 낼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257385",
+  "en": "The yellowtail surgeonfish is an eastern Pacific surgeonfish recognized by its grey body covered in small black spots and its bright yellow tail fin. It is often found around rocky reefs and may form schools along shorelines.",
+  "ko": "노랑꼬리양쥐돔은 작은 검은 반점이 덮인 회색 몸과 선명한 노란 꼬리지느러미로 알아보는 동태평양 양쥐돔이다. 바위 산호초 주변에서 자주 볼 수 있으며, 해안선을 따라 무리를 이루기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257386",
+  "en": "They are covered with small black spots and marked by a bright yellow tail fin.",
+  "ko": "작은 검은 반점이 온몸을 덮고 있고, 선명한 노란 꼬리지느러미가 눈에 띈다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257387",
+  "en": "Usually found around rocky reef areas along shorelines.",
+  "ko": "보통 해안선을 따라 바위 산호초 지역에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257388",
+  "en": "They often form schools in shallow reef habitats.",
+  "ko": "얕은 산호초 서식지에서 무리를 이루는 일이 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257390",
+  "en": "The razor surgeonfish is a large eastern Pacific surgeonfish found mainly along the Pacific coast of Central and South America. Similar to the yellowtail surgeonfish, it lacks the even covering of small black spots and may be seen with that species where their ranges overlap.",
+  "ko": "면도칼양쥐돔은 주로 중앙아메리카와 남아메리카의 태평양 연안에 사는 대형 동태평양 양쥐돔이다. 노랑꼬리양쥐돔과 비슷하지만 작은 검은 반점이 고르게 덮여 있지 않고, 두 종의 분포가 겹치는 곳에서는 노랑꼬리양쥐돔과 함께 보이기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257391",
+  "en": "Looks very similar to the yellowtail surgeonfish.",
+  "ko": "노랑꼬리양쥐돔과 아주 비슷하게 생겼다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257392",
+  "en": "Can grow up to about 60 cm long.",
+  "ko": "약 60 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257393",
+  "en": "More common from Costa Rica and Panama south to Ecuador and nearby offshore islands.",
+  "ko": "코스타리카와 파나마에서 남쪽으로 에콰도르와 인근 앞바다 섬까지 더 흔하게 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257395",
+  "en": "Angelfish are colourful reef fish found in shallow tropical reefs of the Atlantic, Indian, and Pacific Oceans. Known for vivid colour patterns comparable to butterflyfish, they are bold, active fish that often stand out against coral and rocky habitats. Many angelfish change dramatically as they mature, with juveniles sometimes looking like completely different species from adults.",
+  "ko": "엔젤피시는 대서양과 인도양, 태평양의 얕은 열대 산호초에 사는 화려한 산호초 어류다. 나비고기에 견줄 만큼 선명한 색 무늬로 알려져 있으며, 산호와 바위 지형을 배경으로 눈에 띄는 대담하고 활동적인 물고기다. 많은 엔젤피시는 자라면서 극적으로 모습이 바뀌어, 치어가 성체와 전혀 다른 종처럼 보이기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257396",
+  "en": "There are about 86 known species of marine angelfish.",
+  "ko": "바다 엔젤피시는 약 86종이 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257397",
+  "en": "Found in shallow tropical reefs of the Atlantic, Indian, and Pacific Oceans.",
+  "ko": "대서양과 인도양, 태평양의 얕은 열대 산호초에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257398",
+  "en": "Angelfish are known for vivid colour patterns comparable to those of butterflyfish.",
+  "ko": "엔젤피시는 나비고기에 견줄 만큼 선명한 색 무늬로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257400",
+  "en": "The king angelfish is a colourful eastern Pacific angelfish found around rocky reefs. Adults are usually dark bluish to black with bright yellow accents, while juveniles are more orange and look very different from mature fish. Males are usually larger than females, and pelvic fin colour can help tell them apart.",
+  "ko": "킹엔젤피시는 바위 산호초 주변에서 볼 수 있는 화려한 동태평양 엔젤피시다. 성체는 대개 짙은 푸른빛에서 검은빛을 띠며 선명한 노란 포인트가 있고, 치어는 더 주황색이라 성체와 아주 다르게 생겼다. 수컷이 대개 암컷보다 크며, 배지느러미 색으로 둘을 구별할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257401",
+  "en": "They usually grow to about 35 cm long.",
+  "ko": "보통 약 35 cm까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257402",
+  "en": "Juveniles are more orange in colour and look very different from adults.",
+  "ko": "치어는 색이 더 주황색이며 성체와 아주 다르게 생겼다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257403",
+  "en": "Fully mature males are usually larger than females.",
+  "ko": "완전히 자란 수컷은 대개 암컷보다 크다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257405",
+  "en": "Filefish are unusual reef fish closely related to triggerfish and pufferfish. They are named for their rough, sandpapery skin, which comes from small spike-like scales. Often calm and slow-moving, filefish rely more on camouflage, colour changes, and careful drifting than speed, making them some of the more unusual fish on the reef.",
+  "ko": "파일피시는 쥐치와 복어에 가까운 특이한 산호초 어류다. 작은 가시 같은 비늘에서 비롯된, 사포처럼 거친 피부 때문에 이런 이름이 붙었다. 대개 느긋하고 느리게 움직이며, 속도보다는 위장과 체색 변화, 신중한 표류에 더 기대어 살아가기 때문에 산호초에서 가장 특이한 물고기 가운데 하나로 꼽힌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257406",
+  "en": "Filefish are closely related to triggerfish and pufferfish.",
+  "ko": "파일피시는 쥐치와 복어에 가깝다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257407",
+  "en": "There are about 102 known species of filefish.",
+  "ko": "파일피시는 약 102종이 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257408",
+  "en": "The name \"filefish\" comes from their rough skin, which feels like a metal file.",
+  "ko": "파일피시(filefish)라는 이름은 금속 줄(file)처럼 느껴지는 거친 피부에서 비롯되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257410",
+  "en": "The scrawled filefish is the largest member of the filefish family, found in tropical waters of the Atlantic, Indian, and Pacific Oceans. Recognized by its scribble-like markings, it is usually solitary and shy around divers.",
+  "ko": "낙서파일피시는 파일피시과에서 가장 큰 종으로, 대서양과 인도양, 태평양의 열대 바다에 산다. 낙서처럼 갈겨쓴 듯한 무늬가 특징이며, 대개 단독으로 다니고 잠수부 앞에서는 수줍어한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257411",
+  "en": "The largest member of the filefish family.",
+  "ko": "파일피시과에서 가장 큰 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257412",
+  "en": "Scrawled filefish can grow up to about 110 cm long.",
+  "ko": "낙서파일피시는 약 110 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257413",
+  "en": "Found in tropical waters of the Atlantic, Indian, and Pacific Oceans.",
+  "ko": "대서양과 인도양, 태평양의 열대 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257415",
+  "en": "Porcupinefish are slow-moving tropical fish related to pufferfish, but they belong to their own distinct family. When threatened, they can swallow water or air to inflate their bodies, causing sharp spines to stick outward and making them much harder to eat. With powerful toxins, expandable bodies, and spiny defenses, porcupinefish are surprisingly well protected despite their gentle, drifting appearance.",
+  "ko": "가시복은 복어와 가까운 느리게 움직이는 열대 어류이지만, 따로 독립된 과에 속한다. 위협을 받으면 물이나 공기를 삼켜 몸을 부풀리고, 날카로운 가시가 밖으로 튀어나와 잡아먹기 훨씬 어려워진다. 강력한 독과 부풀어 오르는 몸, 가시 방어까지 갖춰, 온순하고 둥둥 떠다니는 겉모습과 달리 놀랄 만큼 잘 보호받는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451520",
+  "en": "There are about 18 known species of porcupinefish.",
+  "ko": "가시복은 약 18종이 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451521",
+  "en": "Porcupinefish are related to pufferfish, but belong to a separate family.",
+  "ko": "가시복은 복어와 가깝지만 별개의 과에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451522",
+  "en": "Can inflate their bodies by swallowing water or air when threatened.",
+  "ko": "위협을 받으면 물이나 공기를 삼켜 몸을 부풀릴 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451524",
+  "en": "The spot-fin porcupinefish is a large tropical porcupinefish found in warm oceans around the world. It is recognized by its rounded body, unusually large eyes, and long spines, which usually lie flat while it swims.",
+  "ko": "점지느러미가시복은 전 세계 따뜻한 바다에 사는 대형 열대 가시복이다. 둥근 몸과 유난히 큰 눈, 헤엄칠 때는 대개 납작하게 눕는 긴 가시가 특징이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451525",
+  "en": "Found in tropical and subtropical waters around the world.",
+  "ko": "전 세계 열대와 아열대 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451526",
+  "en": "Can grow to around 50 cm long.",
+  "ko": "약 50 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451527",
+  "en": "Known for its unusually large eyes.",
+  "ko": "유난히 큰 눈으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451529",
+  "en": "Cornetfish are extremely long, slender fish found in warm coastal waters around reefs, sand flats, and seagrass beds. Often called flutemouths because of their long tubular snouts, they can look almost needle-like in the water. They usually hover in small groups or remain nearly motionless until disturbed or ready to strike at prey.",
+  "ko": "나팔고기는 산호초와 모래 평원, 해초밭 주변의 따뜻한 연안 바다에 사는 몹시 길쭉하고 가느다란 어류다. 대롱처럼 긴 주둥이 때문에 영어로는 '플루트입(flutemouth)'이라고도 불리며, 물속에서는 거의 바늘처럼 보이기도 한다. 대개 작은 무리로 떠 있거나, 놀라거나 먹이를 덮칠 때가 되기까지는 거의 움직이지 않고 버틴다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451530",
+  "en": "Cornetfish are often called flutemouths because their long snouts resemble the wind instrument.",
+  "ko": "나팔고기는 긴 주둥이가 관악기를 닮아 영어로 플루트입이라고도 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451531",
+  "en": "There is only one living genus of cornetfish, with four known species.",
+  "ko": "나팔고기 속은 현존하는 속이 하나뿐이며, 알려진 종은 네 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451532",
+  "en": "Most cornetfish seen in the wild are small juveniles, though adults can grow well over 1.5 m long.",
+  "ko": "야생에서 보이는 나팔고기는 대부분 작은 치어지만, 성체는 1.5 m를 훌쩍 넘게 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451534",
+  "en": "The bluespotted cornetfish is a long, slender Pacific cornetfish known for its greenish-grey body marked with blue spots or stripes. At night, it blends into shallow coastal habitats, and its body colour can shift to help it stay camouflaged.",
+  "ko": "푸른점나팔고기는 푸른 반점이나 줄무늬가 찍힌 녹회색 몸으로 알려진, 길쭉하고 가느다란 태평양 나팔고기다. 밤에는 얕은 연안 서식지에 몸을 녹이고, 체색을 바꿔 위장을 유지한다."
+ }
+]

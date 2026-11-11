@@ -1,0 +1,12 @@
+# Generated / source files -- never commit
+source/
+backup/
+work/
+build/
+dist/
+out/
+.env
+__pycache__/
+*.pyc
+# translating-po 작업 폴더 (배치/결과 JSON)
+locales/.translate/

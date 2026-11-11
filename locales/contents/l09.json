@@ -1,0 +1,848 @@
+[
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674332",
+  "en": "Atlantic herring spawn once per year, gathering in large numbers in coastal waters.",
+  "ko": "대서양청어는 1년에 한 번 산란하며, 이때 연안 수역에 무리를 지어 모인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674334",
+  "en": "The Pacific herring is found along the Pacific coast of North America and Asia, including regions such as California and Alaska. Similar to Atlantic herring, it forms large schools and moves between coastal and offshore waters, often returning to the same areas to spawn each year.",
+  "ko": "태평양청어는 캘리포니아와 알래스카 같은 지역을 포함해 북아메리카와 아시아의 태평양 연안에 분포한다. 대서양청어와 마찬가지로 큰 무리를 이루어 연안과 먼바다를 오가며, 해마다 같은 지역으로 돌아와 산란하는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674335",
+  "en": "Pacific herring spawn annually, often returning to the same coastal areas each year.",
+  "ko": "태평양청어는 해마다 산란하며, 대개 매년 같은 연안 지역으로 돌아온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674336",
+  "en": "They can feed in low-light conditions, allowing them to continue feeding even in darker waters.",
+  "ko": "이들은 빛이 약한 환경에서도 먹이를 먹을 수 있어, 어두운 물속에서도 계속 먹이 활동을 이어간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674337",
+  "en": "Pacific herring can move quickly up and down in the water using a specialized connection between their swim bladder and inner ear.",
+  "ko": "태평양청어는 부레와 내이를 잇는 특수한 연결 구조를 이용해 물속에서 빠르게 위아래로 움직일 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674338",
+  "en": "They are found along the Pacific coasts of North America and Asia.",
+  "ko": "이들은 북아메리카와 아시아의 태평양 연안에 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674339",
+  "en": "Pacific herring lack teeth on their jaws and rely on filter feeding rather than biting prey.",
+  "ko": "태평양청어는 턱에 이가 없어, 먹이를 물어뜯기보다 여과 섭식에 의존한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674341",
+  "en": "Flounders are flat, bottom-dwelling fish found in oceans around the world. As they develop, one eye migrates to the other side of their body, allowing both eyes to face upward while they lie on the seafloor. Their flattened shape and ability to change colour make them highly effective at blending into sand or mud, where they hide from predators and ambush prey.",
+  "ko": "가자미는 전 세계 바다에 서식하는 납작한 저서어다. 자라는 동안 한쪽 눈이 몸 반대편으로 이동해, 해저에 누워 있을 때 두 눈이 위를 향하게 된다. 납작한 몸과 색을 바꾸는 능력 덕분에 모래나 진흙에 몸을 숨기고 천적을 피하며 먹이를 매복해 사냥하는 데 매우 능하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674342",
+  "en": "Flounders begin life with one eye on each side of their head, but both eyes end up on the same side as they become adults.",
+  "ko": "가자미는 태어날 때 머리 양쪽에 눈이 하나씩 있지만, 성체가 되면 두 눈이 같은 쪽에 자리 잡는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674343",
+  "en": "They are usually found resting on the seafloor with their bodies flattened against sand or mud, often partially buried.",
+  "ko": "이들은 대개 해저에 몸을 납작하게 붙이고 쉬는 모습으로 발견되며, 흔히 몸 일부를 모래나 진흙에 묻고 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674344",
+  "en": "Flounders can change the colour and pattern of their upper side to match their surroundings.",
+  "ko": "가자미는 위쪽 면의 색과 무늬를 주변 환경에 맞춰 바꿀 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674345",
+  "en": "Many flounders can rapidly burrow into sand or mud, leaving only their eyes exposed.",
+  "ko": "많은 가자미가 모래나 진흙 속으로 재빨리 파고들어 눈만 내놓을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674346",
+  "en": "Flounder are ambush predators, waiting motionless before striking passing prey.",
+  "ko": "가자미는 매복형 포식자로, 움직이지 않고 기다리다 지나가는 먹이를 덮친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674347",
+  "en": "The side of the body that faces upward depends on the species, with each species being either left-eyed or right-eyed.",
+  "ko": "몸의 어느 쪽이 위를 향하는지는 종에 따라 다르며, 종마다 왼눈종이거나 오른눈종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674348",
+  "en": "Flounder are found in both shallow coastal waters and deeper offshore environments.",
+  "ko": "가자미는 얕은 연안 수역과 더 깊은 먼바다 환경 모두에서 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674349",
+  "en": "Most flounder grow between 20 and 60 cm long, though some can grow to 95 cm.",
+  "ko": "대부분의 가자미는 길이 20–60 cm로 자라지만, 95 cm까지 자라는 개체도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674350",
+  "en": "Many flounder can change their colour within seconds to match the seafloor beneath them.",
+  "ko": "많은 가자미가 발밑의 해저에 맞춰 몇 초 안에 몸 색을 바꿀 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674354",
+  "en": "The summer flounder is a left-eyed flatfish found along the Atlantic coast of North America. It is especially common in sandy and muddy bays, estuaries, and inlets during warmer months. One of the region's most important commercial and recreational fish, it is also known by the name fluke.",
+  "ko": "여름가자미는 북아메리카 대서양 연안에 서식하는 왼눈종 가자미다. 따뜻한 계절에는 모래와 진흙이 깔린 만과 하구, 좁은 수로에서 특히 흔하다. 이 지역에서 상업 어업과 레저 낚시 모두에 중요한 어종 중 하나이며, 플루크라는 이름으로도 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674355",
+  "en": "Summer flounder are found from Nova Scotia to Florida along the Atlantic coast of North America.",
+  "ko": "여름가자미는 북아메리카 대서양 연안을 따라 노바스코샤에서 플로리다까지 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674356",
+  "en": "They are commonly called \"fluke,\" especially in the northeastern United States.",
+  "ko": "이들은 특히 미국 북동부에서 흔히 “플루크”라고 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674357",
+  "en": "They often lie buried in sand or mud with only their eyes exposed, waiting to ambush prey.",
+  "ko": "이들은 흔히 모래나 진흙에 몸을 묻고 눈만 내놓은 채 먹이를 매복해 기다린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674358",
+  "en": "Summer flounder feed on small fish, squid, shrimp, and crabs.",
+  "ko": "여름가자미는 작은 물고기와 오징어, 새우, 게를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674359",
+  "en": "Unlike many flatfish, they will sometimes chase prey into open water rather than relying only on ambush.",
+  "ko": "많은 가자미류와 달리, 이들은 매복에만 의존하지 않고 때로는 먹이를 따라 트인 물속까지 쫓아간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674360",
+  "en": "They have sharp, well-developed teeth used to catch and hold prey.",
+  "ko": "이들은 먹이를 붙잡고 놓지 않기 위한 날카롭고 잘 발달한 이를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674361",
+  "en": "Summer flounder are known as \"chameleons of the sea\" for their ability to change colour to match the seafloor.",
+  "ko": "여름가자미는 해저에 맞춰 색을 바꾸는 능력 덕분에 “바다의 카멜레온”으로 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674362",
+  "en": "Summer flounder can live for over 12 years, with females growing larger and living longer than males.",
+  "ko": "여름가자미는 12년 이상 살 수 있으며, 암컷이 수컷보다 더 크게 자라고 더 오래 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674363",
+  "en": "In spring, they move into shallow coastal waters such as bays, estuaries, and inlets after spending winter offshore.",
+  "ko": "봄이 되면 이들은 겨울을 먼바다에서 보낸 뒤 만과 하구, 좁은 수로 같은 얕은 연안 수역으로 들어온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674364",
+  "en": "They remain in inshore waters through summer before returning to deeper ocean waters in autumn.",
+  "ko": "이들은 여름 내내 연안 수역에 머물다가 가을에 더 깊은 바다로 돌아간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674365",
+  "en": "Summer flounder spawn multiple times during the spawning season, releasing large numbers of eggs into offshore waters.",
+  "ko": "여름가자미는 산란철 동안 여러 번 산란하며, 먼바다로 다량의 알을 방출한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674366",
+  "en": "Some individuals display dark spots arranged in patterns, sometimes forming an \"X\" shape on their back.",
+  "ko": "일부 개체는 규칙적으로 배열된 검은 반점을 지니며, 때로는 등에 X자 모양을 이룬다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674367",
+  "en": "Summer flounder are a left-eyed species, meaning both eyes are located on the left side of their body as adults.",
+  "ko": "여름가자미는 왼눈종으로, 성체가 되면 두 눈이 몸의 왼쪽에 자리한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674373",
+  "en": "The chain pickerel is found across eastern North America, from the Gulf of Mexico to the Great Lakes and Atlantic coastal watersheds. Named for the dark, chain-like pattern along its olive-green sides, it is smaller than the northern pike and can also tolerate slightly brackish water.",
+  "ko": "사슬피커럴은 멕시코만에서 오대호와 대서양 연안 유역에 이르는 북아메리카 동부 전역에 분포한다. 올리브색 옆구리를 따라 이어지는 어두운 사슬 모양 무늬에서 이름을 얻었으며, 북방강꼬치고기보다 작고 약간 기수가 섞인 물도 견딜 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674374",
+  "en": "Most chain pickerel grow to 40–50 cm long, though some can reach up to 75 cm.",
+  "ko": "대부분의 사슬피커럴은 길이 40–50 cm로 자라지만, 75 cm까지 이르는 개체도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674375",
+  "en": "Chain pickerel usually live 8–10 years, though some individuals can survive up to 12.",
+  "ko": "사슬피커럴은 보통 8–10년을 살지만, 일부 개체는 12년까지 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674376",
+  "en": "Chain pickerel feed on fish, frogs, crayfish, aquatic insects, and other small animals.",
+  "ko": "사슬피커럴은 물고기와 개구리, 가재, 수서 곤충과 다른 작은 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674377",
+  "en": "Larger individuals may eat mice, snakes, or small birds that fall into the water.",
+  "ko": "큰 개체는 물에 빠진 쥐나 뱀, 작은 새를 먹기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674378",
+  "en": "Fry hatch with adhesive glands on their snouts that allow them to attach to vegetation until they can swim freely.",
+  "ko": "치어는 부화할 때 주둥이에 점착샘이 있어, 자유롭게 헤엄칠 수 있을 때까지 수초에 붙어 지낸다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674379",
+  "en": "Chain pickerel are known to leap from the water while striking insects or fishing lures.",
+  "ko": "사슬피커럴은 곤충이나 낚시 루어를 덮치며 물 밖으로 뛰어오르는 것으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674380",
+  "en": "They can tolerate slightly brackish water found where rivers meet the sea.",
+  "ko": "이들은 강이 바다와 만나는 곳의 약간 기수가 섞인 물을 견딜 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674381",
+  "en": "In Nova Scotia, the chain pickerel is considered an invasive species that has impacted native fish populations.",
+  "ko": "노바스코샤에서는 사슬피커럴이 토종 어류 개체군에 영향을 준 침입종으로 여겨진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674382",
+  "en": "They are a popular sport fish known for their powerful strikes and energetic fight when hooked.",
+  "ko": "이들은 강력한 입질과 낚싯바늘에 걸렸을 때의 활발한 몸부림으로 알려진 인기 낚시 대상 어종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674383",
+  "en": "Chain pickerel are sometimes called southern pike, jack, or eastern pickerel.",
+  "ko": "사슬피커럴은 때때로 남부강꼬치고기, 잭, 동부피커럴이라고 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674384",
+  "en": "Chain pickerel are named for the dark, chain-like pattern along their olive-green sides.",
+  "ko": "사슬피커럴은 올리브색 옆구리를 따라 이어지는 어두운 사슬 모양 무늬에서 이름을 얻었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674388",
+  "en": "Sea bass are marine fish commonly found near the seafloor in coastal waters. They often live around reefs, rocky areas, wrecks, and other underwater structures, where they hunt small animals and shelter.",
+  "ko": "농어는 연안 수역의 해저 근처에서 흔히 발견되는 바닷물고기다. 이들은 흔히 암초와 암반 지대, 난파선과 다른 수중 구조물 주변에 살며, 그곳에서 작은 동물을 사냥하고 몸을 숨긴다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674389",
+  "en": "Many sea bass live near the seafloor around reefs, rocky areas, wrecks, and other underwater structures.",
+  "ko": "많은 농어가 암초와 암반 지대, 난파선과 다른 수중 구조물 주변의 해저 근처에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674390",
+  "en": "They are opportunistic predators that feed on fish, crustaceans, worms, and other small animals.",
+  "ko": "이들은 물고기와 갑각류, 갯지렁이와 다른 작은 동물을 먹는 기회주의적 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674391",
+  "en": "Sea bass are commonly caught by both recreational and commercial fishers.",
+  "ko": "농어는 레저 낚시꾼과 상업 어민 모두에게 흔히 잡힌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674393",
+  "en": "The black sea bass is a bottom-dwelling fish found along the Atlantic coast of North America. It has a dark, dusky body with patterned fins, and its colour varies over its lifetime. Most begin life as females and later become males as they grow. They are also often seen resting vertically in the water column.",
+  "ko": "검은농어는 북아메리카 대서양 연안에 서식하는 저서어다. 어둡고 거무스름한 몸에 무늬가 있는 지느러미를 지녔으며, 색은 일생에 걸쳐 변한다. 대부분 암컷으로 태어나 자라면서 수컷으로 바뀐다. 또한 물기둥 속에서 수직으로 쉬는 모습이 자주 관찰된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674394",
+  "en": "Black sea bass are found along the Atlantic coast of North America.",
+  "ko": "검은농어는 북아메리카 대서양 연안에 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674395",
+  "en": "They typically grow to around 30 cm in length, though larger individuals can reach up to 66 cm.",
+  "ko": "이들은 보통 길이 30 cm 정도로 자라지만, 큰 개체는 66 cm까지 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674396",
+  "en": "Large individuals can weigh over 4 kg.",
+  "ko": "큰 개체는 무게가 4 kg을 넘기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674397",
+  "en": "Black sea bass are opportunistic predators that feed on crabs, shrimp, worms, small fish, and clams.",
+  "ko": "검은농어는 게와 새우, 갯지렁이, 작은 물고기, 조개를 먹는 기회주의적 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674398",
+  "en": "They are preyed upon by larger fish such as monkfish, dogfish, skates, and flounder.",
+  "ko": "이들은 아귀와 도그피시, 가오리, 가자미 같은 더 큰 물고기의 먹이가 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674399",
+  "en": "Black sea bass are often seen resting vertically in the water, either head-up or head-down.",
+  "ko": "검은농어는 물속에서 머리를 위로 하거나 아래로 한 채 수직으로 쉬는 모습이 자주 관찰된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674400",
+  "en": "Their colour varies over their lifetime, with juveniles appearing brown and turning darker as they reach adulthood.",
+  "ko": "이들의 색은 일생에 걸쳐 변하는데, 어린 개체는 갈색을 띠다가 성체가 되면서 더 어두워진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674401",
+  "en": "Dominant males develop a noticeable hump during the breeding season.",
+  "ko": "우세한 수컷은 번식철에 눈에 띄는 혹이 생긴다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674402",
+  "en": "Many black sea bass start life as females and later change into males.",
+  "ko": "많은 검은농어가 암컷으로 태어나 나중에 수컷으로 바뀐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674403",
+  "en": "Northern populations migrate seasonally, moving offshore in autumn and returning inshore in spring.",
+  "ko": "북쪽 개체군은 계절에 따라 이동하며, 가을에는 먼바다로 나갔다가 봄에 연안으로 돌아온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674404",
+  "en": "They are commonly found from shallow coastal waters to depths of around 130 m.",
+  "ko": "이들은 얕은 연안 수역부터 약 130 m 깊이까지 흔히 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674405",
+  "en": "Females can live up to about 8 years, while males may live up to 12 years.",
+  "ko": "암컷은 약 8년까지, 수컷은 12년까지 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674406",
+  "en": "They are a popular target for both recreational and commercial fisheries.",
+  "ko": "이들은 레저 낚시와 상업 어업 모두에서 인기 있는 대상 어종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674417",
+  "en": "Sea catfish are marine catfish found in warm coastal waters around the world. They often live near shorelines, estuaries, and river mouths, where they can tolerate both saltwater and brackish conditions. Like other catfish, they have whisker-like barbels used to detect food.",
+  "ko": "바다메기류는 전 세계 따뜻한 연안 수역에 서식하는 바다메기다. 이들은 흔히 해안선과 하구, 강어귀 근처에 살며, 그곳에서 바닷물과 기수가 섞인 물을 모두 견딘다. 다른 메기와 마찬가지로 먹이를 감지하는 수염 모양의 입수염을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674418",
+  "en": "Sea catfishes are found worldwide in tropical and warm temperate coastal waters.",
+  "ko": "바다메기류는 전 세계 열대와 따뜻한 온대 연안 수역에 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674419",
+  "en": "Many sea catfishes can live in both saltwater and brackish environments.",
+  "ko": "많은 바다메기류가 바닷물과 기수가 섞인 환경 모두에서 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674420",
+  "en": "Sea catfishes are among the oldest known catfish groups, with fossil records dating back millions of years.",
+  "ko": "바다메기류는 알려진 메기 무리 중 가장 오래된 축에 속하며, 화석 기록은 수백만 년 전까지 거슬러 올라간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674421",
+  "en": "Sea catfish have smooth skin instead of scales.",
+  "ko": "바다메기는 비늘 대신 매끈한 피부를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674423",
+  "en": "The gafftopsail catfish is found in the western Atlantic Ocean, including the Gulf of Mexico and the Caribbean Sea. It is named for its tall, sail-like dorsal fin. Unlike many catfish, it feeds throughout the water column and is known for its venomous spines and for the males carrying eggs in their mouths until they hatch.",
+  "ko": "돛메기는 멕시코만과 카리브해를 포함한 서대서양에 분포한다. 높이 솟은 돛 모양의 등지느러미에서 이름을 얻었다. 많은 메기와 달리 물기둥 전체에서 먹이를 먹으며, 독가시와 수컷이 알이 부화할 때까지 입에 넣고 다니는 습성으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674424",
+  "en": "Gafftopsail catfish are found in the western Atlantic, including the Gulf of Mexico and the Caribbean Sea.",
+  "ko": "돛메기는 멕시코만과 카리브해를 포함한 서대서양에 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674425",
+  "en": "Gafftopsail catfish typically grow to around 43 cm long, though some individuals can reach up to about 69 cm.",
+  "ko": "돛메기는 보통 길이 43 cm 정도로 자라지만, 일부 개체는 약 69 cm까지 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674426",
+  "en": "Gafftopsail catfish can live for over 20 years.",
+  "ko": "돛메기는 20년 이상 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674427",
+  "en": "They feed on crustaceans, worms, small fish, and other invertebrates.",
+  "ko": "이들은 갑각류와 갯지렁이, 작은 물고기와 다른 무척추동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674428",
+  "en": "Unlike many catfish, they feed throughout the water column rather than only along the bottom.",
+  "ko": "많은 메기와 달리, 이들은 바닥에만 머물지 않고 물기둥 전체에서 먹이를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155800674429",
+  "en": "They have barbels, or whiskers, that help them detect food in the water.",
+  "ko": "이들은 물속에서 먹이를 감지하는 데 도움이 되는 입수염, 즉 수염을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868608",
+  "en": "Gafftopsail catfish have venomous spines on their dorsal and pectoral fins that can cause painful wounds.",
+  "ko": "돛메기는 등지느러미와 가슴지느러미에 독가시가 있어 고통스러운 상처를 입힐 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868609",
+  "en": "The name \"gafftopsail\" comes from the tall dorsal fin that resembles a sail.",
+  "ko": "“돛메기”라는 이름은 돛을 닮은 높은 등지느러미에서 비롯되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868610",
+  "en": "Males carry around 50 fertilized eggs in their mouths and may continue protecting the young after they hatch.",
+  "ko": "수컷은 약 50개의 수정란을 입에 넣고 다니며, 부화한 뒤에도 새끼를 계속 보호하기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868611",
+  "en": "While carrying eggs, males do not feed.",
+  "ko": "알을 품고 있는 동안 수컷은 먹이를 먹지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868612",
+  "en": "They are preyed upon by large fish, such as sharks, as well as by humans.",
+  "ko": "이들은 상어 같은 큰 물고기와 사람의 먹이가 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868613",
+  "en": "They spawn in shallow coastal areas, often over mudflats.",
+  "ko": "이들은 흔히 갯벌 위인 얕은 연안 지역에서 산란한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868614",
+  "en": "Their venomous spines are strong enough to puncture gloves or thin boots.",
+  "ko": "이들의 독가시는 장갑이나 얇은 장화를 뚫을 만큼 강하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868616",
+  "en": "Freshwater catfishes are bottom-dwelling fish found in rivers, lakes, and wetlands around the world. Named for their whisker-like barbels, they use these sensitive organs to detect food in dark or murky water. Most lack scales and are well adapted for bottom-dwelling, where they feed on a wide range of aquatic animals.",
+  "ko": "민물메기류는 전 세계 강과 호수, 습지에 서식하는 저서어다. 수염 모양의 입수염에서 이름을 얻었으며, 이 민감한 기관으로 어둡거나 탁한 물속에서 먹이를 감지한다. 대부분 비늘이 없고 저서 생활에 잘 적응했으며, 다양한 수생 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868617",
+  "en": "Freshwater catfishes are named for their whisker-like barbels around the mouth.",
+  "ko": "민물메기류는 입 주위의 수염 모양 입수염에서 이름을 얻었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868618",
+  "en": "Most freshwater catfishes are bottom feeders that search for food along riverbeds and lakebeds.",
+  "ko": "대부분의 민물메기류는 강바닥과 호수 바닥을 따라 먹이를 찾는 저서 섭식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868619",
+  "en": "They do not have scales and instead have smooth skin.",
+  "ko": "이들은 비늘이 없고 대신 매끈한 피부를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868620",
+  "en": "Many catfish have taste-sensitive cells across their bodies, allowing them to detect food by touch and chemicals in the water.",
+  "ko": "많은 메기가 몸 전체에 미각 세포를 지녀, 접촉과 물속 화학 물질로 먹이를 감지할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868621",
+  "en": "Most catfish are negatively buoyant, meaning they naturally sink and stay near the bottom.",
+  "ko": "대부분의 메기는 부력이 음수여서 자연히 가라앉아 바닥 근처에 머문다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868623",
+  "en": "The blue catfish is native to the Mississippi River Basin and is now found in many other waterways. Known for its size and strength, it prefers deep rivers with strong currents and can also tolerate brackish water.",
+  "ko": "푸른메기는 미시시피강 유역이 원산지지만, 지금은 다른 많은 수로에서도 발견된다. 크기와 힘으로 알려져 있으며, 물살이 센 깊은 강을 선호하고 기수가 섞인 물도 견딜 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868624",
+  "en": "They can grow up to 170 cm long and weigh as much as 65 kg, making them the largest catfish in North America.",
+  "ko": "이들은 길이 170 cm까지 자라고 무게가 65 kg에 이를 수 있어, 북아메리카에서 가장 큰 메기다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868625",
+  "en": "Blue catfish can live for around 20 years.",
+  "ko": "푸른메기는 약 20년을 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868626",
+  "en": "They are opportunistic predators that feed on fish, insects, crabs, crawfish, frogs, and even other blue catfish.",
+  "ko": "이들은 물고기와 곤충, 게, 가재, 개구리, 심지어 다른 푸른메기까지 먹는 기회주의적 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868627",
+  "en": "Blue catfish can tolerate brackish water and may enter coastal waterways.",
+  "ko": "푸른메기는 기수가 섞인 물을 견딜 수 있으며, 연안 수로로 들어오기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868628",
+  "en": "Considered invasive in some regions, where they impact native species.",
+  "ko": "일부 지역에서는 침입종으로 여겨져 토종 종에 영향을 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868629",
+  "en": "Blue catfish prefer large rivers with deep channels, strong currents, and sandy bottoms.",
+  "ko": "푸른메기는 깊은 물길과 센 물살, 모래 바닥을 지닌 큰 강을 선호한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868630",
+  "en": "They are strong swimmers compared to many other catfish species.",
+  "ko": "이들은 다른 많은 메기 종에 비해 헤엄을 잘 친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868631",
+  "en": "They have smooth, scaleless skin and four pairs of barbels around their mouth.",
+  "ko": "이들은 매끈하고 비늘이 없는 피부와 입 주위의 네 쌍의 입수염을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868632",
+  "en": "Blue catfish have taste-sensitive cells on their bodies, allowing them to detect food by touch and chemicals in the water.",
+  "ko": "푸른메기는 몸에 미각 세포가 있어, 접촉과 물속 화학 물질로 먹이를 감지할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868633",
+  "en": "Male blue catfish build and guard nests and fan the eggs to provide oxygen until they hatch.",
+  "ko": "수컷 푸른메기는 둥지를 짓고 지키며, 알이 부화할 때까지 부채질해 산소를 공급한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868635",
+  "en": "The hogfish is a reef-dwelling fish found in the western Atlantic Ocean, from Nova Scotia to northern South America, including the Gulf of Mexico. It has a long, pig-like snout used to dig through sand in search of food. Known for its striking appearance and complex social behaviour, it lives in groups led by a dominant male. It is also prized for its taste.",
+  "ko": "돼지물고기는 노바스코샤에서 남아메리카 북부에 이르기까지, 멕시코만을 포함한 서대서양에 서식하는 암초성 어류다. 길고 돼지처럼 생긴 주둥이로 모래를 파헤쳐 먹이를 찾는다. 눈에 띄는 생김새와 복잡한 사회 행동으로 알려져 있으며, 우세한 수컷이 이끄는 무리를 이루어 산다. 맛이 좋아 귀하게 여겨지기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868636",
+  "en": "Hogfish are found in the western Atlantic Ocean, from Nova Scotia to northern South America.",
+  "ko": "돼지물고기는 노바스코샤에서 남아메리카 북부에 이르는 서대서양에 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868637",
+  "en": "They can grow up to about 90 cm long and weigh as much as 11 kg.",
+  "ko": "이들은 길이 약 90 cm까지 자라고 무게가 11 kg에 이를 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868638",
+  "en": "Hogfish can live for around 10–11 years.",
+  "ko": "돼지물고기는 약 10–11년을 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868639",
+  "en": "They feed mainly on mollusks such as clams and snails, as well as crustaceans and sea urchins.",
+  "ko": "이들은 조개와 고둥 같은 연체동물을 주로 먹으며, 갑각류와 성게도 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868640",
+  "en": "Hogfish use their long snout to dig through sand and uncover buried prey.",
+  "ko": "돼지물고기는 긴 주둥이로 모래를 파헤쳐 묻혀 있는 먹이를 찾아낸다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868641",
+  "en": "They have strong jaws in their throat that crush hard-shelled prey.",
+  "ko": "이들은 목구멍에 단단한 껍데기의 먹이를 으스러뜨리는 강한 턱을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868642",
+  "en": "Hogfish are named for their pig-like snout and the way they dig through sand to find food.",
+  "ko": "돼지물고기는 돼지처럼 생긴 주둥이와 먹이를 찾아 모래를 파헤치는 모습에서 이름을 얻었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868643",
+  "en": "Juvenile hogfish often act as cleaner fish, removing parasites from larger fish.",
+  "ko": "어린 돼지물고기는 흔히 청소어 역할을 하며, 큰 물고기에서 기생충을 떼어낸다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868644",
+  "en": "Hogfish live in groups with one dominant male and several females.",
+  "ko": "돼지물고기는 우세한 수컷 한 마리와 여러 암컷이 무리를 이루어 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868645",
+  "en": "Many hogfish begin life as females and later change into males.",
+  "ko": "많은 돼지물고기가 암컷으로 태어나 나중에 수컷으로 바뀐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868646",
+  "en": "Males develop brighter colours and markings, including a dark band along the body and a black spot behind the rear fin.",
+  "ko": "수컷은 몸을 따라 이어지는 어두운 띠와 뒷지느러미 뒤의 검은 반점을 비롯해 더 선명한 색과 무늬를 띤다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868647",
+  "en": "They are preyed upon by larger fish and sharks.",
+  "ko": "이들은 더 큰 물고기와 상어의 먹이가 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868648",
+  "en": "Hogfish are part of the wrasse family, which is known for vibrant colours and complex social behaviours.",
+  "ko": "돼지물고기는 선명한 색과 복잡한 사회 행동으로 알려진 놀래기과에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868650",
+  "en": "Snappers are a group of marine fish found in warm coastal waters around the world. They are commonly found near coral reefs, rocky bottoms, and other underwater structures, where they hunt using sharp teeth and excellent eyesight. Known for their bright colours and strong bite, snappers are active predators and an important part of reef ecosystems.",
+  "ko": "도미류는 전 세계 따뜻한 연안 수역에 서식하는 바닷물고기 무리다. 이들은 흔히 산호초와 암반 바닥, 다른 수중 구조물 근처에서 발견되며, 그곳에서 날카로운 이와 뛰어난 시력으로 사냥한다. 선명한 색과 강한 입질로 알려진 도미류는 활동적인 포식자이며 산호초 생태계의 중요한 일부다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868651",
+  "en": "Many snappers have bright colours that are used during courtship and social behaviour.",
+  "ko": "많은 도미류가 구애와 사회 행동에서 쓰이는 선명한 색을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868652",
+  "en": "Snappers have sharp, canine-like teeth used to catch and hold prey.",
+  "ko": "도미류는 먹이를 붙잡고 놓지 않는 데 쓰이는 날카로운 송곳니 모양의 이를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868653",
+  "en": "They are known for their strong bite, which can produce an audible snapping sound.",
+  "ko": "이들은 들릴 만한 딱 하는 소리를 낼 수 있는 강한 입질로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868654",
+  "en": "Snappers rely on excellent eyesight to locate and hunt prey.",
+  "ko": "도미류는 뛰어난 시력에 의존해 먹이를 찾아 사냥한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868655",
+  "en": "Most snappers are found around coral reefs, rocky areas, and coastal structures.",
+  "ko": "대부분의 도미류는 산호초와 암반 지대, 연안 구조물 주변에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868656",
+  "en": "They are active predators that feed on fish, crustaceans, and other small animals.",
+  "ko": "이들은 물고기와 갑각류, 다른 작은 동물을 먹는 활동적인 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868658",
+  "en": "The northern red snapper is found in the western Atlantic Ocean, including the Gulf of Mexico and the Caribbean Sea. Recognized by its red colouring, it often forms schools near the seafloor and is highly valued in both recreational and commercial fisheries.",
+  "ko": "북방홍도미는 멕시코만과 카리브해를 포함한 서대서양에 서식한다. 붉은 색으로 알아볼 수 있으며, 흔히 해저 근처에서 무리를 이루고 레저 낚시와 상업 어업 모두에서 높은 가치를 지닌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868659",
+  "en": "Northern red snapper are found in the western Atlantic Ocean, the Gulf of Mexico, and the Caribbean Sea.",
+  "ko": "북방홍도미는 서대서양과 멕시코만, 카리브해에 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868660",
+  "en": "They can grow up to about 100 cm long and weigh as much as 22.8 kg.",
+  "ko": "이들은 길이 약 100 cm까지 자라고 무게가 22.8 kg에 이를 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868661",
+  "en": "They can live for over 50 years, with some individuals reaching nearly 60 years.",
+  "ko": "이들은 50년 이상 살 수 있으며, 일부 개체는 거의 60년까지 이른다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868662",
+  "en": "Juveniles feed on zooplankton, while adults feed on fish, shrimp, squid, and other crustaceans.",
+  "ko": "어린 개체는 동물성 플랑크톤을 먹고, 성체는 물고기와 새우, 오징어와 다른 갑각류를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868663",
+  "en": "Northern red snapper stay close to the seafloor around reefs, ledges, ridges, and structures such as shipwrecks and oil rigs.",
+  "ko": "북방홍도미는 암초와 돌출부, 능선, 난파선이나 석유 시추선 같은 구조물 주변의 해저 가까이에 머문다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868664",
+  "en": "They often form schools, with fish of similar size grouping together.",
+  "ko": "이들은 흔히 무리를 이루며, 비슷한 크기의 개체끼리 모인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868665",
+  "en": "They are known to feed cautiously, often nibbling at food rather than striking quickly.",
+  "ko": "이들은 신중하게 먹이를 먹는 것으로 알려져 있으며, 재빨리 덮치기보다 흔히 조금씩 베어 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868666",
+  "en": "Northern red snapper spawn over sandy bottoms away from reefs.",
+  "ko": "북방홍도미는 암초에서 떨어진 모래 바닥 위에서 산란한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868667",
+  "en": "Known to spawn multiple times in a season, producing millions of eggs.",
+  "ko": "한 철에 여러 번 산란해 수백만 개의 알을 낳는 것으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868668",
+  "en": "After spawning, their eggs float freely in open water.",
+  "ko": "산란한 뒤 이들의 알은 트인 물속에서 자유롭게 떠다닌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868669",
+  "en": "They are preyed upon by large fish such as groupers, sharks, barracudas, and moray eels.",
+  "ko": "이들은 그루퍼와 상어, 바라쿠다, 곰치 같은 큰 물고기의 먹이가 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868670",
+  "en": "Their bright red bodies help them blend into deeper reef waters.",
+  "ko": "이들의 선명한 붉은 몸은 더 깊은 암초 수역에 녹아들도록 도와준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868672",
+  "en": "Gars are long, predatory fish found in freshwater and coastal waters of North America. They have elongated bodies covered in hard, armour-like scales and long jaws filled with sharp teeth. Ancient in origin, gars are ambush predators that often remain motionless before striking prey, and are sometimes called \"garpike\" despite not being closely related to pike.",
+  "ko": "가아류는 북아메리카의 민물과 연안 수역에 서식하는 길쭉한 육식어다. 단단한 갑옷 같은 비늘로 덮인 길쭉한 몸과 날카로운 이로 가득한 긴 턱을 지녔다. 기원이 아주 오래된 가아류는 매복형 포식자로, 흔히 움직이지 않고 있다가 먹이를 덮치며, 꼬치고기와 가까운 친척이 아님에도 때때로 가아파이크라고 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868673",
+  "en": "Gars are an ancient group of fish that have existed for over 200 million years.",
+  "ko": "가아류는 2억 년 넘게 존재해 온 고대 어류 무리다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868674",
+  "en": "They have long, narrow bodies covered in hard, armour-like scales called ganoid scales.",
+  "ko": "이들은 경린이라 불리는 단단한 갑옷 같은 비늘로 덮인 길고 좁은 몸을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868675",
+  "en": "Gars have elongated jaws filled with long, sharp teeth used to catch prey.",
+  "ko": "가아류는 먹이를 붙잡는 데 쓰이는 길고 날카로운 이로 가득한 길쭉한 턱을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868676",
+  "en": "They are ambush predators that often lie still before striking passing fish.",
+  "ko": "이들은 흔히 가만히 있다가 지나가는 물고기를 덮치는 매복형 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868677",
+  "en": "Their eggs are toxic and have a sticky coating that helps them attach to surfaces.",
+  "ko": "이들의 알은 독성이 있고, 표면에 달라붙는 데 도움이 되는 끈적한 막이 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868678",
+  "en": "Their swim bladder can function like a lung, allowing them to breathe air at the surface.",
+  "ko": "이들의 부레는 허파처럼 기능할 수 있어, 수면에서 공기를 들이마실 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868679",
+  "en": "Their scales are extremely hard and were once used by humans to make tools and arrowheads.",
+  "ko": "이들의 비늘은 극히 단단해, 예전에는 사람이 도구와 화살촉을 만드는 데 쓰기도 했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868680",
+  "en": "They have a spiral-shaped intestine that helps them absorb more nutrients from their food.",
+  "ko": "이들은 나선 모양의 창자가 있어 먹이에서 더 많은 영양분을 흡수하는 데 도움이 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155804868682",
+  "en": "The longnose gar is found in freshwater and brackish habitats across the eastern and central United States. Recognized by its exceptionally long, needle-like snout, it is often found in rivers, lakes, and swamps.",
+  "ko": "긴코가아는 미국 동부와 중부의 민물과 기수 서식지에 분포한다. 유난히 길고 바늘 같은 주둥이로 알아볼 수 있으며, 흔히 강과 호수, 늪에서 발견된다."
+ }
+]

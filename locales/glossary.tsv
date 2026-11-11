@@ -1,0 +1,1352 @@
+Almanac Extras - String	Huatulco Survey Findings	우아툴코 조사 결과
+Almanac Extras - String	Loch Ness Survey Findings	네스호 조사 결과
+Almanac Extras - String	Outer Banks Survey Findings	아우터뱅크스 조사 결과
+Almanac Extras - String	Point Nemo Survey Findings	포인트 네모 조사 결과
+Almanac UI - String	???	???
+Almanac UI - String	Achievements 	업적 
+Almanac UI - String	Artifacts	유물
+Almanac UI - String	Barnacle hit speed	따개비 타격 속도
+Almanac UI - String	Common Names	통칭
+Almanac UI - String	Customers	손님
+Almanac UI - String	Data	데이터
+Almanac UI - String	Disliked Fish	비선호 어종
+Almanac UI - String	Fish	물고기
+Almanac UI - String	Hunger	허기
+Almanac UI - String	Knives	칼
+Almanac UI - String	Liked Fish	선호 어종
+Almanac UI - String	Log records unavailable...	기록을 불러올 수 없습니다...
+Almanac UI - String	Messages	메시지
+Almanac UI - String	Open Message	메시지 열기
+Almanac UI - String	Parasite hide speed	기생충 은신 속도
+Almanac UI - String	Pay	지불
+Almanac UI - String	Records 	기록 
+Almanac UI - String	Size	크기
+Almanac UI - String	Species	종
+Almanac UI - String	Species Facts	어종 정보
+Almanac UI - String	Taxonomy 	분류 
+Almanac UI - String	Tip	팁
+Almanac UI - String	Variants Found	발견한 변종
+Almanac UI - String	View Artifact	유물 보기
+Artifacts - String	Asteroid Fragment	소행성 조각
+Artifacts - String	Aztec Sun Stone	아즈텍 태양의 돌
+Artifacts - String	Bio-Specimen Containment Unit 	생물 표본 보관 용기
+Artifacts - String	Canadarm2	캐나다암 2
+Artifacts - String	Canned Bread	통조림 빵
+Artifacts - String	Coffee Cup	커피 컵
+Artifacts - String	Deep-Sea Drone	심해 드론
+Artifacts - String	English Shield 	잉글랜드 방패
+Artifacts - String	Field Camera	현장 카메라
+Artifacts - String	Jar of Dirt	흙 단지
+Artifacts - String	Loaded Support Sphere	충전된 보조 구체
+Artifacts - String	Nessie Plush	네시 인형
+Artifacts - String	Obsidian Arrowhead	흑요석 화살촉
+Artifacts - String	Pictish Stone	픽트족 석판
+Artifacts - String	Quetzalcóatl Statue	케찰코아틀 석상
+Artifacts - String	Rat King Plush	쥐왕 인형
+Artifacts - String	Rubber Ball	고무공
+Artifacts - String	Rusty Compass	녹슨 나침반
+Artifacts - String	Sextant	육분의
+Artifacts - String	Sonar Receiver	소나 수신기
+Artifacts - String	Spanish Doubloon	스페인 금화
+Artifacts - String	Sputnik 1	스푸트니크 1호
+Artifacts - String	Submersible Controller	잠수정 조종기
+Artifacts - String	Toy Submarine	장난감 잠수함
+Bait UI	Ability	능력
+Bait UI	Replace	교체
+Bait UI	Type	종류
+Bait UI	Unequip	해제
+Bait UI	Unequip All	모두 해제
+Baits - String	Active	활성
+Baits - String	Banana Peel	바나나 껍질
+Baits - String	Barrel Buster	통 분쇄기
+Baits - String	Bouncy Hook	탱탱 후크
+Baits - String	Bubble Wrap	뽁뽁이
+Baits - String	Chisel	끌
+Baits - String	Combat	전투
+Baits - String	Compass	나침반
+Baits - String	Cotton Ball	솜뭉치
+Baits - String	Explore	탐험
+Baits - String	Favourite Fish Finder	애용하는 어군 탐지기
+Baits - String	Hazard	위험
+Baits - String	Inactive	비활성
+Baits - String	Magnet	자석
+Baits - String	Old Camera	낡은 카메라
+Baits - String	Pesticide	살충제
+Baits - String	Pouch	파우치
+Baits - String	Pressure Shot	압력탄
+Baits - String	Puzzle	퍼즐
+Baits - String	Recycler	재활용기
+Baits - String	Rubber Glove	고무장갑
+Baits - String	Scaling	비늘질
+Baits - String	Sewing Needle	바늘
+Baits - String	Shark Tooth	상어 이빨
+Baits - String	Shop	상점
+Baits - String	Spring	용수철
+Baits - String	Visual	시각
+Boat HUD - String	Almanac	도감
+Boat HUD - String	Ask Preferences	선호도 물어보기
+Boat HUD - String	CARP Manual	CARP 설명서
+Boat HUD - String	Cosmetics	꾸미기
+Boat HUD - String	Discard All Fish	모든 물고기 버리기
+Boat HUD - String	Location Select	장소 선택
+Boat HUD - String	New	신규
+Boat HUD - String	Next Up	다음 순서
+Boat HUD - String	No	아니요
+Boat HUD - String	No	아니요
+Boat HUD - String	Pause	일시정지
+Boat HUD - String	Quit	나가기
+Boat HUD - String	Quit Game	게임 종료
+Boat HUD - String	Toggle Repellent	기피제 켜기/끄기
+Boat HUD - String	Treasures	보물
+Boat HUD - String	Value	가치
+Boat HUD - String	Value:	가치:
+Boat HUD - String	View Collectibles	수집품 보기
+Boat HUD - String	Yes	예
+Boat HUD - String	Yes	예
+Bottle Messages - String	Blighted Fortune	저주받은 행운
+Bottle Messages - String	Civilian Complaint	민원
+Bottle Messages - String	Civilian Complaint	민원
+Bottle Messages - String	Conquest	정복
+Bottle Messages - String	Emergency Record	긴급 기록
+Bottle Messages - String	Escape from Havana	아바나 탈출
+Bottle Messages - String	Expedition Briefing	탐사 브리핑
+Bottle Messages - String	Fallen Star	떨어진 별
+Bottle Messages - String	Fallen Star	떨어진 별
+Bottle Messages - String	Field Report	현장 보고서
+Bottle Messages - String	First Impressions	첫인상
+Bottle Messages - String	Fortune Favours the Bold	행운은 용감한 자의 것
+Bottle Messages - String	Incident Report	사건 보고서
+Bottle Messages - String	Initial Observations	초기 관찰
+Bottle Messages - String	Material Analysis	재질 분석
+Bottle Messages - String	New Spain's Conquest	누에바 에스파냐의 정복
+Bottle Messages - String	Official Statement: Dale Hargrove	공식 성명: 데일 하그로브
+Bottle Messages - String	Operation Report	작전 보고서
+Bottle Messages - String	Prophecy	예언
+Bottle Messages - String	Recovery Operation	회수 작전
+Bottle Messages - String	Research Log 1	연구 일지 1
+Bottle Messages - String	Research Log 2	연구 일지 2
+Bottle Messages - String	Research Log 3	연구 일지 3
+Bottle Messages - String	Research Log 4	연구 일지 4
+Bottle Messages - String	Research Log 5	연구 일지 5
+Bottle Messages - String	Roanoke Island	로어노크 섬
+Bottle Messages - String	Spanish Ship Log I	스페인 선박 일지 I
+Bottle Messages - String	Spanish Ship Log II	스페인 선박 일지 II
+Bottle Messages - String	Spanish Ship Log III	스페인 선박 일지 III
+Bottle Messages - String	The Fifth Sun	다섯 번째 태양
+Bottle Messages - String	The Narrow Banks	좁은 모래톱
+Bottle Messages - String	The Water Beast	물의 괴수
+Bottle Messages - String	Turn of Fortune	행운의 전환
+Bottle Messages - String	Unexpected Entity	예상치 못한 존재
+Bottle Messages - String	Unknown Signal	미확인 신호
+Bottle Messages - String	Urquhart Castle 	어커트 성 
+Cosmetic UI - String	Add	추가
+Cosmetic UI - String	Boat	보트
+Cosmetic UI - String	Boat	보트
+Cosmetic UI - String	Body	몸통
+Cosmetic UI - String	Bot	로봇
+Cosmetic UI - String	Change Colour	색상 변경
+Cosmetic UI - String	Clear	지우기
+Cosmetic UI - String	Clone	복제
+Cosmetic UI - String	Decals	데칼
+Cosmetic UI - String	Flip	뒤집기
+Cosmetic UI - String	Hat	모자
+Cosmetic UI - String	Head	머리
+Cosmetic UI - String	Left/Right	좌/우
+Cosmetic UI - String	Move / Rotate	이동 / 회전
+Cosmetic UI - String	Remove	제거
+Cosmetic UI - String	Rename	이름 변경
+Cosmetic UI - String	Reset	초기화
+Cosmetic UI - String	Rotate	회전
+Cosmetic UI - String	Swap Colour	색상 교체
+Cosmetic UI - String	Up/Down	위/아래
+Cosmetics - String	A Human face?	인간의 얼굴?
+Cosmetics - String	Astronaut Head	우주비행사 머리
+Cosmetics - String	Astronaut Head	우주비행사 머리
+Cosmetics - String	Astronaut Helmet	우주 헬멧
+Cosmetics - String	Astronaut Helmet	우주 헬멧
+Cosmetics - String	Astronaut Set	우주비행사 세트
+Cosmetics - String	Astronaut Set	우주비행사 세트
+Cosmetics - String	Astronaut Suit	우주복
+Cosmetics - String	Astronaut Suit	우주복
+Cosmetics - String	Aztec Body	아즈텍 몸
+Cosmetics - String	Aztec Body	아즈텍 몸
+Cosmetics - String	Aztec Hat	아즈텍 모자
+Cosmetics - String	Aztec Hat	아즈텍 모자
+Cosmetics - String	Aztec Head	아즈텍 머리
+Cosmetics - String	Aztec Head	아즈텍 머리
+Cosmetics - String	Aztec Set	아즈텍 세트
+Cosmetics - String	Aztec Set	아즈텍 세트
+Cosmetics - String	Bandit Mask	도적 가면
+Cosmetics - String	Buoy	부표
+Cosmetics - String	Captain Set	선장 세트
+Cosmetics - String	Captain Set	선장 세트
+Cosmetics - String	Cat Ears	고양이 귀
+Cosmetics - String	Cat Ears	고양이 귀
+Cosmetics - String	Cat Onesie	고양이 잠옷
+Cosmetics - String	Cat Onesie	고양이 잠옷
+Cosmetics - String	Chicken Hat	닭 모자
+Cosmetics - String	Chicken Hat	닭 모자
+Cosmetics - String	Chicken Suit	닭 옷
+Cosmetics - String	Chicken Suit	닭 옷
+Cosmetics - String	Circle	원
+Cosmetics - String	Cleaned Fishing Boat	깨끗해진 낚싯배
+Cosmetics - String	Cloak	망토
+Cosmetics - String	Cowboy	카우보이
+Cosmetics - String	Cowboy	카우보이
+Cosmetics - String	Dancing Dress	댄스 드레스
+Cosmetics - String	Dancing Dress	댄스 드레스
+Cosmetics - String	Diving Boat	잠수 보트
+Cosmetics - String	Diving Helmet	잠수 헬멧
+Cosmetics - String	Diving Helmet	잠수 헬멧
+Cosmetics - String	Diving Suit	잠수복
+Cosmetics - String	Diving Suit	잠수복
+Cosmetics - String	Ducky Tube	오리 튜브
+Cosmetics - String	Ducky Tube	오리 튜브
+Cosmetics - String	Fedora	페도라
+Cosmetics - String	Fedora	페도라
+Cosmetics - String	Fish	물고기
+Cosmetics - String	Fish Fear Me Hat	물고기가 나를 두려워하는 모자
+Cosmetics - String	Fisher Cap	어부 모자
+Cosmetics - String	Fisher Cap	어부 모자
+Cosmetics - String	Fishing Clothes	낚시복
+Cosmetics - String	Fishing Clothes	낚시복
+Cosmetics - String	Flower	꽃
+Cosmetics - String	Flower	꽃
+Cosmetics - String	Flower Dress	꽃 드레스
+Cosmetics - String	Flower Dress	꽃 드레스
+Cosmetics - String	Gecko Mask	도마뱀 가면
+Cosmetics - String	Glass Gecko	유리 도마뱀
+Cosmetics - String	Headphones	헤드폰
+Cosmetics - String	Headphones	헤드폰
+Cosmetics - String	Hoodie Dress	후드 드레스
+Cosmetics - String	Human Mask	인간 가면
+Cosmetics - String	Jellyfish	해파리
+Cosmetics - String	Jester	광대
+Cosmetics - String	Jester	광대
+Cosmetics - String	Kilt	킬트
+Cosmetics - String	Kilt	킬트
+Cosmetics - String	Knight Head	기사 머리
+Cosmetics - String	Knight Head	기사 머리
+Cosmetics - String	Knights Armor	기사 갑옷
+Cosmetics - String	Knights Armor	기사 갑옷
+Cosmetics - String	Knights Helm	기사 투구
+Cosmetics - String	Knights Helm	기사 투구
+Cosmetics - String	Mariachi Body	마리아치 몸
+Cosmetics - String	Mariachi Body	마리아치 몸
+Cosmetics - String	Mariachi Hat	마리아치 모자
+Cosmetics - String	Mariachi Hat	마리아치 모자
+Cosmetics - String	Mariachi Head	마리아치 머리
+Cosmetics - String	Mariachi Head	마리아치 머리
+Cosmetics - String	Nessie Stamp	네시 스탬프
+Cosmetics - String	Night Vision Goggles	야간 투시경
+Cosmetics - String	None	없음
+Cosmetics - String	None	없음
+Cosmetics - String	Old Rusty Fishing Boat	낡고 녹슨 낚싯배
+Cosmetics - String	Paint Circle Decal	원 데칼 칠하기
+Cosmetics - String	Paint Fish Decal.	물고기 데칼 칠하기.
+Cosmetics - String	Paint Glass Gecko Decal	유리 도마뱀 데칼 칠하기
+Cosmetics - String	Paint Jellyfish Decal	해파리 데칼 칠하기
+Cosmetics - String	Paint Nessie Stamp Decal	네시 스탬프 데칼 칠하기
+Cosmetics - String	Paint Square Decal	사각형 데칼 칠하기
+Cosmetics - String	Paint Squid Decal	오징어 데칼 칠하기
+Cosmetics - String	Paint Star Decal	별 데칼 칠하기
+Cosmetics - String	Paint Triangle Decal	삼각형 데칼 칠하기
+Cosmetics - String	Paint Wave Decal	파도 데칼 칠하기
+Cosmetics - String	Pig Tails	양갈래 머리
+Cosmetics - String	Pirate Bandana	해적 반다나
+Cosmetics - String	Pirate Bandana	해적 반다나
+Cosmetics - String	Pirate Captain Clothes	해적 선장 옷
+Cosmetics - String	Pirate Captain Clothes	해적 선장 옷
+Cosmetics - String	Pirate Captain Hat	해적 선장 모자
+Cosmetics - String	Pirate Captain Hat	해적 선장 모자
+Cosmetics - String	Pirate Captain Head	해적 선장 머리
+Cosmetics - String	Pirate Captain Head	해적 선장 머리
+Cosmetics - String	Pirate Ship	해적선
+Cosmetics - String	Pirate Shirt	해적 셔츠
+Cosmetics - String	Pirate Shirt	해적 셔츠
+Cosmetics - String	Plate Armor Set	판금 갑옷 세트
+Cosmetics - String	Plate Armor Set	판금 갑옷 세트
+Cosmetics - String	Poncho	판초
+Cosmetics - String	Poncho	판초
+Cosmetics - String	RetroTV	복고풍 TV
+Cosmetics - String	RetroTV	복고풍 TV
+Cosmetics - String	Robot Head	로봇 머리
+Cosmetics - String	Robot Head	로봇 머리
+Cosmetics - String	Santa Hat	산타 모자
+Cosmetics - String	Santa Hat	산타 모자
+Cosmetics - String	Sick Shades	멋진 선글라스
+Cosmetics - String	Skull	해골
+Cosmetics - String	Sombrero	솜브레로
+Cosmetics - String	Sombrero	솜브레로
+Cosmetics - String	Space Ship	우주선
+Cosmetics - String	Space Soldier Armor	우주 병사 갑옷
+Cosmetics - String	Space Soldier Armor	우주 병사 갑옷
+Cosmetics - String	Space Soldier Helmet	우주 병사 헬멧
+Cosmetics - String	Space Soldier Helmet	우주 병사 헬멧
+Cosmetics - String	Square	사각형
+Cosmetics - String	Squid	오징어
+Cosmetics - String	Squid Hat	오징어 모자
+Cosmetics - String	Squid Outfit	오징어 옷
+Cosmetics - String	Star	별
+Cosmetics - String	Straw Hat	밀짚모자
+Cosmetics - String	Straw Hat	밀짚모자
+Cosmetics - String	Tall Hat	긴 모자
+Cosmetics - String	Tartan Tam	타탄 모자
+Cosmetics - String	Tartan Tam	타탄 모자
+Cosmetics - String	This is a Skull.	이것은 해골입니다.
+Cosmetics - String	This is an Buoy.	이것은 부표입니다.
+Cosmetics - String	Top Hat	실크햇
+Cosmetics - String	Top Hat	실크햇
+Cosmetics - String	Tourist Hat	관광객 모자
+Cosmetics - String	Tourist Hat	관광객 모자
+Cosmetics - String	Tourist Shirt	관광객 셔츠
+Cosmetics - String	Tourist Shirt	관광객 셔츠
+Cosmetics - String	Traffic Cone	라바콘
+Cosmetics - String	Traffic Cone	라바콘
+Cosmetics - String	Treasure from your collection	컬렉션 속 보물
+Cosmetics - String	Triangle	삼각형
+Cosmetics - String	Very Tall Hat	아주 긴 모자
+Cosmetics - String	Viking Longship	바이킹 랑스킵
+Cosmetics - String	Wave	파도
+Cosmetics - String	Witch Hat 	마녀 모자
+Credits - String	2D Art Generalist	2D 아트 제너럴리스트
+Credits - String	Additional Writing	추가 각본
+Credits - String	Art	아트
+Credits - String	Artist Intern	아티스트 인턴
+Credits - String	Co-Lead Programmer	공동 수석 프로그래머
+Credits - String	Credits	크레딧
+Credits - String	Dialogue	대사
+Credits - String	Editing	교정
+Credits - String	Executive Producer	총괄 프로듀서
+Credits - String	Game Design	게임 디자인
+Credits - String	Game Design Support	게임 디자인 지원
+Credits - String	Game Testing and QA	게임 테스트 및 QA
+Credits - String	Lead Artist	수석 아티스트
+Credits - String	Lead Composer 	수석 작곡가 
+Credits - String	Lead Game Designer	수석 게임 디자이너
+Credits - String	Lead Narrative Designer	수석 내러티브 디자이너
+Credits - String	Lead Sound Designer	수석 사운드 디자이너
+Credits - String	Localization	현지화
+Credits - String	Music	음악
+Credits - String	Narrative and Writing	내러티브 및 각본
+Credits - String	Producers	프로듀서
+Credits - String	Programmer	프로그래머
+Credits - String	Programming	프로그래밍
+Credits - String	Publishing	퍼블리싱
+Credits - String	Quality Assurance	품질 보증
+Credits - String	Sound	사운드
+Credits - String	Special Thanks	특별 감사
+Credits - String	Story	스토리
+Credits - String	Story and Writing	스토리 및 각본
+Credits - String	Supporting Composer	작곡가
+Credits - String	Supporting Sound Designer	사운드 디자이너
+Credits - String	Systems Programming	시스템 프로그래밍
+Credits - String	Worldbuilding	세계관
+Credits - String	Writer	작가
+Customers - String	Alligator	악어
+Customers - String	American Alligator 	아메리카악어
+Customers - String	Atotolin	아토톨린
+Customers - String	Axolotl	우파루파
+Customers - String	A… bit… lacking…	조금… 부족… 하군…
+Customers - String	Bald Eagle	흰머리수리
+Customers - String	Belted Kingfisher	아메리카호반새
+Customers - String	Black spots, add flavor.	검은 점이 맛을 더하지.
+Customers - String	Bottlenose Dolphin	큰돌고래
+Customers - String	Brown Pelican	갈색펠리컨
+Customers - String	Bummer.	아쉽네.
+Customers - String	Bunyip	버니프
+Customers - String	Can we be friends?	우리 친구 할래?
+Customers - String	Can you read minds?	내 마음을 읽는 거야?
+Customers - String	Chupacabra	추파카브라
+Customers - String	Cipactli	시팍틀리
+Customers - String	Coati	코아티
+Customers - String	Consume…I need to consume…	삼켜야… 삼켜야 한다…
+Customers - String	Cormorant	가마우지
+Customers - String	Cottonmouth	코튼마우스
+Customers - String	Did you feed me…something?	나한테…뭐 먹인 거야?
+Customers - String	Don't keep me waiting.	기다리게 하지 마라.
+Customers - String	Don't keep me waiting.	기다리게 하지 마라.
+Customers - String	Eurasian Otter	유라시아수달
+Customers - String	Exactly what I wanted.	정확히 내가 원한 것이다.
+Customers - String	Farewell.	잘 가라.
+Customers - String	Fear me. Serve me.	나를 두려워하라. 나를 섬겨라.
+Customers - String	Food! food! food!	밥! 밥! 밥!
+Customers - String	Food, you have?	밥, 있어?
+Customers - String	Food. Now.	밥. 당장.
+Customers - String	GOT ANY FISH?	물고기 있어?
+Customers - String	GWAGABL	꾸왁꾸왁!
+Customers - String	Giant Pacific Octopus	대왕문어
+Customers - String	Good grub. Thanks.	맛있었어. 고마워.
+Customers - String	Got some grub, pal?	먹을 거 있어, 친구?
+Customers - String	Great Blue Heron	큰푸른왜가리
+Customers - String	Great Cormorant	민물가마우지
+Customers - String	Great White Pelican	큰흰펠리컨
+Customers - String	Great White Shark	백상아리
+Customers - String	Grey Heron	왜가리
+Customers - String	Grey Seal	회색물범
+Customers - String	HUNGRY! FOOD! GIVE!	배고파! 밥! 내놔!
+Customers - String	Hawksbill Sea Turtle	대모
+Customers - String	Hello… there…	안녕… 거기…
+Customers - String	Heron	왜가리
+Customers - String	Hi! Hi! HI!	안녕! 안녕! 안녕!!
+Customers - String	Hmmm…. not… great….	흠…. 별로… 군….
+Customers - String	Hunger, weakness it creates.	배고픔은 약함을 만든다.
+Customers - String	Hunger. Hunger. Hunger.	배고픔. 배고픔. 배고픔.
+Customers - String	Hungry….ever hungry.	배고프다…. 영원히 배고프다.
+Customers - String	I SMELL FISHIES! GIMME!!	물고기 냄새가 나! 줘!!
+Customers - String	I loveeee this!	이거 정말 좋아아아!
+Customers - String	I smelled yummy fishies!	맛있는 물고기 냄새가 났어!
+Customers - String	I ssssmelll something good…	좋은 냄새가 나는군…
+Customers - String	I still hunger…	나는 여전히 배고프다…
+Customers - String	I'm getting quite hungryyy.	나 꽤 배고파아아.
+Customers - String	I… have… arrived…	나는… 도착… 했다…
+Customers - String	Jussst try again…	그냥 다시 해봐…
+Customers - String	Just chillin.	그냥 쉬는 중.
+Customers - String	Justtttttt what I needed!	딱딱딱 필요한 거야!
+Customers - String	Kelpie	켈피
+Customers - String	Killer Whale	범고래
+Customers - String	Kraken	크라켄
+Customers - String	Lets play next time!	다음에 같이 놀자!
+Customers - String	Loggerhead	붉은바다거북
+Customers - String	Loggerhead Sea Turtle	붉은바다거북
+Customers - String	MINE! MINE! MINE!	내 거! 내 거! 내 거!
+Customers - String	Magnificent Frigatebird	아메리카군함조
+Customers - String	Mazacoatl	마사코아틀
+Customers - String	Mermaid	인어
+Customers - String	Mmmm! just perfect!	음~! 완벽해!
+Customers - String	Mmm…good stuff.	음… 좋은데.
+Customers - String	My Hunger persists….	나의 배고픔은 계속된다….
+Customers - String	My name ness.	내 이름은 네스.
+Customers - String	Mythical	신화
+Customers - String	Nessie	네시
+Customers - String	Never…been…served…so…well, have….this….	이렇게… 잘… 대접받은… 적이… 없었네…. 이걸… 받아….
+Customers - String	Not bird, but smart.	새는 아니지만, 똑똑하다.
+Customers - String	Not bird, but useful.	새는 아니지만, 쓸모는 있다.
+Customers - String	Not prefer, this.	별로다, 이건.
+Customers - String	Not to my taste.	내 취향은 아니다.
+Customers - String	Now THIS is fin-tastic!	이게 바로 환상어적이야!
+Customers - String	Now this…is real food.	이제야… 진짜 음식이군.
+Customers - String	Orca	범고래
+Customers - String	Osprey	물수리
+Customers - String	Otter	수달
+Customers - String	Peaceful, the water is.	평화롭다, 물은.
+Customers - String	Pelican	펠리컨
+Customers - String	Perfect, this meal is.	완벽하다, 이 식사는.
+Customers - String	Perfect.	완벽해.
+Customers - String	Perfection deserves a reward.	완벽에는 보상이 따른다.
+Customers - String	Quetzalcōātl	케찰코아틀
+Customers - String	Quite the worthwhile sssupper.	꽤 값진 저녁식사로군.
+Customers - String	Rare	희귀
+Customers - String	SCARY! BIG! DANGEROUS!	무서워! 커! 위험해!
+Customers - String	SKAWK	끼에액!
+Customers - String	Seagull	갈매기
+Customers - String	Seal	물범
+Customers - String	See ya.	나중에 봐.
+Customers - String	See you later, friend.	나중에 봐, 친구.
+Customers - String	Seems you guessed wrong..	잘못 짚은 모양이군..
+Customers - String	Selkie	셀키
+Customers - String	So goo- this works.	나쁘지 않- 이거 괜찮군.
+Customers - String	So much hunger...	너무나 큰 배고픔...
+Customers - String	Spotted Eagle Ray	점박이매가오리
+Customers - String	Stingrey	가오리
+Customers - String	Sup.	안녕.
+Customers - String	THANKS, BOAT PERSON!	고마워, 배 타는 인간!
+Customers - String	Thanks… for… the… patience…	기다려… 줘서… 고마워…
+Customers - String	That hits the spot!	딱 좋아!
+Customers - String	That seal-ed the deal!	이걸로 물범 끝!
+Customers - String	The mission calls!	임무가 부른다!
+Customers - String	The time is neigh.	히힝, 때가 되었군.
+Customers - String	This is unacceptable matey!	이건 용납 못 해, 친구!
+Customers - String	Too big, ack-	너무 크다, 윽-
+Customers - String	Too fancy for me.	나한테는 너무 고급이야.
+Customers - String	Too slippery and smooth.	너무 미끄럽고 매끈해.
+Customers - String	Tough, terrible and tasteless.	질기고, 형편없고, 맛도 없어.
+Customers - String	Try again.	다시 해봐.
+Customers - String	Turtle	거북
+Customers - String	Uktena	우크테나
+Customers - String	Um…still not my thing.	음… 여전히 내 취향은 아니야.
+Customers - String	Uncommon	고급
+Customers - String	Wait until I return.	내가 돌아올 때까지 기다려라.
+Customers - String	Waiting.	기다린다.
+Customers - String	Well met, fellow!	반갑네, 친구여!
+Customers - String	Western Gull	서부갈매기
+Customers - String	What a dull meal! 	정말 시시한 식사야!
+Customers - String	Whatcha got?	뭐 가져왔어?
+Customers - String	White-Nosed Coati	흰코코아티
+Customers - String	amphibious humanoid entity	양서류 인간형 존재
+Customers - String	amphibious swamp megafauna	늪지대 대형 양서류
+Customers - String	aquatic amphibian	수생 양서류
+Customers - String	aquatic avian megafauna	대형 수생 조류
+Customers - String	aquatic humanoid	수생 인간형
+Customers - String	aquatic megafauna	대형 수생동물
+Customers - String	canine-class predator	개과 포식자
+Customers - String	cartilaginous marine	연골어류
+Customers - String	cephalopod marine	해양 두족류
+Customers - String	cephalopod megafauna	대형 두족류
+Customers - String	ehhhh…	에에에…
+Customers - String	equine aquatic entity	수생 말형 존재
+Customers - String	failure, grow from it.	실패, 그것에서 성장한다.
+Customers - String	feathered serpent megafauna	깃털 달린 대형 뱀
+Customers - String	horned serpent megafauna	뿔 달린 대형 뱀
+Customers - String	just what me needed!	딱 필요한 거였어!
+Customers - String	marine avian	바다새
+Customers - String	marine avian	바다새
+Customers - String	marine avian	바다새
+Customers - String	marine avian	바다새
+Customers - String	marine avian	바다새
+Customers - String	marine mammalian	해양 포유류
+Customers - String	marine mammalian	해양 포유류
+Customers - String	marine mammalian	해양 포유류
+Customers - String	marine reptilian	해양 파충류
+Customers - String	marine reptilian	해양 파충류
+Customers - String	me hungry…	나 배고파…
+Customers - String	me no like waiting…	나 기다리는 거 싫어…
+Customers - String	no! no! no!	안 돼! 안 돼! 안 돼!
+Customers - String	predatory avian	맹금류
+Customers - String	predatory avian	맹금류
+Customers - String	predatory avian	맹금류
+Customers - String	predatory marine	해양 포식자
+Customers - String	primordial reptilian megafauna	태고의 대형 파충류
+Customers - String	semi-aquatic mammalian	반수생 포유류
+Customers - String	semi-aquatic reptilian	반수생 파충류
+Customers - String	semi-aquatic reptilian	반수생 파충류
+Customers - String	so fulllll….	배불러어어어….
+Customers - String	terrestrial mammalian	육상 포유류
+Customers - String	that fish too large…	그 물고기 너무 커…
+Customers - String	this fish no good….	이 물고기 별로야….
+Customers - String	wading avian	섭금류
+Customers - String	wading avian	섭금류
+Customers - String	…	…
+Dev Tools	Equipment	장비
+Dev Tools	Feeding	먹이 주기
+Dev Tools	Fishing	낚시
+Dev Tools	Inventory	인벤토리
+Dev Tools	Misc	기타
+Dev Tools	Money	돈
+Dev Tools	Save Data	세이브 데이터
+Equipment - String	All Global Upgrades Unlocked!	모든 전역 업그레이드 해금!
+Equipment - String	All Local Upgrades Unlocked!	모든 지역 업그레이드 해금!
+Equipment - String	Anchovy Lure	멸치 루어
+Equipment - String	Bait 	미끼
+Equipment - String	Bamboo Spear	대나무 창
+Equipment - String	Basic Bucket	기본 양동이
+Equipment - String	Bi-directional	양방향
+Equipment - String	Bonus Damage	추가 공격력
+Equipment - String	Bronze Fisherman's Hook	청동 어부의 낚싯바늘
+Equipment - String	Char Lure	곤들매기 루어
+Equipment - String	Conquerer Wooden Spear	정복자의 나무 창
+Equipment - String	Copper Lionfishing Spear	구리 쏠배감펭 창
+Equipment - String	Cosmetic 	외형
+Equipment - String	Crab Lure	게 루어
+Equipment - String	Cut Directions	절단 방향
+Equipment - String	Cut Speed	절단 속도
+Equipment - String	Damage	공격력
+Equipment - String	Dirty Plastic Crate	더러운 플라스틱 상자
+Equipment - String	Dirty Toy Bucket	더러운 장난감 양동이
+Equipment - String	Dive Time	잠수 시간
+Equipment - String	Equipment	장비
+Equipment - String	Equipped	장착됨
+Equipment - String	Fancy Fish Cooler	고급 생선 아이스박스
+Equipment - String	Fancy Fish Cooler	고급 생선 아이스박스
+Equipment - String	Fish Cooler	생선 아이스박스
+Equipment - String	Fisherman's Hook	어부의 낚싯바늘
+Equipment - String	Golden Harpoon	황금 작살
+Equipment - String	Golden Treble Hook	황금 세 갈고리 낚싯바늘
+Equipment - String	Harpoon	작살
+Equipment - String	Industrial Rod V1	산업용 낚싯대 V1
+Equipment - String	Industrial Rod V2	산업용 낚싯대 V2
+Equipment - String	Industrial Rod V3	산업용 낚싯대 V3
+Equipment - String	Industrial Rod V4	산업용 낚싯대 V4
+Equipment - String	Industrial Rod V5	산업용 낚싯대 V5
+Equipment - String	Industrial Rod V6	산업용 낚싯대 V6
+Equipment - String	Iron Bucket	철 양동이
+Equipment - String	Iron Crate	철 상자
+Equipment - String	Left	왼쪽
+Equipment - String	Level 1	레벨 1
+Equipment - String	Level 10	레벨 10
+Equipment - String	Level 11	레벨 11
+Equipment - String	Level 12	레벨 12
+Equipment - String	Level 13	레벨 13
+Equipment - String	Level 14	레벨 14
+Equipment - String	Level 15	레벨 15
+Equipment - String	Level 2	레벨 2
+Equipment - String	Level 3	레벨 3
+Equipment - String	Level 4	레벨 4
+Equipment - String	Level 5	레벨 5
+Equipment - String	Level 6	레벨 6
+Equipment - String	Level 7	레벨 7
+Equipment - String	Level 8	레벨 8
+Equipment - String	Level 9	레벨 9
+Equipment - String	Lionfishing Spear	쏠배감펭 창
+Equipment - String	Loch Ness Equipment	네스호 장비
+Equipment - String	Mossy Treble Hook	이끼 낀 세 갈고리 낚싯바늘
+Equipment - String	Nautical Lionfishing Spear	항해 쏠배감펭 창
+Equipment - String	Next	다음
+Equipment - String	No Repellent	퇴치제 없음
+Equipment - String	Normal Lure	일반 루어
+Equipment - String	Octo Treble Hook	문어 세 갈고리 낚싯바늘
+Equipment - String	Old Iron Crate	낡은 철 상자
+Equipment - String	Pincer Plastic Spear	집게 플라스틱 창
+Equipment - String	Plain Fish Cooler 	평범한 생선 아이스박스
+Equipment - String	Plastic Crate	플라스틱 상자
+Equipment - String	Plastic Spear	플라스틱 창
+Equipment - String	Reinforced Iron Crate	강화 철 상자
+Equipment - String	Reinforced Plastic Crate	강화 플라스틱 상자
+Equipment - String	Reinforced Wooden Bucket	강화 나무 양동이
+Equipment - String	Repellent Canister V1	퇴치 캔 V1
+Equipment - String	Repellent Canister V2	퇴치 캔 V2
+Equipment - String	Repellent Canister V3	퇴치 캔 V3
+Equipment - String	Repellent Canister V4	퇴치 캔 V4
+Equipment - String	Repellent Spray V1	퇴치 스프레이 V1
+Equipment - String	Repellent Spray V2	퇴치 스프레이 V2
+Equipment - String	Right	오른쪽
+Equipment - String	Rusty Iron Bucket	녹슨 철 양동이
+Equipment - String	Sharpness	날카로움
+Equipment - String	Shining Plastic Spear	빛나는 플라스틱 창
+Equipment - String	Shiny Toy Bucket	반짝이는 장난감 양동이
+Equipment - String	Shop	상점
+Equipment - String	Size	크기
+Equipment - String	Speed	속도
+Equipment - String	Spiked Wooden Spear	가시 나무 창
+Equipment - String	Strength	힘
+Equipment - String	Striped Plastic Spear	줄무늬 플라스틱 창
+Equipment - String	Swamp Rod V1	늪지 낚싯대 V1
+Equipment - String	Swamp Rod V2	늪지 낚싯대 V2
+Equipment - String	Swamp Rod V3	늪지 낚싯대 V3
+Equipment - String	Swamp Rod V4	늪지 낚싯대 V4
+Equipment - String	Swamp Rod V5	늪지 낚싯대 V5
+Equipment - String	Swamp Rod V6	늪지 낚싯대 V6
+Equipment - String	Toy Bucket 	장난감 양동이
+Equipment - String	Toy Rod V1	장난감 낚싯대 V1
+Equipment - String	Toy Rod V2	장난감 낚싯대 V2
+Equipment - String	Toy Rod V3	장난감 낚싯대 V3
+Equipment - String	Toy Rod V4	장난감 낚싯대 V4
+Equipment - String	Toy Rod V5	장난감 낚싯대 V5
+Equipment - String	Treble Hook	세 갈고리 낚싯바늘
+Equipment - String	Trident	삼지창
+Equipment - String	Turning Speed	회전 속도
+Equipment - String	Wood Rod V1	나무 낚싯대 V1
+Equipment - String	Wood Rod V2	나무 낚싯대 V2
+Equipment - String	Wood Rod V3	나무 낚싯대 V3
+Equipment - String	Wood Rod V4	나무 낚싯대 V4
+Equipment - String	Wood Rod V5	나무 낚싯대 V5
+Equipment - String	Wooden Bucket	나무 양동이
+Equipment - String	Wooden Spear	나무 창
+Fish Facts - String	Alaskan Cod	알래스카대구
+Fish Facts - String	American Eel	아메리카뱀장어
+Fish Facts - String	American Eel Elver	아메리카 실뱀장어
+Fish Facts - String	American Pickerel	아메리카피커럴
+Fish Facts - String	Anchovies	멸치류
+Fish Facts - String	Angelfish	엔젤피시
+Fish Facts - String	Apophis 99942	아포피스 99942
+Fish Facts - String	Arctic Char	북극숯송어
+Fish Facts - String	Arctic Grayling	북극그레이링
+Fish Facts - String	Atlantic Bluefin Tuna	대서양참다랑어
+Fish Facts - String	Atlantic Cod	대서양대구
+Fish Facts - String	Atlantic Herring	대서양청어
+Fish Facts - String	Atlantic Mackerel	대서양고등어
+Fish Facts - String	Atlantic Sailfish	대서양돛새치
+Fish Facts - String	Atlantic Salmon	대서양연어
+Fish Facts - String	Atlantic Salmon Parr	대서양연어 치어
+Fish Facts - String	Balloonfishes	풍선복어류
+Fish Facts - String	Barber Butterflyfish	이발사나비고기
+Fish Facts - String	Beaubrummel Damselfish	보브루멜자리돔
+Fish Facts - String	Beithir	베히르
+Fish Facts - String	Bicolour Parrotfish	두색앵무고기
+Fish Facts - String	Big-scaled Perch	큰비늘퍼치
+Fish Facts - String	Bigeye Pacific Opah	큰눈달고기
+Fish Facts - String	Billy Gar	빌리가아
+Fish Facts - String	Black Crappie	검은크래피
+Fish Facts - String	Black Dragonfish	흑룡고기
+Fish Facts - String	Black Marlin	검은청새치
+Fish Facts - String	Black Sea Bass	검은농어
+Fish Facts - String	Black Sea Dragon	바다흑룡
+Fish Facts - String	Blackfin Snapper	검은지느러미홍도미
+Fish Facts - String	Blackspot Snapper	검은점홍도미
+Fish Facts - String	Blackspotted Puffer	검은점복어
+Fish Facts - String	Blowfishes	참복어류
+Fish Facts - String	Blue Catfish	푸른메기
+Fish Facts - String	Blue Lanternfish	푸른등불고기
+Fish Facts - String	Blue Marlin	청새치
+Fish Facts - String	Blue Sunfish	푸른태양어
+Fish Facts - String	Blue Tang	푸른양쥐돔
+Fish Facts - String	Bluegill	블루길
+Fish Facts - String	Bluespotted Cornetfish	푸른점나팔고기
+Fish Facts - String	Boston Mackerel	보스턴고등어
+Fish Facts - String	Brook Lamprey	브룩칠성장어
+Fish Facts - String	Brown Trout	갈색송어
+Fish Facts - String	Brownie	브라우니
+Fish Facts - String	Buffalo Parrotfish	물소앵무고기
+Fish Facts - String	Bullhead Minnow	황소머리피라미
+Fish Facts - String	Burbot	민물대구
+Fish Facts - String	Butterflyfish	나비고기
+Fish Facts - String	Californian Anchovy	캘리포니아멸치
+Fish Facts - String	Capelin	열빙어
+Fish Facts - String	Chain Pickerel	사슬피커럴
+Fish Facts - String	Channel Minnow	수로피라미
+Fish Facts - String	Char	숯송어
+Fish Facts - String	Choupique	슈피크
+Fish Facts - String	Clownfish	흰동가리
+Fish Facts - String	Cod	대구
+Fish Facts - String	Coelacanth	실러캔스
+Fish Facts - String	Common Clownfish	보통흰동가리
+Fish Facts - String	Common Dolphinfish	보통만새기
+Fish Facts - String	Common Fangtooth	보통이빨고기
+Fish Facts - String	Common Minnow	피라미
+Fish Facts - String	Common Ocean Sunfish	보통개복치
+Fish Facts - String	Common Roach	보통로치
+Fish Facts - String	Common Rudd	보통러드
+Fish Facts - String	Common Whitefish	보통화이트피시
+Fish Facts - String	Coney-fish	코니피시
+Fish Facts - String	Coppernose	구리코
+Fish Facts - String	Cornetfish	나팔고기
+Fish Facts - String	Cortez Rainbow Wrasse	코르테즈무지개놀래기
+Fish Facts - String	Cortez Sea Chub	코르테즈바다황어
+Fish Facts - String	Crappie	크래피
+Fish Facts - String	Crayfish	가재류
+Fish Facts - String	Cucumber Smelt	오이빙어
+Fish Facts - String	Damselfish	자리돔
+Fish Facts - String	Deep Sea Duck	심해오리
+Fish Facts - String	Dog-faced Puffer	개코복
+Fish Facts - String	Dogfish	도그피시
+Fish Facts - String	Dolphinfish	만새기
+Fish Facts - String	Doormat	현관매트
+Fish Facts - String	Dorado	도라도
+Fish Facts - String	Dory	도리
+Fish Facts - String	Dragonfishes	흑룡고기류
+Fish Facts - String	Eastern Pickerel	동부피커럴
+Fish Facts - String	Eelpout	등가시치
+Fish Facts - String	Electric Blue Crayfish	일렉트릭블루가재
+Fish Facts - String	English Perch	잉글랜드퍼치
+Fish Facts - String	English Trout	잉글랜드송어
+Fish Facts - String	Escolar	기름치
+Fish Facts - String	Eurasian Minnow	유라시아피라미
+Fish Facts - String	European Eel	유럽뱀장어
+Fish Facts - String	European Eel Elver	유럽 실뱀장어
+Fish Facts - String	European Grayling	유럽그레이링
+Fish Facts - String	European Perch	유럽퍼치
+Fish Facts - String	European Ruffe	유럽러페
+Fish Facts - String	European Smelt	유럽빙어
+Fish Facts - String	European Whitefish	유럽화이트피시
+Fish Facts - String	False Albacore	가짜날개다랑어
+Fish Facts - String	False Percula	가짜페르쿨라
+Fish Facts - String	Fangtooth	이빨고기
+Fish Facts - String	Fangtooths	이빨고기류
+Fish Facts - String	Fathead Minnow	뚱뚱피라미
+Fish Facts - String	Ferox Trout	페록스송어
+Fish Facts - String	Fifteen-spined Stickleback	열다섯가시고기
+Fish Facts - String	Filefish	파일피시
+Fish Facts - String	Finnock	핀녹
+Fish Facts - String	Flounder	가자미
+Fish Facts - String	Fluke	플루크
+Fish Facts - String	Freshwater Catfishes	민물메기류
+Fish Facts - String	Freshwater Cod	민물대구
+Fish Facts - String	Freshwater Eels	민물장어류
+Fish Facts - String	Gafftopsail Catfish	돛메기
+Fish Facts - String	Gars	가아류
+Fish Facts - String	Geometric Moray	기하학곰치
+Fish Facts - String	Giant Damselfish	큰자리돔
+Fish Facts - String	Giant Oarfish	큰산갈치
+Fish Facts - String	Giant Parrotfish	큰앵무고기
+Fish Facts - String	Giant Triggerfish	큰쥐치
+Fish Facts - String	Gill	길
+Fish Facts - String	Golden Fish	황금물고기
+Fish Facts - String	Golden Puffer	황금복어
+Fish Facts - String	Golden-Tail Moray	황금꼬리곰치
+Fish Facts - String	Goldfish	금붕어
+Fish Facts - String	Goldring	금반지
+Fish Facts - String	Grass Pickerel	풀피커럴
+Fish Facts - String	Grayling	그레이링
+Fish Facts - String	Green Humphead Parrotfish	초록혹등앵무고기
+Fish Facts - String	Greenland Cod	그린란드대구
+Fish Facts - String	Grey Cod	회색대구
+Fish Facts - String	Greyfish	회색고기
+Fish Facts - String	Grinnel	그리넬
+Fish Facts - String	Guineafowl Puffer	호로새복어
+Fish Facts - String	Haddock	하도크
+Fish Facts - String	Hammer Handle	망치자루
+Fish Facts - String	Happy National Catfish Day!	즐거운 전국 메기의 날!
+Fish Facts - String	Happy National Crawfish Day!	즐거운 전국 가재의 날!
+Fish Facts - String	Happy World Tuna Day!	즐거운 세계 참치의 날!
+Fish Facts - String	Herring	청어
+Fish Facts - String	Hippo Tang	하마양쥐돔
+Fish Facts - String	Hoga	호가
+Fish Facts - String	Hogfish	돼지물고기
+Fish Facts - String	Indo-Pacific Sailfish	인도태평양돛새치
+Fish Facts - String	Indonesian Coelacanth	인도네시아실러캔스
+Fish Facts - String	Infinite Fish	무한 물고기
+Fish Facts - String	Infinite Fish Fact	무한 물고기 정보
+Fish Facts - String	Jack	잭
+Fish Facts - String	Jackfish	잭피시
+Fish Facts - String	Japanese Eel	뱀장어
+Fish Facts - String	Japanese Spider Crab	일본거미게
+Fish Facts - String	Juvenile Beaubrummel Damselfish	새끼보브루멜자리돔
+Fish Facts - String	Juvenile Bicolour Parrotfish	새끼두색앵무고기
+Fish Facts - String	Juvenile Cortez Rainbow Wrasse	새끼코르테즈무지개놀래기
+Fish Facts - String	Juvenile Giant Damselfish	새끼큰자리돔
+Fish Facts - String	Juvenile Giant Oarfish	새끼큰산갈치
+Fish Facts - String	Juvenile Green Humphead Parrotfish	새끼초록혹등앵무고기
+Fish Facts - String	Juvenile Mahi-Mahi	새끼만새기
+Fish Facts - String	Juvenile Slippery Dick	새끼미끈이
+Fish Facts - String	Juvenile Spotted Parrotfish	새끼점박이앵무고기
+Fish Facts - String	Juvenile Titan Triggerfish	새끼타이탄쥐치
+Fish Facts - String	King Angelfish	킹엔젤피시
+Fish Facts - String	King Mackerel	왕고등어
+Fish Facts - String	King of Herrings	청어의 왕
+Fish Facts - String	Kingfish	킹피시
+Fish Facts - String	Kivver	키버
+Fish Facts - String	Labrador Herring	래브라도청어
+Fish Facts - String	Lake Char	호수숯송어
+Fish Facts - String	Lamprey	칠성장어류
+Fish Facts - String	Lane Snapper	줄무늬홍도미
+Fish Facts - String	Lanternfish	등불고기
+Fish Facts - String	Little Tunny	작은다랑어
+Fish Facts - String	Longnose Gar	긴코가아
+Fish Facts - String	Lord Howe Island Moray	로드하우섬곰치
+Fish Facts - String	Lost Dimetrodon	잃어버린 디메트로돈
+Fish Facts - String	Louisiana Crawfish	루이지애나가재
+Fish Facts - String	Lunge	런지
+Fish Facts - String	Mackerels	고등어류
+Fish Facts - String	Mahi-Mahi	만새기
+Fish Facts - String	Marlin	청새치류
+Fish Facts - String	Marlon Jr	말론 주니어
+Fish Facts - String	Mexican Needlefish	멕시코학꽁치
+Fish Facts - String	Mexican Snapper	멕시코홍도미
+Fish Facts - String	Minnows	피라미류
+Fish Facts - String	Moonfish	달고기
+Fish Facts - String	Moorish Idol	무어의 우상
+Fish Facts - String	Moray Eels	곰치류
+Fish Facts - String	Moustache Triggerfish	수염쥐치
+Fish Facts - String	Mudbug	진흙벌레
+Fish Facts - String	Mudfish	진흙고기
+Fish Facts - String	Muskellunge	머스컬런지
+Fish Facts - String	Muskie	머스키
+Fish Facts - String	Needlefish	학꽁치
+Fish Facts - String	Nemo	니모
+Fish Facts - String	Northern Anchovy	북방멸치
+Fish Facts - String	Northern Pike	북방강꼬치고기
+Fish Facts - String	Northern Red Snapper	북방홍도미
+Fish Facts - String	Northern Snakehead	북방가물치
+Fish Facts - String	Norwegian mackerel	노르웨이고등어
+Fish Facts - String	Not a worthwhile investment.	가치 없는 투자입니다.
+Fish Facts - String	Oarfish	산갈치
+Fish Facts - String	Ocean Gar	바다가아
+Fish Facts - String	Ocean Guard	바다파수꾼
+Fish Facts - String	Ocean Sunfish	개복치
+Fish Facts - String	Ogac	오각
+Fish Facts - String	Ogrefish	오우거고기
+Fish Facts - String	Ono	오노
+Fish Facts - String	Orange Clownfish	주황흰동가리
+Fish Facts - String	Pacific Black Dragon	태평양흑룡
+Fish Facts - String	Pacific Bluefin Tuna	태평양참다랑어
+Fish Facts - String	Pacific Cod	태평양대구
+Fish Facts - String	Pacific Herring	태평양청어
+Fish Facts - String	Palette Surgeonfish	팔레트양쥐돔
+Fish Facts - String	Panamic Sergeant Major	파나마병장님
+Fish Facts - String	Papermouths	종이입
+Fish Facts - String	Parrotfish	앵무고기
+Fish Facts - String	Passer Angelfish	파세르엔젤피시
+Fish Facts - String	Pearly Lanternfish	진주등불고기
+Fish Facts - String	Peel	필
+Fish Facts - String	Perch	퍼치
+Fish Facts - String	Pickerel	피커럴
+Fish Facts - String	Pike	강꼬치고기
+Fish Facts - String	Pollock	명태
+Fish Facts - String	Pope	포프
+Fish Facts - String	Porcupinefish	가시복
+Fish Facts - String	Pufferfish	복어
+Fish Facts - String	Pumpkinseed	펌킨시드
+Fish Facts - String	Razor Surgeonfish	면도칼양쥐돔
+Fish Facts - String	Red Cornetfish	붉은나팔고기
+Fish Facts - String	Red Herring	붉은 청어
+Fish Facts - String	Red Swamp Crayfish	붉은늪가재
+Fish Facts - String	Redfin Perch	붉은지느러미퍼치
+Fish Facts - String	Redfin Pickerel	붉은지느러미피커럴
+Fish Facts - String	Regal Tang	파랑양쥐돔
+Fish Facts - String	Ribbonfish	투라치
+Fish Facts - String	Roach	로치
+Fish Facts - String	Roosterfish	수탉고기
+Fish Facts - String	Rough Flutemouth	거친나팔고기
+Fish Facts - String	Rudd	러드
+Fish Facts - String	Ruddy Bowfin	붉은보우핀
+Fish Facts - String	Ruffe	러페
+Fish Facts - String	Ruffes	러페류
+Fish Facts - String	Rutilus Roach 	루틸루스 로치
+Fish Facts - String	Sac-a-lait	사카레
+Fish Facts - String	Sailfish	돛새치
+Fish Facts - String	Salmon	연어
+Fish Facts - String	Scottish mackerel	스코틀랜드고등어
+Fish Facts - String	Scrawled Filefish	낙서파일피시
+Fish Facts - String	Sea Bass	농어
+Fish Facts - String	Sea Catfishes	바다메기류
+Fish Facts - String	Sea Squabs	바다비둘기
+Fish Facts - String	Sea Stickleback	바다가시고기
+Fish Facts - String	Sea Trout	바다송어
+Fish Facts - String	Sergeant Major	병장님
+Fish Facts - String	Sewin	세윈
+Fish Facts - String	Sheatfish	메기류
+Fish Facts - String	Shorthorn Fangtooth	짧은뿔이빨고기
+Fish Facts - String	Sild	실드
+Fish Facts - String	Silver Perch	은빛퍼치
+Fish Facts - String	Skeleton Fish	뼈물고기
+Fish Facts - String	Slender Snipe Eel	가느다란도요장어
+Fish Facts - String	Slippery Dick	미끈이
+Fish Facts - String	Slough Shark Snake	늪상어뱀
+Fish Facts - String	Smelts	빙어류
+Fish Facts - String	Smooth Flutemouth	매끈나팔고기
+Fish Facts - String	Snakeheads	가물치류
+Fish Facts - String	Snappers	도미류
+Fish Facts - String	Snowflake Moray	눈꽃곰치
+Fish Facts - String	Southern Flounder	남부가자미
+Fish Facts - String	Southern Pike	남부강꼬치고기
+Fish Facts - String	Sparling	스파링
+Fish Facts - String	Speckled Perch	얼룩퍼치
+Fish Facts - String	Spot Snapper	점홍도미
+Fish Facts - String	Spot-fin Porcupinefish	점지느러미가시복
+Fish Facts - String	Spotted Gar	점박이가아
+Fish Facts - String	Spotted Lanternfish	점박이등불고기
+Fish Facts - String	Spotted Parrotfish	점박이앵무고기
+Fish Facts - String	Sticklebacks	큰가시고기류
+Fish Facts - String	Strawberry Bass	딸기배스
+Fish Facts - String	Streamer Fish	긴띠고기
+Fish Facts - String	Summer Flounder	여름가자미
+Fish Facts - String	Sun Perch	태양퍼치
+Fish Facts - String	Sunny	써니
+Fish Facts - String	Surgeonfish	양쥐돔
+Fish Facts - String	Swamp Trout	늪송어
+Fish Facts - String	Swellfishes	부풀복어류
+Fish Facts - String	Swordfish	황새치
+Fish Facts - String	Testing Fish	테스트 물고기
+Fish Facts - String	Testing Fish Fact	테스트 물고기 정보
+Fish Facts - String	The Lawyer	변호사
+Fish Facts - String	This fish is Testing	이 물고기는 테스트 중입니다
+Fish Facts - String	This fish is infinite	이 물고기는 무한합니다
+Fish Facts - String	Three-Banded Butterflyfish	세줄나비고기
+Fish Facts - String	Three-Spined Stickleback	큰가시고기
+Fish Facts - String	Tiptoe Minnow	까치발피라미
+Fish Facts - String	Titan Triggerfish	타이탄쥐치
+Fish Facts - String	Triggerfish	쥐치
+Fish Facts - String	Tripod Fish	삼발이고기
+Fish Facts - String	Tripod Spiderfish	삼발이거미고기
+Fish Facts - String	Trout	송어
+Fish Facts - String	True Sunfish	참태양어
+Fish Facts - String	Tuffy	터피
+Fish Facts - String	Tuna	다랑어
+Fish Facts - String	Unnamed Fish	이름 없는 물고기
+Fish Facts - String	Wahoo	와후
+Fish Facts - String	Wels Catfish	유럽메기
+Fish Facts - String	White Crappie	흰크래피
+Fish Facts - String	White River Crayfish	화이트리버가재
+Fish Facts - String	White Trout	흰송어
+Fish Facts - String	White-spotted Puffer	흰점복어
+Fish Facts - String	Whitefishes	화이트피시류
+Fish Facts - String	Wide-Band Clownfish	넓은띠흰동가리
+Fish Facts - String	Wilhelm's Fish	빌헬름의 물고기
+Fish Facts - String	Wrasses	놀래기류
+Fish Facts - String	Y-patterned Moray	Y무늬곰치
+Fish Facts - String	Yellowfin Tuna	황다랑어
+Fish Facts - String	Yellowtail Surgeonfish	노랑꼬리양쥐돔
+Fish Facts - String	Young Spotted Parrotfish	어린점박이앵무고기
+Fish Sizes - String	Above Average	평균 이상
+Fish Sizes - String	Average	평균
+Fish Sizes - String	Below Average	평균 이하
+Fish Sizes - String	Big	큰 편
+Fish Sizes - String	Colossal	초거대
+Fish Sizes - String	Comically Big	웃길 만큼 큼
+Fish Sizes - String	Huge	거대
+Fish Sizes - String	Large	큼
+Fish Sizes - String	Massive	엄청 거대
+Fish Sizes - String	Miniscule	극소
+Fish Sizes - String	Small	작음
+Fish Sizes - String	Stupidly Big	말도 안 되게 큼
+Fish Sizes - String	Tiny	아주 작음
+Fish Sizes - String	Unknown Size	크기 미상
+Fish Sizes - String	Very Large	아주 큼
+Handler Dialog - String	???	???
+Handler Dialog - String	Dolos	돌로스
+Handler Dialog - String	Handler	핸들러
+Handler Dialog - String	Why, fishing of course!	왜, 당연히 낚시죠!
+Input Actions - String	A & D	A & D
+Input Actions - String	Closed	닫힘
+Input Actions - String	Collapse	접기
+Input Actions - String	Coming Soon	출시 예정
+Input Actions - String	Discard	버리기
+Input Actions - String	Discard	버리기
+Input Actions - String	Exit	나가기
+Input Actions - String	Expand	펼치기
+Input Actions - String	Feed	먹이 주기
+Input Actions - String	Feed	먹이 주기
+Input Actions - String	Feeding Bag Empty	먹이 주머니 비었음
+Input Actions - String	Fish Bag Empty	물고기 주머니 비었음
+Input Actions - String	Fish Bag Full	물고기 주머니 가득 참
+Input Actions - String	Go Fishing	낚시 시작
+Input Actions - String	Hold L- Mouse	왼쪽 마우스 길게
+Input Actions - String	Hold Q	Q 길게
+Input Actions - String	Interact	상호작용
+Input Actions - String	Move	이동
+Input Actions - String	Next Fish	다음 물고기
+Input Actions - String	No Baits Available	사용 가능한 미끼 없음
+Input Actions - String	Pick Baits	미끼 선택
+Input Actions - String	Prepare	손질
+Input Actions - String	Prepared inventory full	준비 인벤토리 가득 참
+Input Actions - String	Retract	회수
+Input Actions - String	Select	선택
+Input Actions - String	Shop	상점
+Input Actions - String	Swap	교체
+Intro Slides - String	Feed 	먹이 주기 
+Intro Slides - String	Fish	물고기
+Intro Slides - String	More To Come	더 많은 콘텐츠
+Intro Slides - String	Next	다음
+Intro Slides - String	Previous	이전
+Intro Slides - String	Scale	비늘 손질
+Knives - String	Bolo	볼로
+Knives - String	Boning Knife	발골 나이프
+Knives - String	Bowie Knife	보위 나이프
+Knives - String	Bronze Butter Knife	청동 버터 나이프
+Knives - String	Butter Knife	버터 나이프
+Knives - String	Calvary Saber	기병 세이버
+Knives - String	Cutlass	커틀러스
+Knives - String	Dev Knife	개발자 칼
+Knives - String	Dirk	더크
+Knives - String	Diver's Knife	잠수부 나이프
+Knives - String	Falcata	팔카타
+Knives - String	Fillet Knife	필렛 나이프
+Knives - String	Gold Butter Knife	황금 버터 나이프
+Knives - String	Gut Knife	거트 나이프
+Knives - String	Katana	카타나
+Knives - String	Kopis	코피스
+Knives - String	Kris Knife	크리스 나이프
+Knives - String	Machete	마체테
+Knives - String	Macuahuitl	마쿠아우이틀
+Knives - String	N/A	없음
+Knives - String	Navaja Blanco	나바하 블랑코
+Knives - String	Navaja Roja	나바하 로하
+Knives - String	Sashimi Knife	사시미 나이프
+Knives - String	Seax	색스
+Knives - String	Tecpatl	테크파틀
+Knives - String	Zanbato	잔바토
+Knives - String	Zweihander	츠바이헨더
+Notifications - String		
+Notifications - String	5 Star Service	5성급 서비스
+Notifications - String	A Bait and Switch	미끼 바꿔치기
+Notifications - String	A Favorite Found!	선호 어종 발견!
+Notifications - String	Algae	조류
+Notifications - String	Another satified customer	또 한 명의 만족한 손님
+Notifications - String	Artifact Discovered	유물 발견
+Notifications - String	Bait Found	미끼 발견
+Notifications - String	Barnacles	따개비
+Notifications - String	Blue Veins	푸른 핏줄
+Notifications - String	Boat Blueprint Found	보트 설계도 발견
+Notifications - String	Boat Collector	보트 수집가
+Notifications - String	Boat Decal Found	보트 데칼 발견
+Notifications - String	Bottled Message Discovered	병 속 편지 발견
+Notifications - String	Captain's Choice	선장의 선택
+Notifications - String	Catch all Cornetfish variants.	대나무고기 변종을 모두 낚으세요.
+Notifications - String	Catch all Crappie variants.	크래피 변종을 모두 낚으세요.
+Notifications - String	Catch all Pufferfish variants.	복어 변종을 모두 낚으세요.
+Notifications - String	Catch all Snapper variants.	도미 변종을 모두 낚으세요.
+Notifications - String	Catch all Stickleback variants.	큰가시고기 변종을 모두 낚으세요.
+Notifications - String	Catch all butterflyfish variants.	나비고기 변종을 모두 낚으세요.
+Notifications - String	Catch all legendary fish.	전설의 물고기를 모두 낚으세요.
+Notifications - String	Catch and Release	포획 후 방류
+Notifications - String	Catch and Release	포획 후 방류
+Notifications - String	Charred to Perfection	완벽하게 구워진
+Notifications - String	Chopping	잘라내기
+Notifications - String	Clear Plan	명확한 계획
+Notifications - String	Cosmetic Collected	꾸미기 아이템 획득
+Notifications - String	Crowning Achievement	최고의 업적
+Notifications - String	Customer Connoisseur	손님 감정가
+Notifications - String	Dead Reckoning	추측 항법
+Notifications - String	Decal Delighter	데칼 마니아
+Notifications - String	Deep Pockets	두둑한 주머니
+Notifications - String	Dust to Dust	흙으로 돌아가라
+Notifications - String	Elite Explorer	엘리트 탐험가
+Notifications - String	Elusive Customer Entertainer	까다로운 손님 감동시키기
+Notifications - String	Entry for {TutorialTitle} added.	{TutorialTitle} 항목이 추가되었습니다.
+Notifications - String	Explosive Expedition	폭발적인 탐사
+Notifications - String	False Lead	잘못된 단서
+Notifications - String	Family Ties	가족의 인연
+Notifications - String	Fashion Icon	패션 아이콘
+Notifications - String	Find all artifacts.	모든 유물을 찾으세요.
+Notifications - String	Find the placeholder fish.	플레이스홀더 물고기를 찾으세요.
+Notifications - String	Finish the main game!	메인 게임을 완료하세요!
+Notifications - String	First Catch!	첫 포획!
+Notifications - String	Fish Detective	물고기 탐정
+Notifications - String	Fishing Frenzy 	낚시 광란 
+Notifications - String	Full Lifecycle	전 생애 주기
+Notifications - String	Go Fish	고 피시
+Notifications - String	Hidden Treasure	숨겨진 보물
+Notifications - String	Holy Crappie	이런, 크래피!
+Notifications - String	Loched and Loaded	네스호 장전 완료
+Notifications - String	Long Live the King	왕이여 영원하라
+Notifications - String	Lost and Found	분실물 센터
+Notifications - String	Master of Bait	미끼의 달인
+Notifications - String	Name your boat	보트 이름 짓기
+Notifications - String	New Boat! New You!	새 보트! 새 시작!
+Notifications - String	New CARP Entry 	새 CARP 항목 
+Notifications - String	New Customer Fed!	새 손님에게 먹이를 줬습니다!
+Notifications - String	New Customer:
+{CustomerName}	새 손님:
+{CustomerName}
+Notifications - String	New Level Available!	새 지역 개방!
+Notifications - String	New Shop Items	새 상점 아이템
+Notifications - String	New Species Caught	새 어종 포획
+Notifications - String	New Species:
+{FishName}	새 어종:
+{FishName}
+Notifications - String	No Refunds	환불 불가
+Notifications - String	No Stone Unturned	빈틈없는 탐색
+Notifications - String	Out of This World	세상 밖의 것
+Notifications - String	Parasites	기생충
+Notifications - String	Patience Makes Perfect	인내가 완성을 만든다
+Notifications - String	Perfection!	완벽!
+Notifications - String	Point Taken	요점 인정
+Notifications - String	Prep Expert	손질 전문가
+Notifications - String	Prep the Rainbow	무지개 손질
+Notifications - String	Prepare all Pufferfish variants.	복어 변종을 모두 손질하세요.
+Notifications - String	Puff Piece	복어 특집
+Notifications - String	Puffy	뽀글이
+Notifications - String	Quite the impressive catch! 	정말 대단한 포획입니다! 
+Notifications - String	Reef Recorder	산호초 기록자
+Notifications - String	Scales	비늘
+Notifications - String	Secret Catch	비밀 포획
+Notifications - String	Ship It Anyway	일단 출시
+Notifications - String	Snap Decision	즉석 판단
+Notifications - String	Social Butterflyfish	사교적인 나비고기
+Notifications - String	Speed Machine	스피드 머신
+Notifications - String	That's a stinker...	이건 좀 냄새나네...
+Notifications - String	The Legends Were True	전설은 사실이었다
+Notifications - String	Time to spend!	돈을 쓸 시간!
+Notifications - String	Tip Obtained!	팁 획득!
+Notifications - String	True Fisherbot	진정한 낚시 로봇
+Notifications - String	Written Off	감가 상각
+Notifications - String	Written Off	감가 상각
+Notifications - String	Ya Bit!	물었지!
+Notifications - String	You Again?	또 너야?
+Notifications - String	{LevelName}  All Data Obtained!	{LevelName}  모든 데이터 획득!
+Notifications - String	{LevelName} Legendary Customer Satified	{LevelName} 전설의 손님 만족
+Notifications - String	{LevelName} Legendary Fish Caught!	{LevelName} 전설의 물고기 포획!
+Prep Area - String	Boost	부스트
+Prep Area - String	Camera Pan	카메라 이동
+Prep Area - String	Click to Open Message	클릭하여 메시지 열기
+Prep Area - String	Collect	수집
+Prep Area - String	Complete!	완료!
+Prep Area - String	Discard	버리기
+Prep Area - String	Done Scaling?	비늘 손질을 마칠까요?
+Prep Area - String	Interact	상호작용
+Prep Area - String	Leave	나가기
+Prep Area - String	Next	다음
+Prep Area - String	Next Item	다음 아이템
+Prep Area - String	No	아니요
+Prep Area - String	Perfect!	완벽!
+Prep Area - String	Skip Phase	단계 건너뛰기
+Prep Area - String	Speed Up	빠르게
+Prep Area - String	Swap Knife	칼 교체
+Prep Area - String	Yes	예
+Prep Area - String	fish	물고기
+Prep Area - String	item	아이템
+Setting - String	120	120
+Setting - String	144	144
+Setting - String	16:10	16:10
+Setting - String	16:9	16:9
+Setting - String	21:9	21:9
+Setting - String	30	30
+Setting - String	32:9	32:9
+Setting - String	3:2	3:2
+Setting - String	4:3	4:3
+Setting - String	60	60
+Setting - String	9:16	9:16
+Setting - String	Accessibility	접근성
+Setting - String	Alternate Parasites	기생충 대체 표현
+Setting - String	Ambience Audio	환경음
+Setting - String	Aspect	화면비
+Setting - String	Aspect Ratio	화면 비율
+Setting - String	Audio	오디오
+Setting - String	Blue-Blind	청색약
+Setting - String	Brightness	밝기
+Setting - String	Censor Parasites	기생충 검열
+Setting - String	Chinese 	중국어
+Setting - String	Classic	클래식
+Setting - String	Color Blind Mode	색약 모드
+Setting - String	Control Scheme	조작 방식
+Setting - String	Controller Rumble	컨트롤러 진동
+Setting - String	Controls	조작
+Setting - String	Cursor Size	커서 크기
+Setting - String	Custom	사용자 설정
+Setting - String	Default	기본
+Setting - String	Default	기본
+Setting - String	Default Profile	기본 프로필
+Setting - String	English	영어
+Setting - String	Extra Large	아주 큼
+Setting - String	Fish Detail	물고기 디테일
+Setting - String	Fish Render Distance	물고기 표시 거리
+Setting - String	Frame Rate	프레임 레이트
+Setting - String	French	프랑스어
+Setting - String	Fullscreen	전체 화면
+Setting - String	Gameplay	게임플레이
+Setting - String	German	독일어
+Setting - String	Green-Blind	녹색약
+Setting - String	High	높음
+Setting - String	Hold	길게 누르기
+Setting - String	Invert Controls	조작 반전
+Setting - String	Japanese	한국어
+Setting - String	Knife Engage Mode	칼 사용 방식
+Setting - String	Knife Scaling Mode	칼 손질 방식
+Setting - String	Language	언어
+Setting - String	Large	큼
+Setting - String	Large	큼
+Setting - String	Low	낮음
+Setting - String	Master Audio	마스터 오디오
+Setting - String	Max Frame Rate	최대 프레임 레이트
+Setting - String	Medium	보통
+Setting - String	Music Audio	음악
+Setting - String	No	아니요
+Setting - String	Off	끔
+Setting - String	On	켬
+Setting - String	Particles	파티클
+Setting - String	Paused	일시정지됨
+Setting - String	Performance	성능
+Setting - String	Performance Level	성능 수준
+Setting - String	Polish	폴란드어
+Setting - String	Quit To Title	타이틀로 나가기
+Setting - String	Red-Blind	적색약
+Setting - String	Reduced Motion	모션 감소
+Setting - String	Regular	보통
+Setting - String	Regular	보통
+Setting - String	Reset	초기화
+Setting - String	Reset Accessibility Settings	접근성 설정 초기화
+Setting - String	Reset All Controls	모든 조작 초기화
+Setting - String	Reset All Settings	모든 설정 초기화
+Setting - String	Reset Audio Settings	오디오 설정 초기화
+Setting - String	Reset Gameplay Settings	게임플레이 설정 초기화
+Setting - String	Reset Level Save Data	레벨 저장 데이터 초기화
+Setting - String	Reset Performace Settings	성능 설정 초기화
+Setting - String	Reset Settings	설정 초기화
+Setting - String	Reset Video Settings	화면 설정 초기화
+Setting - String	Reset {""} Setting	{""} 설정 초기화
+Setting - String	Resolution	해상도
+Setting - String	Resume	계속하기
+Setting - String	Russian	러시아어
+Setting - String	SFX Audio	효과음
+Setting - String	Save Settings	설정 저장
+Setting - String	Screen Shake	화면 흔들림
+Setting - String	Settings	설정
+Setting - String	Small	작음
+Setting - String	Spanish	스페인어
+Setting - String	Text Size	텍스트 크기
+Setting - String	Toggle	전환
+Setting - String	Turkish	터키어
+Setting - String	Tutorial Prompts	튜토리얼 안내
+Setting - String	Uncapped	제한 없음
+Setting - String	Uncapped 	제한 없음 
+Setting - String	Video	화면
+Setting - String	Vsync	수직 동기화
+Setting - String	Window Borderless	테두리 없는 창
+Setting - String	Window Mode	창 모드
+Setting - String	Windowed	창 모드
+Setting - String	Yes	예
+Shop UI - String	Cancel	취소
+Shop UI - String	Enter	들어가기
+Shop UI - String	Equip	장착
+Shop UI - String	Equipped	장착됨
+Shop UI - String	Global Gear	글로벌 장비
+Shop UI - String	Inventory	인벤토리
+Shop UI - String	Local Gear	지역 장비
+Shop UI - String	Sale	할인
+Shop UI - String	Shop	상점
+Shop UI - String	Sold	판매됨
+Shop UI - String	The Global Collection	글로벌 컬렉션
+Shop UI - String	The Global Collection	글로벌 컬렉션
+Shop UI - String	{LevelName} Collection	{LevelName} 컬렉션
+Shop UI - String	{LevelName} Collection	{LevelName} 컬렉션
+Title Screen -  String	About	정보
+Title Screen -  String	Play	플레이
+Tutorial Text - String	???	???
+Tutorial Text - String	Algae	조류
+Tutorial Text - String	Artifact Decal	유물 데칼
+Tutorial Text - String	Bag Size	주머니 크기
+Tutorial Text - String	Bait	미끼
+Tutorial Text - String	Bait	미끼
+Tutorial Text - String	Barnacles	따개비
+Tutorial Text - String	Barnacles make an appearance	따개비가 나타났습니다
+Tutorial Text - String	Boat Customization	보트 꾸미기
+Tutorial Text - String	Bonus Knife Info	추가 칼 정보
+Tutorial Text - String	Bonus barnacle damage	따개비 추가 피해
+Tutorial Text - String	C.A.R.P. Manual	C.A.R.P. 설명서
+Tutorial Text - String	Chopping	잘라내기
+Tutorial Text - String	Clean off the algae!	조류를 닦아내세요!
+Tutorial Text - String	Close	닫기
+Tutorial Text - String	Copy	복사
+Tutorial Text - String	Cut highlighted parts	표시된 부분을 잘라내세요
+Tutorial Text - String	Damaged	손상됨
+Tutorial Text - String	Decals, decals, decals!	데칼, 데칼, 데칼!
+Tutorial Text - String	Delete	삭제
+Tutorial Text - String	Discard All Fish	모든 물고기 버리기
+Tutorial Text - String	Discard Specific Fish	특정 물고기 버리기
+Tutorial Text - String	Don't Wait! Here's Bait!	기다리지 마세요! 미끼입니다!
+Tutorial Text - String	Don't Wait! Here's Bait!	기다리지 마세요! 미끼입니다!
+Tutorial Text - String	Double-sided blade	양날 칼날
+Tutorial Text - String	Expand Tray	트레이 펼치기
+Tutorial Text - String	Fish On!	입질이다!
+Tutorial Text - String	Fish feeding value	물고기 먹이 가치
+Tutorial Text - String	Fishing	낚시
+Tutorial Text - String	Flip	뒤집기
+Tutorial Text - String	High scaling speed	빠른 손질 속도
+Tutorial Text - String	Hone your service!	서비스를 갈고닦으세요!
+Tutorial Text - String	It's pest control time!	해충 퇴치 시간입니다!
+Tutorial Text - String	Knife to know info!	알면 좋은 칼 정보!
+Tutorial Text - String	Legendary Catches	전설의 포획
+Tutorial Text - String	Legendary fish incoming!	전설의 물고기가 온다!
+Tutorial Text - String	Liked & Disliked Fish	선호 및 비선호 어종
+Tutorial Text - String	Low health fish	체력이 낮은 물고기
+Tutorial Text - String	Move or rotate decal	데칼 이동 또는 회전
+Tutorial Text - String	Paint Decal	데칼 색칠
+Tutorial Text - String	Parasites	기생충
+Tutorial Text - String	Phase Indicator	단계 표시기
+Tutorial Text - String	Picky eaters.	입맛이 까다롭죠.
+Tutorial Text - String	Prep & Caught Trays	손질 및 포획 트레이
+Tutorial Text - String	Prep Phases	손질 단계
+Tutorial Text - String	Progress Bar	진행 바
+Tutorial Text - String	Reel Time	릴 감기 시간
+Tutorial Text - String	Resting Strong	든든한 휴식
+Tutorial Text - String	Scaled	손질됨
+Tutorial Text - String	Scaling	비늘 손질
+Tutorial Text - String	Skip Phase Button	단계 건너뛰기 버튼
+Tutorial Text - String	Swap Tray	트레이 교체
+Tutorial Text - String	Untouched	손대지 않음
+Tutorial Text - String	Which Tray, Your Way	원하는 트레이, 마음대로
+World Select UI	Continue	계속
+World Select UI	Customers:	손님:
+World Select UI	Exploration:	탐험:
+World Select UI	FEESH GPS	FEESH GPS
+World Select UI	Level Locked	잠긴 지역
+World Select UI	Max Depth	최대 수심
+World Select UI	Money:	소지금:
+World Select UI	NEW	신규
+World Select UI	No	아니요
+World Select UI	PROGRESS	진행도
+World Select UI	Records	기록
+World Select UI	Reset	초기화
+World Select UI	Start	시작
+World Select UI	Treasures:	보물:
+World Select UI	Yes	예
+Worlds - String	Chop Chop!	서두르세요!
+Worlds - String	Establishing satellite link.	위성 연결 설정 중.
+Worlds - String	Fish Preparation	물고기 손질
+Worlds - String	Global Positioning System (GPS)	지구 위치 확인 시스템 (GPS)
+Worlds - String	Huatulco	우아툴코
+Worlds - String	Level Select	지역 선택
+Worlds - String	Loch Ness	네스호
+Worlds - String	North Carolina, USA	미국, 노스캐롤라이나
+Worlds - String	Oaxaca, Mexico	멕시코, 오아하카
+Worlds - String	Outer Banks	아우터뱅크스
+Worlds - String	Pacific Ocean	태평양
+Worlds - String	Point Nemo	포인트 네모
+Worlds - String	Scotland,
+United Kingdom	영국,
+스코틀랜드
+Worlds - String	Synchronizing GPS coordinates.	GPS 좌표 동기화 중.
+Worlds - String	Testing Void	테스트 공간
+Worlds - String	Title Screen	타이틀 화면
+Worlds - String	Updating navigation grid.	항법 격자 갱신 중.
+Worlds - String	View Collectibles	수집품 보기

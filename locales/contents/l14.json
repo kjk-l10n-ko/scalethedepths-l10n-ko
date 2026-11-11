@@ -1,0 +1,866 @@
+[
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847056",
+  "en": "Tuna have muscle tissue that ranges from pink to dark red due to high oxygen levels in their blood.",
+  "ko": "다랑어의 근육 조직은 혈액 속 산소 농도가 높아 분홍색에서 짙은 붉은색까지 다양한 빛깔을 띤다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847057",
+  "en": "Tuna have oxygen-rich blood that allows them to deliver more energy to their muscles than most fish.",
+  "ko": "다랑어는 산소가 풍부한 혈액 덕분에 대부분의 물고기보다 근육에 더 많은 에너지를 보낼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847058",
+  "en": "Tuna must swim constantly to breathe, as they rely on forward movement to push water over their gills.",
+  "ko": "다랑어는 앞으로 헤엄쳐 물을 아가미 쪽으로 밀어 넣는 방식으로 숨을 쉬기 때문에, 쉬지 않고 계속 헤엄쳐야 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847059",
+  "en": "Tuna are sometimes called \"chicken of the sea\" due to the colour and texture of their meat.",
+  "ko": "다랑어는 살의 색과 질감 때문에 “바다의 닭고기”라고 불리기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847060",
+  "en": "The tuna family includes around 15 different species.",
+  "ko": "다랑어과에는 약 15종이 속해 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847061",
+  "en": "Yellowfin tuna usually stay within the top 100 m of the ocean.",
+  "ko": "황다랑어는 대개 바다 수심 100 m 이내의 얕은 층에 머문다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847062",
+  "en": "Yellowfin tuna are fast, agile predators that feed on fish, squid, and crustaceans.",
+  "ko": "황다랑어는 빠르고 민첩한 포식자로, 물고기와 오징어, 갑각류를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847063",
+  "en": "Yellowfin tuna often travel in large schools with other tuna or similarly sized fish.",
+  "ko": "황다랑어는 다른 다랑어나 비슷한 크기의 물고기와 함께 큰 무리를 지어 이동하는 일이 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847064",
+  "en": "Yellowfin tuna are sometimes seen swimming alongside dolphins in open ocean waters.",
+  "ko": "황다랑어는 먼바다에서 돌고래와 나란히 헤엄치는 모습이 목격되기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847065",
+  "en": "Yellowfin tuna have long, bright-yellow fins and finlets that make them easy to recognize.",
+  "ko": "황다랑어는 길고 선명한 노란색 지느러미와 토막지느러미를 지녀 알아보기 쉽다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847067",
+  "en": "The Pacific bluefin tuna is found across the North Pacific and is known for its long-distance migrations. It travels between spawning grounds in the western Pacific and feeding areas across the ocean, making it one of the most wide-ranging tuna species.",
+  "ko": "태평양참다랑어는 북태평양 전역에 분포하며 장거리 회유로 유명하다. 서태평양의 산란장과 바다 건너편의 먹이터를 오가기 때문에, 가장 넓은 범위를 옮겨 다니는 다랑어 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847068",
+  "en": "Pacific bluefin tuna are found in the North Pacific Ocean and migrate long distances across the ocean.",
+  "ko": "태평양참다랑어는 북태평양에 서식하며 바다를 가로질러 먼 거리를 회유한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847069",
+  "en": "Pacific bluefin tuna can grow to about 3 m in length and weigh up to around 450 kg.",
+  "ko": "태평양참다랑어는 길이 약 3 m까지 자라고 몸무게가 450 kg에 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847070",
+  "en": "These tuna spawn in the western Pacific, including areas near Japan, Taiwan, and the Philippines.",
+  "ko": "이 다랑어는 일본과 대만, 필리핀 근해를 비롯한 서태평양에서 산란한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847071",
+  "en": "Pacific bluefin tuna can maintain body temperatures above the surrounding water, allowing them to hunt in colder regions.",
+  "ko": "태평양참다랑어는 주변 바닷물보다 높은 체온을 유지할 수 있어 더 추운 바다에서도 사냥할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847072",
+  "en": "Pacific bluefin tuna can live for more than 20 years.",
+  "ko": "태평양참다랑어는 20년 이상 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847073",
+  "en": "Pacific bluefin tuna are closely related to Atlantic bluefin tuna, with geography being one of the main differences between the species.",
+  "ko": "태평양참다랑어는 대서양참다랑어와 매우 가까운데, 두 종을 가르는 주요 차이 중 하나는 사는 바다다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847074",
+  "en": "Pacific bluefin tuna are often used for sushi and sashimi, especially in Japan.",
+  "ko": "태평양참다랑어는 특히 일본에서 초밥과 사시미 재료로 즐겨 쓰인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847076",
+  "en": "The Atlantic bluefin tuna is the largest tuna species, found in the Atlantic Ocean and the Mediterranean Sea. A powerful long-distance swimmer, it can dive to great depths and travel vast distances across the open ocean.",
+  "ko": "대서양참다랑어는 다랑어 중 가장 큰 종으로, 대서양과 지중해에 서식한다. 힘차게 장거리를 헤엄치는 이 물고기는 깊은 바다까지 잠수하며 먼바다를 가로질러 먼 거리를 이동한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847077",
+  "en": "Atlantic bluefin tuna are found in both the western and eastern Atlantic Ocean, as well as the Mediterranean Sea.",
+  "ko": "대서양참다랑어는 대서양 동부와 서부, 그리고 지중해에 걸쳐 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847078",
+  "en": "Atlantic bluefin tuna can weigh more than 600 kg, making them the largest tuna species.",
+  "ko": "대서양참다랑어는 몸무게가 600 kg을 넘기도 하며, 다랑어 중 가장 큰 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847079",
+  "en": "Atlantic bluefin tuna are capable of diving to depths of over 1,000 m.",
+  "ko": "대서양참다랑어는 수심 1,000 m 이상까지 잠수할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847080",
+  "en": "Atlantic bluefin tuna are powerful long-distance swimmers that travel thousands of kilometres across the ocean.",
+  "ko": "대서양참다랑어는 바다를 가로질러 수천 킬로미터를 이동하는 힘센 장거리 헤엄꾼이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847081",
+  "en": "These tuna can maintain body temperatures above the surrounding water, allowing them to remain active in cold depths.",
+  "ko": "이 다랑어는 주변 바닷물보다 높은 체온을 유지할 수 있어 차가운 심해에서도 활동을 이어갈 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847082",
+  "en": "Atlantic bluefin tuna use a light-sensitive structure in their brain to help navigate across long ocean migrations.",
+  "ko": "대서양참다랑어는 뇌 속의 빛에 민감한 기관을 이용해 긴 바다 회유 길을 찾는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847083",
+  "en": "Atlantic bluefin tuna are among the most valuable fish in the world due to their use in high-end seafood markets.",
+  "ko": "대서양참다랑어는 최고급 수산물 시장에서 거래되기 때문에 세계에서 가장 값비싼 물고기 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041344",
+  "en": "Swordfish are fast, powerful predators capable of chasing down swift prey in open ocean waters.",
+  "ko": "황새치는 먼바다에서 빠른 먹잇감을 뒤쫓을 수 있는 빠르고 힘센 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041345",
+  "en": "Swordfish use their long, sharp bills to slash through schools of fish, stunning or injuring prey before eating it.",
+  "ko": "황새치는 길고 날카로운 주둥이로 물고기 떼를 휘저어, 먹잇감을 기절시키거나 상처 입힌 뒤 잡아먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041346",
+  "en": "Swordfish feed on fish and cephalopods, swallowing smaller prey whole.",
+  "ko": "황새치는 물고기와 두족류를 먹으며, 작은 먹잇감은 통째로 삼킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041347",
+  "en": "Swordfish have few natural predators, though sharks may prey on younger individuals.",
+  "ko": "황새치를 노리는 천적은 거의 없지만, 어린 개체는 상어에게 잡아먹히기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041348",
+  "en": "Swordfish have large eyes and are adapted for hunting in low-light deep-water conditions.",
+  "ko": "황새치는 눈이 크고, 빛이 거의 없는 심해에서 사냥하기에 알맞게 적응했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041349",
+  "en": "Female swordfish can produce between 1 million and over 29 million eggs during spawning.",
+  "ko": "암컷 황새치는 산란기에 100만 개에서 2,900만 개가 넘는 알을 낳을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041350",
+  "en": "Swordfish are the only species in their family, making them unique among ocean predators.",
+  "ko": "황새치는 자기 과에 속한 유일한 종으로, 바다 포식자 중에서도 특별한 존재다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041351",
+  "en": "The swordfish’s scientific name, Xiphias gladius, comes from Latin for \"sword,\" referring to its long, sharp bill.",
+  "ko": "황새치의 학명 Xiphias gladius는 길고 날카로운 주둥이를 가리키는 라틴어 “검”에서 나왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041352",
+  "en": "Swordfish can dive to great depths, moving between surface waters and deep ocean zones.",
+  "ko": "황새치는 깊은 수심까지 잠수하며 표층과 심해대를 오간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041354",
+  "en": "Marlins are large, fast-swimming open-ocean predators known for their long, spear-like bills and powerful bodies. They live in warm ocean waters around the world and hunt fish, squid, and other marine animals. As apex predators, marlin are among the fastest and most impressive hunters in the sea.",
+  "ko": "청새치류는 길쭉한 창 같은 주둥이와 힘센 몸으로 유명한, 크고 빠른 먼바다 포식자다. 전 세계 따뜻한 바다에 살며 물고기와 오징어를 비롯한 바다 동물을 사냥한다. 최상위 포식자인 청새치류는 바다에서 가장 빠르고 인상적인 사냥꾼에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041355",
+  "en": "Marlins have long, spear-like bills that resemble a marlinspike, a sailor's tool used in ropework.",
+  "ko": "청새치류의 길쭉한 창 같은 주둥이는 밧줄 작업에 쓰는 선원의 도구인 마린스파이크를 닮았다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041356",
+  "en": "Marlins are large open-ocean predators, with some species growing to over 4 m in length.",
+  "ko": "청새치류는 큰 먼바다 포식자로, 일부 종은 길이 4 m를 넘게 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041357",
+  "en": "Marlin are apex predators that feed on fish, squid, and other marine animals.",
+  "ko": "청새치류는 물고기와 오징어를 비롯한 바다 동물을 먹는 최상위 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041358",
+  "en": "Marlin are among the fastest marine swimmers, using speed and power to chase prey in open water.",
+  "ko": "청새치류는 바다에서 가장 빠른 헤엄꾼에 속하며, 속도와 힘으로 먼바다에서 먹잇감을 뒤쫓는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041359",
+  "en": "Marlin use their long bills to slash at prey, helping them stun or injure fish before eating them.",
+  "ko": "청새치류는 긴 주둥이로 먹잇감을 휘둘러, 물고기를 기절시키거나 상처 입힌 뒤 잡아먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041360",
+  "en": "Marlins are among the largest bony fish, though species such as ocean sunfish can grow even heavier.",
+  "ko": "청새치류는 가장 큰 경골어류에 속하지만, 개복치 같은 종은 그보다 더 무겁게 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041361",
+  "en": "Blue, black, striped, and white marlin are the four marlin species most commonly recognized.",
+  "ko": "청새치와 검은청새치, 줄무늬청새치, 흰청새치는 가장 흔히 알려진 네 가지 청새치 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041363",
+  "en": "The black marlin is one of the largest marlin species, found in tropical and subtropical waters of the Indian and Pacific Oceans. Heavy-bodied and powerfully built, it is recognized by its rigid pectoral fins, which cannot fold flat against the body.",
+  "ko": "검은청새치는 청새치류 중 가장 큰 종의 하나로, 인도양과 태평양의 열대 및 아열대 바다에 서식한다. 몸집이 묵직하고 힘이 좋으며, 몸에 납작하게 접히지 않는 뻣뻣한 가슴지느러미로 알아볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041364",
+  "en": "Black marlin are found in tropical and subtropical waters of the Indian and Pacific Oceans.",
+  "ko": "검은청새치는 인도양과 태평양의 열대 및 아열대 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041365",
+  "en": "Black marlin can exceed 5 m in length and weigh up to around 670 kg.",
+  "ko": "검은청새치는 길이 5 m를 넘고 몸무게가 670 kg까지 나가기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041366",
+  "en": "Black marlin are one of the largest marlin species and one of the largest bony fish in the world.",
+  "ko": "검은청새치는 가장 큰 청새치 종의 하나이자 세계에서 가장 큰 경골어류 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041367",
+  "en": "Black marlin feed on tuna, mackerel, squid, octopus, crustaceans, and other open-ocean animals.",
+  "ko": "검은청새치는 다랑어와 고등어, 오징어, 문어, 갑각류를 비롯한 먼바다 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041368",
+  "en": "Female black marlin grow much larger than males.",
+  "ko": "암컷 검은청새치는 수컷보다 훨씬 크게 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041369",
+  "en": "Black marlin have rigid pectoral fins that cannot fold flat against the body like those of many other marlin.",
+  "ko": "검은청새치의 가슴지느러미는 뻣뻣해서, 다른 여러 청새치처럼 몸에 납작하게 접을 수 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041373",
+  "en": "The blue marlin is found in the warm waters of the Atlantic, Indian, and Pacific Oceans. Recognized by its brilliant blue colouration and powerful build, it is one of the largest billfish, with females growing much larger than males.",
+  "ko": "청새치는 대서양과 인도양, 태평양의 따뜻한 바다에 서식한다. 눈부신 푸른 빛깔과 힘센 체형으로 알아보는 이 물고기는 가장 큰 새치류 중 하나이며, 암컷이 수컷보다 훨씬 크게 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041374",
+  "en": "Blue marlin are found in warm open-ocean waters of the Atlantic, Indian, and Pacific Oceans.",
+  "ko": "청새치는 대서양과 인도양, 태평양의 따뜻한 먼바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041375",
+  "en": "Blue marlin are among the largest billfish, with the biggest individuals reaching around 5 m in length.",
+  "ko": "청새치는 가장 큰 새치류에 속하며, 가장 큰 개체는 길이 약 5 m에 이른다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041376",
+  "en": "Female blue marlin can grow up to four times heavier than males.",
+  "ko": "암컷 청새치는 수컷보다 몸무게가 최대 네 배까지 나간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041377",
+  "en": "Blue marlin are fast, powerful swimmers built for chasing prey in open water.",
+  "ko": "청새치는 먼바다에서 먹잇감을 뒤쫓기에 알맞게 발달한, 빠르고 힘센 헤엄꾼이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041378",
+  "en": "Blue marlin feed mostly on tuna and other open-ocean fish.",
+  "ko": "청새치는 주로 다랑어를 비롯한 먼바다 물고기를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041379",
+  "en": "Blue marlin are valued as food fish because of their rich, fatty flesh.",
+  "ko": "청새치는 기름지고 맛 좋은 살 덕분에 식용어로 높이 평가받는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041380",
+  "en": "The blue marlin belongs to the genus Makaira, a name from Greek meaning \"short sword\" or \"bent dagger.\"",
+  "ko": "청새치는 마카이라(Makaira)속에 속하는데, 이 이름은 “짧은 검” 또는 “굽은 단검”을 뜻하는 그리스어에서 나왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041384",
+  "en": "Sailfish are fast, open-ocean predators known for their huge sail-like dorsal fin and long pointed bill. They live in warm ocean waters and hunt smaller fish and squid, often using their bills to slash at schooling prey. Their large dorsal sail is usually folded down while swimming and raised during hunting, helping stabilize the body as they strike at prey.",
+  "ko": "돛새치는 거대한 돛 모양 등지느러미와 길고 뾰족한 주둥이로 유명한, 빠른 먼바다 포식자다. 따뜻한 바다에 살며 작은 물고기와 오징어를 사냥하고, 무리를 지은 먹잇감을 주둥이로 휘젓는 일이 많다. 커다란 등돛은 헤엄칠 때는 대개 접혀 있고 사냥할 때 펼쳐지는데, 먹잇감을 덮칠 때 몸을 안정시켜 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041385",
+  "en": "Sailfish are known for their huge sail-like dorsal fin, which can stretch along much of their back.",
+  "ko": "돛새치는 등을 따라 길게 펼쳐지는 거대한 돛 모양 등지느러미로 유명하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041386",
+  "en": "Sailfish have long pointed bills similar to swordfish and marlin.",
+  "ko": "돛새치는 황새치나 청새치와 비슷하게 길고 뾰족한 주둥이를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041387",
+  "en": "Sailfish are considered some of the fastest fish in the ocean, with some reported speeds reaching over 100 km/h.",
+  "ko": "돛새치는 바다에서 가장 빠른 물고기로 꼽히며, 100 km/h가 넘는 속도가 보고되기도 했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041388",
+  "en": "Sailfish use their long bills to slash at schooling fish, stunning or injuring prey before eating it.",
+  "ko": "돛새치는 긴 주둥이로 무리 지은 물고기를 휘져어, 먹잇감을 기절시키거나 상처 입힌 뒤 잡아먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041389",
+  "en": "Sailfish usually keep their large dorsal sail folded down while swimming.",
+  "ko": "돛새치는 헤엄칠 때 커다란 등돛을 대개 접어 둔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041390",
+  "en": "Sailfish raise their dorsal sail while hunting, helping reduce sideways head movement as they strike at prey.",
+  "ko": "돛새치는 사냥할 때 등돛을 펼치는데, 이는 먹잇감을 덮칠 때 머리가 좌우로 흔들리는 것을 줄여 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041391",
+  "en": "Sailfish are fast-growing fish that can reach around 1.5 m in length within their first year.",
+  "ko": "돛새치는 성장이 빨라 첫해에 길이 약 1.5 m까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041392",
+  "en": "Sailfish generally do not grow beyond about 3 m in length or 90 kg in weight.",
+  "ko": "돛새치는 보통 길이 3 m, 몸무게 90 kg을 넘지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041393",
+  "en": "Atlantic and Indo-Pacific sailfish are often treated as one species rather than two separate species.",
+  "ko": "대서양돛새치와 인도태평양돛새치는 별개의 두 종이 아니라 한 종으로 취급되는 일이 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041395",
+  "en": "Oarfish can move vertically through the water column, sometimes appearing to hover upright.",
+  "ko": "산갈치는 물속에서 수직으로 오르내릴 수 있으며, 때로는 곧게 선 채 떠 있는 것처럼 보인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041396",
+  "en": "Oarfish have small protrusible mouths and feed on tiny prey such as krill, plankton, and small crustaceans.",
+  "ko": "산갈치는 앞으로 내미는 작은 입을 지녔고, 크릴과 플랑크톤, 작은 갑각류 같은 자잘한 먹잇감을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041397",
+  "en": "Oarfish have long, serpentine bodies that are believed to have inspired sea serpent legends.",
+  "ko": "산갈치는 길고 뱀 같은 몸을 지녔으며, 이 모습이 바다뱀 전설의 근원이 되었다고 여겨진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041398",
+  "en": "Oarfish can shed part of their tail, a survival ability known as autotomy.",
+  "ko": "산갈치는 꼬리 일부를 떼어 낼 수 있는데, 이런 생존 능력을 자가절단이라고 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041399",
+  "en": "Oarfish avoid many predators by spending most of their lives in deep, dim waters far below the surface.",
+  "ko": "산갈치는 일생의 대부분을 수면 훨씬 아래 어둑한 심해에서 보내며 여러 천적을 피한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041402",
+  "en": "The lifespan of the giant oarfish is unknown because live individuals are rarely observed.",
+  "ko": "큰산갈치는 살아 있는 개체가 거의 관찰되지 않아 수명이 알려지지 않았다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041403",
+  "en": "Giant oarfish have small, toothless mouths used to strain tiny prey from the water.",
+  "ko": "큰산갈치는 이가 없는 작은 입으로 물속의 자잘한 먹잇감을 걸러 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041404",
+  "en": "Giant oarfish use more than 50 fine gill rakers to filter small animals from the water as they feed.",
+  "ko": "큰산갈치는 50개가 넘는 가느다란 아가미꼬챙이로 물속의 작은 동물을 걸러 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041405",
+  "en": "Giant oarfish have few known predators, though large sharks and deep-diving whales may prey on them.",
+  "ko": "큰산갈치를 노리는 천적으로 알려진 동물은 거의 없지만, 큰 상어나 깊이 잠수하는 고래가 잡아먹기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041406",
+  "en": "Giant oarfish have long silver-blue bodies marked with dark spots and bright crimson fins.",
+  "ko": "큰산갈치는 검은 점이 박힌 길쭉한 은청색 몸과 선명한 진홍색 지느러미를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452394041407",
+  "en": "Most of the giant oarfish's vital organs are packed near its head.",
+  "ko": "큰산갈치의 주요 장기는 대부분 머리 근처에 몰려 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235648",
+  "en": "In Japanese folklore, oarfish are sometimes called \"Messengers from the Sea God's Palace.\"",
+  "ko": "일본 설화에서 산갈치는 “용궁의 사자”라고 불리기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235649",
+  "en": "Giant oarfish can survive after losing large portions of their long tail.",
+  "ko": "큰산갈치는 긴 꼬리의 상당 부분을 잃고도 살아남을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235650",
+  "en": "Giant oarfish are usually known from rare sightings, strandings, or specimens brought up from deep water.",
+  "ko": "큰산갈치는 대개 드문 목격이나 좌초, 또는 심해에서 끌어올린 표본을 통해 알려진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235651",
+  "en": "Fangtooths can live at extreme depths, with some records reaching around 5,000 m.",
+  "ko": "이빨고기류는 극한 수심에서 살 수 있으며, 약 5,000 m에서 발견된 기록도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235652",
+  "en": "Special pockets in the roof of the mouth make room for their oversized fangs.",
+  "ko": "입천장에 난 특별한 주머니가 유난히 큰 송곳니를 넣어 둘 자리를 만들어 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235653",
+  "en": "Young fangtooths feed on tiny drifting animals, while adults hunt almost anything they can catch in the food-scarce deep sea.",
+  "ko": "어린 이빨고기류는 떠다니는 작은 동물을 먹고, 성체는 먹이가 귀한 심해에서 잡을 수 있는 것은 거의 무엇이든 사냥한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235654",
+  "en": "Fangtooths are preyed on by larger open-ocean predators such as tuna, marlin, and sharks.",
+  "ko": "이빨고기류는 다랑어와 청새치, 상어 같은 더 큰 먼바다 포식자에게 잡아먹힌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235655",
+  "en": "The genus name Anoplogaster comes from Greek words meaning \"shieldless belly,\" referring to the unscaled belly seen before adulthood.",
+  "ko": "속명 아노플로가스터(Anoplogaster)는 “방패 없는 배”를 뜻하는 그리스어에서 나왔으며, 성체가 되기 전에 비늘이 없는 배를 가리킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235656",
+  "en": "Fangtooths are nearly invisible in the deep sea, with dark skin that absorbs almost all incoming light.",
+  "ko": "이빨고기류는 들어오는 빛을 거의 모두 흡수하는 어두운 피부 덕분에 심해에서 거의 보이지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235659",
+  "en": "Common fangtooths have tiny eyes but a strong sense of touch for detecting movement in darkness.",
+  "ko": "보통이빨고기는 눈이 아주 작지만, 어둠 속에서 움직임을 감지하는 촉각이 뛰어나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235660",
+  "en": "Adult fangtooths feed on fish, squid, crustaceans, and other deep-sea animals.",
+  "ko": "성체 이빨고기류는 물고기와 오징어, 갑각류를 비롯한 심해 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235661",
+  "en": "Common fangtooth juveniles look so different from adults that they were originally classified as a separate species.",
+  "ko": "보통이빨고기의 새끼는 성체와 생김새가 너무 달라서, 처음에는 별개의 종으로 분류되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235662",
+  "en": "Young fangtooths have much smaller teeth, larger eyes, paler bodies, and exposed bellies that develop scales later in life.",
+  "ko": "어린 이빨고기류는 이가 훨씬 작고 눈이 크며 몸빛이 옅고, 배가 드러나 있는데 여기에 자라면서 비늘이 생긴다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235663",
+  "en": "These fish make daily vertical migrations, rising toward shallower waters at night and diving deeper during the day.",
+  "ko": "이 물고기는 밤에 얕은 물로 올라왔다가 낮에 더 깊이 내려가는, 하루 주기의 수직 이동을 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235664",
+  "en": "Common fangtooths can slow their metabolism and oxygen use to survive major pressure changes during deep-sea migrations.",
+  "ko": "보통이빨고기는 심해를 오갈 때 겪는 큰 압력 변화를 견디기 위해 신진대사와 산소 소비를 늦출 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235665",
+  "en": "Fangtooths are believed to live at least 3 years, though their full lifespan in the deep sea is still uncertain.",
+  "ko": "이빨고기류는 적어도 3년은 사는 것으로 여겨지지만, 심해에서의 정확한 수명은 아직 밝혀지지 않았다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235667",
+  "en": "The shorthorn fangtooth is the smaller of the two fangtooth species, found in the tropical waters of the Atlantic and Pacific Oceans. It reaches only about 6 cm long, making it tiny even among deep-sea predators. Because it is rarely encountered, even less is known about its life history and behaviour than that of the common fangtooth.",
+  "ko": "짧은뿔이빨고기는 두 이빨고기 종 중 작은 쪽으로, 대서양과 태평양의 열대 바다에 서식한다. 길이가 약 6 cm에 그쳐 심해 포식자 중에서도 아주 작은 편이다. 좀처럼 마주치기 어려워, 보통이빨고기보다 생활사와 행동이 알려진 바가 더 적다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235668",
+  "en": "Shorthorn fangtooths are found in the tropical waters of the Atlantic and Pacific Oceans.",
+  "ko": "짧은뿔이빨고기는 대서양과 태평양의 열대 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235669",
+  "en": "Shorthorn fangtooths can live at depths down to about 1,500 m.",
+  "ko": "짧은뿔이빨고기는 수심 약 1,500 m까지 내려가 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235670",
+  "en": "These fish are very small, growing to only about 6 cm long.",
+  "ko": "이 물고기는 길이가 약 6 cm밖에 되지 않는 아주 작은 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235671",
+  "en": "Shorthorn fangtooths are less than half the size of common fangtooths.",
+  "ko": "짧은뿔이빨고기는 보통이빨고기의 절반도 되지 않는 크기다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235672",
+  "en": "The species name brachycera comes from Greek words meaning \"short horn.\"",
+  "ko": "종명 브라키케라(brachycera)는 “짧은 뿔”을 뜻하는 그리스어에서 나왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235673",
+  "en": "Shorthorn fangtooths are known from deep-water habitats and are rarely seen alive.",
+  "ko": "짧은뿔이빨고기는 심해 서식지에서 알려져 있으며, 살아 있는 모습은 거의 볼 수 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235675",
+  "en": "Blackdragons are deep-sea dragonfishes belonging to the genus Idiacanthus. They are long, dark predators that live in dim midwater zones, using bioluminescent organs to hunt in waters where sunlight cannot reach. Females are the main hunting form, while males are much smaller and often lack the feeding structures needed to survive for long.",
+  "ko": "흑룡고기류는 이디아칸투스(Idiacanthus)속에 속하는 심해 흑룡고기과 물고기다. 어둑한 중층수역에 사는 길고 검은 포식자로, 햇빛이 닿지 않는 물속에서 발광 기관을 이용해 사냥한다. 사냥의 주역은 암컷이며, 수컷은 훨씬 작고 오래 살아남는 데 필요한 먹이 섭취 기관을 갖추지 못한 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235676",
+  "en": "Blackdragons belong to the genus Idiacanthus, a small group that includes the Pacific blackdragon, black dragonfish, and ribbon sawtail fish.",
+  "ko": "흑룡고기류는 태평양흑룡과 흑룡고기, 리본톱꼬리흑룡을 포함하는 작은 무리인 이디아칸투스속에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235677",
+  "en": "Female blackdragons are much larger than males and are the main hunting form of the species.",
+  "ko": "암컷 흑룡고기류는 수컷보다 훨씬 크며, 이 종에서 사냥을 맡는 쪽이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235678",
+  "en": "Male blackdragons are tiny compared to the 40 cm long females, with some reaching only about 4–5 cm long.",
+  "ko": "수컷 흑룡고기류는 길이 40 cm에 이르는 암컷에 비하면 아주 작아서, 4–5 cm밖에 자라지 않는 개체도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235679",
+  "en": "Male blackdragons lack teeth, chin barbels, and a functional gut, surviving only long enough to reproduce.",
+  "ko": "수컷 흑룡고기류는 이와 턱수염, 제 기능을 하는 소화관이 없어 번식할 만큼만 살아남는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235680",
+  "en": "Female blackdragons have glowing chin barbels that hang from the lower jaw and help lure prey in the dark.",
+  "ko": "암컷 흑룡고기류는 아래턱에 매달린 빛나는 턱수염으로 어둠 속에서 먹잇감을 유인한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235681",
+  "en": "Female blackdragons use rows of tiny light-producing organs called photophores along the body.",
+  "ko": "암컷 흑룡고기류는 몸을 따라 줄지어 있는 발광포라는 작은 발광 기관을 이용한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235682",
+  "en": "Female blackdragons may migrate toward shallower waters at night to feed, while males remain deeper.",
+  "ko": "암컷 흑룡고기류는 먹이를 찾아 밤에 얕은 물로 올라가기도 하지만, 수컷은 더 깊은 곳에 머문다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235683",
+  "en": "Female blackdragons can lay around 14,000 eggs during reproduction.",
+  "ko": "암컷 흑룡고기류는 번식기에 약 14,000개의 알을 낳는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235684",
+  "en": "Blackdragons show extreme sexual dimorphism, meaning males and females look dramatically different from each other.",
+  "ko": "흑룡고기류는 암수 생김새가 극단적으로 다른 성적 이형성을 보인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235686",
+  "en": "Tightly packed melanosomes in the skin help trap light, making Pacific blackdragons nearly invisible in the deep sea.",
+  "ko": "피부에 빽빽이 모인 멜라노솜이 빛을 가둬, 태평양흑룡은 심해에서 거의 보이지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235687",
+  "en": "Female Pacific blackdragons use a glowing chin barbel to lure prey close before striking.",
+  "ko": "암컷 태평양흑룡은 빛나는 턱수염으로 먹잇감을 가까이 불러들인 뒤 덮친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235688",
+  "en": "Pacific blackdragons have rows of tiny light spots that can flash yellow or blue-green for a few seconds when stimulated.",
+  "ko": "태평양흑룡은 자극을 받으면 몇 초 동안 노랑이나 청록으로 번쩍이는 작은 발광점을 줄지어 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235689",
+  "en": "Pacific blackdragons feed on small deep-sea animals such as crustaceans, shrimp, and fish.",
+  "ko": "태평양흑룡은 갑각류와 새우, 물고기 같은 작은 심해 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235690",
+  "en": "Pacific blackdragons may take part in daily vertical migration, moving shallower at night and deeper during the day.",
+  "ko": "태평양흑룡은 밤에 얕은 곳으로, 낮에 깊은 곳으로 옮겨 가는 하루 주기의 수직 이동을 하기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235691",
+  "en": "The Pacific blackdragon has a stiff connection between the skull and first vertebra, giving the head less flexibility than many fish.",
+  "ko": "태평양흑룡은 두개골과 첫 번째 척추뼈가 뻣뻣하게 이어져 있어, 머리가 대부분의 물고기보다 유연하지 못하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235692",
+  "en": "Male black dragonfish remain in deep water and do not make the same nightly feeding migration as females.",
+  "ko": "수컷 흑룡고기는 깊은 물에 머물며, 암컷처럼 밤마다 먹이를 찾아 올라가지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235693",
+  "en": "Black dragonfish can produce light that is nearly invisible to human eyes.",
+  "ko": "흑룡고기는 사람의 눈에는 거의 보이지 않는 빛을 낼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235694",
+  "en": "Black dragonfish can see their own bioluminescent light, allowing them to use it while hunting.",
+  "ko": "흑룡고기는 자신이 내는 생물발광을 볼 수 있어, 사냥할 때 이 빛을 활용한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235695",
+  "en": "Male black dragonfish lack teeth, pelvic fins, a chin barbel, and a functional gut.",
+  "ko": "수컷 흑룡고기에는 이와 배지느러미, 턱수염, 제 기능을 하는 소화관이 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235696",
+  "en": "Black dragonfish larvae have stalked eyes that retreat toward the body as they mature.",
+  "ko": "흑룡고기 유생은 눈이 자루처럼 튀어나와 있는데, 자라면서 몸 쪽으로 들어간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235700",
+  "en": "The tripod fish is a deep-sea bottom-dwelling fish in the family Ipnopidae, known for resting above the seafloor on long fin extensions. These modified fins hold the fish in a tripod-like stance, raising its body above the abyssal seabed while it waits for drifting prey in the dark. With poor eyesight and highly sensitive fins, it is well adapted to life on the sparsely populated deep ocean floor and is one of the few members of its genus to have been directly observed and photographed by submersibles.",
+  "ko": "삼발이고기는 이프놉스과에 속하는 심해 저서어로, 긴 지느러미가 뻗어 나온 위에 몸을 얹고 해저 위에 머무는 것으로 유명하다. 변형된 이 지느러미가 물고기를 삼발이처럼 받쳐, 심해저 위 공중에 몸을 띄운 채 어둠 속에서 떠다니는 먹잇감을 기다린다. 시력은 나쁘지만 지느러미가 아주 민감해, 개체 수가 드문 심해저 생활에 잘 적응했으며, 잠수정이 직접 관찰하고 촬영한 자기 속 몇 안 되는 종 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235701",
+  "en": "One of the best-known deep-sea fish because of its tripod-like stance.",
+  "ko": "삼발이처럼 서는 자세 덕분에 가장 널리 알려진 심해어 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235702",
+  "en": "The tripod fish usually grows to around 30 cm long.",
+  "ko": "삼발이고기는 보통 길이 30 cm 정도까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235703",
+  "en": "One of the few members of its genus to have been directly observed and photographed by submersibles.",
+  "ko": "잠수정이 직접 관찰하고 촬영한, 자기 속 몇 안 되는 종 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235704",
+  "en": "Fin extensions or \"legs\" can reach up to about 1 m long.",
+  "ko": "뻗어 나온 지느러미, 즉 “다리”는 길이가 약 1 m에 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235705",
+  "en": "Can self-fertilize when no mate is found, a useful adaptation in the sparsely populated deep sea.",
+  "ko": "짝을 찾지 못하면 스스로 수정할 수 있는데, 개체가 드문 심해에서 유용한 적응이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235706",
+  "en": "It is a simultaneous hermaphrodite, with each individual having both male and female reproductive organs.",
+  "ko": "한 개체가 암수 생식 기관을 모두 지닌 자웅동체다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235707",
+  "en": "They will wait motionless above the seafloor as deep-sea currents carry food within reach.",
+  "ko": "심해 해류가 먹이를 닿을 만한 곳으로 실어 올 때까지 해저 위에서 움직이지 않고 기다린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452398235708",
+  "en": "Its sensory pectoral fins help detect prey and guide food toward the mouth, compensating for its extremely poor eyesight.",
+  "ko": "감각이 뛰어난 가슴지느러미가 먹잇감을 찾아내고 먹이를 입 쪽으로 이끌어, 극도로 나쁜 시력을 대신한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429952",
+  "en": "The long fin extensions are used mainly for support while standing above the seafloor.",
+  "ko": "길게 뻗은 지느러미는 주로 해저 위에 서 있을 때 몸을 받치는 데 쓰인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429953",
+  "en": "Fluids may be pumped into the fin extensions to make them more rigid while standing.",
+  "ko": "서 있을 때는 지느러미 안에 체액을 밀어 넣어 더 뻣뻣하게 만들기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429954",
+  "en": "Its long fins are flexible while swimming, but become stiff while resting on the seafloor, acting like \"legs\".",
+  "ko": "긴 지느러미는 헤엄칠 때는 유연하지만 해저에 쉴 때는 뻣뻣해져 “다리”처럼 쓰인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429955",
+  "en": "Long pelvic and tail-fin extensions form a tripod-like stance while resting.",
+  "ko": "길게 뻗은 배지느러미와 꼬리지느러미가 휴식할 때 삼발이 같은 자세를 만든다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429957",
+  "en": "Lanternfish are small deep-sea fish found in oceans around the world. They are named for the rows of light-producing photophores along their bodies, which help them camouflage, communicate, and recognize other lanternfish in the dark.",
+  "ko": "등불고기는 전 세계 바다에 사는 작은 심해어다. 몸을 따라 줄지어 있는 발광포에서 이름을 따왔으며, 이 빛은 어둠 속에서 위장하고 의사소통하고 다른 등불고기를 알아보는 데 도움을 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429958",
+  "en": "There are about 246 known species of lanternfish.",
+  "ko": "등불고기는 약 246종이 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429959",
+  "en": "Lanternfish are small deep-sea fish found in oceans around the world.",
+  "ko": "등불고기는 전 세계 바다에 사는 작은 심해어다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429960",
+  "en": "Named for rows of light-producing organs called photophores that line their bodies.",
+  "ko": "몸을 따라 줄지어 있는 발광포라는 발광 기관에서 이름을 따왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429961",
+  "en": "Their light-producing organs, called photophores, can help with camouflage, communication, and recognizing other lanternfish.",
+  "ko": "발광포라고 불리는 이 발광 기관은 위장과 의사소통, 다른 등불고기를 알아보는 데 도움을 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429962",
+  "en": "Many lanternfish live in the mesopelagic \"twilight zone,\" between 200 and 1,000 m deep.",
+  "ko": "많은 등불고기는 수심 200–1,000 m의 중층대, 이른바 “황혼의 구역”에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429963",
+  "en": "An important food source for squid, tuna, seabirds, marine mammals, and larger fish.",
+  "ko": "오징어와 다랑어, 바닷새, 해양 포유류, 더 큰 물고기의 중요한 먹잇감이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452402429964",
+  "en": "Different lanternfish species are often identified by the position and pattern of their light-producing organs.",
+  "ko": "등불고기 종은 대개 발광 기관의 위치와 배열로 구분한다."
+ }
+]

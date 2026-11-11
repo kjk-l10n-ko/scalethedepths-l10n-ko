@@ -1,0 +1,410 @@
+[
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143681",
+  "en": "Survey complete. Review the initial thoughts and findings from the Loch Ness expedition.",
+  "ko": "조사 완료. 네스호 탐사에서 나온 초기 견해와 발견을 확인해 보십시오."
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143684",
+  "en": "Preliminary assessment from Dolos – Loch Ness",
+  "ko": "돌로스의 예비 평가 – 네스호"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143685",
+  "en": "Loch Ness has provided a good amount of useful data. It turns out some old myths have a surprising amount of truth to them. You were even able to find that souvenir I asked for.\n\nIt looks like we can confirm the Loch Ness Monster is not just a folktale. The lightning-emitting serpent you caught may explain the older stories of a more violent beast. However, the real discovery here may be something else entirely.\n\nThe Sputnik 1 satellite that supposedly crashed in 1958 appears to have been sitting at the bottom of the loch all this time. Even more interesting, it seems the satellite was struck by something before crashing.\n\nIt is unlike anything I've seen before. I'll need to study it further to determine its origin.",
+  "ko": "네스호는 꽤 쓸모 있는 데이터를 넉넉히 제공해 주었습니다. 알고 보니 오래된 신화 몇 개에는 놀랄 만큼 진실이 섞여 있었습니다. 자네는 내가 부탁한 그 기념품까지 찾아냈고요.\n\n이제 네스호 괴물이 단순한 민담이 아니라는 사실을 확인할 수 있을 것 같습니다. 자네가 잡은 번개를 내뿜는 뱀은 더 난폭한 짐승에 관한 옛 이야기를 설명해 줄지도 모릅니다. 하지만 이곳의 진짜 발견은 전혀 다른 무언가일 수 있습니다.\n\n1958년에 추락했다고 알려진 스푸트니크 1호 위성은 그동안 줄곧 이 호수 바닥에 가라앉아 있었던 것 같습니다. 더 흥미로운 점은, 그 위성이 추락하기 전에 무언가와 충돌한 흔적이 있다는 것입니다.\n\n내가 지금까지 본 그 무엇과도 닮지 않았습니다. 기원을 밝히려면 더 연구해 봐야 하겠습니다."
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143687",
+  "en": "Survey complete. Review the initial thoughts and findings from the Outer Banks expedition.",
+  "ko": "조사 완료. 아우터뱅크스 탐사에서 나온 초기 견해와 발견을 확인해 보십시오."
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143690",
+  "en": "Preliminary assessment from Dolos – Outer Banks",
+  "ko": "돌로스의 예비 평가 – 아우터뱅크스"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143691",
+  "en": "My research suggested that ClearWake conducted an important operation somewhere in the Outer Banks a long time ago. It seems I was right, although I would not have guessed what they were searching for.\n\nThe accounts from The La Fortuna’s voyage confirmed the connection to Huatulco. Carlos del Mar’s family relic matched the stone described there, and I’m certain it’s the same one. The stone must have gone down with the ship, and ClearWake found it long before we could.\n\nI still cannot believe I ever worked for those scavengers. The equipment you recovered confirms ClearWake was searching by sonar, which means they somehow knew those signals were connected to the stone. \n\nThe bio-specimen container you found raises a different question. Why would they need biological containment for a rock?",
+  "ko": "내 연구에 따르면 클리어웨이크는 오래전 아우터뱅크스 어딘가에서 중요한 작전을 수행했습니다. 내가 맞았던 것 같습니다. 다만 그들이 무엇을 찾고 있었는지는 짐작조차 못 했습니다.\n\n라 포르투나호 항해의 기록은 우아툴코와의 연관성을 확인해 주었습니다. 카를로스 델 마르의 가보는 그곳에서 묘사된 돌과 일치했고, 나는 그것이 같은 돌이라고 확신합니다. 그 돌은 배와 함께 가라앉았을 것이고, 클리어웨이크는 우리보다 훨씬 먼저 그것을 찾아냈습니다.\n\n내가 그 시체 청소부들을 위해 일했다니 아직도 믿기지 않습니다. 자네가 회수한 장비는 클리어웨이크가 소나로 수색했다는 사실을 뒷받침합니다. 즉 그들은 그 신호가 그 돌과 관련이 있다는 걸 어떻게든 알고 있었던 것입니다.\n\n자네가 찾은 생물 표본 용기는 다른 의문을 낳습니다. 고작 돌 하나에 왜 생물학적 격리가 필요했을까요?"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143693",
+  "en": "Survey complete. Review the initial thoughts and findings from the Point Nemo expedition.",
+  "ko": "조사 완료. 포인트 네모 탐사에서 나온 초기 견해와 발견을 확인해 보십시오."
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143696",
+  "en": "Preliminary assessment from Dolos – Point Nemo",
+  "ko": "돌로스의 예비 평가 – 포인트 네모"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143697",
+  "en": "Point Nemo feels like the culmination of every previous survey. Somehow, even feeding a kraken feels secondary to what we found here.\n\nThe research logs explain why this empty stretch of ocean became so full of life. The debris from the International Space Station brought something living to Earth, and it has been reshaping this ecosystem ever since.\n\nThose blue-veined stones were never just stones. They are living organisms from space.\n\nThis is a monumental discovery, and ClearWake has been collecting and studying these samples for decades. A living organism capable of reshaping an entire ecosystem would be more than a scientific curiosity to them. It would be an opportunity.\n\nI can only wonder what ClearWake has been using them for, and whether any of this connects back to the Coastal Plague of the 2050s.",
+  "ko": "포인트 네모는 이전의 모든 조사가 모여 도달한 정점처럼 느껴집니다. 어쩐지 크라켄에게 먹이를 주는 일조차 여기서 찾아낸 것에 비하면 부차적으로 여겨집니다.\n\n연구 일지는 이 텅 빈 바다 한가운데가 어째서 이토록 생명으로 가득 차게 되었는지 설명해 줍니다. 국제 우주 정거장의 잔해가 지구로 무언가 살아 있는 것을 가져왔고, 그때부터 그것이 이 생태계를 바꾸어 놓고 있습니다.\n\n그 푸른 핏줄이 흐르는 돌들은 애초에 그냥 돌이 아니었습니다. 그것들은 우주에서 온 살아 있는 생명체입니다.\n\n이것은 대단한 발견이며, 클리어웨이크는 수십 년간 이 표본들을 수집하고 연구해 왔습니다. 생태계 전체를 바꿀 수 있는 살아 있는 생명체라면 그들에게는 과학적 호기심의 대상이 아니라 기회였을 것입니다.\n\n클리어웨이크가 그것들을 어디에 써 왔는지, 그리고 이 모든 것이 2050년대의 해안 전염병과 이어지는지는 상상해 볼 수밖에 없습니다."
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143699",
+  "en": "Survey complete. Review the initial thoughts and findings from the Huatulco expedition.",
+  "ko": "조사 완료. 우아툴코 탐사에서 나온 초기 견해와 발견을 확인해 보십시오."
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143702",
+  "en": "Preliminary assessment from Dolos – Huatulco",
+  "ko": "돌로스의 예비 평가 – 우아툴코"
+ },
+ {
+  "table": "Almanac Extras - String",
+  "id": "19131108003143703",
+  "en": "Between the colour-changing Hoga and your encounter with Quetzalcóatl, Huatulco has confirmed that its local stories deserve to be taken seriously.\n\nStill, the record of the fallen star is what draws my attention. They were clearly describing an asteroid, but the description of a stone threaded with bright blue veins is disturbingly familiar. I would very much like to examine it firsthand.\n\nUnfortunately, the Spanish records suggest the stone was taken from Huatulco during the conquest. One soldier, Rodrigo del Mar, took particular interest in a rock with blue crystals. I wonder where it ended up.\n\nThe prophecy tied to that stone is hard to ignore. It claimed the world would end in the 2050s, and given our current situation, I suppose they were not entirely wrong.",
+  "ko": "색이 변하는 호가와 케찰코아틀과의 조우를 겪고 보니, 우아툴코는 이 지역의 이야기를 진지하게 받아들일 가치가 있다는 것을 증명해 주었습니다.\n\n그래도 내 눈길을 끄는 것은 떨어진 별에 관한 기록입니다. 분명 소행성을 묘사한 것이지만, 밝은 푸른 핏줄이 흐르는 돌에 대한 설명은 불편할 만큼 낯익습니다. 그 돌을 직접 살펴보고 싶어 견딜 수가 없습니다.\n\n안타깝게도 스페인 기록에 따르면 그 돌은 정복 시기에 우아툴코에서 빼앗겼습니다. 로드리고 델 마르라는 병사가 푸른 수정이 박힌 돌에 유난히 관심을 보였습니다. 그 돌이 어디로 갔는지 궁금합니다.\n\n그 돌에 얽힌 예언은 무시하기 어렵습니다. 세상이 2050년대에 끝난다고 주장했는데, 지금 우리 상황을 보면 그들이 완전히 틀린 말을 한 것은 아니었던 것 같습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954369",
+  "en": "Sputnik 1 was the first artificial satellite placed into Earth's orbit, launched by the Soviet Union in 1957 at the start of the Space Age.\n\nAfter transmitting signals for several weeks, the satellite was believed to have burned up during reentry. Instead, it appears to have survived the fall and come to rest in the waters of Loch Ness.\n\nIts metal hull has been pierced by an unknown blue object now lodged within the sphere, leaving it partially deformed.",
+  "ko": "스푸트니크 1호는 지구 궤도에 올려진 최초의 인공위성으로, 우주 시대가 열리던 1957년에 소련이 발사했습니다.\n\n몇 주 동안 신호를 송신한 뒤 이 위성은 대기권 재진입 중에 불타 없어진 것으로 여겨졌습니다. 하지만 실제로는 낙하에서 살아남아 네스호 물속에 가라앉은 것으로 보입니다.\n\n금속 외벽은 정체불명의 푸른 물체에 뚫려 있고, 그 물체는 지금 구체 안에 박혀 위성을 부분적으로 일그러뜨리고 있습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954370",
+  "en": "Sputnik 1 was launched by the Soviet Union on October 4, 1957, marking the beginning of the Space Age during the Cold War.",
+  "ko": "스푸트니크 1호는 1957년 10월 4일 소련이 발사했으며, 냉전 시기에 우주 시대가 시작되었음을 알린 사건이었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954372",
+  "en": "This small plush toy is modelled after the Loch Ness Monster, the legendary creature said to inhabit the depths of Loch Ness. The creature became one of the world's most famous cryptids after a story recorded in 565 AD, when the Irish monk Saint Columba reportedly encountered a mysterious beast in the River Ness. Souvenirs like this plush have been sold to visitors around the loch for decades.",
+  "ko": "이 작은 봉제 인형은 네스호 깊은 곳에 산다고 전해지는 전설의 생물, 네스호 괴물을 본떠 만들었습니다. 이 생물은 565년에 기록된 이야기 덕분에 세계에서 가장 유명한 미확인 동물 가운데 하나가 되었습니다. 당시 아일랜드의 수도사 성 콜럼바가 네스강에서 정체불명의 짐승을 만났다고 전해집니다. 이 인형 같은 기념품은 수십 년째 호수 주변 관광객들에게 팔려 왔습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954373",
+  "en": "Nessie plush toys have long been among the most popular souvenirs sold around Loch Ness.",
+  "ko": "네시 인형은 오랫동안 네스호 주변에서 팔리는 가장 인기 있는 기념품 가운데 하나였습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954375",
+  "en": "A battle-worn English shield recovered from the waters near a destroyed portion of Urquhart Castle. The heraldic markings that once identified its owner have been deliberately scratched off. Shields like this were carried by soldiers during the conflicts around the castle, when control of the fortress changed hands during the Wars of Scottish Independence.",
+  "ko": "어커트 성의 파괴된 구역 근처 물속에서 건져 올린, 전투로 닳고 닳은 잉글랜드 방패입니다. 한때 주인을 알려 주던 문장은 누군가 일부러 긁어 지웠습니다. 이와 같은 방패는 스코틀랜드 독립 전쟁 중 성의 주인이 여러 번 바뀌던 시기에 성 주변의 분쟁에서 병사들이 들고 다녔습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954376",
+  "en": "Captured English gear, including shields, was often reused by Scots. They were repainted, repurposed, and reclaimed.",
+  "ko": "노획한 잉글랜드 장비는 방패를 포함해 스코틀랜드인이 자주 다시 썼습니다. 다시 칠하고, 용도를 바꾸고, 자기 것으로 만들었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954378",
+  "en": "A carved stone bearing the image of a long, serpent-like creature. The style resembles the symbol stones created by the Picts, a group of tribes who lived in northern Scotland during the early Middle Ages.\n\nAround 350 Pictish symbol stones survive today, many carved with animals such as salmon, wolves, stags, and the mysterious creature often called the \"Pictish Beast.\" The exact meaning of these carvings remains unknown.",
+  "ko": "길쭉한 뱀 모양 생물이 새겨진 조각돌입니다. 그 양식은 중세 초기 스코틀랜드 북부에 살던 부족 연합, 픽트족이 만든 기호석과 닮았습니다.\n\n오늘날까지 남아 있는 픽트족 기호석은 약 350점이며, 그중 다수에는 연어, 늑대, 수사슴 같은 동물과 흔히 \"픽트의 짐승\"이라 불리는 정체불명의 생물이 새겨져 있습니다. 이 조각들이 지닌 정확한 의미는 아직 밝혀지지 않았습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679360954379",
+  "en": "The Picts carved hundreds of symbol stones across Scotland, many of which still survive today.",
+  "ko": "픽트족은 스코틀랜드 전역에 수백 점의 기호석을 새겼고, 그중 많은 수가 오늘날까지 남아 있습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148673",
+  "en": "This early field camera was designed to document wildlife, landscapes, and discoveries during scientific expeditions while remaining compact and portable. Cameras like this were carried by visitors and researchers searching for the Loch Ness Monster, especially during the surge of sightings in the 1930s. Unfortunately, devices like this were also responsible for some of the blurriest, most unflattering images ever taken of Nessie.",
+  "ko": "이 초기형 현장 카메라는 과학 탐사 중에 야생 동물과 풍경, 발견물을 기록하도록 설계되었으며, 작고 휴대하기 좋았습니다. 이런 카메라는 특히 1930년대 목격담이 쏟아지던 시기에 네스호 괴물을 찾아 나선 관광객과 연구자들이 들고 다녔습니다. 안타깝게도 이런 기기들은 네시를 찍은 사진 가운데 가장 흐릿하고 볼품없는 사진들을 남긴 장본인이기도 합니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148674",
+  "en": "One of the most famous photos of the Loch Ness Monster, known as the \"Surgeon's Photograph,\" was taken in 1934.",
+  "ko": "네스호 괴물의 가장 유명한 사진 가운데 하나인 \"외과의사의 사진\"은 1934년에 촬영되었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148676",
+  "en": "This ClearWake bio-specimen containment unit was designed to preserve or contain small living organisms collected during field research. The container is empty now and was likely discarded or lost by a research team.",
+  "ko": "이 클리어웨이크 생물 표본 보관 용기는 현장 연구 중에 채집한 작은 생명체를 보존하거나 격리하도록 설계되었습니다. 지금은 빈 용기이며, 연구팀이 버리거나 잃어버린 것으로 보입니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148677",
+  "en": "Marine researchers often store specimens in sealed containers immediately after collection so the organisms can be studied in laboratories later.",
+  "ko": "해양 연구자들은 채집한 생명체를 나중에 실험실에서 연구할 수 있도록, 채집 직후 밀봉 용기에 넣어 보관하는 일이 많습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148679",
+  "en": "A ClearWake passive sonar receiver used to listen for underwater sound activity. Unlike active sonar, it does not emit pulses, but detects sonar signals and other disturbances moving through the water.",
+  "ko": "수중 음향 활동을 청취하는 데 쓰는 클리어웨이크 수동 소나 수신기입니다. 능동 소나와 달리 음파를 내보내지 않고, 물속을 지나는 소나 신호와 다른 교란을 탐지합니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148680",
+  "en": "Sound travels nearly four times faster in water than in air, allowing sonar signals to travel extremely long distances through the ocean.",
+  "ko": "소리는 공기 중보다 물속에서 약 네 배 빠르게 이동하기 때문에, 소나 신호는 바다를 가로질러 아주 먼 거리까지 전달될 수 있습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148682",
+  "en": "An old brass compass worn down by years in the swamp. The initials \"CDM\" are engraved inside the lid, likely marking the instrument's original owner. \n\nNavigational tools like this helped sailors maintain their bearings while sailing the shifting shoals and unpredictable waters of the Outer Banks, an area long feared by mariners for its hidden sandbars and sudden storms.",
+  "ko": "늪에서 오랜 세월을 보내며 닳아 버린 낡은 놋쇠 나침반입니다. 뚜껑 안쪽에는 \"CDM\"이라는 머리글자가 새겨져 있는데, 아마 원래 주인을 뜻하는 듯합니다.\n\n이런 항해 도구는 아우터뱅크스의 끊임없이 움직이는 모래톱과 예측할 수 없는 바다를 항해할 때 뱃사람들이 방위를 유지하도록 도왔습니다. 이곳은 숨은 모래톱과 갑작스러운 폭풍 때문에 오랫동안 뱃사람들이 두려워하던 지역입니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148683",
+  "en": "Compasses were essential tools for sailors, helping navigators across the open ocean where no landmarks were visible.",
+  "ko": "나침반은 뱃사람들에게 없어서는 안 될 도구였으며, 눈에 띄는 지형지물이 없는 먼바다에서 항해사들을 도와주었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148685",
+  "en": "A gold coin once used by Spanish traders and explorers sailing along the Atlantic coast. The name \"doubloon\" comes from the Spanish word doblón, referring to its value of two escudos.\n\nMany were carried aboard Spanish treasure fleets transporting gold and silver from the Americas to Europe. Some ships never completed the journey, wrecking along the Outer Banks, an area known as the \"Graveyard of the Atlantic.\"",
+  "ko": "한때 대서양 연안을 항해하던 스페인 상인과 탐험가들이 사용하던 금화입니다. \"더블룬\"이라는 이름은 두 에스쿠도에 해당하는 가치를 뜻하는 스페인어 도블론에서 나왔습니다.\n\n상당수는 아메리카에서 유럽으로 금과 은을 실어 나르던 스페인 보물 함대에 실렸습니다. 일부 배는 항해를 끝내지 못하고 아우터뱅크스 연안에서 난파했는데, 이 지역은 \"대서양의 무덤\"으로 불립니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148686",
+  "en": "Spanish doubloons were widely used in global trade during the 16th to 18th centuries and became famous through pirate legends and treasure stories.",
+  "ko": "스페인 금화는 16세기부터 18세기까지 세계 무역에서 널리 쓰였고, 해적 전설과 보물 이야기를 통해 유명해졌습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148688",
+  "en": "A jar filled with regular dirt. For unknown reasons, someone collected it, sealed it, and brought it out to sea. Somehow, it ended up resting in the Outer Banks.",
+  "ko": "평범한 흙이 담긴 단지입니다. 알 수 없는 이유로 누군가 이 흙을 모아 밀봉한 뒤 바다로 가져갔습니다. 그리고 어찌 된 일인지 아우터뱅크스에 가라앉아 있습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148689",
+  "en": "Upon closer inspection, this is, in fact, just a jar of dirt.",
+  "ko": "자세히 살펴보니 이건 정말 그냥 흙이 담긴 단지입니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148691",
+  "en": "A small plush toy depicting a strange creature known as the \"Rat King.\" Despite its tame appearance, the name refers to a disturbing phenomenon where the tails of multiple rats become intertwined. Thankfully, this version is far less unsettling than the real thing.",
+  "ko": "\"쥐왕\"이라 불리는 기묘한 생물을 본뜬 작은 봉제 인형입니다. 순해 보이는 겉모습과 달리, 그 이름은 여러 쥐의 꼬리가 서로 얽히는 섬뜩한 현상을 가리킵니다. 다행히 이 버전은 진짜보다 훨씬 덜 소름 끼칩니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148692",
+  "en": "Despite the name, a rat king is not actually a king.",
+  "ko": "이름과 달리 쥐왕은 실제로 왕이 아닙니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148694",
+  "en": "A sealed metal can containing preserved brown bread sweetened with molasses. Variations of this bread became especially popular in New England, where ingredients like rye, cornmeal, and wheat flour were often combined. Durable foods like this were easy to store and transport, making them common on ships and long journeys.",
+  "ko": "당밀로 단맛을 낸 갈색 빵을 보존해 담은 밀봉 금속 통조림입니다. 이 빵의 여러 변형은 호밀과 옥수수 가루, 밀가루 같은 재료를 함께 쓰던 뉴잉글랜드에서 특히 인기를 끌었습니다. 이렇게 오래가는 음식은 보관과 운반이 쉬워 배와 장거리 여행에서 흔히 쓰였습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148695",
+  "en": "New England canned bread, also known as Boston brown bread, is traditionally steamed and sweetened with molasses.",
+  "ko": "뉴잉글랜드 통조림 빵은 보스턴 브라운 브레드라고도 불리며, 전통적으로 찜으로 익히고 당밀로 단맛을 냅니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148697",
+  "en": "A fragment believed to have broken from the asteroid 99942 Apophis after its collision with the International Space Station in 2029. Recovered near Point Nemo, the rock is threaded with strange blue crystalline veins and gives off a faint, unnatural glow.",
+  "ko": "2029년 국제 우주 정거장과 충돌한 뒤 소행성 99942 아포피스에서 떨어져 나온 것으로 여겨지는 파편입니다. 포인트 네모 근처에서 회수되었으며, 이 돌에는 기이한 푸른 결정질 핏줄이 흐르고 희미하고 부자연스러운 빛을 냅니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148698",
+  "en": "Most asteroids orbit between Mars and Jupiter, but some can travel on paths that bring them close to Earth.",
+  "ko": "대부분의 소행성은 화성과 목성 사이를 공전하지만, 일부는 지구 가까이 접근하는 궤도를 따라 이동하기도 합니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148700",
+  "en": "This handheld game controller was once used to operate a deep-sea submersible. It's unclear why something this low-tech was chosen to pilot a vehicle thousands of metres below the surface of the ocean. Somehow, devices like this guided submersibles to some of the deepest parts of the ocean.",
+  "ko": "이 휴대용 게임 조종기는 한때 심해 잠수정을 조종하는 데 쓰였습니다. 어째서 이렇게 저급한 기술로 수천 미터 바다 밑의 잠수정을 조종하기로 했는지는 알 수 없습니다. 그런데도 이런 기기가 잠수정을 바다에서 가장 깊은 곳까지 이끌었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148701",
+  "en": "Controllers like this have been used to pilot deep-sea submersibles.",
+  "ko": "이런 조종기는 심해 잠수정을 조종하는 데 사용되어 왔습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148703",
+  "en": "This brass sextant was used by sailors to determine their position at sea by measuring the angle between the horizon and celestial bodies such as the Sun or stars.\n\nDeveloped around 1731, it improved on earlier tools and allowed navigators to take precise measurements at night while aboard moving ships. Sextants are still used today as reliable backups to electronic navigation systems.",
+  "ko": "이 놋쇠 육분의는 뱃사람들이 수평선과 태양이나 별 같은 천체 사이의 각도를 재어 바다에서 자기 위치를 알아내는 데 썼습니다.\n\n1731년 무렵 개발된 이 도구는 이전 도구들을 개선한 것으로, 항해사들이 움직이는 배 위에서 밤에도 정밀한 측정을 할 수 있게 해 주었습니다. 육분의는 오늘날에도 전자 항법 장치를 대신할 믿을 만한 예비 수단으로 쓰입니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148704",
+  "en": "A sextant works by measuring the angle between the horizon and the Sun or stars, helping sailors determine their position on the ocean.",
+  "ko": "육분의는 수평선과 태양 또는 별 사이의 각도를 재는 방식으로 작동하며, 뱃사람들이 바다에서 위치를 파악하도록 도와줍니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148706",
+  "en": "This unique object is designed to provide emotional reassurance during long periods of isolation. While it serves no obvious practical purpose, some insist that performance improves when one is nearby. Reports also suggest that test subjects tend to form unusually quick emotional attachments to the device.",
+  "ko": "이 독특한 물체는 오랜 고립 기간에 정서적 위안을 주도록 설계되었습니다. 뚜렷한 실용적 목적은 없어 보이지만, 이것이 곁에 있으면 성과가 좋아진다고 주장하는 사람도 있습니다. 보고서에 따르면 피험자들은 이 장치에 유난히 빠르게 정서적 애착을 형성하는 경향이 있습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148707",
+  "en": "There is no scientific evidence that a support sphere is capable of thinking, feeling, or judging your decisions… probably.",
+  "ko": "보조 구체가 생각하고 느끼고 당신의 결정을 판단할 수 있다는 과학적 근거는 없습니다… 아마도요."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148709",
+  "en": "A small toy submarine, likely lost by someone fascinated with ocean exploration. While it was never meant to travel beyond a bathtub or the beach, it now sits in one of the most remote places in the ocean. Compared to the real submersibles that explore these depths, this one is considerably less capable.",
+  "ko": "바다 탐험에 매료된 누군가가 잃어버린 듯한 작은 장난감 잠수함입니다. 욕조나 해변을 벗어날 일이 없던 물건인데, 지금은 바다에서 가장 외딴 곳 가운데 하나에 놓여 있습니다. 이 깊이를 탐사하는 진짜 잠수정들과 비교하면 이쪽은 성능이 훨씬 떨어집니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148710",
+  "en": "The first working submarine was built in 1620 by Dutch inventor Cornelis Drebbel, who demonstrated it in the River Thames in England.",
+  "ko": "최초의 실용 잠수함은 1620년 네덜란드 발명가 코르넬리스 드레벨이 만들었고, 그는 잉글랜드의 템스강에서 그것을 시연했습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148712",
+  "en": "This remotely operated underwater drone was used to explore areas too deep or dangerous for human divers. Unmanned submersibles like this can descend thousands of metres below the surface while transmitting video and scientific data back to researchers aboard a ship.\n\nEquipped with cameras and sensors, machines like this allow scientists to survey the ocean floor without sending people into the depths themselves.\n\nTypical of humans to send a machine into dangerous places rather than going themselves.",
+  "ko": "이 원격 조종 수중 드론은 인간 잠수사가 가기에는 너무 깊거나 위험한 곳을 탐사하는 데 쓰였습니다. 이처럼 무인 잠수정은 수천 미터 아래까지 내려가면서 영상과 과학 데이터를 배에 탄 연구자들에게 전송할 수 있습니다.\n\n카메라와 센서를 갖춘 이런 기계 덕분에 과학자들은 사람을 깊은 바다로 보내지 않고도 해저를 조사할 수 있습니다.\n\n위험한 곳에는 자기가 아니라 기계를 보내는 것이 인간의 전형적인 방식입니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148713",
+  "en": "Many deep-sea discoveries have been made using remotely operated vehicles, which can dive thousands of metres below the ocean's surface.",
+  "ko": "심해의 많은 발견은 바다 표면 아래 수천 미터까지 잠수할 수 있는 원격 조종 잠수정을 통해 이루어졌습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148715",
+  "en": "The Canadarm2, also known as the Space Station Remote Manipulator System, is a robotic arm developed by Canada for the International Space Station. Installed in 2001, it became one of the station's primary tools for construction, maintenance, and capturing visiting spacecraft.\n\nUnlike the original Canadarm used on the Space Shuttle, Canadarm2 could attach itself to multiple connection points and \"walk\" across the exterior of the station.\n\nWhen the International Space Station was deorbited, the arm came down with it, eventually ending up in the Point Nemo debris graveyard.",
+  "ko": "우주 정거장 원격 조작 시스템이라고도 하는 캐나다암 2는 캐나다가 국제 우주 정거장을 위해 개발한 로봇 팔입니다. 2001년에 설치되어 건설과 정비, 방문 우주선 포획에 쓰이는 정거장의 주요 도구 가운데 하나가 되었습니다.\n\n우주 왕복선에 쓰이던 원래의 캐나다암과 달리, 캐나다암 2는 여러 접속 지점에 스스로 붙어 정거장 외벽을 \"걸어\" 다닐 수 있었습니다.\n\n국제 우주 정거장이 궤도에서 벗어나 추락할 때 이 팔도 함께 떨어졌고, 결국 포인트 네모 잔해 묘지에 이르렀습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148716",
+  "en": "Canadarm2 was used to capture visiting spacecraft, move large equipment, and help assemble the International Space Station.",
+  "ko": "캐나다암 2는 방문 우주선을 포획하고 대형 장비를 옮기며 국제 우주 정거장 조립을 돕는 데 사용되었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148718",
+  "en": "A basalt carving created during the height of the Aztec Empire in the early 1500s. The stone disk is covered in intricate symbols representing the Aztec view of time, the cosmos, and the cycles of the sun.\n\nAt its center is Tonatiuh, the Aztec sun deity, surrounded by glyphs tied to the succession of past worlds. The symbol for the current sun appears incomplete, suggesting that the present cycle is nearing its end.\n\nIf read as prophetic, the stone may indicate that the present world cycle was set to end in the 2050s, a warning that feels difficult to ignore now.",
+  "ko": "1500년대 초 아즈텍 제국의 전성기에 만들어진 현무암 조각입니다. 이 원반 돌은 시간과 우주, 태양의 순환에 대한 아즈텍의 관점을 나타내는 정교한 상징들로 덮여 있습니다.\n\n중심에는 아즈텍의 태양신 토나티우가 있고, 그 둘레에는 과거 세계들이 이어져 온 순서와 관련된 상형문자가 새겨져 있습니다. 현재의 태양을 나타내는 상징은 미완성으로 보이는데, 이는 지금의 주기가 끝에 가까워졌음을 암시합니다.\n\n이 돌을 예언으로 읽는다면 현재의 세계 주기가 2050년대에 끝나도록 정해졌음을 뜻할지도 모릅니다. 지금은 무시하기 어렵게 느껴지는 경고입니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148719",
+  "en": "It's believed the Aztec Sun Stone may contain symbolic references to the end of the current world cycle.",
+  "ko": "아즈텍 태양의 돌에는 현재 세계 주기의 종말을 가리키는 상징적 표현이 담겨 있을 수 있다고 여겨집니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148721",
+  "en": "This ceramic coffee cup was likely lost by a visitor exploring the coast near Huatulco. The surrounding region of Oaxaca was once home to thousands of coffee plantations, producing beans that were exported around the world. Though the plantations faded over time, coffee remained one of the area's most recognizable traditions.",
+  "ko": "이 도자기 커피 컵은 우아툴코 근처 해안을 둘러보던 관광객이 잃어버린 것으로 보입니다. 주변의 오아하카 지역에는 한때 수천 개의 커피 농장이 있어 전 세계로 수출할 원두를 생산했습니다. 세월이 지나며 농장들이 사라졌지만, 커피는 이 지역을 가장 잘 보여 주는 전통 가운데 하나로 남았습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148722",
+  "en": "Mexico is one of the world's largest coffee producers, with most of its beans grown in southern states such as Oaxaca and Chiapas.",
+  "ko": "멕시코는 세계에서 가장 큰 커피 생산국 가운데 하나이며, 원두 대부분은 오아하카와 치아파스 같은 남부 주에서 재배됩니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148724",
+  "en": "A solid rubber ball used in the ancient Mesoamerican ball game played by civilizations such as the Maya and Aztecs. The heavy ball was struck with the hips, elbows, or shoulders during ritual matches held in stone ball courts. \n\nArchaeologists have discovered ball courts throughout Oaxaca, showing that several cultures in the region once played the game. Mesoamerican societies were among the first in the world to manufacture rubber by processing sap from rubber trees.",
+  "ko": "마야와 아즈텍 같은 문명이 즐긴 고대 메소아메리카 공놀이에 쓰인 단단한 고무공입니다. 이 무거운 공은 돌로 만든 경기장에서 열린 의례 경기 중에 엉덩이와 팔꿈치, 어깨로 쳤습니다.\n\n고고학자들은 오아하카 전역에서 경기장을 발견했으며, 이는 이 지역의 여러 문화가 한때 이 놀이를 즐겼음을 보여 줍니다. 메소아메리카 사회는 고무나무 수액을 가공해 고무를 제조한 세계 최초의 사회 가운데 하나였습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679365148725",
+  "en": "Rubber balls like this were used in the ancient Mesoamerican ball game, where players struck the ball with their hips, elbows, or shoulders.",
+  "ko": "이런 고무공은 고대 메소아메리카 공놀이에 쓰였으며, 경기자는 엉덩이와 팔꿈치, 어깨로 공을 쳤습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679369342977",
+  "en": "An arrowhead carved from obsidian, a volcanic glass formed when lava cools rapidly. Known for its extremely sharp edges, obsidian was widely used by Mesoamerican civilizations to create tools and weapons. \n\nThe Aztecs crafted blades, spear points, and arrowheads from this material, producing cutting edges far sharper than most metal tools of the time. Even small fragments like this could be shaped into deadly projectiles.",
+  "ko": "용암이 빠르게 식으면서 만들어지는 화산 유리, 흑요석을 깎아 만든 화살촉입니다. 극도로 날카로운 날로 유명한 흑요석은 메소아메리카 문명에서 도구와 무기를 만드는 데 널리 쓰였습니다.\n\n아즈텍인들은 이 재료로 칼날과 창끝, 화살촉을 만들어 당시 대부분의 금속 도구보다 훨씬 날카로운 날을 얻었습니다. 이처럼 작은 파편조차 치명적인 발사체로 다듬을 수 있었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679369342978",
+  "en": "Obsidian blades can be sharper than modern surgical steel.",
+  "ko": "흑요석 칼날은 현대의 수술용 강철보다 더 날카로울 수 있습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679369342980",
+  "en": "A small statue depicting Quetzalcóatl, the Feathered Serpent, one of the most important deities in Mesoamerican mythology. Quetzalcóatl was associated with wind, the morning star, knowledge, and the arts, and was widely worshipped by several civilizations, including the Aztecs.",
+  "ko": "메소아메리카 신화에서 가장 중요한 신들 가운데 하나인 깃털 달린 뱀, 케찰코아틀을 묘사한 작은 석상입니다. 케찰코아틀은 바람과 새벽별, 지식, 예술과 관련되어 있었고, 아즈텍을 비롯한 여러 문명에서 널리 숭배되었습니다."
+ },
+ {
+  "table": "Artifacts - String",
+  "id": "6679369342981",
+  "en": "Quetzalcóatl's name comes from the Nahuatl words quetzal, a brightly coloured bird, and coatl, meaning serpent.",
+  "ko": "케찰코아틀이라는 이름은 밝은 빛깔의 새를 뜻하는 나와틀어 케찰과 뱀을 뜻하는 코아틀에서 나왔습니다."
+ },
+ {
+  "table": "Bait UI",
+  "id": "4075881264832517",
+  "en": "Choose a bait to replace...",
+  "ko": "교체할 미끼를 선택하십시오..."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647747",
+  "en": "Increases repellent level, repelling an extra tier of fishes.",
+  "ko": "기피제 단계를 높여 한 등급 더 많은 물고기를 쫓아냅니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647749",
+  "en": "Prevents the hook from being stunned by electrical hazards.",
+  "ko": "전기 위험 요소로 인해 낚싯바늘이 기절하는 것을 막습니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647753",
+  "en": "Grants the ability to trigger a short forward dash in the direction you're facing.",
+  "ko": "바라보는 방향으로 짧게 전진 돌진할 수 있는 능력을 부여합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647755",
+  "en": "When close to treasure, an arrow will appear and guide you to it.",
+  "ko": "보물 가까이 가면 화살표가 나타나 길을 안내합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507312231702529",
+  "en": "The hook bounces off surfaces instead of stopping.",
+  "ko": "낚싯바늘이 표면에 닿아도 멈추지 않고 튕겨 나갑니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647761",
+  "en": "Activate to attract nearby fish to the hook for a short time.",
+  "ko": "발동하면 잠시 동안 주변 물고기를 낚싯바늘 쪽으로 끌어들입니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647763",
+  "en": "Allows the hook to break down junk on impact, converting it into money.",
+  "ko": "낚싯바늘이 충돌 시 잡동사니를 부수어 돈으로 바꿀 수 있게 합니다."
+ }
+]

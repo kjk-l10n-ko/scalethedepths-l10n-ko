@@ -1,0 +1,776 @@
+[
+ {
+  "table": "Fish Facts - String",
+  "id": "51859430151544844",
+  "en": "Goldfish are often small in aquariums, but in the wild, they can grow much larger, sometimes reaching over 40 cm long.",
+  "ko": "금붕어는 수족관에서는 대개 작지만, 야생에서는 훨씬 크게 자라서 40cm를 넘기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "51859430151544846",
+  "en": "A wide-eyed fish with a permanently open mouth and a talent for dramatic sound effects. Its scream sounds strangely familiar, like it has been reused in hundreds of movies.",
+  "ko": "눈이 휘둥그레지고 입은 영영 벌어져 있으며, 극적인 효과음에 재능이 있는 물고기. 그 비명은 묘하게 익숙한데, 수백 편의 영화에서 재활용된 것 같다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "51859430151544847",
+  "en": "The loudest fish in the sea, known for its dramatic overreactions.",
+  "ko": "바다에서 가장 시끄러운 물고기로, 극적인 과잉 반응으로 유명하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "51859430151544848",
+  "en": "This fish may not be in danger, but it still screams like it just fell off a ledge in a movie.",
+  "ko": "이 물고기는 위험에 처한 것도 아닌데, 영화에서 막 낭떠러지에서 떨어진 것처럼 비명을 지른다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "51859430151544849",
+  "en": "It’s been dramatically overreacting since 1951.",
+  "ko": "1951년부터 극적으로 과잉 반응해 왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015237",
+  "en": "The burbot is a cold-water freshwater relative of cod, recognized by its long body and single whisker-like barbel on its chin. Its firm white flesh is often compared to lobster, earning it the nickname \"poor man's lobster.\" Once common in parts of Europe, it became rare in many areas and is possibly extinct in the United Kingdom, with the last recorded British capture in 1970. Reintroduction efforts began in the early 2020s, and its presence in Loch Ness suggests that future conservation work eventually reached farther north than expected.",
+  "ko": "민물대구는 찬물에 사는 대구과의 민물 친척이다. 길쭉한 몸과 턱에 달린 한 가닥 수염 모양 돌기로 알아볼 수 있다. 단단한 흰 살은 흔히 랍스터에 비유되어 ‘가난한 자의 랍스터’라는 별명을 얻었다. 한때 유럽 일부 지역에서는 흔했지만 여러 곳에서 드물어졌고, 영국에서는 멸종한 것으로 보이는데 마지막으로 기록된 영국에서의 포획은 1970년이었다. 2020년대 초부터 재도입 노력이 시작되었으며, 네스호에 이 물고기가 있다는 것은 훗날의 보전 작업이 예상보다 훨씬 북쪽까지 이르렀음을 시사한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015238",
+  "en": "Burbot have come close to extinction in parts of Europe, leading to conservation efforts to reintroduce them across the continent.",
+  "ko": "민물대구는 유럽 일부 지역에서 멸종 직전까지 갔고, 이에 대륙 전역에 다시 들여오려는 보전 노력이 이어졌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015239",
+  "en": "In the United Kingdom, the burbot is possibly extinct, with the last recorded capture dating back to July 1970.",
+  "ko": "영국에서는 민물대구가 멸종한 것으로 보이며, 마지막으로 기록된 포획은 1970년 7월로 거슬러 올라간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015240",
+  "en": "The burbot is the only member of the genus Lota.",
+  "ko": "민물대구는 로타속(Lota)에 속하는 유일한 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015241",
+  "en": "Although burbot can appear scaleless, they have tiny, nearly microscopic scales.",
+  "ko": "민물대구는 비늘이 없는 것처럼 보이지만, 현미경으로나 보일 만큼 아주 작은 비늘이 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015242",
+  "en": "The name burbot comes from a Latin word referring to the single whisker-like barbel on its chin.",
+  "ko": "민물대구라는 이름은 턱에 달린 수염 모양 돌기 하나를 가리키는 라틴어 단어에서 유래했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015243",
+  "en": "Burbot usually live in large, cold rivers, lakes, and reservoirs, preferring freshwater but sometimes entering brackish environments.",
+  "ko": "민물대구는 대개 크고 찬 강과 호수, 저수지에 살며, 민물을 선호하지만 때로는 기수 환경으로 들어가기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015244",
+  "en": "Most burbot are around 40–60 cm long, though some individuals can grow larger.",
+  "ko": "대부분의 민물대구는 길이 40–60cm 정도지만, 일부 개체는 더 크게 자라기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015245",
+  "en": "During the 20th century, burbot were common enough in some areas that they were used as feed for pigs.",
+  "ko": "20세기에는 일부 지역에서 민물대구가 흔해서 돼지 먹이로 쓰이기도 했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015246",
+  "en": "Burbot are sometimes nicknamed \"poor man's lobster\" because their flesh tastes similar to lobster.",
+  "ko": "민물대구는 살맛이 랍스터와 비슷해서 ‘가난한 자의 랍스터’라는 별명이 붙기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015247",
+  "en": "Burbot are the only true freshwater species of cod.",
+  "ko": "민물대구는 대구과 가운데 진짜 민물에 사는 유일한 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015251",
+  "en": "The roach is a freshwater fish found in rivers, lakes, ponds, and slow-moving waters across Europe. It is recognized by its silvery body, reddish fins, and red markings in the eye. Highly adaptable, it can tolerate brackish water and slow its growth when food is scarce.",
+  "ko": "로치는 유럽 전역의 강과 호수, 연못, 물이 느리게 흐르는 곳에 사는 민물고기다. 은빛 몸과 붉은빛 지느러미, 눈에 있는 붉은 무늬로 알아볼 수 있다. 적응력이 뛰어나 기수에서도 견디며, 먹이가 부족하면 성장 속도를 늦춘다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015252",
+  "en": "Roach usually grow up to about 35 cm long.",
+  "ko": "로치는 대개 35cm 정도까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015253",
+  "en": "Roach are often recognized by the red colouring in their eyes.",
+  "ko": "로치는 흔히 눈에 있는 붉은 색으로 알아본다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015254",
+  "en": "The scientific name Rutilus rutilus comes from a Latin word meaning reddish or golden-red, referring to the roach’s red fins.",
+  "ko": "학명 루틸루스 루틸루스(Rutilus rutilus)는 붉은빛이나 황금빛이 도는 붉은색을 뜻하는 라틴어에서 왔으며, 로치의 붉은 지느러미를 가리킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015255",
+  "en": "Roach can adapt to environments where invertebrates are scarce by slowing their growth.",
+  "ko": "로치는 무척추동물이 귀한 환경에서는 성장을 늦춰 적응할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015256",
+  "en": "Roach often gather in schools, helping them avoid predators and search for food.",
+  "ko": "로치는 흔히 무리를 지어 다니는데, 이는 포식자를 피하고 먹이를 찾는 데 도움이 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015257",
+  "en": "Roach are freshwater fish, but they can tolerate brackish waters.",
+  "ko": "로치는 민물고기지만 기수에서도 견딜 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015258",
+  "en": "They are highly adaptable and can live in ponds, lakes, rivers, and slow-moving waters.",
+  "ko": "적응력이 뛰어나 연못과 호수, 강, 물이 느리게 흐르는 곳 어디서든 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804418015259",
+  "en": "The roach’s reddish fins help distinguish it from many other small silver freshwater fish.",
+  "ko": "로치의 붉은빛 지느러미 덕분에 다른 작은 은빛 민물고기들과 구별된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209536",
+  "en": "The rudd is a freshwater fish closely related to the roach, often recognized by its golden body, bright red fins, and yellowish eyes. It prefers shallow, weedy areas in lakes, ponds, canals, and slow river backwaters, where its slightly upward-facing mouth helps it feed near the surface. Although native to parts of Europe and western Asia, rudd have been artificially introduced to many parts of the world.",
+  "ko": "러드는 로치와 가까운 친척인 민물고기로, 황금빛 몸과 선명한 붉은 지느러미, 노르스름한 눈으로 흔히 알아본다. 호수와 연못, 운하, 느리게 흐르는 강의 물이 고인 곳에서 수초가 많은 얕은 구역을 좋아하는데, 조금 위로 향한 입으로 수면 가까이에서 먹이를 먹는다. 유럽 일부와 서아시아가 원산이지만 세계 여러 곳에 인위적으로 들여와졌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209537",
+  "en": "Rudd look very similar to roach, but often have yellowish eyes instead of the roach’s more common red eye colour.",
+  "ko": "러드는 로치와 아주 비슷하게 생겼지만, 로치에게 흔한 붉은 눈 대신 노르스름한 눈을 가진 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209538",
+  "en": "Rudd have a slightly upward-facing mouth, which helps them feed near the surface of the water.",
+  "ko": "러드는 입이 조금 위로 향해 있어서 수면 가까이에서 먹이를 먹기에 좋다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209539",
+  "en": "Rudd can grow to around 45 cm long.",
+  "ko": "러드는 45cm 정도까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209540",
+  "en": "They prefer shallow, weedy areas in lakes, ponds, canals, and slow-moving river backwaters.",
+  "ko": "호수와 연못, 운하, 느리게 흐르는 강의 물이 고인 곳에서 수초가 우거진 얕은 구역을 좋아한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209541",
+  "en": "Rudd feed heavily on aquatic plants, insects, small animals, and drifting food near the surface.",
+  "ko": "러드는 수초와 곤충, 작은 동물, 수면 근처를 떠도는 먹이를 많이 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209542",
+  "en": "Rudd have been introduced outside their native range by humans, sometimes illegally, and can become invasive in new freshwater ecosystems.",
+  "ko": "러드는 인간에 의해, 때로는 불법으로 원래 서식지 밖에 퍼졌으며, 새로운 민물 생태계에서는 침입종이 되기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209543",
+  "en": "Rudd were illegally introduced to New Zealand, where they became harmful to local freshwater ecosystems.",
+  "ko": "러드는 뉴질랜드에 불법으로 들여와졌고, 그곳 민물 생태계에 해를 끼치게 되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209544",
+  "en": "Rudd can eat large amounts of aquatic vegetation, sometimes consuming up to 40% of their body weight in plants each day.",
+  "ko": "러드는 수초를 엄청나게 많이 먹는데, 하루에 자기 몸무게의 40%에 달하는 식물을 먹기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209545",
+  "en": "Around 80% of the plant material eaten by rudd is released back into the water as waste, adding nutrients that can affect water quality.",
+  "ko": "러드가 먹은 식물의 약 80%는 배설물로 다시 물속에 풀려나가며, 수질에 영향을 줄 수 있는 영양분을 더한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209546",
+  "en": "Rudd can live up to about 17 years.",
+  "ko": "러드는 약 17년까지 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209547",
+  "en": "Their bright red fins are one of their most recognizable features.",
+  "ko": "선명한 붉은 지느러미는 러드를 알아보게 하는 가장 큰 특징 가운데 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209548",
+  "en": "The name \"rudd\" comes from an old word for red, referring to the fish’s bright reddish fins.",
+  "ko": "러드(rudd)라는 이름은 ‘붉다’를 뜻하는 옛말에서 왔으며, 이 물고기의 선명한 붉은빛 지느러미를 가리킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209555",
+  "en": "The ruddy bowfin is a tough freshwater predator from an ancient fish lineage that dates back around 250 million years. It lives in swamps, backwaters, lowland rivers, lakes, and weedy shallows across much of the eastern United States and parts of southern Canada. With its long dorsal fin, air-breathing ability, tube-like nostrils, and ambush-hunting style, the bowfin feels like a prehistoric swamp survivor.",
+  "ko": "붉은보우핀은 약 2억 5천만 년 전까지 거슬러 올라가는 고대 계통에 속하는 강인한 민물 포식자다. 미국 동부 대부분과 캐나다 남부 일부의 늪과 물이 고인 곳, 저지대 강, 호수, 수초가 많은 얕은 물에 산다. 긴 등지느러미와 공기 호흡 능력, 관 모양 콧구멍, 매복 사냥 방식까지 갖추고 있어 선사시대 늪지대의 생존자처럼 느껴진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209556",
+  "en": "Bowfin belong to a family of ancient fish that dates back over 250 million years.",
+  "ko": "보우핀은 2억 5천만 년 이상을 거슬러 올라가는 고대 어류 과에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209557",
+  "en": "Bowfin are sometimes called \"living fossils\" because they have kept many traits from their ancient relatives.",
+  "ko": "보우핀은 고대 친척의 특징을 많이 간직하고 있어 ‘살아 있는 화석’이라고 불리기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209558",
+  "en": "Bowfin are closely related to gars, another ancient-looking group of freshwater fish.",
+  "ko": "보우핀은 고대풍으로 생긴 또 다른 민물고기 무리인 가아와 가까운 친척이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209559",
+  "en": "Ruddy bowfin are found across much of the eastern United States and parts of southern Ontario and Quebec.",
+  "ko": "붉은보우핀은 미국 동부 대부분과 온타리오와 퀘벡 남부 일부에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209560",
+  "en": "Bowfin prefer weedy, slow-moving waters such as swamps, lakes, backwaters, and lowland rivers.",
+  "ko": "보우핀은 늪과 호수, 물이 고인 곳, 저지대 강처럼 수초가 많고 물이 느리게 흐르는 곳을 좋아한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209561",
+  "en": "Bowfin are mostly freshwater fish, but they can sometimes be found in brackish water.",
+  "ko": "보우핀은 대부분 민물고기지만, 때로는 기수에서도 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209562",
+  "en": "Adult bowfin are often around 50 cm long, while large females can reach about 70 cm or more.",
+  "ko": "성체 보우핀은 대개 50cm 정도이고, 큰 암컷은 70cm 이상까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209563",
+  "en": "Bowfin have a gas bladder that helps with buoyancy and also allows them to breathe air.",
+  "ko": "보우핀은 부력을 돕는 동시에 공기 호흡을 가능하게 해 주는 부레를 가지고 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209564",
+  "en": "Bowfin can breathe both water and air, using their gills underwater and gulping air at the surface when oxygen is low.",
+  "ko": "보우핀은 물과 공기 모두로 호흡할 수 있는데, 물속에서는 아가미를 쓰고 산소가 부족할 때는 수면에서 공기를 들이마신다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209565",
+  "en": "Bowfin are stalking ambush predators that often move into shallow water at night to hunt fish, crayfish, mollusks, and aquatic insects.",
+  "ko": "보우핀은 몰래 뒤따르다 덮치는 매복형 포식자로, 밤이면 얕은 물로 들어와 물고기와 가재, 연체동물, 수서 곤충을 사냥한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209566",
+  "en": "Male bowfin often have a black eyespot ringed with yellow or orange near the base of the tail, while females usually do not.",
+  "ko": "수컷 보우핀은 꼬리 시작 부분 근처에 노랑이나 주황 테두리가 둘린 검은 눈알 무늬가 있는 경우가 많고, 암컷에게는 대개 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209567",
+  "en": "The tail eyespot on males may confuse predators by drawing attacks away from the bowfin’s head.",
+  "ko": "수컷의 꼬리 눈알 무늬는 포식자의 공격을 보우핀의 머리에서 다른 곳으로 유도해 혼란을 줄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209568",
+  "en": "Bowfin have two short, tube-like nostrils that help them detect prey in murky water.",
+  "ko": "보우핀은 짧고 관 모양인 콧구멍 두 개로 탁한 물속에서도 먹이를 찾아낸다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209569",
+  "en": "Bowfin are native to North America, but they are sometimes mistaken for invasive snakeheads because of their long bodies and extended dorsal fins.",
+  "ko": "보우핀은 북아메리카 원산이지만, 길쭉한 몸과 길게 이어진 등지느러미 때문에 침입종인 가물치류로 오인되기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209570",
+  "en": "Bowfin are also sometimes confused with burbot, another long-bodied freshwater predator.",
+  "ko": "보우핀은 또 다른 몸이 긴 민물 포식자인 민물대구와 헷갈리기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209573",
+  "en": "The coelacanth is a rare deep-water fish from an ancient lineage that dates back over 400 million years. Once known only from fossils, it shocked scientists when a living coelacanth was discovered in 1938. With its lobed fins, thick scales, and prehistoric appearance, the coelacanth became one of the most famous \"living fossils\" in the world.",
+  "ko": "실러캔스는 4억 년 이상을 거슬러 올라가는 고대 계통에 속하는 희귀한 심해어다. 한때 화석으로만 알려져 있었는데, 1938년 살아 있는 실러캔스가 발견되면서 과학자들을 놀라게 했다. 육질 지느러미와 두꺼운 비늘, 선사시대를 연상시키는 생김새 덕분에 실러캔스는 세계에서 가장 유명한 ‘살아 있는 화석’ 가운데 하나가 되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209574",
+  "en": "Coelacanths belong to a family of ancient fish that dates back over 400 million years.",
+  "ko": "실러캔스는 4억 년 이상을 거슬러 올라가는 고대 어류 과에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209575",
+  "en": "They are referred to as \"living fossils,\" as coelacanths look very similar to their fossilized ancestors.",
+  "ko": "실러캔스는 화석이 된 조상과 매우 비슷하게 생겨서 ‘살아 있는 화석’이라고 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209576",
+  "en": "Living coelacanths were discovered in 1938 after scientists thought the group had gone extinct millions of years earlier.",
+  "ko": "과학자들이 이 무리가 수백만 년 전에 멸종했다고 생각했던 1938년, 살아 있는 실러캔스가 발견되었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209577",
+  "en": "The coelacanth is one of the most famous examples of a Lazarus taxon. They are an animal thought to be extinct, then found alive again.",
+  "ko": "실러캔스는 라자루스 분류군의 가장 유명한 사례 가운데 하나다. 라자루스 분류군이란 멸종했다고 여겼던 동물이 다시 살아 있는 모습으로 발견되는 경우를 말한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209578",
+  "en": "The name \"coelacanth\" means \"hollow spine,\" referring to their hollow fin spines.",
+  "ko": "실러캔스라는 이름은 ‘속이 빈 가시’를 뜻하며, 속이 빈 지느러미 가시를 가리킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209579",
+  "en": "Only two living coelacanth species are known today, the West Indian Ocean coelacanth and the Indonesian coelacanth.",
+  "ko": "오늘날 알려진 살아 있는 실러캔스는 서인도양실러캔스와 인도네시아실러캔스 두 종뿐이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209580",
+  "en": "Living coelacanths are usually found in deep waters off parts of eastern Africa and Indonesia.",
+  "ko": "살아 있는 실러캔스는 대개 아프리카 동부와 인도네시아 연안의 깊은 바다에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804422209581",
+  "en": "Over 100 fossil coelacanth species have been described, showing that the group was once much more diverse.",
+  "ko": "화석으로 보고된 실러캔스 종은 100종이 넘으며, 이는 이 무리가 한때 훨씬 다양했음을 보여준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403840",
+  "en": "Coelacanths have thick fins that move in a slow alternating pattern, giving them an almost walking-like swimming style.",
+  "ko": "실러캔스는 두꺼운 지느러미를 느리게 번갈아 움직이며, 거의 걷는 듯한 방식으로 헤엄친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403841",
+  "en": "Coelacanths have a special sensor in the snout called a rostral organ, which helps detect faint electric signals from nearby prey.",
+  "ko": "실러캔스는 주둥이에 로스트랄 기관이라는 특별한 감각 기관이 있어서, 가까이 있는 먹이가 내는 미세한 전기 신호를 감지한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403842",
+  "en": "Living coelacanths can grow to around 1.5–2 m long.",
+  "ko": "살아 있는 실러캔스는 1.5–2m까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403843",
+  "en": "Coelacanths are deep-water fish that often shelter around underwater caves and steep rocky slopes.",
+  "ko": "실러캔스는 수중 동굴과 가파른 암벽 주변에 숨어 지내는 심해어다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403846",
+  "en": "The slender snipe eel is a strange deep-sea eel with an extremely thin body and long, birdlike jaws. Despite reaching over a metre in length, it can weigh less than half a kilogram, making it look almost like a living string. It hunts small shrimp-like crustaceans in the dark midwater zones of the ocean, using its curved jaws and tiny hooked teeth to snag prey as it swims.",
+  "ko": "가느다란도요장어는 몸이 극도로 가늘고 새처럼 긴 턱을 가진 기묘한 심해 장어다. 길이가 1m를 넘는데도 무게는 0.5kg이 안 될 수 있어서 거의 살아 있는 끈처럼 보인다. 어두운 중층 해역에서 작은 새우류 갑각류를 사냥하며, 휘어진 턱과 아주 작은 갈고리 이빨로 헤엄치면서 먹이를 낚아챈다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403847",
+  "en": "Slender snipe eels can grow over 1 m long, but their thin bodies usually weigh less than half a kilogram.",
+  "ko": "가느다란도요장어는 1m를 넘게 자랄 수 있지만, 가느다란 몸무게는 대개 0.5kg에 못 미친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403848",
+  "en": "Their long, narrow jaws curve apart near the tips, giving them a birdlike \"beak\" shape.",
+  "ko": "길고 좁은 턱은 끝부분에서 서로 벌어져 새의 부리 같은 모양을 이룬다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403849",
+  "en": "Tiny hooked teeth line the jaws, helping them catch shrimp-like crustaceans in deep water.",
+  "ko": "턱에는 아주 작은 갈고리 이빨이 줄지어 있어서 심해에서 새우류 갑각류를 잡는 데 도움이 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403850",
+  "en": "The only prey commonly found in snipe eel stomachs are small crustaceans, usually shrimp-like animals.",
+  "ko": "도요장어의 위에서 흔히 발견되는 먹이는 작은 갑각류뿐이며, 대개 새우류다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403851",
+  "en": "Snipe eels often hunt by swimming with their mouths open, catching small crustaceans on their backward-pointing teeth.",
+  "ko": "도요장어는 흔히 입을 벌린 채 헤엄치며 사냥하고, 뒤로 향한 이빨에 작은 갑각류를 걸어 잡는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403852",
+  "en": "Slender snipe eels are found in tropical and temperate oceans around the world.",
+  "ko": "가느다란도요장어는 전 세계 열대와 온대 바다에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403853",
+  "en": "They are most commonly found in deep midwater, often around 300–600 m below the surface.",
+  "ko": "주로 수심 300–600m 정도의 깊은 중층에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403854",
+  "en": "They live for around 10 years.",
+  "ko": "수명은 약 10년이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403855",
+  "en": "Like other eels, young snipe eels hatch as flat, transparent, leaf-shaped larvae called leptocephali.",
+  "ko": "다른 장어처럼 도요장어의 새끼는 렙토케팔루스라고 불리는 납작하고 투명한 나뭇잎 모양 유생으로 부화한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403856",
+  "en": "During their lifecycle, snipe eel larvae will shrink before transforming into young eels.",
+  "ko": "도요장어 유생은 성장 과정에서 몸이 줄어든 뒤 어린 장어로 변태한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403857",
+  "en": "The slender snipe eel’s anus is located near its throat because the back half of its body is extremely thin.",
+  "ko": "가느다란도요장어의 항문은 목 근처에 있는데, 몸의 뒤쪽 절반이 극도로 가늘기 때문이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403858",
+  "en": "Slender snipe eels are believed to spawn only once in their lifetime, dying after reproduction.",
+  "ko": "가느다란도요장어는 일생에 한 번만 산란하고 번식 후 죽는 것으로 여겨진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403859",
+  "en": "Like other eels, snipe eels spawn in the Sargasso Sea.",
+  "ko": "다른 장어처럼 도요장어도 사르가소해에서 산란한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403861",
+  "en": "A very expensive-looking fish with no real monetary value. Sure looks pretty though.",
+  "ko": "아주 값비싸 보이지만 실제 금전적 가치는 없는 물고기. 그래도 참 예쁘긴 하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403863",
+  "en": "Worth its weight in gold, it just doesn't weigh much.",
+  "ko": "몸무게만큼의 금값은 나가는데, 문제는 몸무게가 얼마 안 된다는 것이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403864",
+  "en": "Despite its appearance, it is not a legal currency.",
+  "ko": "생김새와 달리 법정 통화는 아니다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403866",
+  "en": "This fish is a whole lot of nothing, stripped down to the bones and still somehow swimming.",
+  "ko": "이 물고기는 온통 아무것도 없는 존재로, 뼈만 남았는데도 어찌저찌 헤엄치고 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403867",
+  "en": "The Skeleton Fish has no skin and no scales, but somehow it just keeps on swimming.",
+  "ko": "뼈물고기는 피부도 비늘도 없지만, 어찌 된 일인지 계속 헤엄친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403868",
+  "en": "It may look dead in the water, but it is making a surprisingly strong case otherwise.",
+  "ko": "물속에서 죽은 것처럼 보여도, 아니라는 걸 의외로 강력하게 증명하고 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "67041804426403869",
+  "en": "At least it's got good bones.",
+  "ko": "적어도 뼈대는 좋다."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639649284096",
+  "en": "Hello? Is this thing on? Looks like your systems are powering up.",
+  "ko": "여보세요? 이거 켜진 거 맞아? 네 시스템이 부팅되는 것 같네."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478400",
+  "en": "Looks like you made it to Loch Ness. Quite the tourist trap, isn't it? If the gift shop were still open, maybe you could've picked something up for me.",
+  "ko": "네스호까지 잘 도착한 모양이네. 관광객 잡는 곳이라니까? 기념품 가게가 아직 열려 있었다면 나 대신 뭐 좀 사다 줄 수도 있었을 텐데."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478401",
+  "en": "Anyway, down to business. You might be wondering what your job is out there. Simply put, you'll be gathering data on anything unusual you encounter.",
+  "ko": "아무튼 본론으로 들어가자. 거기서 네 임무가 뭔지 궁금할 텐데, 간단히 말해 특이한 걸 만날 때마다 데이터를 수집하는 거야."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478402",
+  "en": "If you want to find anything worthwhile, you'll need to explore the depths. The gear you need for that costs money. So what's the best way to explore and earn money?",
+  "ko": "값어치 있는 걸 찾으려면 깊은 곳까지 탐사해야 해. 그런 장비는 돈이 들지. 그럼 돈도 벌면서 탐사하는 가장 좋은 방법이 뭘까?"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478404",
+  "en": "Luckily, the locals seem more than happy to pay for a decent catch. Between them, the fish, and anything else down there, I should have plenty of specimens to study.",
+  "ko": "다행히 이곳 주민들은 괜찮은 물고기라면 기꺼이 돈을 내는 것 같아. 그 녀석들과 물고기, 그리고 아래에 있는 온갖 것들까지 합치면 연구할 표본이 차고 넘칠 거야."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478405",
+  "en": "I've already set you up with some basic fishing gear. Head over to that rod and let's see what you can catch.",
+  "ko": "기본 낚시 장비는 이미 세팅해 뒀어. 저 낚싯대 쪽으로 가서 뭘 잡을 수 있는지 보자."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478406",
+  "en": "Not quite. Try directing your hook toward the fish.",
+  "ko": "아직 아니야. 낚싯바늘을 물고기 쪽으로 향하게 해 봐."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478407",
+  "en": "Almost. Let's try another cast. ",
+  "ko": "거의 다 됐어. 한 번 더 던져 보자. "
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478408",
+  "en": "Remember, you won't catch a fish every time.",
+  "ko": "매번 물고기를 잡을 수 있는 건 아니라는 것도 기억해."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478409",
+  "en": "The fish seem unimpressed. Try getting your hook closer.",
+  "ko": "물고기들이 별로 감흥이 없는 것 같네. 낚싯바늘을 더 가까이 가져가 봐."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478410",
+  "en": "Fishing takes a bit of patience, especially when you're getting started.",
+  "ko": "낚시에는 어느 정도 인내가 필요하지, 특히 처음 시작할 때는 더 그래."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478411",
+  "en": "Nice catch! You're a natural. Maybe your true purpose was to be a fishing bot all along.",
+  "ko": "잘 잡았어! 타고난 재능인데? 어쩌면 네 진짜 용도가 처음부터 낚시 로봇이었는지도 몰라."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478412",
+  "en": "Remember, larger fish usually have more fight in them. You'll need to hit them a few times to make the catch. ",
+  "ko": "기억해 둬, 큰 물고기일수록 더 세게 발버둥친다. 잡으려면 몇 번 때려야 할 거야. "
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478413",
+  "en": "Perfect, those fish are nicely prepared. The better you prepare them, the more they'll fill up a customer.",
+  "ko": "완벽해, 물고기 손질이 잘됐네. 손질을 잘할수록 손님 배를 더 든든하게 채워 줄 거야."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478414",
+  "en": "Time to check who's hungry! Head over to the feeding station.",
+  "ko": "이제 누가 배고픈지 확인할 시간이야! 급식소로 가 봐."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478415",
+  "en": "You get the idea. Catch fish, get paid, buy better gear, catch bigger fish, feed more customers, find cooler stuff. Simple enough, right?",
+  "ko": "감이 왔지? 물고기를 잡아 돈을 벌고, 더 좋은 장비를 사고, 더 큰 물고기를 잡고, 더 많은 손님에게 먹이고, 더 멋진 걸 찾는 거야. 간단하지?"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478416",
+  "en": "Each new customer you feed counts toward your progress. Don't leave any out there.",
+  "ko": "새로 먹이를 준 손님은 한 명 한 명이 진행도에 쌓여. 아무도 빠뜨리지 마."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478417",
+  "en": "Wait… was that the Loch Ness Monster? That's unexpected, though she seems surprisingly friendly. I wonder how long she's been living down there.",
+  "ko": "잠깐… 방금 그거 네스호 괴물이었나? 예상 밖이긴 한데, 의외로 친절해 보이네. 저 아래에서 얼마나 오래 살아온 건지 궁금하네."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478418",
+  "en": "On another note, you've gathered quite a bit of useful data while exploring the loch. Nicely done.",
+  "ko": "그건 그렇고, 호수를 탐사하면서 쓸모 있는 데이터를 꽤 많이 모았어. 잘했어."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478419",
+  "en": "I'm sure there's still more to discover here, but I've added the coordinates for the next location to your GPS. Feel free to keep fishing here for a while, or head to the next site when you're ready.",
+  "ko": "여기 아직 더 발견할 게 있겠지만, 다음 장소의 좌표를 네 GPS에 넣어 뒀어. 여기서 좀 더 낚시해도 좋고, 준비되면 다음 지점으로 가도 좋아."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478420",
+  "en": "Looks like you've fished out all the information Loch Ness has to offer. Very impressive!",
+  "ko": "네스호가 줄 수 있는 정보를 전부 낚아낸 모양이네. 정말 대단해!"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478421",
+  "en": "I've added my thoughts on some of the more interesting findings to your almanac. Take a look when you get a chance.",
+  "ko": "몇 가지 흥미로운 발견에 대한 내 생각을 도감에 추가해 뒀어. 시간 날 때 한번 봐."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478422",
+  "en": "The coordinates for your next location are already loaded into your GPS. You can keep fishing here for a while, or head out whenever you're ready.",
+  "ko": "다음 장소의 좌표는 이미 네 GPS에 입력돼 있어. 여기서 좀 더 낚시하거나, 준비되면 언제든 출발해도 돼."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478423",
+  "en": "Swampland as far as the eye can see! Hard to believe the open ocean is just past those marshes.",
+  "ko": "눈 닿는 데까지 늪지대야! 저 습지 너머가 바로 드넓은 바다라니 믿기지가 않네."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478424",
+  "en": "Welcome to the Outer Banks! These waters are pretty unique. The shallow brackish water between the islands and the mainland is the perfect habitat for all kinds of fish.",
+  "ko": "아우터뱅크스에 온 걸 환영해! 이 바다는 꽤 특별해. 섬과 본토 사이의 얕은 기수는 온갖 물고기에게 완벽한 서식지거든."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478425",
+  "en": "These waters have quite a history! Privateers, pirates, and shipwrecks have all passed through here. I've heard hidden treasure might still be somewhere below.",
+  "ko": "이 바다에는 꽤나 많은 역사가 담겨 있어! 사략선과 해적, 난파선이 모두 이곳을 거쳐 갔지. 숨겨진 보물이 아직 아래 어딘가에 있을지도 모른다는 얘기도 들었어."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478426",
+  "en": "The brackish water makes the fish here unique. Some of your old gear won't cut it.",
+  "ko": "기수 환경 덕분에 이곳 물고기들은 독특해. 예전 장비 중엔 안 통하는 것도 있을 거야."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478427",
+  "en": "Wow… that thing was enormous! A giant red serpent with antlers and wings. I can't believe something like that is actually real, and apparently loaded with cash. My goodness, this job might actually be worth it.",
+  "ko": "와… 그건 정말 거대했어! 뿔과 날개가 달린 거대한 붉은 뱀이라니. 그런 게 실제로 존재한다니 믿기지 않고, 게다가 돈도 잔뜩 물고 있었잖아. 세상에, 이 일이 진짜 해 볼 만한가 봐."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478428",
+  "en": "Looks like you've met quite a few interesting customers out here and gathered some great data for me. Nicely done.",
+  "ko": "여기서 꽤 흥미로운 손님들을 여럿 만났고, 나를 위해 좋은 데이터도 많이 모은 모양이네. 잘했어."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478429",
+  "en": "You can keep sniffing around for treasure… well, not sniff, because you're… you know what I mean. Otherwise, I've added another location to your GPS if you'd like to check it out.",
+  "ko": "계속 보물을 찾아 뒤져 봐도 좋아… 아, 냄새 맡는 건 아니지, 너는… 무슨 말인지 알 거야. 아니면 확인해 보고 싶다면 다른 장소도 네 GPS에 추가해 뒀어."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478430",
+  "en": "That's a lot more data than I could have hoped to find here!",
+  "ko": "여기서 기대했던 것보다 훨씬 많은 데이터야!"
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478431",
+  "en": "I've added my notes on the survey findings to your almanac. Make sure you take a look at some point.",
+  "ko": "조사 결과에 대한 내 메모를 도감에 추가했어. 언젠가 꼭 한번 확인해 봐."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478432",
+  "en": "I've got a great location planned next. The coordinates are already loaded into your GPS. I have a feeling you'll want to head out right away.",
+  "ko": "다음 장소로 아주 좋은 곳을 준비해 뒀어. 좌표는 이미 네 GPS에 입력돼 있고, 넌 당장이라도 떠나고 싶어질 것 같네."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478433",
+  "en": "You've reached the middle of nowhere… that's Point Nemo for you. Nothing but ocean as far as the eye can see. Everything else feels small in comparison. But don't worry, hungry creatures will still drift your way.",
+  "ko": "이제 아무것도 없는 한가운데에 도착했어… 여기가 바로 포인트 네모야. 눈 닿는 데까지 바다뿐이지. 그에 비하면 다른 모든 게 작아 보여. 그래도 걱정 마, 배고픈 생물들은 여전히 네 쪽으로 흘러올 테니까."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478434",
+  "en": "I always thought this place was nearly devoid of life, but I came across a few papers from about sixty years ago suggesting something had changed. Turns out, the research was never published.",
+  "ko": "난 항상 이곳에 생명이 거의 없다고 생각했는데, 60년쯤 전 논문 몇 편을 보게 됐어. 뭔가 달라졌다는 내용이었지. 알고 보니 그 연구는 끝내 발표되지 않았더라고."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478435",
+  "en": "The fish are built different in the open ocean. You'll need to replace some of your gear if you want to catch and prepare them.",
+  "ko": "먼바다의 물고기들은 다르게 생겼어. 잡아서 손질하려면 장비 몇 개는 바꿔야 할 거야."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478436",
+  "en": "A behemoth of that size really puts things into perspective, huh? Well, your boat's still in one piece, and you've learned quite a bit, so we'll call that a win.",
+  "ko": "그 정도 크기의 거대한 녀석을 보면 세상이 새로 보이지? 뭐, 네 배도 멀쩡하고 너도 꽤 많이 배웠으니 그걸로 성공이라고 하자."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478437",
+  "en": "You've gathered an incredible amount of data out here. Strange fish, unusual customers, and creatures that really shouldn't exist in a place like this.",
+  "ko": "여기서 놀랄 만큼 많은 데이터를 모았어. 이상한 물고기, 별난 손님들, 그리고 이런 곳에 존재해서는 안 될 것 같은 생물들까지."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478438",
+  "en": "Seems my intuition was right. Something changed in these waters a long time ago, and whatever it was led to this explosion of life. ",
+  "ko": "내 직감이 맞았던 모양이야. 오래전 이 바다에서 뭔가가 변했고, 그것이 무엇이든 이 폭발적인 생명의 번영을 불러왔어. "
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478439",
+  "en": "I don't think I'm satisfied yet. There must be more here to learn about.",
+  "ko": "난 아직 만족하지 못했어. 여기엔 더 배울 게 분명히 있을 거야."
+ },
+ {
+  "table": "Handler Dialog - String",
+  "id": "6639653478440",
+  "en": "You can keep fishing if you want, or head to the next location. I've added the coordinates to your GPS.",
+  "ko": "원한다면 계속 낚시해도 되고, 다음 장소로 가도 좋아. 좌표는 네 GPS에 추가해 뒀어."
+ }
+]

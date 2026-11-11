@@ -1,0 +1,392 @@
+[
+ {
+  "table": "Baits - String",
+  "id": "3499453695647765",
+  "en": "Fish caught with this bait have parasites with reduced health.",
+  "ko": "이 미끼로 잡은 물고기는 기생충의 체력이 낮아집니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647769",
+  "en": "Indicates the current customer likes and dislikes on the fishes status bar",
+  "ko": "현재 손님의 선호 어종과 비선호 어종을 물고기 상태 표시줄에 표시합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647773",
+  "en": "Increases your fish bag capacity by 2.",
+  "ko": "물고기 주머니 용량이 2 늘어납니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3499453695647775",
+  "en": "Fire a jet of water that damages fish.",
+  "ko": "물고기에게 피해를 주는 물줄기를 발사합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507089761624064",
+  "en": "Turns the world black and white.",
+  "ko": "세상을 흑백으로 바꿉니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507089765818369",
+  "en": "Reduces hook damage to 0, but boosts other effects. Ideal for exploration.",
+  "ko": "낚싯바늘 공격력을 0으로 낮추는 대신 다른 효과를 강화합니다. 탐험에 적합합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "3507089765818371",
+  "en": "Allows higher-level hooks to break barrels on impact, dropping loot.",
+  "ko": "상위 등급 낚싯바늘이 충돌 시 통을 부수고 전리품을 떨어뜨리게 합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "14094939276173312",
+  "en": "Fish caught with this bait have barnacles with reduced durability.",
+  "ko": "이 미끼로 잡은 물고기는 따개비의 내구도가 낮아집니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "14094939280367617",
+  "en": "When scaling a fish caught with this bait, they will be less likely to take damage.",
+  "ko": "이 미끼로 잡은 물고기는 비늘을 벗길 때 피해를 입을 확률이 줄어듭니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "19366392080449537",
+  "en": "When close to a torn cloth, an arrow will appear and guide you to it.",
+  "ko": "찢어진 천 근처에 가면 화살표가 나타나 길을 안내합니다."
+ },
+ {
+  "table": "Baits - String",
+  "id": "20005434967015424",
+  "en": "Increases the damage of the hook.",
+  "ko": "낚싯바늘의 공격력을 높입니다."
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635653",
+  "en": "Are you sure you want to quit to title?",
+  "ko": "정말 타이틀로 나가시겠습니까?"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635657",
+  "en": "Are you sure you want to quit the game?",
+  "ko": "정말 게임을 종료하시겠습니까?"
+ },
+ {
+  "table": "Boat HUD - String",
+  "id": "11946177556635661",
+  "en": "Are you sure you want discard all fish? ",
+  "ko": "정말 모든 물고기를 버리시겠습니까? "
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473435",
+  "en": "Edward Harwood, Crewman aboard the Desire – June 23rd, 1585",
+  "ko": "에드워드 하우드, 디자이어호 선원 – 1585년 6월 23일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473436",
+  "en": "It has been little over a month since we arrived in this new land. It took a fleet of seven ships and hundreds of men, but we believed we had tamed this frontier. A fort was raised, and we rejoiced in our good fortune.\n\nWe set out to explore the land, but as the weeks passed, many men did not return. William Hartley, John Reeves, and I were sent into the marsh to search for any trace of the missing.\n\nAs we rowed through the shallow swamp, we came upon a small boat, split along the hull, with no sign of its crew. Our unease turned to terror as a great fin cut slowly through the water, circling us without sound.\n\nWe watched as the beast seemed to vanish before our eyes. Then suddenly, it struck. Its jaws burst from the water, and in an instant, John was taken beneath.\n\nWe were fortunate to reach the fort with our lives while the creature was distracted. By nightfall, Captain Cavendish gave the order to abandon this place. Whatever haunts these marshes is no enemy we can fight.",
+  "ko": "이 새로운 땅에 도착한 지 겨우 한 달이 조금 넘었다. 일곱 척의 배와 수백 명의 사람이 동원되었지만, 우리는 이 변경을 길들였다고 믿었다. 요새가 세워졌고, 우리는 우리의 행운을 기뻐했다.\n\n우리는 이 땅을 살피러 나섰으나, 몇 주가 지나는 동안 많은 이가 돌아오지 않았다. 윌리엄 하틀리, 존 리브스, 그리고 나는 실종자들의 흔적을 찾기 위해 늪으로 보내졌다.\n\n얕은 늪을 노를 저어 지나던 중, 우리는 선체가 갈라진 작은 배 한 척을 발견했으나 그 선원들의 흔적은 어디에도 없었다. 거대한 지느러미가 소리도 없이 물을 가르며 우리를 맴돌자, 불안은 공포로 변했다.\n\n우리는 그 짐승이 눈앞에서 사라지는 듯한 모습을 지켜보았다. 그러다 갑자기 덤벼들었다. 아가리가 물 위로 튀어나오더니, 순식간에 존이 물밑으로 끌려갔다.\n\n그 짐승이 딴 데 정신이 팔린 사이 우리는 목숨을 건지고 요새에 닿을 수 있었다. 해 질 무렵, 캐번디시 선장은 이곳을 버리라는 명을 내렸다. 이 늪지에 도사리는 것이 무엇이든, 우리가 맞서 싸울 수 있는 적이 아니다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473438",
+  "en": "A mission briefing for a scientific expedition sent to investigate unusual ecological activity near Point Nemo, the most remote location in the world's oceans. The region is commonly used as a spacecraft graveyard. Following the recent disposal of several large orbital structures in the area, researchers reported a sudden and unexplained increase in marine life surrounding the debris field.",
+  "ko": "세계의 바다에서 가장 외딴 곳인 포인트 네모 근처에서 벌어진 이례적인 생태 활동을 조사하기 위해 파견된 과학 탐사대의 임무 브리핑. 이 지역은 흔히 우주선의 무덤으로 쓰인다. 최근 이 일대에 여러 대형 궤도 구조물이 처분된 뒤, 연구진은 잔해 지대 주변의 해양 생물이 갑작스럽고 설명할 수 없을 만큼 늘었다고 보고했다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473439",
+  "en": "Point Nemo has been used as a spacecraft graveyard since 1971, with nearly 300 retired satellites.",
+  "ko": "포인트 네모는 1971년부터 우주선의 무덤으로 쓰여 왔으며, 약 300기의 퇴역 위성이 가라앉아 있다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473440",
+  "en": "Point Nemo Research Expedition Briefing",
+  "ko": "포인트 네모 연구 탐사 브리핑"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473441",
+  "en": "Prepared by Operations Coordinator L. Tanaka, Neptune Research Group – March 3rd, 2033",
+  "ko": "넵튠 리서치 그룹 운영 조정관 L. 다나카 작성 – 2033년 3월 3일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473442",
+  "en": "In 2029, the International Space Station sustained severe damage after an unexpected trajectory shift brought an asteroid, designated 99942 Apophis, into contact with the station. The structure was subsequently deorbited and transferred for disposal.\n\nIn 2030, the remaining ISS modules were deposited within the designated Point Nemo debris zone.\n\nIn 2032, following the placement of a retired satellite, disposal crews reported an unexpected and vast increase in marine activity around the site.\n\nNeptune Research Group has been contracted to document the reported ecological shift, collect samples, and determine the cause of the abrupt increase in biological activity.",
+  "ko": "2029년, 예상치 못한 궤도 이탈로 99942 아포피스로 명명된 소행성이 정거장과 충돌하면서 국제우주정거장이 심각한 손상을 입었다. 그 구조물은 이후 궤도에서 이탈시켜 처분용으로 넘겨졌다.\n\n2030년, 남은 ISS 모듈들은 지정된 포인트 네모 잔해 구역에 안치되었다.\n\n2032년, 퇴역 위성 한 기가 배치된 뒤, 처분 작업반은 현장 주변의 해양 활동이 예상 밖으로 막대하게 늘었다고 보고했다.\n\n넵튠 리서치 그룹은 보고된 생태 변화를 기록하고 시료를 수집하며, 생물 활동의 급격한 증가 원인을 밝혀내는 계약을 맺었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473444",
+  "en": "Field notes recorded by Dr. Samantha Kepler shortly after the research vessel arrived at Point Nemo. Initial observations quickly revealed that the region, normally one of the most biologically barren places on Earth, showed signs of unexpected marine activity.",
+  "ko": "연구선이 포인트 네모에 도착한 직후 사만다 케플러 박사가 기록한 현장 노트. 첫 관찰에서, 평소에는 지구에서 생물이 가장 희박한 곳 중 하나인 이 지역이 예상치 못한 해양 활동의 조짐을 보인다는 사실이 곧바로 드러났다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473445",
+  "en": "The South Pacific Gyre currents push nutrient-rich waters away, making Point Nemo one of the least biologically active places on Earth.",
+  "ko": "남태평양 환류의 해류가 영양이 풍부한 물을 밀어내기 때문에, 포인트 네모는 지구에서 생물 활동이 가장 적은 곳 중 하나가 되었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473447",
+  "en": "Dr. Samantha Kepler, Lead Marine Biologist, Neptune Research Group – March 10th, 2033",
+  "ko": "넵튠 리서치 그룹 수석 해양 생물학자 사만다 케플러 박사 – 2033년 3월 10일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473448",
+  "en": "We arrived at Point Nemo this morning, having reviewed the briefing during our transit. This region has always been a biological dead zone. It's too isolated, too nutrient-poor to support more than sparse plankton.\n\nBut now, things look different. Even from the deck, we've already spotted far more fish than should exist here. Nothing dramatic yet, just more movement, more colour, more life than this location should realistically support.\n\nDr. Sato is preparing the drone for a deeper scan tomorrow. Hopefully, it sheds some light on what has changed here.",
+  "ko": "우리는 이동 중 브리핑을 검토한 뒤 오늘 아침 포인트 네모에 도착했다. 이 지역은 언제나 생물이 없는 죽은 구역이었다. 너무 고립되어 있고 영양도 부족해, 드문드문한 플랑크톤밖에 지탱하지 못한다.\n\n그런데 이제는 상황이 달라 보인다. 갑판에서만 봐도, 이곳에 있어서는 안 될 만큼 많은 물고기를 이미 목격했다. 아직 극적인 것은 없다. 다만 이 장소가 현실적으로 감당할 수 있어야 할 것보다 더 많은 움직임, 더 많은 색, 더 많은 생명이 있을 뿐이다.\n\n사토 박사는 내일 더 깊은 정밀 스캔을 위해 드론을 준비하고 있다. 이것이 이곳에서 무엇이 달라졌는지 실마리를 밝혀 주기를 바란다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473450",
+  "en": "A survey log recorded by oceanographer Dr. Victor Sato during the team's first drone deployment. As the expedition began mapping the debris field and surrounding seafloor, several unusual geological formations and unexplained sonar readings were detected.",
+  "ko": "탐사대가 처음 드론을 투입했을 때 해양학자 빅터 사토 박사가 기록한 조사 일지. 탐사대가 잔해 지대와 주변 해저를 측량하기 시작하자, 몇 가지 이례적인 지질 구조와 설명할 수 없는 소나 반응이 탐지되었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473451",
+  "en": "Deep-sea research drones often rely on magnetic compasses, which can fail entirely near metallic wreckage.",
+  "ko": "심해 연구용 드론은 흔히 자기 나침반에 의존하는데, 금속 잔해 근처에서는 이런 나침반이 완전히 작동을 멈추기도 한다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473453",
+  "en": "Dr. Victor Sato, Oceanographer, Neptune Research Group – March 11th, 2033",
+  "ko": "넵튠 리서치 그룹 해양학자 빅터 사토 박사 – 2033년 3월 11일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473454",
+  "en": "We deployed our unmanned drone for the initial survey. As expected, some of the old ISS and satellite debris has caused noticeable magnetic interference. What's unusual is that this interference becomes worse as we move away from the machinery and further into the surrounding environment.\n\nWe've also encountered several clusters of unusual rock formations. They are dense, dark stone threaded with blue crystalline veins. These formations aren't consistent with the geological patterns expected for this region.\n\nAdditionally, the drone detected faint sonar pulses originating from areas with no identifiable debris. The signals were short, inconsistent, and very low amplitude.\n\nDuring our search, we attempted to survey the International Space Station directly, but all hatches were sealed.",
+  "ko": "우리는 첫 조사를 위해 무인 드론을 투입했다. 예상대로 낡은 ISS와 위성 잔해 일부가 뚜렷한 자기 간섭을 일으켰다. 이상한 점은, 기계에서 멀어져 주변 환경으로 더 들어갈수록 이 간섭이 심해진다는 것이다.\n\n우리는 또 이례적인 암석 지형 몇 무리를 마주쳤다. 푸른 결정맥이 엮여 있는, 짙고 어두운 돌이다. 이 지형들은 이 지역에서 예상되는 지질 패턴과 맞지 않는다.\n\n게다가 드론은 확인할 수 있는 잔해가 없는 구역에서 희미한 소나 파동을 탐지했다. 신호는 짧고 불규칙했으며 진폭이 아주 낮았다.\n\n수색 중에 우리는 국제우주정거장을 직접 조사하려 했으나, 모든 해치는 밀봉되어 있었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473433",
+  "en": "In the late 1500s, Thomas Cavendish helped establish England's first colony on Roanoke Island in the Outer Banks.",
+  "ko": "1500년대 후반, 토머스 캐번디시는 아우터뱅크스의 로어노크 섬에 잉글랜드 최초의 식민지를 세우는 일을 도왔다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473432",
+  "en": "A recovered account from a crewman serving under English privateer Thomas Cavendish during an early expedition to the Outer Banks in 1585. The crew was part of a larger expedition fleet tasked with establishing a colony in the present-day Outer Banks. The entry recounts the construction of a fort, the sudden disappearance of several men, and a search into the surrounding marshlands.",
+  "ko": "1585년 아우터뱅크스로 향한 초기 원정 당시, 잉글랜드 사략선 선장 토머스 캐번디시 휘하에서 복무한 한 선원의 기록이 발견되었다. 이 선원 일행은 오늘날의 아우터뱅크스에 식민지를 세우라는 임무를 띤 대규모 원정 함대의 일부였다. 이 기록은 요새의 건설, 여러 남자의 갑작스러운 실종, 그리고 주변 습지로의 수색을 담고 있다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473412",
+  "en": "Our hopes of refuge have turned to ash. Havana now trembles under the shadow of British sails. The captain would not wait to be cornered like rats behind crumbling walls.\n\nSome among the crew say we should have stayed and fought alongside the garrison, but none of us came this far to die for a king who pays us no mind. We fled once from Cartagena, and now we flee again from Havana. Let others judge us as they please, but the dead have no honour to defend.\n\nWe had scarcely cleared the harbour before a British ship caught sight of us and gave chase. For nine days, they have hunted us north, and the men have grown restless. The boatswain urged the captain to turn and fight, but his pleas were met with contempt. I could do little but watch as he was thrown overboard.",
+  "ko": "피난처에 대한 우리의 희망은 재가 되어 버렸다. 아바나는 이제 영국 돛의 그림자 아래 떨고 있다. 선장은 무너져 가는 성벽 뒤에서 쥐처럼 몰리기를 기다리지 않으려 했다.\n\n선원들 중에는 수비대와 함께 남아 싸웠어야 한다고 말하는 이들도 있지만, 우리 중 누구도 우리를 안중에 두지 않는 왕을 위해 죽으려고 여기까지 온 것이 아니다. 우리는 한 번 카르타헤나에서 달아났고, 이제 아바나에서 다시 달아난다. 남들이 뭐라 하든 좋다. 그러나 죽은 자에게는 지킬 명예가 없다.\n\n우리가 겨우 항구를 벗어났을 때 영국 배 한 척이 우리를 발견하고 추격해 왔다. 아흐레 동안 그들은 우리를 북쪽으로 사냥했고, 선원들은 점점 조급해졌다. 갑판장은 선장에게 돌아서 싸우자고 재촉했지만, 그의 간청은 멸시로 되돌아왔다. 그가 바다로 던져지는 것을 나는 지켜볼 수밖에 없었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473411",
+  "en": "Log of First Mate Carlos del Mar, aboard the La Fortuna – August 14th, 1741",
+  "ko": "라 포르투나호의 일등 항해사 카를로스 델 마르의 일지 – 1741년 8월 14일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473409",
+  "en": "By the 18th century, Havana had become one of the most heavily fortified cities in the Americas",
+  "ko": "18세기 무렵, 아바나는 아메리카에서 가장 견고하게 요새화된 도시 중 하나가 되었다"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840259473408",
+  "en": "A recovered ship log from First Mate Carlos del Mar recounts the crew's desperate attempt to flee further conflict. After seeking refuge in Havana, believing the fortress city would offer safety, the crew soon realized the war had followed them north.\n\nIn August 1741, British forces under Admiral Edward Vernon launched an expedition against Cuba. Though Havana was one of the most heavily fortified cities in the Americas, the threat of British fleets in the region caused many to flee.",
+  "ko": "일등 항해사 카를로스 델 마르의 선박 일지가 발견되어, 선원들이 또 다른 전쟁을 피해 필사적으로 달아나던 사연을 전한다. 요새 도시라면 안전을 보장해 주리라 믿고 아바나로 피신했던 선원들은, 전쟁이 그들을 따라 북쪽으로 왔다는 사실을 곧 깨달았다.\n\n1741년 8월, 에드워드 버논 제독이 이끄는 영국군이 쿠바를 향한 원정에 나섰다. 아바나가 아메리카에서 가장 견고하게 요새화된 도시 중 하나였지만, 이 지역에 출몰한 영국 함대의 위협 때문에 많은 이가 도시를 떠났다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279133",
+  "en": "The British have laid siege to Cartagena for weeks now. Curse the fool who started this mess with his reckless hand! We will not die in service to a king who has long forgotten us.\n\nSome among us whisper that we are cowards for fleeing, though few dare say it aloud. Better a rich coward alive than a loyal man at the bottom of the sea. We now have enough wealth to make a life for ourselves.\n\nThe crew seized a sizable treasure from a British ship in yesterday's fighting. As for myself, I have a family relic that must be worth something, a small dark stone threaded with bright blue crystal veins. I've been told one of my forefathers took it from a village in New Spain many years ago.\n\nWe will sail for Havana under the cover of darkness.",
+  "ko": "영국군이 몇 주째 카르타헤나를 포위하고 있다. 이 난리를 자기 무모한 손으로 시작한 얼간이에게 저주를! 우리는 오래전에 우리를 잊은 왕을 위해 죽지 않는다.\n\n우리 중 몇몇은 달아난 우리가 겁쟁이라 속삭이지만, 감히 소리 내어 말하는 이는 거의 없다. 바다 밑에 가라앉은 충신보다 살아 있는 부유한 겁쟁이가 낫다. 우리에게는 이제 스스로 삶을 꾸려 나갈 만한 재산이 있다.\n\n선원들은 어제 싸움에서 영국 배 한 척에서 상당한 보물을 빼앗았다. 나로서는 무언가 값이 나갈 만한 가문의 유물이 하나 있는데, 밝은 푸른 결정맥이 엮인 작고 어두운 돌이다. 오래전에 내 선조 중 하나가 누에바 에스파냐의 어느 마을에서 가져온 것이라고 들었다.\n\n우리는 어둠을 틈타 아바나로 항해할 것이다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279132",
+  "en": "Log of First Mate Carlos del Mar, aboard the La Fortuna – April 7th, 1741",
+  "ko": "라 포르투나호의 일등 항해사 카를로스 델 마르의 일지 – 1741년 4월 7일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279131",
+  "en": "The Battle of Cartagena de Indias",
+  "ko": "카르타헤나 데 인디아스 해전"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279130",
+  "en": "The Battle of Cartagena de Indias marked a pivotal moment in the War of Jenkins' Ear, where British and Spanish ships clashed over Caribbean trade.",
+  "ko": "카르타헤나 데 인디아스 해전은 젱킨스의 귀 전쟁에서 결정적인 순간이었으며, 영국과 스페인 함대가 카리브해 무역권을 두고 충돌한 곳이다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279129",
+  "en": "A recovered ship log written by Carlos del Mar recounts a desperate escape from the war-torn Caribbean during the War of Jenkins' Ear. The conflict between Britain and Spain was fought from 1739 to 1748.\n\nSpain and Britain had already been in conflict for decades. In 1731, British Captain Robert Jenkins had his ear cut off when Spanish officials boarded and searched his ship. Eight years later, the incident became a rallying cry for war when Jenkins appeared before the British House of Commons and displayed the preserved remains of his ear.",
+  "ko": "카를로스 델 마르가 쓴 선박 일지가 발견되어, 젱킨스의 귀 전쟁으로 폐허가 된 카리브해에서의 필사적인 탈출을 전한다. 영국과 스페인의 이 분쟁은 1739년부터 1748년까지 이어졌다.\n\n스페인과 영국은 이미 수십 년째 갈등을 빚고 있었다. 1731년, 스페인 관리들이 영국 선장 로버트 젱킨스의 배에 올라 수색했을 때 그의 귀를 잘라 버렸다. 8년 뒤, 젱킨스가 영국 하원에 나아가 자신의 귀를 보존해 둔 것을 내보이자, 이 사건은 전쟁을 부르는 구호가 되었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279127",
+  "en": "It has been nearly a week since locals reported a large object falling from the sky and crashing into the middle of the loch. Our team has been searching the water for two days now, but we have nothing to show for our efforts.\n\nDespite our lack of progress, we have picked up an unusual sonar pulse. It is faint and short-lived, but we have detected it on multiple occasions. It may be our equipment failing, but we're not certain.\n\nNevertheless, we have spent enough time looking, and it's time to call off the search. If anything's down there, it's likely to stay that way.\n\n— Dr. Jane Harrow ",
+  "ko": "주민들이 커다란 물체가 하늘에서 떨어져 호수 한가운데로 추락했다고 알린 지 거의 일주일이 지났다. 우리 팀은 이틀째 수중을 수색하고 있지만, 그 노력으로 내놓을 만한 성과가 없다.\n\n진척이 없는 와중에도, 우리는 이례적인 소나 파동을 포착했다. 희미하고 짧게 끝나지만 여러 차례 탐지되었다. 장비 고장일 수도 있으나, 확실하지는 않다.\n\n그렇다 해도, 우리는 충분히 오래 살펴보았다. 이제 수색을 중단할 때다. 그 아래에 무엇이 있든, 아마 그대로 남아 있을 것이다.\n\n— 제인 해로 박사 "
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279126",
+  "en": "Dr. Jane Harrow, Aboard the Rival IV – January 11th, 1958",
+  "ko": "라이벌 IV호에서, 제인 해로 박사 – 1958년 1월 11일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279124",
+  "en": "Loch Ness reaches depths of around 230 metres, making it the second-deepest loch in Scotland.",
+  "ko": "네스호는 깊이가 약 230미터에 이르며, 스코틀랜드에서 두 번째로 깊은 호수이다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279123",
+  "en": "A research expedition investigates reports of a mysterious object that fell into the dark waters of Loch Ness in the 1950s.",
+  "ko": "한 연구 탐사대가 1950년대에 네스호의 어두운 물속으로 떨어졌다는 정체불명의 물체에 관한 보고를 조사한다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279115",
+  "en": "I write not for pardon, but that our fate be known, for I shall not leave this dungeon alive.\n\nThe Scots fought fiercely to reclaim Urquhart Castle. Abandoned by our commanders, we held the walls, praying for reinforcements. Our hope was nearly spent, yet it was not the Scots who sealed our fate.\n\nAs we struggled to hold the gate, a terrible cry rose from the loch, as though it were thunder. Then we saw it, a great serpent rising from the depths, its fiery eyes fixed upon us as it towered above the outer walls.\n\nIt struck without mercy, shattering the castle walls and scattering our remaining forces. When it was over, the Scots easily swept away what little remained.\n\nNow I sit here, awaiting whatever judgment is left to me.",
+  "ko": "나는 사면을 구하려는 것이 아니라 우리의 최후를 알리고자 이 글을 쓴다. 나는 이 지하 감옥에서 살아 나가지 못할 것이기 때문이다.\n\n스코틀랜드인들은 어커트 성을 되찾기 위해 맹렬히 싸웠다. 지휘관들에게 버림받은 우리는 성벽을 지키며 증원을 기도했다. 희망은 거의 다했지만, 우리의 최후를 결정지은 것은 스코틀랜드인이 아니었다.\n\n우리가 성문을 지키려 애쓰는 동안, 호수에서 천둥 같은 무시무시한 울음소리가 올라왔다. 그리고 우리는 그것을 보았다. 심연에서 솟아오른 거대한 뱀으로, 불타는 눈이 우리를 향한 채 바깥 성벽 위로 치솟았다.\n\n그것은 자비 없이 덤벼들어 성벽을 부수고 남은 병력을 흩어 버렸다. 일이 끝났을 때, 스코틀랜드인들은 남은 얼마 안 되는 것들을 손쉽게 쓸어 담았다.\n\n이제 나는 여기 앉아, 나에게 남은 어떤 심판이든 기다리고 있다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279114",
+  "en": "Last Correspondence of Sir Alistair Blackwood – Year of Our Lord 1306",
+  "ko": "앨리스터 블랙우드 경의 마지막 서신 – 서기 1306년"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279113",
+  "en": "The Fall of Urquhart Castle",
+  "ko": "어커트 성의 함락"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279112",
+  "en": "Urquhart Castle overlooks Loch Ness and has seen many battles. In 1296, it was taken by Edward I of England, known as the \"Hammer of the Scots.\"",
+  "ko": "어커트 성은 네스호를 내려다보고 있으며 수많은 전투를 겪었다. 1296년에는 “스코틀랜드인의 망치”로 알려진 잉글랜드의 에드워드 1세에게 함락되었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279111",
+  "en": "Urquhart Castle overlooks Loch Ness and stood at the center of many conflicts throughout Scottish history. This recovered letter recounts the castle's final days under English control in the early 14th century, after it was taken in 1296 by Edward I of England, known as the \"Hammer of the Scots.\"",
+  "ko": "어커트 성은 네스호를 내려다보며 스코틀랜드 역사의 여러 분쟁의 중심에 서 있었다. 이 발견된 편지는 1296년 “스코틀랜드인의 망치”로 알려진 잉글랜드의 에드워드 1세에게 함락된 뒤, 14세기 초 잉글랜드 통치 아래에서 맞은 성의 마지막 나날을 전한다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279109",
+  "en": "The air lay still over the loch that eve, the waters black as peat. \n\nI stood with the Picts on the bank of the River Ness as Drust rowed toward us from the far side, bearing our provisions.\n\nAs he neared the shore, the water shifted. Soon after, an ominous, vast presence rose in silence, its eyes burning through the mist like the coals from a forge. The air crackled with tension, and the scent of storm and smoke hung thick on the wind.\n\nDrust did not flinch, but stood firm as the beast loomed over him. In an instant, he was gone, boat and all. No sound, no struggle. Only the stillness of the loch remained.",
+  "ko": "그날 저녁 호수 위에는 공기가 고요했고, 물은 이탄처럼 검었다. \n\n나는 픽트족과 함께 네스 강 기슭에 서 있었고, 드루스트는 우리 양식을 싣고 저편에서 노를 저어 이쪽으로 왔다.\n\n그가 기슭에 가까워지자 물이 흔들렸다. 얼마 뒤, 불길한 거대한 존재가 소리 없이 솟아올랐고, 그 눈은 대장간의 숯불처럼 안개를 뚫고 타올랐다. 공기는 긴장으로 파직거렸고, 폭풍과 연기의 냄새가 바람에 짙게 깔렸다.\n\n드루스트는 움찔하지 않고, 짐승이 위로 드리워져도 굳게 서 있었다. 순식간에 그는 배와 함께 사라졌다. 소리도, 몸부림도 없었다. 오직 호수의 정적만이 남았다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279108",
+  "en": "Testament of St. Columba at the River Ness – 565",
+  "ko": "네스 강에서의 성 콜룸바의 증언 – 565년"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279107",
+  "en": "The Beast under the Loch",
+  "ko": "호수 아래의 짐승"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279106",
+  "en": "The Picts were ancient peoples of northern Scotland, said to have been visited by St. Columba in the 6th century.",
+  "ko": "픽트족은 스코틀랜드 북부의 고대 민족으로, 6세기에 성 콜룸바가 찾아왔다고 전해진다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9997840255279105",
+  "en": "A recovered account describing a terrifying encounter with a great beast in the waters of Loch Ness. The Picts were ancient peoples of northern Scotland, associated with the lands beyond Roman rule and known for their distinctive symbols. In the 6th century, many lived near the shores of the River Ness and Loch Ness, where they were visited by the Irish monk St. Columba.",
+  "ko": "네스호 물속에서 거대한 짐승과 마주친 끔찍한 조우를 서술한 기록이 발견되었다. 픽트족은 스코틀랜드 북부의 고대 민족으로, 로마의 지배 너머에 있던 땅과 관련이 있으며 독특한 상징으로 알려져 있다. 6세기에는 많은 이들이 네스 강과 네스호 기슭 근처에 살았는데, 그곳에 아일랜드 수도사 성 콜룸바가 찾아왔다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882355",
+  "en": "A follow-up log by Dr. Victor Sato documenting the team's first encounter with a massive unidentified organism detected beneath the research vessel during a deep-water survey.",
+  "ko": "심수 조사 중 연구선 아래에서 탐지된 정체불명의 거대 생명체와 팀이 처음 마주친 일을 기록한 빅터 사토 박사의 후속 일지."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882356",
+  "en": "Over 70% of the ocean floor is unmapped.",
+  "ko": "해저의 70% 이상이 아직 지도로 그려지지 않았다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882358",
+  "en": "Dr. Victor Sato, Oceanographer, Neptune Research Group – March 12th, 2033",
+  "ko": "넵튠 리서치 그룹 해양학자 빅터 사토 박사 – 2033년 3월 12일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882359",
+  "en": "We registered an unusual biological contact during the first dive. Our sonar picked up a massive moving organism beneath the vessel. It's far larger than any species documented in this region.\n\nIts movement was even stranger. Although bigger than any eel or sea snake, it moved in much the same way. As we tracked it, the signature abruptly vanished, only to reappear several hundred metres away within seconds.\n\nWhenever one of our drones approached, the reading slipped out of range again. It seems like the drone's size or noise is enough to alert the creature long before we can get close.",
+  "ko": "첫 잠수에서 이례적인 생물 반응을 확인했다. 우리 소나는 선체 아래에서 움직이는 거대한 생명체를 포착했다. 이 지역에서 기록된 어떤 종보다도 훨씬 크다.\n\n그 움직임은 더욱 기이했다. 어떤 뱀장어나 바다뱀보다도 컸지만, 움직이는 방식은 그것들과 매우 비슷했다. 우리가 추적하자 신호는 갑자기 사라졌고, 몇 초 만에 수백 미터 떨어진 곳에서 다시 나타났다.\n\n우리 드론이 접근할 때마다 그 반응은 다시 감지 범위를 벗어났다. 드론의 크기나 소음만으로도 우리가 가까이 가기 훨씬 전에 그 생명체가 경계하게 만드는 듯하다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882361",
+  "en": "Laboratory notes from Dr. Samantha Kepler describing the analysis of an unusual material recovered near the debris field. What initially appeared to be an unknown mineral formation soon revealed properties unlike any known terrestrial organism.",
+  "ko": "잔해 지대 근처에서 회수한 이례적인 물질의 분석을 서술한 사만다 케플러 박사의 실험 노트. 처음에는 정체불명의 광물 구조로 보였던 것이, 곧 알려진 지상 생명체 어느 것과도 다른 성질을 지닌 것으로 드러났다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882362",
+  "en": "Lichens aren't a single organism, but a stable partnership between fungi and photosynthetic organisms behaving like a single lifeform.",
+  "ko": "지의류는 단일 생명체가 아니라, 곰팡이와 광합성 생물이 하나의 생명체처럼 행동하는 안정적인 공생 관계이다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882364",
+  "en": "Dr. Samantha Kepler, Lead Marine Biologist, Neptune Research Group – March 13th, 2033",
+  "ko": "넵튠 리서치 그룹 수석 해양 생물학자 사만다 케플러 박사 – 2033년 3월 13일"
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882365",
+  "en": "We began our analysis of the mystery rock formations today, which has raised more questions than answers. The material we retrieved is unlike any terrestrial mineral.\n\nUnder microscopy, the stone structure resembles a dense fungal lattice, while the blue crystalline veins display characteristics similar to photosynthetic tissues. It is a living organism and functionally similar to a terrestrial lichen.\n\nFurther testing also reveals trace metal alloys incorporated into its structure, seemingly assimilated from nearby debris, including material from the ISS.\n\nThe faint sonar pulses and magnetism recorded during our initial observations were found to originate from the rock samples themselves. Whether this is a stress response or a natural process remains unclear.\n\nWhat is clear is that this organism has been growing for some time. Spreading through the open ocean, it has formed vast reef-like structures that now support an unexpected abundance of marine life.",
+  "ko": "우리는 오늘 정체불명의 암석 구조물 분석을 시작했는데, 답보다 질문이 더 많이 생겼다. 우리가 회수한 물질은 어떤 지상 광물과도 다르다.\n\n현미경으로 보면, 돌의 구조는 촘촘한 곰팡이 격자와 비슷하고, 푸른 결정맥은 광합성 조직과 유사한 특성을 보인다. 이것은 살아 있는 생명체이며, 기능적으로는 지상의 지의류와 비슷하다.\n\n추가 검사에서는 이 구조에 미량의 금속 합금이 섞여 있는 것도 드러났는데, ISS를 비롯한 주변 잔해에서 흡수한 것으로 보인다.\n\n첫 관찰에서 기록된 희미한 소나 파동과 자기 반응은 암석 시료 자체에서 비롯된 것으로 밝혀졌다. 이것이 스트레스 반응인지 자연적인 과정인지는 아직 분명하지 않다.\n\n분명한 것은 이 생명체가 상당한 시간 동안 자라 왔다는 사실이다. 넓은 바다로 퍼져 나가며 거대한 암초 같은 구조를 이루었고, 그 구조는 이제 예상치 못한 풍요로운 해양 생물을 지탱하고 있다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882367",
+  "en": "The final recorded entry from Dr. Samantha Kepler as the expedition descended into chaos. Shortly after completing their biological analysis, the research vessel came under attack from an unidentified creature beneath the surface.",
+  "ko": "탐사대가 혼란에 빠져들 무렵 사만다 케플러 박사가 남긴 마지막 기록. 생물 분석을 마친 직후, 연구선은 수면 아래 정체불명의 생명체에게 습격을 받았다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882368",
+  "en": "Point Nemo is so remote that the closest humans were often aboard the International Space Station.",
+  "ko": "포인트 네모는 너무나 외딴 곳이라, 가장 가까이 있는 사람들이 흔히 국제우주정거장에 타고 있었다."
+ },
+ {
+  "table": "Bottle Messages - String",
+  "id": "9990081526882370",
+  "en": "Dr. Samantha Kepler, Lead Marine Biologist, Neptune Research Group – March 14th, 2033",
+  "ko": "넵튠 리서치 그룹 수석 해양 생물학자 사만다 케플러 박사 – 2033년 3월 14일"
+ }
+]

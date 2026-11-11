@@ -1,0 +1,824 @@
+[
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451535",
+  "en": "Found across much of the Pacific Ocean.",
+  "ko": "태평양 전역에서 널리 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451536",
+  "en": "Can grow to around 1.6 m long.",
+  "ko": "몸길이 약 1.6 m까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451537",
+  "en": "Has a greenish-grey body marked with blue spots or stripes.",
+  "ko": "몸은 녹회색이고 푸른 점이나 줄무늬가 나 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451539",
+  "en": "The red cornetfish can grow larger than many of its relatives. Its reddish colouration helps distinguish it from similar cornetfish species, including the bluespotted cornetfish.",
+  "ko": "붉은나팔고기는 많은 근연종보다 크게 자랄 수 있다. 붉은빛 체색 덕분에 푸른점나팔고기를 비롯한 비슷한 나팔고기 종과 구별된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451540",
+  "en": "Can grow up to about 2 m long.",
+  "ko": "몸길이 약 2 m까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451541",
+  "en": "Its reddish colouring helps distinguish it from the bluespotted cornetfish.",
+  "ko": "붉은빛 체색 덕분에 푸른점나팔고기와 구별된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451549",
+  "en": "The mahi-mahi or dolphinfish is a fast, colourful open-ocean fish found in warm waters around the world. It is recognized by its long dorsal fin, bright colours, and blunt forehead. Powerful and fast-growing, mahi-mahi are active predators that chase fish and squid near the surface.",
+  "ko": "만새기(돌고래피시)는 전 세계 따뜻한 바다에 사는 빠르고 화려한 외해성 어류다. 길게 뻗은 등지느러미와 선명한 색, 뭉툭한 이마로 알아볼 수 있다. 힘이 세고 성장이 빠른 만새기는 수면 근처에서 물고기와 오징어를 쫓는 활동적인 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451550",
+  "en": "The name \"mahi-mahi\" comes from Hawaiian and means \"very strong.\"",
+  "ko": "“마히마히”라는 이름은 하와이어에서 유래했으며 “매우 강하다”는 뜻이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451551",
+  "en": "Also widely known as dorado or common dolphinfish.",
+  "ko": "도라도 또는 보통만새기라는 이름으로도 널리 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451552",
+  "en": "Commonly found in warm waters around the Gulf of Mexico, Costa Rica, Hawaii, and the Indian Ocean.",
+  "ko": "멕시코만, 코스타리카, 하와이, 인도양 주변의 따뜻한 바다에서 흔히 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451554",
+  "en": "The roosterfish is a powerful coastal predator found in warm shallow waters of the eastern Pacific, from Baja California south to Peru. It is famous for the seven long dorsal spines that rise like a rooster's comb, giving the fish its name. As the only species in its genus, it has a distinctive look and is highly prized by sport fishers for its strength.",
+  "ko": "수탉고기는 바하칼리포르니아에서 남쪽 페루에 이르는 동태평양의 따뜻한 얕은 바다에 사는 힘센 연안 포식자다. 수탉의 볏처럼 솟은 일곱 개의 긴 등가시로 유명하며, 이름도 여기서 비롯됐다. 자기 속에 속한 유일한 종으로 독특한 생김새를 지녔고, 힘이 세서 스포츠 낚시꾼들에게 큰 인기를 끈다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451555",
+  "en": "Found in warm shallow waters of the eastern Pacific, from Baja California south to Peru.",
+  "ko": "바하칼리포르니아에서 남쪽 페루에 이르는 동태평양의 따뜻한 얕은 바다에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451556",
+  "en": "The name comes from its seven long dorsal spines, which resemble a rooster's comb.",
+  "ko": "이름은 수탉의 볏을 닮은 일곱 개의 긴 등가시에서 비롯됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155817451557",
+  "en": "The only species in its genus, with no close living relatives.",
+  "ko": "자기 속에 속한 유일한 종으로, 가까운 현생 근연종이 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257260",
+  "en": "The escolar is a deep-sea predator and a member of the snake mackerel family, found in warm and temperate oceans around the world. It usually lives far offshore in dark midwater environments, where its dark colouration and large eyes help it hunt in low light. Rarely seen alive, it is often confused with similar deep-water fish such as the oilfish and is also known for its rich, oily flesh.",
+  "ko": "기름치는 심해 포식자이자 뱀고등어과에 속하며, 전 세계의 따뜻하고 온화한 바다에 산다. 주로 먼바다의 어두운 중층에 서식하며, 어두운 체색과 큰 눈이 어둑한 곳에서 사냥하는 데 도움을 준다. 살아 있는 모습은 좀처럼 보기 힘들고, 오일피시처럼 비슷하게 생긴 심해 어류와 자주 혼동된다. 기름지고 부드러운 살로도 유명하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257261",
+  "en": "Escolar are found in deep tropical and temperate oceans worldwide, usually far offshore.",
+  "ko": "기름치는 전 세계 열대와 온대의 심해, 대개 먼바다에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257262",
+  "en": "Escolar can grow to over 2 m in length and weigh up to around 45 kg.",
+  "ko": "기름치는 몸길이 2 m가 넘게 자라고 무게는 약 45 kg에 이른다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155813257263",
+  "en": "As a slow-moving ambush predator, it feeds on squid, crustaceans, and midwater fish.",
+  "ko": "느리게 움직이며 매복하는 포식자로, 오징어와 갑각류, 중층 어류를 먹고 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11480233399017473",
+  "en": "The swordfish is a powerful, solitary open-ocean predator found in warm and temperate seas worldwide. It is easily recognized by its long, flattened bill and streamlined body built for speed. Swordfish hunt fast-moving prey in open water, using their bill to strike and disable it before eating it. As a large top-level predator with few natural enemies, it is among the most iconic hunters of the open ocean.",
+  "ko": "황새치는 전 세계 따뜻하고 온화한 바다에 사는 힘세고 단독 생활을 하는 외해성 포식자다. 길고 납작한 주둥이와 속도를 위해 다듬어진 유선형 몸으로 쉽게 알아볼 수 있다. 황새치는 먼바다에서 빠르게 움직이는 먹잇감을 사냥하며, 주둥이로 내리쳐 움직임을 멈추게 한 뒤 먹는다. 천적이 거의 없는 대형 최상위 포식자로서, 먼바다를 대표하는 사냥꾼 중 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11480233399017474",
+  "en": "Swordfish are found in tropical and temperate waters across the Atlantic, Pacific, and Indian Oceans.",
+  "ko": "황새치는 대서양과 태평양, 인도양의 열대 및 온대 해역에 서식한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11480233399017475",
+  "en": "Swordfish commonly grow to around 3 m in length, with some individuals exceeding 4 m in length and weighing several hundred kg.",
+  "ko": "황새치는 보통 몸길이 3 m 정도까지 자라며, 4 m를 넘고 무게가 수백 kg에 이르는 개체도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11480233399017476",
+  "en": "Swordfish are solitary hunters and do not form schools.",
+  "ko": "황새치는 단독 사냥꾼으로 무리를 이루지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702804",
+  "en": "A massive worm-like organism was first recorded near the Point Nemo debris field following the 2029 Apophis asteroid incident. Its size, behaviour, unique biology, and strange connection to electromagnetic disturbances suggest it is not a naturally occurring terrestrial species. Its presence is believed to be linked to the asteroid that brought down the International Space Station. It is possible that one or more of these creatures was hitching a ride on the asteroid when it struck, ultimately being transported to Point Nemo.",
+  "ko": "거대한 벌레 형태의 생물은 2029년 아포피스 소행성 사건 이후 포인트 네모 잔해 지대 근처에서 처음 기록됐다. 그 크기와 행동, 독특한 생물학적 특징, 전자기 교란과의 기묘한 연관성은 이것이 자연 발생한 지구 종이 아님을 시사한다. 이 생물의 존재는 국제우주정거장을 추락시킨 소행성과 연관된 것으로 여겨진다. 소행성이 충돌할 당시 이 생물체 하나 이상이 소행성에 편승해 있었고, 결국 포인트 네모까지 실려 왔을 가능성이 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702805",
+  "en": "Named after the asteroid 99942 Apophis, which brought down the International Space Station in 2029.",
+  "ko": "2029년 국제우주정거장을 추락시킨 소행성 99942 아포피스의 이름을 따서 명명됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702806",
+  "en": "Two pincer-like appendages extend from its body, striking with enough force to puncture reinforced steel.",
+  "ko": "몸에서 집게처럼 생긴 두 개의 부속지가 뻗어 나오며, 강화강철도 뚫을 만큼 강한 힘으로 내리친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702807",
+  "en": "Its circular maw is lined with inward-facing teeth, capable of crushing large structures.",
+  "ko": "원형의 아가리에는 안쪽을 향한 이빨이 빽빽하게 나 있어 거대한 구조물도 부술 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702816",
+  "en": "A large, aggressive fish described in early accounts from central Mexico, most often associated with the lakes surrounding Tenochtitlan. Said to dwell in calm inland waters, it has been reported far beyond its expected habitat, raising questions about its true range and behaviour.",
+  "ko": "멕시코 중부의 옛 기록에 등장하는 크고 사나운 물고기로, 주로 테노치티틀란을 둘러싼 호수와 관련해 언급된다. 잔잔한 내륙 수역에 산다고 알려져 있지만, 예상 서식지를 훨씬 벗어난 곳에서도 목격되어 실제 분포와 행동에 의문을 낳고 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702817",
+  "en": "Typically found in lakes and calm inland waters, often near submerged structures or dense vegetation.",
+  "ko": "대개 호수와 잔잔한 내륙 수역, 그중에서도 물에 잠긴 구조물이나 빽빽한 수초 근처에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155779702818",
+  "en": "Highly aggressive, capable of attacking prey much larger than itself.",
+  "ko": "매우 사나워서 자기보다 훨씬 큰 먹잇감도 공격할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "11428155783897088",
+  "en": "Some accounts place the creature in locations far from its expected habitat.",
+  "ko": "일부 기록은 이 생물을 예상 서식지에서 멀리 떨어진 곳에 위치시킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154183569409",
+  "en": "Attempts to track this creature show the organism vanishing and reappearing hundreds of metres away within seconds.",
+  "ko": "이 생물을 추적하려는 시도에서, 개체가 사라졌다가 몇 초 만에 수백 미터 떨어진 곳에 다시 나타나는 것이 확인됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154183569410",
+  "en": "First documented following a sudden surge in marine activity around the Point Nemo debris field.",
+  "ko": "포인트 네모 잔해 지대 주변에서 해양 활동이 갑자기 급증한 뒤 처음 기록됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154183569411",
+  "en": "No known terrestrial species exhibits similar biology or behaviour.",
+  "ko": "비슷한 생물학적 특성이나 행동을 보이는 지구 종은 알려져 있지 않다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154183569412",
+  "en": "It seems to be present in areas of high magnetic interference.",
+  "ko": "자기 간섭이 강한 지역에 나타나는 것으로 보인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154183569413",
+  "en": "Frequently observed eating the blue-veined mineral growths found on debris within the region.",
+  "ko": "이 지역 잔해에서 자라는 푸른 혈관무늬 광물 덩어리를 먹는 모습이 자주 관찰된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154187763712",
+  "en": "Its presence coincides with the arrival of extraterrestrial material in the region.",
+  "ko": "이 생물의 출현은 이 지역에 외계 물질이 도착한 시점과 일치한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154187763713",
+  "en": "It has a head resembling that of a hog, with several long barbs extending from its mouth.",
+  "ko": "머리는 돼지를 닮았고, 입에서는 긴 수염 모양 돌기가 여러 개 뻗어 나온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154187763714",
+  "en": "Early Spanish accounts referred to the creature as \"Hoga,\" while local names include \"Andura\" and \"vampire bat fish.\"",
+  "ko": "초기 스페인 기록은 이 생물을 “호가”라고 불렀고, 현지에서는 “안두라”, “흡혈박쥐고기”라는 이름으로도 불렸다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154187763715",
+  "en": "Frequently associated with the lakes surrounding Tenochtitlan, the great city of Mexico.",
+  "ko": "멕시코의 대도시 테노치티틀란을 둘러싼 호수와 자주 연관된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154187763716",
+  "en": "Described in early encounters as having a face resembling a hog.",
+  "ko": "초기 목격담에서는 얼굴이 돼지를 닮았다고 묘사됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154187763717",
+  "en": "Accounts describe the creature striking multiple targets in rapid succession.",
+  "ko": "기록에 따르면 이 생물은 여러 표적을 연달아 빠르게 내리친다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540929",
+  "en": "They can steer and stabilize their movement by expelling jets of water from their mouths or gills.",
+  "ko": "입이나 아가미에서 물을 뿜어내어 방향을 조절하고 몸을 안정시킬 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540930",
+  "en": "Their teeth are fused into a beak-like structure, preventing them from fully closing their mouths.",
+  "ko": "이빨이 부리처럼 하나로 붙어 있어 입을 완전히 다물 수 없다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540931",
+  "en": "They feed primarily on soft-bodied prey such as jellyfish and comb jellies.",
+  "ko": "주로 해파리나 빗해파리처럼 몸이 부드러운 먹잇감을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540932",
+  "en": "Over their life cycle, they undergo extreme growth, increasing their body mass tens of millions of times from hatchling to adult.",
+  "ko": "일생 동안 엄청난 성장을 거쳐, 부화한 새끼에서 성체가 되기까지 몸무게가 수천만 배로 늘어난다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540933",
+  "en": "The largest recorded ocean sunfish weighed over 2,300 kg and measured more than 3.3 m across.",
+  "ko": "기록된 가장 큰 개복치는 무게가 2,300 kg을 넘고 최대 폭이 3.3 m 이상이었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540934",
+  "en": "They often host dozens of parasites and may carry barnacles and other organisms on their bodies.",
+  "ko": "몸에 수십 마리의 기생충이 붙어 있는 경우가 흔하며, 따개비나 다른 생물을 달고 다니기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540935",
+  "en": "Ocean sunfish lack a proper swim bladder. Instead, they maintain buoyancy through a thick, gelatinous layer beneath their skin.",
+  "ko": "개복치에게는 제대로 된 부레가 없다. 대신 피부 아래 두꺼운 젤라틴층으로 부력을 유지한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154204540936",
+  "en": "They lack a true tail and instead have a rounded structure called a clavus.",
+  "ko": "진짜 꼬리지느러미가 없고, 대신 클라부스라고 부르는 둥근 구조가 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735232",
+  "en": "A single female is capable of producing hundreds of millions of eggs at once.",
+  "ko": "암컷 한 마리가 한 번에 수억 개의 알을 낳을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735233",
+  "en": "They are often seen with large bite marks, as predators may attack them but abandon the attempt due to their soft, low-energy bodies.",
+  "ko": "몸에 커다란 이빨 자국이 있는 개체가 흔한데, 포식자가 공격했다가 부드럽고 영양가 낮은 몸 때문에 사냥을 포기하기 때문이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735234",
+  "en": "Adult individuals have few natural predators, though sharks and killer whales may prey on them.",
+  "ko": "성체는 천적이 거의 없지만, 상어와 범고래가 잡아먹기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735235",
+  "en": "They are remarkably resilient, with many individuals continuing to swim despite significant injuries.",
+  "ko": "놀랄 만큼 회복력이 강해서, 큰 부상을 입고도 계속 헤엄치는 개체가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735236",
+  "en": "They are often accompanied by smaller fish that feed on parasites on their skin.",
+  "ko": "피부에 붙은 기생충을 먹는 작은 물고기와 함께 다니는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735237",
+  "en": "They are commonly found sunbathing at the ocean surface, but have also been recorded at depths of over 600 m.",
+  "ko": "흔히 바다 표면에서 일광욕하는 모습이 관찰되지만, 600 m가 넘는 수심에서 기록되기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "25221154208735238",
+  "en": "Their dorsal and anal fins can grow taller than the length of their body.",
+  "ko": "등지느러미와 뒷지느러미는 몸길이보다 더 높게 자라기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452314349568",
+  "en": "The species is sometimes referred to as redfin perch, English perch, or big-scaled perch.",
+  "ko": "이 종은 붉은지느러미퍼치, 잉글랜드퍼치, 큰비늘퍼치라고도 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543877",
+  "en": "Sea trout are the anadromous form of the brown trout, migrating to the ocean to grow before returning to freshwater rivers to spawn. At sea, they develop a bright silvery colouring that darkens again before spawning. They can travel long distances between freshwater spawning grounds and coastal feeding areas.",
+  "ko": "바다송어는 갈색송어의 강해형으로, 바다로 내려가 자란 뒤 산란을 위해 민물 강으로 돌아온다. 바다에서는 밝은 은빛 체색을 띠었다가 산란 전에 다시 어두워진다. 민물 산란장과 연안 섭식지 사이를 멀리 이동할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543878",
+  "en": "Sea trout are brown trout that migrate between freshwater rivers and the ocean.",
+  "ko": "바다송어는 민물 강과 바다를 오가며 회유하는 갈색송어다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543879",
+  "en": "They are widely distributed along the Atlantic and Baltic coasts of Europe.",
+  "ko": "유럽의 대서양과 발트해 연안에 널리 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543880",
+  "en": "Sea trout develop a bright silvery colour while living in saltwater.",
+  "ko": "바다송어는 바닷물에서 지내는 동안 밝은 은빛 체색을 띤다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543881",
+  "en": "When returning from the sea, their colours darken to resemble freshwater brown trout.",
+  "ko": "바다에서 돌아올 때는 체색이 어두워져 민물 갈색송어와 비슷해진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543882",
+  "en": "Breeding males often develop a hook-shaped lower jaw called a kype.",
+  "ko": "번식기의 수컷은 갈고리 모양으로 굽은 아래턱, 즉 카이프가 발달하는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543883",
+  "en": "Sea trout have a life cycle similar to Atlantic salmon, with regular migrations between freshwater and the ocean.",
+  "ko": "바다송어는 대서양연어와 비슷한 생활사를 지니며, 민물과 바다를 규칙적으로 오간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543884",
+  "en": "They are known by many regional names, including sewin, finnock, peel, and white trout.",
+  "ko": "지역에 따라 세윈, 핀녹, 필, 흰송어 등 여러 이름으로도 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452318543885",
+  "en": "Under favourable conditions, sea trout can grow over 1 m long and weigh more than 20 kg.",
+  "ko": "조건이 좋으면 바다송어는 몸길이 1 m가 넘고 무게 20 kg 이상까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738178",
+  "en": "The wels catfish is one of the largest freshwater fish in Europe and western Asia. Native to large rivers and lakes, it uses long barbels, smell, and hearing to locate prey in dark or murky water. A powerful bottom-dwelling predator, it feeds on fish, crustaceans, frogs, birds, and other animals found near the water.",
+  "ko": "유럽메기는 유럽과 서아시아에서 가장 큰 민물고기 중 하나다. 큰 강과 호수에 자생하며, 긴 수염과 후각, 청각을 이용해 어둡거나 탁한 물속에서 먹잇감을 찾는다. 힘센 저서성 포식자로 물고기, 갑각류, 개구리, 새 등 물 근처의 동물을 먹고 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738179",
+  "en": "Wels catfish are native to large areas of central, southern, and eastern Europe and even parts of western China.",
+  "ko": "유럽메기는 중부, 남부, 동부 유럽의 넓은 지역과 중국 서부 일부에 자생한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738180",
+  "en": "They have been introduced to several countries in western Europe outside their native range.",
+  "ko": "원래 분포지 밖인 서유럽 여러 나라에 도입되기도 했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738181",
+  "en": "Most wels catfish grow to around 1.3–1.6 m long, though larger individuals can exceed 2 m.",
+  "ko": "대부분의 유럽메기는 몸길이 1.3–1.6 m 정도로 자라지만, 큰 개체는 2 m를 넘기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738182",
+  "en": "A long-lived species, it can survive for many decades, with some individuals recorded at around 70 years old.",
+  "ko": "수명이 긴 종으로 수십 년을 살며, 약 70살로 기록된 개체도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738183",
+  "en": "Two long upper barbels and four shorter lower barbels help it detect food in dark or murky water.",
+  "ko": "위쪽의 긴 수염 두 개와 아래쪽의 짧은 수염 네 개가 어둡거나 탁한 물속에서 먹이를 찾는 데 도움을 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738184",
+  "en": "Smell and hearing play a major role in hunting, especially where visibility is poor.",
+  "ko": "후각과 청각은 사냥에서 큰 역할을 하며, 특히 시야가 나쁜 곳에서 그렇다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738185",
+  "en": "Large individuals have been observed lunging from the water to catch pigeons at the shoreline.",
+  "ko": "큰 개체가 물 밖으로 튀어올라 물가의 비둘기를 잡는 모습이 관찰되기도 했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738186",
+  "en": "Male wels catfish guard the nest after spawning until the eggs hatch.",
+  "ko": "수컷 유럽메기는 산란 후 알이 부화할 때까지 둥지를 지킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452322738187",
+  "en": "Unlike many fish, they can swim backward.",
+  "ko": "많은 물고기와 달리 뒤로 헤엄칠 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932480",
+  "en": "The name \"wels\" comes from an old German word related to the same linguistic root as \"whale.\"",
+  "ko": "“벨스”라는 이름은 “고래”와 같은 어원을 지닌 고대 독일어 단어에서 비롯됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932482",
+  "en": "Whitefish are cold-water fish in the salmon family, found mostly in northern lakes, rivers, and coastal waters. They belong to the genus Coregonus, a diverse and complex group that includes many closely related species, forms, and local lake populations. Many whitefish are silvery, streamlined fish that feed on small aquatic animals and play important roles in northern freshwater ecosystems.",
+  "ko": "화이트피시류는 연어과에 속하는 냉수성 어류로, 주로 북방의 호수와 강, 연안 해역에 산다. 코레고누스속에 속하는데, 이 속은 서로 가까운 여러 종과 형태, 지역 호수 개체군을 아우르는 다양하고 복잡한 분류군이다. 대부분 은빛을 띠는 유선형 어류로 작은 수생동물을 먹으며, 북방 민물 생태계에서 중요한 역할을 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932483",
+  "en": "Most whitefish live in cold lakes and rivers, though some move between freshwater and coastal saltwater.",
+  "ko": "대부분의 화이트피시류는 차가운 호수와 강에 살지만, 일부는 민물과 연안 바닷물을 오간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932484",
+  "en": "The genus Coregonus includes nearly 70 living species and forms.",
+  "ko": "코레고누스속에는 약 70종에 이르는 현생 종과 형태가 포함된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932485",
+  "en": "Gill rakers help whitefish filter and capture small prey from the water.",
+  "ko": "새파는 화이트피시류가 물속에서 작은 먹잇감을 걸러 잡는 데 도움을 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932486",
+  "en": "Several whitefish species and local forms have become endangered or extinct.",
+  "ko": "여러 화이트피시 종과 지역 형태가 멸종위기에 처하거나 이미 멸종했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932487",
+  "en": "Whitefish are closely related to salmon, trout, char, and grayling.",
+  "ko": "화이트피시류는 연어, 송어, 숯송어, 그레이링과 가까운 친척이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932488",
+  "en": "Some whitefish migrate between inland waters and the coast during their lives.",
+  "ko": "일부 화이트피시류는 살아가는 동안 내륙 수역과 연안을 오가며 회유한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932491",
+  "en": "The European whitefish is a cold-water species found across central and northern Europe, with many local forms adapted to different lakes, rivers, and coastal waters. Its classification is famously complex, with some populations treated as separate local species.",
+  "ko": "유럽화이트피시는 중부와 북부 유럽 전역에 사는 냉수성 어종으로, 여러 호수와 강, 연안 해역에 적응한 지역 형태가 많다. 분류가 유난히 복잡해서 일부 개체군은 별개의 지역 종으로 취급되기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932492",
+  "en": "They are found across central and northern Europe, with some forms extending into Siberia.",
+  "ko": "중부와 북부 유럽 전역에서 발견되며, 일부 형태는 시베리아까지 분포한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932493",
+  "en": "They can grow up to 55 cm long and weigh around 2 kg.",
+  "ko": "몸길이 55 cm, 무게 약 2 kg까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932494",
+  "en": "Larger individuals may also eat surface insects and small fish fry.",
+  "ko": "큰 개체는 수면 곤충이나 작은 치어를 먹기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932495",
+  "en": "Some populations migrate upriver to spawn, while others remain in lakes or coastal waters.",
+  "ko": "일부 개체군은 산란을 위해 강을 거슬러 올라가고, 다른 개체군은 호수나 연안 해역에 머문다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932497",
+  "en": "Smelts are small, slender fish found in northern oceans, rivers, lakes, and streams. Many species travel in large schools and migrate into freshwater to spawn, making them important seasonal prey for larger fish, birds, and mammals. They are also commonly caught, fried, and eaten whole in several parts of the world.",
+  "ko": "빙어류는 북방의 바다와 강, 호수, 시내에 사는 작고 가느다란 물고기다. 많은 종이 큰 무리를 지어 다니고 산란을 위해 민물로 올라오며, 커진 물고기와 새, 포유류에게 중요한 계절성 먹잇감이 된다. 세계 여러 곳에서 흔히 잡아 튀겨 통째로 먹기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932498",
+  "en": "Many smelt species migrate from the sea into freshwater to spawn.",
+  "ko": "많은 빙어 종이 산란을 위해 바다에서 민물로 올라온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932499",
+  "en": "Large schools often gather along coastlines during spring spawning migrations.",
+  "ko": "봄철 산란 회유 시기에는 큰 무리가 연안에 모여드는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932500",
+  "en": "Common targets for ice fishing, hand-netting, and seasonal smelt dipping.",
+  "ko": "얼음낚시, 손그물질, 계절성 빙어 뜰채질의 흔한 대상이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932501",
+  "en": "They are often fried and eaten whole because the bones are small and soft.",
+  "ko": "뼈가 작고 부드러워서 튀겨 통째로 먹는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932502",
+  "en": "Important forage fish for larger fish, seabirds, seals, and other predators.",
+  "ko": "커진 물고기와 바닷새, 물범 등 다른 포식자에게 중요한 먹이 어류다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932503",
+  "en": "Smelts are also known as typical smelts or freshwater smelts.",
+  "ko": "빙어류는 보통빙어 또는 민물빙어로도 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932507",
+  "en": "The European smelt is found along western European coasts, estuaries, rivers, and large lakes. Known for its cucumber-like smell, it is the largest member of the smelt family and migrates into shallow freshwater areas to spawn.",
+  "ko": "유럽빙어는 서유럽의 연안과 하구, 강, 큰 호수에 서식한다. 오이 냄새가 나는 것으로 유명하며, 빙어과에서 가장 큰 종으로 산란을 위해 얕은 민물로 올라온다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932508",
+  "en": "Also known as cucumber smelt because of its distinctive cucumber-like smell.",
+  "ko": "독특한 오이 냄새 때문에 오이빙어라고도 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932509",
+  "en": "The largest individuals can reach up to about 40 cm long.",
+  "ko": "가장 큰 개체는 몸길이 약 40 cm까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932510",
+  "en": "Females can produce over 50,000 eggs on average.",
+  "ko": "암컷은 평균 5만 개가 넘는 알을 낳을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932511",
+  "en": "An important food source for seabirds, larger fish, and European eels.",
+  "ko": "바닷새와 커진 물고기, 유럽뱀장어에게 중요한 먹잇감이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932512",
+  "en": "Anadromous forms migrate into rivers to spawn in shallow water, while landlocked forms spawn along lake shores during spring.",
+  "ko": "강해형은 산란을 위해 강으로 올라가 얕은 물에 알을 낳고, 육봉형은 봄에 호숫가를 따라 산란한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932514",
+  "en": "The capelin is a small forage fish found in the North Atlantic, North Pacific, and Arctic oceans. It often gathers in huge schools and becomes a major food source for cod, seabirds, seals, and whales during spawning runs.",
+  "ko": "열빙어는 북대서양과 북태평양, 북극해에 사는 작은 먹이 어류다. 거대한 무리를 지어 다니며, 산란 회유 시기에는 대구와 바닷새, 물범, 고래의 주요 먹이가 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932515",
+  "en": "They feed on dense swarms of plankton near the edge of the ice shelf during summer.",
+  "ko": "여름에는 빙붕 가장자리 근처의 빽빽한 플랑크톤 무리를 먹고 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932516",
+  "en": "Females can grow up to about 25 cm long, while males reach about 20 cm.",
+  "ko": "암컷은 몸길이 약 25 cm, 수컷은 약 20 cm까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932517",
+  "en": "Important prey for whales, seals, cod, mackerel, squid, and seabirds.",
+  "ko": "고래와 물범, 대구, 고등어, 오징어, 바닷새에게 중요한 먹잇감이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932518",
+  "en": "Beach-spawning males often die soon after the spawning season.",
+  "ko": "해변에서 산란하는 수컷은 산란기가 끝난 뒤 곧 죽는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452326932519",
+  "en": "Each summer, millions of capelin spawn along the beaches of Newfoundland and Labrador in an event known as the Capelin Roll.",
+  "ko": "매년 여름, 수백만 마리의 열빙어가 뉴펀들랜드와 래브라도의 해변을 따라 산란하는데, 이 현상은 캐플린 롤로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515392",
+  "en": "The electric blue crayfish is a bright colour form of the Everglades crayfish, a freshwater species native to Florida. In the wild, this crayfish can range from brownish-tan to blue, but aquarium strains have been selectively bred for a vivid cobalt-blue colour.",
+  "ko": "일렉트릭블루가재는 플로리다에 자생하는 민물종인 에버글레이즈가재의 밝은 색 변이형이다. 야생에서는 갈색빛에서 청색까지 다양한 색을 띠지만, 관상용 계통은 선명한 코발트블루 색을 얻기 위해 선택적으로 개량됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515393",
+  "en": "Native to Florida, including parts of the Everglades and Florida Keys.",
+  "ko": "플로리다, 그중에서도 에버글레이즈와 플로리다키스 일부에 자생한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515394",
+  "en": "Wild individuals can range from brown-tan to blue in colour.",
+  "ko": "야생 개체는 갈색빛 황갈색에서 청색까지 다양한 체색을 띤다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515395",
+  "en": "The brilliant electric-blue form is commonly kept in freshwater aquariums.",
+  "ko": "화려한 일렉트릭블루 형태는 민물 수족관에서 흔히 기른다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515397",
+  "en": "The white river crayfish is a North American freshwater crayfish with a wide native range across parts of the United States. It has also spread beyond that range and has been recorded in several other countries, where its establishment or invasive potential varies.",
+  "ko": "화이트리버가재는 미국 여러 지역에 넓게 자생하는 북아메리카산 민물가재다. 원래 분포지를 넘어 퍼지기도 했으며, 정착 여부나 침입 가능성이 저마다 다른 여러 나라에서도 기록됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515398",
+  "en": "Native to parts of the United States, from Atlantic slope drainages to the Gulf of Mexico region.",
+  "ko": "대서양 사면의 유역부터 멕시코만 지역에 이르는 미국 일부 지역에 자생한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515399",
+  "en": "Now found across much of the continental United States beyond its original native range.",
+  "ko": "이제는 원래 자생지 밖의 미국 본토 대부분에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452339515400",
+  "en": "Also recorded outside North America, including parts of Europe and Egypt.",
+  "ko": "유럽 일부와 이집트를 비롯해 북아메리카 밖에서도 기록됐다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709696",
+  "en": "The slippery dick is a small western Atlantic wrasse found around shallow reefs and warm coastal habitats. It changes colour dramatically as it matures, with juveniles and females usually showing pale bodies with dark stripes, while mature terminal males become brighter green with pink markings. Found as far north as North Carolina, it also occurs in the warmer reef and wreck habitats around the Outer Banks.",
+  "ko": "미끈이는 서대서양의 얕은 산호초와 따뜻한 연안 서식지에 사는 작은 놀래기과 어류다. 성장하면서 체색이 극적으로 변하는데, 새끼와 암컷은 보통 창백한 몸에 검은 줄무늬가 있고, 다 자란 종말형 수컷은 분홍 무늬가 있는 더 밝은 초록색이 된다. 노스캐롤라이나까지 북상해서 발견되며, 아우터뱅크스 주변의 따뜻한 산호초와 난파선 서식지에도 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709697",
+  "en": "Native to shallow tropical and subtropical waters of the western Atlantic Ocean.",
+  "ko": "서대서양의 얕은 열대 및 아열대 해역에 자생한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709698",
+  "en": "Found from North Carolina and Bermuda to Brazil, including the Gulf of Mexico and Caribbean Sea.",
+  "ko": "노스캐롤라이나와 버뮤다에서 브라질에 이르기까지, 멕시코만과 카리브해를 포함한 해역에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709699",
+  "en": "Usually associated with shallow reef habitats.",
+  "ko": "대개 얕은 산호초 서식지와 연관된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709700",
+  "en": "They can grow up to about 35 cm long.",
+  "ko": "몸길이 약 35 cm까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709701",
+  "en": "Changes colour dramatically throughout its life.",
+  "ko": "일생 동안 체색이 극적으로 변한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709702",
+  "en": "Juveniles and females are usually pale with dark stripes along the body.",
+  "ko": "새끼와 암컷은 보통 창백한 몸에 몸을 따라 검은 줄무늬가 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709703",
+  "en": "Mature terminal males become brighter green with pink markings.",
+  "ko": "다 자란 종말형 수컷은 분홍 무늬가 있는 더 밝은 초록색이 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709704",
+  "en": "Individuals may be born male or female, but females can later change sex and become males.",
+  "ko": "개체는 수컷이나 암컷으로 태어나지만, 암컷이 나중에 성을 바꿔 수컷이 될 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709705",
+  "en": "Feeds on small bottom-dwelling animals such as crabs, worms, snails, and sea urchins.",
+  "ko": "게와 갯지렁이, 고둥, 성게 같은 작은 저서동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709706",
+  "en": "During breeding, some males defend temporary territories to impress mates.",
+  "ko": "번식기에는 일부 수컷이 짝을 얻기 위해 임시 세력권을 지킨다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709708",
+  "en": "The sergeant major is found in warm Atlantic waters, including the Caribbean Sea and western Atlantic coast. It is recognized by the bold black stripes along its sides and its yellowish upper body.",
+  "ko": "병장님은 카리브해와 서대서양 연안을 포함한 따뜻한 대서양 해역에 산다. 옆구리를 따라 굵게 난 검은 줄무늬와 노란빛을 띠는 상체로 알아볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709709",
+  "en": "Found in warm western Atlantic waters.",
+  "ko": "따뜻한 서대서양 해역에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452343709710",
+  "en": "The Pacific and Atlantic sergeant majors became separated when Panama formed as a land bridge between the oceans.",
+  "ko": "태평양과 대서양의 병장님은 파나마가 두 대양 사이의 육교로 형성되면서 갈라졌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452360486913",
+  "en": "The southern flounder is found from North Carolina through the Gulf of Mexico. It is especially common in estuaries and shallow inshore habitats and enters low-salinity waters more often than many other flounders. Young fish commonly grow up in sheltered estuarine nurseries.",
+  "ko": "남부가자미는 노스캐롤라이나에서 멕시코만에 이르기까지 분포한다. 특히 하구와 얕은 연안 서식지에서 흔하며, 다른 가자미보다 저염분 수역에 더 자주 들어간다. 어린 개체는 보통 안전한 하구의 성육장에서 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452360486914",
+  "en": "Often rests on muddy or sandy bottoms in shallow water.",
+  "ko": "얕은 물의 진흙이나 모래 바닥에 자주 쉰다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452360486915",
+  "en": "More often found in fresh water than the summer flounder.",
+  "ko": "여름가자미보다 민물에서 더 자주 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452360486916",
+  "en": "Females grow much larger than males.",
+  "ko": "암컷은 수컷보다 훨씬 크게 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452360486917",
+  "en": "Young southern flounder use estuaries as nursery habitat.",
+  "ko": "어린 남부가자미는 하구를 성육장으로 이용한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681219",
+  "en": "The American pickerel is a small North American member of the pike family. It includes two closely related subspecies, the redfin pickerel and the grass pickerel, which differ in fin colouration, body markings, and range.",
+  "ko": "아메리카피커럴은 북아메리카에 사는 강꼬치고기과의 작은 어류다. 지느러미 색과 몸무늬, 분포가 다른 두 근연 아종, 즉 붉은지느러미피커럴과 풀피커럴이 포함된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681220",
+  "en": "The American pickerel has two closely related subspecies: the redfin pickerel and the grass pickerel.",
+  "ko": "아메리카피커럴에는 붉은지느러미피커럴과 풀피커럴이라는 두 근연 아종이 있다."
+ }
+]

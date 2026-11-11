@@ -1,0 +1,962 @@
+[
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681221",
+  "en": "It is native to freshwater habitats in North America.",
+  "ko": "북아메리카의 민물 서식지가 원산지다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681222",
+  "en": "Usually found in slow-moving, heavily vegetated waters such as pools, lakes, and wetlands.",
+  "ko": "보통 웅덩이, 호수, 습지처럼 물이 천천히 흐르고 수초가 무성한 곳에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681223",
+  "en": "A small but aggressive member of the pike family.",
+  "ko": "강꼬치고기과에 속하는 작지만 사나운 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681224",
+  "en": "Much smaller than chain pickerel, northern pike, and muskellunge.",
+  "ko": "사슬피커럴, 북방강꼬치고기, 머스컬런지보다 훨씬 작다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681225",
+  "en": "Most individuals reach about 33 cm in length and weigh less than 1 kg.",
+  "ko": "대부분 개체는 몸길이 약 33 cm에 이르며 무게는 1 kg이 안 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681226",
+  "en": "During spawning, sticky eggs are scattered in shallow, heavily vegetated water.",
+  "ko": "산란기에는 끈적한 알을 수초가 무성한 얕은 물에 흩뿌린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681227",
+  "en": "They often use cover from aquatic plants to ambush smaller fish.",
+  "ko": "수초를 은폐물 삼아 작은 물고기를 매복해 잡는 일이 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681231",
+  "en": "The muskellunge is the largest member of the pike family, native to large lakes and rivers of North America. Its markings may appear as bars, spots, or almost vanish entirely, depending on the individual. Prized by anglers as a trophy fish, it is known for its size, strength, and how difficult it is to catch",
+  "ko": "머스컬런지는 강꼬치고기과에서 가장 큰 종으로, 북아메리카의 큰 호수와 강이 원산지다. 무늬는 개체에 따라 세로줄이나 반점으로 나타나기도 하고 거의 사라지기도 한다. 낚시꾼들이 트로피 어종으로 귀하게 여기며, 몸집과 힘, 그리고 좀처럼 낚기 어렵기로 유명하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681232",
+  "en": "The largest member of the pike family.",
+  "ko": "강꼬치고기과에서 가장 큰 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681233",
+  "en": "Native to large lakes and rivers of North America.",
+  "ko": "북아메리카의 큰 호수와 강이 원산지다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681234",
+  "en": "Usually grows 70–120 cm long and weighs 7–16.5 kg.",
+  "ko": "보통 몸길이 70–120 cm까지 자라고 무게는 7–16.5 kg이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681235",
+  "en": "The name \"muskellunge\" comes from an Ojibwe word meaning \"ugly pike.\"",
+  "ko": "‘머스컬런지’라는 이름은 ‘못생긴 강꼬치고기’를 뜻하는 오지브웨어에서 왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681236",
+  "en": "Can swallow prey up to two-thirds of its own body length.",
+  "ko": "자기 몸길이의 3분의 2에 달하는 먹이까지 삼킬 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681237",
+  "en": "Tiger muskellunge are sterile hybrids between muskellunge and northern pike.",
+  "ko": "타이거 머스컬런지는 머스컬런지와 북방강꼬치고기 사이의 잡종으로, 새끼를 낳지 못한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681238",
+  "en": "Markings may appear as spots, bars, or be almost absent depending on the individual.",
+  "ko": "무늬는 개체에 따라 반점이나 세로줄로 나타나거나 거의 없을 수도 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681239",
+  "en": "Often called \"the fish of 10,000 casts\" because it is famously difficult to catch.",
+  "ko": "낚기 어렵기로 유명해 ‘10,000번 던져야 잡는 물고기’라고 흔히 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681241",
+  "en": "The American eel is found along the eastern coast of North America, from Greenland and Canada to the Gulf of Mexico. Its young hatch in the Sargasso Sea and drift across the Atlantic before entering rivers, lakes, and estuaries along the continent.",
+  "ko": "아메리카뱀장어는 그린란드와 캐나다에서 멕시코만에 이르기까지 북아메리카 동부 해안에 서식한다. 새끼는 사르가소해에서 부화해 대서양을 떠내려간 뒤 대륙 연안의 강과 호수, 하구로 들어간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681242",
+  "en": "American eels are found along the eastern coast of North America from Greenland and Canada to the Gulf of Mexico.",
+  "ko": "아메리카뱀장어는 그린란드와 캐나다에서 멕시코만까지 북아메리카 동부 해안에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681243",
+  "en": "Most American eels grow between 40–90 cm, though some females can reach 1.3 m.",
+  "ko": "대부분의 아메리카뱀장어는 40–90 cm까지 자라지만, 일부 암컷은 1.3 m에 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681244",
+  "en": "Large individuals may weigh up to 7.5 kg.",
+  "ko": "큰 개체는 무게가 7.5 kg까지 나가기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681245",
+  "en": "Female American eels can lay up to 4 million eggs, then die shortly after spawning.",
+  "ko": "아메리카뱀장어 암컷은 알을 최대 400만 개까지 낳고 산란 직후 죽는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681246",
+  "en": "American eels are capable of climbing over wet rocks or barriers during their upstream migrations.",
+  "ko": "아메리카뱀장어는 강을 거슬러 오를 때 젖은 바위나 장애물을 기어올라 넘을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681247",
+  "en": "During cold winters, American eels may burrow into mud and enter a dormant state.",
+  "ko": "추운 겨울에는 진흙 속을 파고들어 휴면 상태에 들어가기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452364681248",
+  "en": "American eel populations have declined in some areas due to dams, pollution, and overfishing.",
+  "ko": "아메리카뱀장어 개체군은 댐과 오염, 남획 때문에 일부 지역에서 줄어들었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875522",
+  "en": "The blackfin snapper is a western Atlantic snapper with a red to silvery-red body and yellowish fins. It is named for the dark comma-shaped mark near the base of the pectoral fin, which helps distinguish it from similar red snappers. Adults are usually found offshore near sandy or rocky ledges.",
+  "ko": "검은지느러미홍도미는 몸빛이 붉은색에서 은은한 붉은색이고 지느러미는 노란빛을 띠는 서대서양산 홍도미다. 가슴지느러미 밑동 근처의 어두운 쉼표 모양 무늬에서 이름을 얻었으며, 이 무늬 덕분에 비슷하게 생긴 다른 홍도미와 구별된다. 성어는 보통 모래나 암초 지대가 있는 연안 바깥쪽에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875523",
+  "en": "Named for the dark comma-shaped mark near the base of the pectoral fin.",
+  "ko": "가슴지느러미 밑동 근처의 어두운 쉼표 모양 무늬에서 이름을 얻었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875524",
+  "en": "Also known as the blackspot snapper.",
+  "ko": "검은점홍도미라고도 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875525",
+  "en": "Usually red to silvery-red, with yellowish fins.",
+  "ko": "보통 붉은색에서 은은한 붉은색을 띠고 지느러미는 노란빛이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875526",
+  "en": "Most individuals reach around 50 cm long, though some can grow up to 75 cm.",
+  "ko": "대부분 개체는 몸길이 50 cm 정도까지 자라지만, 일부는 75 cm까지 자라기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875527",
+  "en": "Adults are often found offshore near sandy or rocky ledges.",
+  "ko": "성어는 모래나 암초 지대가 있는 연안 바깥쪽에서 자주 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875531",
+  "en": "The lane snapper is a western Atlantic snapper with pink to reddish colouring, yellow stripes, and a dark spot below the dorsal fin. Usually smaller than the larger red snappers, it is more common in shallower reef, sandy, seagrass, and algae-covered habitats. Its striped pattern and dark body spot make it easy to separate from similar snapper species.",
+  "ko": "줄무늬홍도미는 분홍색에서 붉은빛을 띠고 노란 줄무늬를 지닌 서대서양산 홍도미로, 등지느러미 아래에 검은 점이 있다. 큰 홍도미류보다 보통 작으며, 얕은 산호초와 모래, 해초, 조류가 덮인 서식지에서 더 흔하다. 줄무늬와 몸의 검은 점 덕분에 비슷한 홍도미 종과 쉽게 구별된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875532",
+  "en": "Marked with yellow to pink stripes along the sides of the body.",
+  "ko": "몸 옆면을 따라 노란색에서 분홍색에 이르는 줄무늬가 나 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875533",
+  "en": "A dark spot below the dorsal fin helps identify the species.",
+  "ko": "등지느러미 아래의 검은 점이 이 종을 알아보는 표식이 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875534",
+  "en": "Usually grows to around 25 cm long, though some can reach 60 cm.",
+  "ko": "보통 몸길이 25 cm 정도까지 자라지만, 일부는 60 cm에 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875535",
+  "en": "Juveniles live in sheltered inshore waters.",
+  "ko": "치어는 파도가 잔잔한 연안 가까운 바다에서 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875536",
+  "en": "Adults often stay within a home range except when spawning.",
+  "ko": "성어는 산란기를 빼면 대개 자신의 생활권 안에 머문다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875539",
+  "en": "The spotted gar is a smaller North American gar found in clear, slow-moving waters with plenty of aquatic vegetation. It is named for the dark spots covering its head, fins, and slender body. Often hiding near submerged branches or shoreline cover, it feeds on fish, shrimp, insect larvae, and other small aquatic prey.",
+  "ko": "점박이가아는 맑고 물이 천천히 흐르며 수초가 많은 곳에 사는 북아메리카산 소형 가아다. 머리와 지느러미, 가느다란 몸을 덮은 검은 반점에서 이름을 얻었다. 물속 나뭇가지나 물가의 은폐물 근처에 숨어 지내며, 물고기와 새우, 수서 곤충 유충, 그 밖의 작은 수중 먹이를 잡아먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875540",
+  "en": "Native to North America, from southern Ontario through parts of the central and eastern United States.",
+  "ko": "온타리오 남부에서 미국 중부와 동부 일부에 이르는 북아메리카가 원산지다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875541",
+  "en": "They usually grow 60–90 cm long and weigh about 1.8–2.7 kg.",
+  "ko": "보통 몸길이 60–90 cm까지 자라고 무게는 약 1.8–2.7 kg이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875542",
+  "en": "One of the smaller gar species found in North America.",
+  "ko": "북아메리카에 사는 가아 가운데 작은 편에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875543",
+  "en": "They prefer clear, slow-moving, shallow waters with aquatic vegetation.",
+  "ko": "수초가 있는 맑고 얕으며 물이 천천히 흐르는 곳을 좋아한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452368875544",
+  "en": "Spotted gar are most active at night, when they do most of their feeding.",
+  "ko": "점박이가아는 밤에 가장 활발하며, 먹이 활동도 대부분 그때 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069824",
+  "en": "They will sometimes gulp air at the surface when oxygen levels are low.",
+  "ko": "산소 농도가 낮으면 수면에서 공기를 들이마시기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069826",
+  "en": "Snakeheads are freshwater predatory fish native to parts of Africa and Asia. They are known for long bodies, large mouths, and the ability to breathe air, allowing some species to survive low-oxygen water and move short distances over wet land. With more than 50 species, snakeheads are adaptable hunters that can become invasive when introduced outside their native range.",
+  "ko": "가물치류는 아프리카와 아시아 일부 지역이 원산지인 민물 육식성 물고기다. 긴 몸과 큰 입, 공기를 마실 수 있는 능력으로 알려져 있으며, 이런 능력 덕분에 일부 종은 산소가 부족한 물에서 살아남고 젖은 땅 위를 짧은 거리 이동할 수 있다. 50종이 넘는 가물치류는 적응력이 뛰어난 사냥꾼이라 원래 서식지를 벗어난 곳에 도입되면 침입종이 되기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069827",
+  "en": "Snakeheads belong to the freshwater fish family Channidae.",
+  "ko": "가물치류는 가물치과에 속하는 민물고기다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069828",
+  "en": "They are native to parts of Africa and Asia.",
+  "ko": "아프리카와 아시아 일부 지역이 원산지다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069829",
+  "en": "More than 50 species of snakeheads are known.",
+  "ko": "지금까지 알려진 가물치류는 50종이 넘는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069830",
+  "en": "Snakeheads can breathe air using specialized organs above the gills.",
+  "ko": "가물치류는 아가미 위에 있는 특수 기관으로 공기를 마실 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069831",
+  "en": "They can survive low-oxygen water by gulping air at the surface.",
+  "ko": "수면에서 공기를 들이마셔 산소가 부족한 물에서도 살아남는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069832",
+  "en": "Snakeheads are capable of moving short distances over land.",
+  "ko": "가물치류는 땅 위를 짧은 거리 이동할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069833",
+  "en": "Snakeheads are known for their long bodies, large mouths, and predatory feeding habits.",
+  "ko": "가물치류는 긴 몸과 큰 입, 육식성 먹이 습성으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069834",
+  "en": "Some species can spawn several times in a single year.",
+  "ko": "일부 종은 한 해에 여러 번 산란할 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069836",
+  "en": "The northern snakehead is a freshwater predator native to temperate East Asia, including parts of China, Russia, North Korea, and South Korea. It has become invasive in parts of the United States, where it can spread through slow, vegetated waters and compete with native fish. Although it can breathe air and survive out of water for short periods, it struggles in brackish water and is mainly a freshwater species.",
+  "ko": "북방가물치는 중국, 러시아, 북한, 한국을 비롯한 동아시아 온대 지역이 원산지인 민물 육식어다. 미국 일부 지역에서는 침입종이 되어, 물이 천천히 흐르는 수초 지대를 타고 퍼지며 토종 물고기와 먹이를 다툰다. 공기를 마시고 물 밖에서도 잠시 버틸 수 있지만 기수에는 약해 주로 민물에 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069837",
+  "en": "Native to temperate East Asia, including China, Russia, North Korea, and South Korea.",
+  "ko": "중국, 러시아, 북한, 한국을 포함한 동아시아 온대 지역이 원산지다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069838",
+  "en": "Primarily a freshwater fish, with limited tolerance for brackish water.",
+  "ko": "주로 민물고기이며 기수에는 잘 견디지 못한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069839",
+  "en": "Considered invasive in many parts of the United States.",
+  "ko": "미국의 여러 지역에서 침입종으로 취급된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069840",
+  "en": "They can reach about 100–150 cm long.",
+  "ko": "몸길이는 약 100–150 cm에 이른다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069841",
+  "en": "Feeds mostly on fish, but may also eat frogs, crustaceans, insects, and small animals.",
+  "ko": "주로 물고기를 먹지만 개구리와 갑각류, 곤충, 작은 동물도 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069842",
+  "en": "Females can spawn multiple times per year, helping populations spread quickly.",
+  "ko": "암컷은 한 해에 여러 번 산란할 수 있어 개체군이 빠르게 퍼진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069843",
+  "en": "In ideal conditions, invasive populations can double in less than 15 months.",
+  "ko": "조건이 좋으면 침입 개체군은 15개월도 안 되어 두 배로 늘어난다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069844",
+  "en": "Young snakeheads are guarded by adults after hatching.",
+  "ko": "새끼 가물치는 부화한 뒤에도 성어의 보호를 받는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069846",
+  "en": "Mackerels are fast, streamlined ocean fish closely related to tuna. Many have deeply forked tails, metallic blue-green backs, and striped or barred markings that help them blend into open water. They often migrate in large coastal schools and are valued as oily food fish rich in flavour and omega-3 fatty acids.",
+  "ko": "고등어류는 참치와 가까운 친척인 빠르고 유선형의 바다 물고기다. 대부분 깊게 갈라진 꼬리지느러미와 금속 광택이 나는 청록색 등, 줄무늬나 가로띠 무늬를 지녀 먼바다에서 눈에 잘 띄지 않는다. 흔히 연안을 따라 큰 무리를 지어 회유하며, 기름기가 많고 맛이 좋아 오메가-3 지방산이 풍부한 식용어로 인기가 높다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069847",
+  "en": "Mackerels are close relatives of tuna, but are usually smaller and shorter-lived.",
+  "ko": "고등어류는 참치와 가까운 친척이지만 보통 몸집이 작고 수명도 짧다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069848",
+  "en": "Many mackerels have deeply forked tails built for fast swimming.",
+  "ko": "고등어류 가운데 많은 종은 빠른 유영에 알맞게 깊게 갈라진 꼬리지느러미를 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069849",
+  "en": "Mackerels often migrate in large schools along coastlines.",
+  "ko": "고등어류는 흔히 연안을 따라 큰 무리를 지어 회유한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069850",
+  "en": "About 21 species in the family Scombridae are commonly called mackerel.",
+  "ko": "고등어과에 속하는 약 21종이 흔히 고등어로 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069851",
+  "en": "Mackerel are oily fish with strong flavour and high omega-3 content.",
+  "ko": "고등어는 맛이 진하고 오메가-3가 많은 기름기 있는 생선이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069852",
+  "en": "The word \"mackerel\" comes from Old French and may have originally referred to markings or spots.",
+  "ko": "mackerel이라는 말은 고대 프랑스어에서 왔으며, 애초에는 무늬나 반점을 가리켰을 가능성이 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069855",
+  "en": "The king mackerel is one of the larger mackerel species, found in the western Atlantic Ocean and Gulf of Mexico. It is known for its speed, powerful strikes, and habit of leaping from the water while chasing prey.",
+  "ko": "왕고등어는 서대서양과 멕시코만에 사는 고등어류 가운데 큰 편에 속하는 종이다. 빠른 속도와 강력한 입질, 먹이를 쫓다 물 밖으로 뛰어오르는 습성으로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069856",
+  "en": "They are found in the western Atlantic Ocean and the Gulf of Mexico.",
+  "ko": "서대서양과 멕시코만에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069857",
+  "en": "They are a migratory mackerel species that moves through coastal waters.",
+  "ko": "연안 해역을 따라 이동하는 회유성 고등어류다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069858",
+  "en": "King mackerel usually weigh 5–10 kg, though large individuals can reach around 40 kg.",
+  "ko": "왕고등어는 보통 무게가 5–10 kg이지만 큰 개체는 40 kg 정도까지 나간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069859",
+  "en": "Small, loosely attached scales are barely visible on the body.",
+  "ko": "몸에는 작고 잘 붙지 않는 비늘이 있어 거의 눈에 띄지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069860",
+  "en": "They can be seen leaping from the water while chasing prey.",
+  "ko": "먹이를 쫓을 때 물 밖으로 뛰어오르는 모습을 볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069861",
+  "en": "Prey for these mackerel usually includes smaller fish.",
+  "ko": "이 고등어의 먹이는 주로 자기보다 작은 물고기다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069862",
+  "en": "King mackerel is one of the larger mackerel species.",
+  "ko": "왕고등어는 고등어류 가운데 큰 편에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069867",
+  "en": "The Atlantic mackerel is found across the North Atlantic Ocean and moves closer to shore during warmer months before returning to deeper offshore waters as temperatures fall. It is recognized by its metallic blue-green back and dark wavy stripes.",
+  "ko": "대서양고등어는 북대서양 전역에 분포하며, 기온이 오르는 동안 연안 가까이로 이동했다가 수온이 내려가면 다시 먼바다 깊은 곳으로 돌아간다. 금속 광택이 나는 청록색 등과 어두운 물결무늬로 알아볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069868",
+  "en": "Atlantic mackerel can be found across the North Atlantic Ocean.",
+  "ko": "대서양고등어는 북대서양 전역에서 볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069869",
+  "en": "They mainly travel in large schools.",
+  "ko": "주로 큰 무리를 지어 이동한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069870",
+  "en": "Other common names include Scottish mackerel, Norwegian mackerel, and Boston mackerel.",
+  "ko": "스코틀랜드고등어, 노르웨이고등어, 보스턴고등어라는 이름으로도 흔히 불린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069871",
+  "en": "Recognized by dark wavy stripes across the back.",
+  "ko": "등을 가로지르는 어두운 물결무늬로 알아볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069872",
+  "en": "An oily fish valued for its strong flavour and omega-3 content.",
+  "ko": "진한 맛과 오메가-3 함량 덕에 값어치를 인정받는 기름진 생선이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069873",
+  "en": "Built for fast swimming with a streamlined body and deeply forked tail.",
+  "ko": "유선형 몸과 깊게 갈라진 꼬리지느러미를 갖춰 빠른 유영에 알맞다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069876",
+  "en": "The wahoo is a large ocean predator closely related to other mackerels and tuna. It is recognized by its silvery sides marked with irregular vertical blue bars and its long, streamlined body. Usually solitary, it hunts in warm offshore waters, though groups may occasionally gather in large numbers.",
+  "ko": "와후는 다른 고등어류나 참치와 가까운 대형 바다 포식자다. 불규칙한 세로 청색 띠가 있는 은빛 옆면과 길고 유선형인 몸으로 알아볼 수 있다. 보통 단독으로 생활하며 따뜻한 먼바다에서 사냥하지만, 이따금 무리를 지어 큰 떼를 이루기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069877",
+  "en": "Recognized by silvery sides marked with irregular vertical blue bars.",
+  "ko": "불규칙한 세로 청색 띠가 있는 은빛 옆면으로 알아볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069878",
+  "en": "They have a long, streamlined body built for speed.",
+  "ko": "속도에 알맞은 길고 유선형인 몸을 지녔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069879",
+  "en": "While similar in shape to the king mackerel, they have a more pointed head.",
+  "ko": "왕고등어와 생김새는 비슷하지만 머리가 더 뾰족하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069880",
+  "en": "Wahoos can reach up to about 2.77 m long and 83 kg.",
+  "ko": "와후는 몸길이 약 2.77 m, 무게 83 kg까지 자랄 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069881",
+  "en": "Usually solitary, but can sometimes gather in schools of hundreds of fish.",
+  "ko": "보통 단독으로 지내지만 때로는 수백 마리씩 무리를 이루기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069882",
+  "en": "A fast offshore predator that feeds on fish and squid.",
+  "ko": "먼바다에서 물고기와 오징어를 잡아먹는 빠른 포식자다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069885",
+  "en": "The little tunny is a smaller tuna species found in warm offshore and inshore waters. It is easily recognized by the dark, worm-like markings across its back and often travels in schools while hunting.",
+  "ko": "작은다랑어는 따뜻한 먼바다와 연안 가까운 바다에 사는 소형 참치류다. 등을 가로지르는 어두운 벌레 모양 무늬로 쉽게 알아볼 수 있으며, 사냥할 때는 흔히 무리를 지어 다닌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069886",
+  "en": "A highly migratory species found in both offshore and inshore waters.",
+  "ko": "먼바다와 연안 가까운 바다 모두에서 발견되는 회유성이 매우 강한 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069887",
+  "en": "The little tunny is one of the smaller members of the tuna family.",
+  "ko": "작은다랑어는 참치과 가운데 작은 편에 속한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069888",
+  "en": "A little tunny can reach speeds of 64 km/h in short bursts.",
+  "ko": "작은다랑어는 짧은 순간 64 km/h의 속도를 낼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069889",
+  "en": "These tuna can grow to around 100 cm long and weigh about 12 kg.",
+  "ko": "이 참치류는 몸길이 100 cm 정도까지 자라고 무게는 약 12 kg이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069890",
+  "en": "Easily recognized by the dark, worm-like markings across its back.",
+  "ko": "등을 가로지르는 어두운 벌레 모양 무늬 덕에 쉽게 알아볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069891",
+  "en": "They lack a swim bladder, so they must keep swimming to stay afloat.",
+  "ko": "부레가 없어서 가라앉지 않으려면 계속 헤엄쳐야 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069892",
+  "en": "Feeds on schooling small fish, squid, crustaceans, and other invertebrates.",
+  "ko": "무리를 짓는 작은 물고기와 오징어, 갑각류, 그 밖의 무척추동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452373069893",
+  "en": "Often travels in schools while hunting fast-moving prey.",
+  "ko": "빠르게 움직이는 먹이를 쫓을 때는 흔히 무리를 지어 다닌다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452381458433",
+  "en": "The orange clownfish is a bright orange anemonefish closely related to the common clownfish. It has three white bars like the common clownfish, but usually has thicker black edging around the bars and fins. This makes it look bolder and darker than the similar false percula clownfish.",
+  "ko": "주황흰동가리는 보통흰동가리와 가까운 친척인 선명한 주황색 흰동가리다. 보통흰동가리와 마찬가지로 흰 띠가 세 개 있지만, 띠와 지느러미를 두르는 검은 테두리가 보통 더 두껍다. 그래서 비슷하게 생긴 보통흰동가리보다 더 진하고 대담해 보인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452381458434",
+  "en": "Usually has thicker black edging around its white bars than the common clownfish.",
+  "ko": "보통흰동가리보다 흰 띠를 두르는 검은 테두리가 대개 더 두껍다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452381458435",
+  "en": "Its larvae use chemical cues from sea anemones to find suitable hosts.",
+  "ko": "유생은 말미잘이 내는 화학적 신호를 이용해 알맞은 숙주를 찾는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452381458437",
+  "en": "The wide-band clownfish is a dark subtropical anemonefish from eastern Australia and nearby islands. It is named for its unusually broad middle white band, which is much wider than the bars on most other clownfish. This bold marking makes it difficult to confuse with the common clownfish.",
+  "ko": "넓은띠흰동가리는 오스트레일리아 동부와 인근 섬에 사는 어두운 아열대성 흰동가리다. 가운데 흰 띠가 유난히 넓어, 다른 흰동가리의 띠보다 훨씬 넓은 데서 이름을 얻었다. 이렇게 뚜렷한 무늬 덕에 보통흰동가리와 헷갈리기 어렵다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452381458438",
+  "en": "Named for its very wide middle white band.",
+  "ko": "유난히 넓은 가운데 흰 띠에서 이름을 얻었다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452381458439",
+  "en": "Often has bright blue markings on the upper lip and edges of the white bars.",
+  "ko": "윗입술과 흰 띠 가장자리에 밝은 청색 무늬가 있는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652737",
+  "en": "Bicolour parrotfish change colour as they mature, from orange-banded juveniles to green and blue adults.",
+  "ko": "두색앵무고기는 자라면서 몸빛이 바뀌는데, 주황색 띠가 있는 치어에서 초록과 파랑이 섞인 성어가 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652741",
+  "en": "The green humphead parrotfish is the largest parrotfish species, found on coral reefs across the Indo-Pacific. It has a massive head, powerful beak-like teeth, and a distinctive forehead hump used in clashes with other parrotfish. Often seen in large schools, it bites and rams coral while feeding, helping shape the reef as it grazes.",
+  "ko": "초록혹등앵무고기는 인도태평양 산호초에 사는 앵무고기 가운데 가장 큰 종이다. 거대한 머리와 힘센 부리 같은 이빨, 다른 앵무고기와 다툴 때 쓰는 이마 혹을 지녔다. 큰 무리로 다니는 모습이 자주 관찰되며, 먹이를 먹을 때 산호를 물고 들이받아 산호초 지형을 바꾸는 데 한몫한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652742",
+  "en": "They are the largest parrotfish species.",
+  "ko": "앵무고기 가운데 가장 큰 종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652743",
+  "en": "These parrotfish can grow up to 1.3 m long and weigh up to 46 kg.",
+  "ko": "이 앵무고기는 몸길이 1.3 m, 무게 46 kg까지 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652744",
+  "en": "A very long-lived species, it can live for up to 40 years.",
+  "ko": "수명이 매우 길어 40년까지 살 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652745",
+  "en": "Known for the large forehead hump that gives the species its name.",
+  "ko": "이 종의 이름을 만들어 준 커다란 이마 혹으로 유명하다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652746",
+  "en": "Males ram each other with their head humps during fights, similar to bighorn sheep.",
+  "ko": "수컷은 다툴 때 큰뿔양처럼 이마 혹으로 서로를 들이받는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652747",
+  "en": "A highly social parrotfish, often seen in schools of more than 75 individuals.",
+  "ko": "무리 생활을 좋아해 75마리가 넘는 떼로 자주 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652748",
+  "en": "These parrotfish use their powerful beak-like teeth to bite coral and scrape algae.",
+  "ko": "이 앵무고기는 힘센 부리 같은 이빨로 산호를 물어뜯고 조류를 긁어 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652749",
+  "en": "They will ram their heads against coral to help break pieces loose while feeding.",
+  "ko": "먹이를 먹을 때는 산호에 머리를 들이받아 조각을 떼어 내기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652752",
+  "en": "Cod are often found in groups or loose schools, especially during feeding or spawning.",
+  "ko": "대구는 특히 먹이를 먹거나 산란할 때 무리나 느슨한 떼를 이루는 경우가 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652753",
+  "en": "They can live at a wide range of depths, from shallow coastal waters to depths of several hundred metres.",
+  "ko": "얕은 연안에서 수백 미터 깊이까지 다양한 수심에서 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652754",
+  "en": "Cod have been an important food source for humans, commonly used in fish and chips.",
+  "ko": "대구는 인류의 중요한 식량이었으며, 피시 앤 칩스에 흔히 쓰인다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652758",
+  "en": "They feed on clams, worms, crabs, shrimp, and small fish.",
+  "ko": "조개와 갯지렁이, 게, 새우, 작은 물고기를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652759",
+  "en": "Pacific cod migrate seasonally, living in deeper waters in winter and moving to shallower coastal areas in summer.",
+  "ko": "태평양대구는 계절에 따라 이동하며, 겨울에는 더 깊은 바다에 있다가 여름에는 얕은 연안으로 옮겨 간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652760",
+  "en": "Females can release more than one million eggs during spawning.",
+  "ko": "암컷은 산란기에 알을 100만 개 넘게 낳을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652761",
+  "en": "They often form large, tightly packed groups during spawning periods.",
+  "ko": "산란기에는 크고 빽빽한 무리를 이루는 일이 많다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652762",
+  "en": "Pacific cod use their chin barbel to locate prey in low visibility.",
+  "ko": "태평양대구는 턱에 달린 수염으로 시야가 나쁜 곳에서도 먹이를 찾는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652763",
+  "en": "They are an important food source for predators such as sharks, seals, and whales.",
+  "ko": "상어와 물개, 고래 같은 포식자에게 중요한 먹잇감이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652765",
+  "en": "The Atlantic cod is one of the most well-known cod species, found in the cold waters of the North Atlantic Ocean. It is larger and longer-lived than many related species and has played a major role in global fisheries for centuries.",
+  "ko": "대서양대구는 가장 잘 알려진 대구 종 가운데 하나로, 북대서양의 찬 바다에 산다. 여러 친척 종보다 몸집이 크고 수명도 길며, 수백 년 동안 세계 어업에서 큰 몫을 차지해 왔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652766",
+  "en": "Atlantic cod can live for up to 25 years.",
+  "ko": "대서양대구는 최대 25년까지 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652767",
+  "en": "They commonly grow between 100 and 140 cm in length, with some individuals reaching up to 180 cm.",
+  "ko": "보통 몸길이 100–140 cm까지 자라며, 일부 개체는 180 cm에 이르기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652768",
+  "en": "Atlantic cod are a shoaling species that move in large, structured groups.",
+  "ko": "대서양대구는 크고 짜인 무리를 지어 이동하는 떼 생활 어종이다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652769",
+  "en": "Larger individuals often lead groups of cod and can influence the direction of movement.",
+  "ko": "큰 개체가 대구 무리를 이끌며 이동 방향에 영향을 주기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652770",
+  "en": "They are among the most heavily fished species in the world.",
+  "ko": "세계에서 가장 많이 잡히는 어종 가운데 하나다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652771",
+  "en": "Atlantic cod feed on fish, crustaceans, and other marine animals.",
+  "ko": "대서양대구는 물고기와 갑각류, 그 밖의 바다 동물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652772",
+  "en": "Juvenile cod may be eaten by larger cod, including adults of their own species.",
+  "ko": "어린 대구는 같은 종의 성어를 비롯한 더 큰 대구에게 잡아먹히기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652775",
+  "en": "The Greenland cod is a cold-water species found in Arctic and subarctic regions. It is well adapted to icy environments and is typically found in coastal and shelf waters, where it feeds on a variety of small marine animals.",
+  "ko": "그린란드대구는 북극과 아북극 지역에 사는 냉수성 어종이다. 얼음 같은 환경에 잘 적응했으며, 주로 연안과 대륙붕 바다에서 다양한 작은 바다 동물을 먹고 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652776",
+  "en": "Greenland cod are found in Arctic and subarctic waters, including areas around Greenland and northern Canada.",
+  "ko": "그린란드대구는 그린란드 주변과 캐나다 북부를 비롯한 북극과 아북극 해역에서 발견된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652777",
+  "en": "They are generally smaller than Atlantic cod.",
+  "ko": "대체로 대서양대구보다 작다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652778",
+  "en": "Greenland cod are adapted to very cold water conditions.",
+  "ko": "그린란드대구는 매우 차가운 물에 적응했다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652779",
+  "en": "They feed on small fish, crustaceans, and other bottom-dwelling organisms.",
+  "ko": "작은 물고기와 갑각류, 그 밖에 바닥에 사는 생물을 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652780",
+  "en": "They are an important part of Arctic marine ecosystems.",
+  "ko": "북극 해양 생태계에서 중요한 자리를 차지한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652781",
+  "en": "They grow to over 80 cm.",
+  "ko": "몸길이는 80 cm를 넘게 자란다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652782",
+  "en": "Moonfish are rarely observed alive, and much of their behaviour is still not fully understood.",
+  "ko": "달고기는 살아 있는 모습이 거의 관찰되지 않아, 행동의 상당 부분이 아직 완전히 밝혀지지 않았다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652783",
+  "en": "Moonfish are known for their striking colours, including red, orange, and metallic silver tones.",
+  "ko": "달고기는 붉은색과 주황색, 금속 같은 은색을 아우르는 눈부신 색채로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652784",
+  "en": "There are six known species of moonfish, each occupying its own ocean region.",
+  "ko": "알려진 달고기는 여섯 종이며, 각각 저마다의 해역을 차지하고 산다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652785",
+  "en": "Moonfish are the only fish known to use whole-body endothermy, keeping their entire bodies warmer than the surrounding water.",
+  "ko": "달고기는 온몸을 주변 바닷물보다 따뜻하게 유지하는, 몸 전체의 흡열성을 쓰는 유일한 물고기로 알려져 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652786",
+  "en": "Moonfish use a network of blood vessels called a rete mirabile to retain heat inside their bodies.",
+  "ko": "달고기는 레테 미라빌레라는 혈관망을 이용해 몸속 열을 붙잡아 둔다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452385652787",
+  "en": "Moonfish can remain active in cold, deep water thanks to their ability to conserve body heat.",
+  "ko": "달고기는 체열을 아낄 수 있어 차갑고 깊은 바다에서도 활동을 이어 갈 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847040",
+  "en": "An active midwater predator, it feeds on squid, deep-sea fish, and crustaceans.",
+  "ko": "중층 수역에서 활발히 움직이는 포식자로, 오징어와 심해어, 갑각류를 먹는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847041",
+  "en": "Blue-green backs, rosy undersides, and bright red fins covered with small silvery spots give this fish its striking appearance.",
+  "ko": "청록색 등과 장밋빛 배, 작은 은색 반점이 덮인 선명한 붉은 지느러미가 이 물고기의 눈부신 모습을 만든다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847042",
+  "en": "Its large, golden-ringed eyes help it see in low-light conditions.",
+  "ko": "금빛 테두리가 있는 커다란 눈은 어두운 환경에서도 잘 볼 수 있게 해 준다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847043",
+  "en": "Bigeye Pacific opah use their pectoral fins to swim continuously, helping them remain active in cold, deep water.",
+  "ko": "큰눈달고기는 가슴지느러미로 쉬지 않고 헤엄쳐 차갑고 깊은 바다에서도 활동을 이어 간다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847044",
+  "en": "Usually solitary, these moonfish may occasionally swim alongside other species such as tuna.",
+  "ko": "이 달고기는 보통 단독으로 지내지만 이따금 참치 같은 다른 종과 나란히 헤엄치기도 한다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847045",
+  "en": "Bigeye opah are thought to spend their entire lives in the open ocean, rarely approaching coastal waters.",
+  "ko": "큰눈달고기는 평생을 먼바다에서 보내며 연안 가까이 오는 일이 드문 것으로 여겨진다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847046",
+  "en": "Females can produce millions of eggs during spawning.",
+  "ko": "암컷은 산란기에 알을 수백만 개 낳을 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847047",
+  "en": "Escolar have large eyes that help them see in low-light deep-sea environments.",
+  "ko": "기름치는 커다란 눈 덕분에 빛이 거의 없는 심해 환경에서도 볼 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847048",
+  "en": "Preyed upon by large open-ocean predators such as sharks and tuna.",
+  "ko": "상어와 참치 같은 대형 원양 포식자의 먹잇감이 된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847049",
+  "en": "Escolar have dark brown to black bodies that help them blend into deep ocean waters.",
+  "ko": "기름치는 짙은 갈색에서 검은색에 이르는 몸빛 덕에 심해에서 눈에 띄지 않는다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847050",
+  "en": "Often mislabeled and sold as \"white tuna\" or \"butterfish\" in seafood markets.",
+  "ko": "수산시장에서 흔히 ‘흰 참치’나 ‘버터피시’로 잘못 표기되어 팔린다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847051",
+  "en": "Escolar contain high levels of indigestible oils that can cause digestive problems in humans.",
+  "ko": "기름치에는 소화되지 않는 기름이 많이 들어 있어 사람이 먹으면 소화 장애를 일으킬 수 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847052",
+  "en": "Escolar are banned for sale in some countries due to their potential health effects when eaten.",
+  "ko": "기름치는 먹었을 때 건강에 끼칠 영향 때문에 일부 국가에서 판매가 금지되어 있다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847053",
+  "en": "Closely related to oilfish and often mistaken for them due to their similar appearance.",
+  "ko": "기름고기와 가까운 친척이며, 생김새가 비슷해 자주 혼동된다."
+ },
+ {
+  "table": "Fish Facts - String",
+  "id": "26442452389847055",
+  "en": "Tuna have a first dorsal fin that can fold down into a groove, reducing drag while swimming.",
+  "ko": "참치는 첫째 등지느러미를 홈 안으로 접어 넣을 수 있어 헤엄칠 때 저항을 줄인다."
+ }
+]

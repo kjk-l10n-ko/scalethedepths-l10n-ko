@@ -1,0 +1,7 @@
+slug = "scalethedepths"
+steam_appid = 3198890
+adapter = "scalethedepths"      # 파이프라인 어댑터 없음 — locales/contents/*.json 을 scripts/build_patch.py 로 적용
+track = "a"
+pipeline_repo = "/mnt/h/02_Workspace/40_WSL/kjk-l10n-ko/tools-l10n-ko"
+pipeline_ref = "7d4660974a0643f5d786334376ea9b15a043fded"
+font = "galmuri"
