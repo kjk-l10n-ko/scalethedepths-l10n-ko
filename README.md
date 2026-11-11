@@ -1,12 +1,12 @@
-# Scale the Depths 한글 패치 (v1.0.2.1) (2026-10-21)
+# Scale the Depths 한글 패치 (2026-10-21)
 
-게임 **Scale the Depths**(Steam, v1.0.2.1)의 비공식 한글 패치입니다.
+게임 **Scale the Depths**(Steam)의 비공식 한글 패치입니다.
 
 * 검수: 김작가
 * 작업/번역: Claude Sonnet 5.5/Deepseek v4 flash
 * 오류, 오타는 kimjakka96@gmail.com로 제보해주시면 수정 배포하도록 하겠습니다.
 
-[Steam](https://store.steampowered.com/app/3198890) · [최신 릴리스 다운로드](https://github.com/kjk-l10n-ko/scalethedepths-l10n-ko/releases/latest)
+<p align="center"><a href="https://store.steampowered.com/app/3198890">Steam🔗</a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://github.com/kjk-l10n-ko/scalethedepths-l10n-ko/releases/latest">Korean Patch Download⬇️</a></p>
 
 ## 설정 방법
 
