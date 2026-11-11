@@ -23,10 +23,12 @@
 
 ## 사용 폰트
 
-* [Galmuri11 Bold](https://github.com/quiple/galmuri) - 이민서 (Lee Minseo) — 라이선스: [`assets/fonts/LICENSE.txt`](assets/fonts/LICENSE.txt)
+| 폰트 | 제작자 | 라이선스 |
+|---|---|---|
+| [Galmuri11 Bold](https://github.com/quiple/galmuri) | 이민서 (Lee Minseo) | [OFL 1.1](assets/fonts/LICENSE.txt) |
 
 ## 라이선스
 
 * 본 패치는 팬 번역이며 판매·유료 재배포를 금지함.
 * 게임의 저작권은 개발사 및 배급사 등 원 권리자에게 있으며, 본 패치는 공식과 무관함.
-* 폰트는 위 링크의 각 라이선스를 따름.
+* 폰트는 위 표의 각 라이선스를 따름.
